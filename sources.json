@@ -1,0 +1,301 @@
+{
+  "updatedAt": "2026-09-21T11:39:40.994570Z",
+  "products": [
+    {
+      "brand": "Hoyt",
+      "host": "hoyt.com",
+      "kind": "shopify"
+    },
+    {
+      "brand": "PSE",
+      "host": "psearchery.com",
+      "kind": "shopify"
+    },
+    {
+      "brand": "Bowtech",
+      "host": "bowtecharchery.com",
+      "kind": "woo"
+    },
+    {
+      "brand": "Elite",
+      "host": "elitearchery.com",
+      "kind": "shopify"
+    },
+    {
+      "brand": "Bear",
+      "host": "beararchery.com",
+      "kind": "shopify"
+    },
+    {
+      "brand": "Xpedition",
+      "host": "xpeditionarchery.com",
+      "kind": "shopify"
+    },
+    {
+      "brand": "Diamond",
+      "host": "diamondarchery.com",
+      "kind": "woo"
+    },
+    {
+      "brand": "Mission",
+      "host": "mission.com",
+      "kind": "shopify"
+    },
+    {
+      "brand": "Black Eagle",
+      "host": "blackeaglearrows.com",
+      "kind": "shopify"
+    },
+    {
+      "brand": "Bloodsport",
+      "host": "bloodsport.com",
+      "kind": "shopify"
+    },
+    {
+      "brand": "Easton",
+      "host": "eastonarchery.com",
+      "kind": "woo"
+    },
+    {
+      "brand": "Gold Tip",
+      "host": "goldtip.com",
+      "kind": "shopify"
+    },
+    {
+      "brand": "Victory",
+      "host": "victoryarchery.com",
+      "kind": "woo"
+    },
+    {
+      "brand": "Ethics Archery",
+      "host": "ethicsarchery.com",
+      "kind": "shopify"
+    },
+    {
+      "brand": "Saunders",
+      "host": "saundersarchery.com",
+      "kind": "woo"
+    },
+    {
+      "brand": "Lumenok",
+      "host": "lumenok.com",
+      "kind": "shopify"
+    },
+    {
+      "brand": "Flex-Fletch",
+      "host": "flexfletch.com",
+      "kind": "shopify"
+    },
+    {
+      "brand": "Q2i",
+      "host": "q2iarchery.com",
+      "kind": "woo"
+    },
+    {
+      "brand": "White Water",
+      "host": "whitewaterarchery.com",
+      "kind": "woo"
+    },
+    {
+      "brand": "Annihilator Broadheads",
+      "host": "annihilatorbroadheads.com",
+      "kind": "shopify"
+    },
+    {
+      "brand": "B3 Archery",
+      "host": "b3archery.com",
+      "kind": "woo"
+    },
+    {
+      "brand": "Bear Archery",
+      "host": "beararchery.com",
+      "kind": "shopify"
+    },
+    {
+      "brand": "Bearpaw",
+      "host": "bearpaw.com",
+      "kind": "shopify"
+    },
+    {
+      "brand": "Bowmar",
+      "host": "bowmar.com",
+      "kind": "shopify"
+    },
+    {
+      "brand": "DirtNap Gear",
+      "host": "dirtnapgear.com",
+      "kind": "shopify"
+    },
+    {
+      "brand": "Easton Archery",
+      "host": "eastonarchery.com",
+      "kind": "woo"
+    },
+    {
+      "brand": "Helix Broadheads",
+      "host": "helixbroadheads.com",
+      "kind": "woo"
+    },
+    {
+      "brand": "Ozcut Broadheads",
+      "host": "ozcutbroadheads.com",
+      "kind": "shopify"
+    },
+    {
+      "brand": "R.A.D.",
+      "host": "radarchery.com",
+      "kind": "shopify"
+    },
+    {
+      "brand": "Speed Broadheads",
+      "host": "speedbroadheads.com",
+      "kind": "shopify"
+    },
+    {
+      "brand": "CMI",
+      "host": "cmiarchery.com",
+      "kind": "shopify"
+    },
+    {
+      "brand": "Competition Archery Products",
+      "host": "competitionarcheryproducts.com",
+      "kind": "shopify"
+    },
+    {
+      "brand": "X-Spot",
+      "host": "xspotarchery.com",
+      "kind": "shopify"
+    },
+    {
+      "brand": "Altra Arrows",
+      "host": "altraarrows.com",
+      "kind": "shopify"
+    },
+    {
+      "brand": "Carbon Tech",
+      "host": "carbontecharrows.com",
+      "kind": "shopify"
+    },
+    {
+      "brand": "UltraView Archery",
+      "host": "ultraviewarchery.com",
+      "kind": "shopify"
+    },
+    {
+      "brand": "Shrewd",
+      "host": "shrewdarchery.com",
+      "kind": "shopify"
+    },
+    {
+      "brand": "DCA Custom Arrows",
+      "host": "dcacustomarrows.com",
+      "kind": "shopify"
+    },
+    {
+      "brand": "Gas Pro",
+      "host": "gaspro.com",
+      "kind": "woo"
+    },
+    {
+      "brand": "Gateway Feathers",
+      "host": "gatewayfeathers.com",
+      "kind": "woo"
+    },
+    {
+      "brand": "Gray Archery",
+      "host": "gray-archery.com",
+      "kind": "shopify"
+    },
+    {
+      "brand": "Last Chance Archery",
+      "host": "lastchancearchery.com",
+      "kind": "woo"
+    },
+    {
+      "brand": "October Mountain Products",
+      "host": "octobermountainproducts.com",
+      "kind": "woo"
+    },
+    {
+      "brand": "Pine Ridge",
+      "host": "pineridgearchery.com",
+      "kind": "shopify"
+    },
+    {
+      "brand": "Q2i Archery",
+      "host": "q2iarchery.com",
+      "kind": "woo"
+    },
+    {
+      "brand": "UltraView",
+      "host": "ultraviewarchery.com",
+      "kind": "shopify"
+    },
+    {
+      "brand": "White Water Archery",
+      "host": "whitewaterarchery.com",
+      "kind": "woo"
+    },
+    {
+      "brand": "Black Gold",
+      "host": "blackgoldsights.com",
+      "kind": "woo"
+    },
+    {
+      "brand": "Option Archery",
+      "host": "optionarchery.com",
+      "kind": "shopify"
+    },
+    {
+      "brand": "Ultraview",
+      "host": "ultraviewarchery.com",
+      "kind": "shopify"
+    },
+    {
+      "brand": "Vapor Trail",
+      "host": "vapor.com",
+      "kind": "shopify"
+    },
+    {
+      "brand": "B3",
+      "host": "b3archery.com",
+      "kind": "woo"
+    },
+    {
+      "brand": "Scott",
+      "host": "scottarchery.com",
+      "kind": "shopify"
+    },
+    {
+      "brand": "Stan",
+      "host": "stanoutdoors.com",
+      "kind": "shopify"
+    },
+    {
+      "brand": "Dialed",
+      "host": "dialedarchery.com",
+      "kind": "shopify"
+    },
+    {
+      "brand": "Bee Stinger",
+      "host": "beestinger.com",
+      "kind": "shopify"
+    },
+    {
+      "brand": "Doinker",
+      "host": "doinker.com",
+      "kind": "shopify"
+    },
+    {
+      "brand": "GAS Bowstrings",
+      "host": "gasbowstrings.com",
+      "kind": "woo"
+    },
+    {
+      "brand": "ThreadZ",
+      "host": "threadz.com",
+      "kind": "shopify"
+    }
+  ],
+  "events": []
+}
