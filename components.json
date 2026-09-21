@@ -1,0 +1,1978 @@
+[
+  {
+    "brand": "Day Six",
+    "model": "Evo",
+    "category": "broadhead",
+    "grains": 100.0,
+    "fits": "8-32",
+    "verified": false
+  },
+  {
+    "brand": "Day Six",
+    "model": "Evo",
+    "category": "broadhead",
+    "grains": 125.0,
+    "fits": "8-32",
+    "verified": false
+  },
+  {
+    "brand": "Day Six",
+    "model": "Evo-X",
+    "category": "broadhead",
+    "grains": 125.0,
+    "fits": "8-32",
+    "verified": false
+  },
+  {
+    "brand": "Day Six",
+    "model": "HD",
+    "category": "broadhead",
+    "grains": 150.0,
+    "fits": "8-32",
+    "verified": false
+  },
+  {
+    "brand": "G5",
+    "model": "Montec",
+    "category": "broadhead",
+    "grains": 100.0,
+    "fits": "8-32",
+    "verified": false
+  },
+  {
+    "brand": "G5",
+    "model": "Montec",
+    "category": "broadhead",
+    "grains": 125.0,
+    "fits": "8-32",
+    "verified": false
+  },
+  {
+    "brand": "G5",
+    "model": "Montec M3",
+    "category": "broadhead",
+    "grains": 100.0,
+    "fits": "8-32",
+    "verified": false
+  },
+  {
+    "brand": "G5",
+    "model": "Striker V2",
+    "category": "broadhead",
+    "grains": 100.0,
+    "fits": "8-32",
+    "verified": false
+  },
+  {
+    "brand": "G5",
+    "model": "Striker V2",
+    "category": "broadhead",
+    "grains": 125.0,
+    "fits": "8-32",
+    "verified": false
+  },
+  {
+    "brand": "G5",
+    "model": "Deadmeat V2",
+    "category": "broadhead",
+    "grains": 100.0,
+    "fits": "8-32",
+    "verified": false
+  },
+  {
+    "brand": "G5",
+    "model": "Megameat",
+    "category": "broadhead",
+    "grains": 100.0,
+    "fits": "8-32",
+    "verified": false
+  },
+  {
+    "brand": "Grim Reaper",
+    "model": "Razortip Whitetail Special",
+    "category": "broadhead",
+    "grains": 100.0,
+    "fits": "8-32",
+    "verified": false
+  },
+  {
+    "brand": "Grim Reaper",
+    "model": "Razorcut SS",
+    "category": "broadhead",
+    "grains": 100.0,
+    "fits": "8-32",
+    "verified": false
+  },
+  {
+    "brand": "Grim Reaper",
+    "model": "Hades Pro",
+    "category": "broadhead",
+    "grains": 100.0,
+    "fits": "8-32",
+    "verified": false
+  },
+  {
+    "brand": "Grim Reaper",
+    "model": "Hades Pro",
+    "category": "broadhead",
+    "grains": 125.0,
+    "fits": "8-32",
+    "verified": false
+  },
+  {
+    "brand": "Iron Will",
+    "model": "S100",
+    "category": "broadhead",
+    "grains": 100.0,
+    "fits": "8-32",
+    "verified": false
+  },
+  {
+    "brand": "Iron Will",
+    "model": "S125",
+    "category": "broadhead",
+    "grains": 125.0,
+    "fits": "8-32",
+    "verified": false
+  },
+  {
+    "brand": "Iron Will",
+    "model": "S150",
+    "category": "broadhead",
+    "grains": 150.0,
+    "fits": "8-32",
+    "verified": false
+  },
+  {
+    "brand": "Iron Will",
+    "model": "S200",
+    "category": "broadhead",
+    "grains": 200.0,
+    "fits": "8-32",
+    "verified": false
+  },
+  {
+    "brand": "Iron Will",
+    "model": "SB100 (single bevel)",
+    "category": "broadhead",
+    "grains": 100.0,
+    "fits": "8-32",
+    "verified": false
+  },
+  {
+    "brand": "Iron Will",
+    "model": "SB125 (single bevel)",
+    "category": "broadhead",
+    "grains": 125.0,
+    "fits": "8-32",
+    "verified": false
+  },
+  {
+    "brand": "Iron Will",
+    "model": "Wide 100",
+    "category": "broadhead",
+    "grains": 100.0,
+    "fits": "8-32",
+    "verified": false
+  },
+  {
+    "brand": "Iron Will",
+    "model": "Wide 125",
+    "category": "broadhead",
+    "grains": 125.0,
+    "fits": "8-32",
+    "verified": false
+  },
+  {
+    "brand": "Iron Will",
+    "model": "V100 Vented",
+    "category": "broadhead",
+    "grains": 100.0,
+    "fits": "8-32",
+    "verified": false
+  },
+  {
+    "brand": "Kudu",
+    "model": "KuduPoint 3-Blade",
+    "category": "broadhead",
+    "grains": 125.0,
+    "fits": "8-32",
+    "verified": false
+  },
+  {
+    "brand": "Kudu",
+    "model": "KuduPoint 3-Blade",
+    "category": "broadhead",
+    "grains": 150.0,
+    "fits": "8-32",
+    "verified": false
+  },
+  {
+    "brand": "Kudu",
+    "model": "KuduPoint 3-Blade",
+    "category": "broadhead",
+    "grains": 175.0,
+    "fits": "8-32",
+    "verified": false
+  },
+  {
+    "brand": "Magnus",
+    "model": "Stinger Buzzcut 4-Blade",
+    "category": "broadhead",
+    "grains": 100.0,
+    "fits": "8-32",
+    "verified": false
+  },
+  {
+    "brand": "Magnus",
+    "model": "Stinger Buzzcut 4-Blade",
+    "category": "broadhead",
+    "grains": 125.0,
+    "fits": "8-32",
+    "verified": false
+  },
+  {
+    "brand": "Magnus",
+    "model": "Black Hornet Ser-Razor",
+    "category": "broadhead",
+    "grains": 100.0,
+    "fits": "8-32",
+    "verified": false
+  },
+  {
+    "brand": "Magnus",
+    "model": "Black Hornet Ser-Razor",
+    "category": "broadhead",
+    "grains": 125.0,
+    "fits": "8-32",
+    "verified": false
+  },
+  {
+    "brand": "Muzzy",
+    "model": "Trocar",
+    "category": "broadhead",
+    "grains": 100.0,
+    "fits": "8-32",
+    "verified": false
+  },
+  {
+    "brand": "Muzzy",
+    "model": "Trocar",
+    "category": "broadhead",
+    "grains": 125.0,
+    "fits": "8-32",
+    "verified": false
+  },
+  {
+    "brand": "Muzzy",
+    "model": "Trocar HB Hybrid",
+    "category": "broadhead",
+    "grains": 100.0,
+    "fits": "8-32",
+    "verified": false
+  },
+  {
+    "brand": "Muzzy",
+    "model": "One SS",
+    "category": "broadhead",
+    "grains": 100.0,
+    "fits": "8-32",
+    "verified": false
+  },
+  {
+    "brand": "Muzzy",
+    "model": "One SS",
+    "category": "broadhead",
+    "grains": 125.0,
+    "fits": "8-32",
+    "verified": false
+  },
+  {
+    "brand": "Muzzy",
+    "model": "MX-3",
+    "category": "broadhead",
+    "grains": 100.0,
+    "fits": "8-32",
+    "verified": false
+  },
+  {
+    "brand": "NAP",
+    "model": "Spitfire",
+    "category": "broadhead",
+    "grains": 100.0,
+    "fits": "8-32",
+    "verified": false
+  },
+  {
+    "brand": "NAP",
+    "model": "Spitfire",
+    "category": "broadhead",
+    "grains": 125.0,
+    "fits": "8-32",
+    "verified": false
+  },
+  {
+    "brand": "NAP",
+    "model": "Thunderhead",
+    "category": "broadhead",
+    "grains": 100.0,
+    "fits": "8-32",
+    "verified": false
+  },
+  {
+    "brand": "NAP",
+    "model": "Thunderhead",
+    "category": "broadhead",
+    "grains": 125.0,
+    "fits": "8-32",
+    "verified": false
+  },
+  {
+    "brand": "NAP",
+    "model": "Killzone",
+    "category": "broadhead",
+    "grains": 100.0,
+    "fits": "8-32",
+    "verified": false
+  },
+  {
+    "brand": "QAD",
+    "model": "Exodus Full Blade",
+    "category": "broadhead",
+    "grains": 100.0,
+    "fits": "8-32",
+    "verified": false
+  },
+  {
+    "brand": "QAD",
+    "model": "Exodus Full Blade",
+    "category": "broadhead",
+    "grains": 125.0,
+    "fits": "8-32",
+    "verified": false
+  },
+  {
+    "brand": "QAD",
+    "model": "Exodus Swept Blade",
+    "category": "broadhead",
+    "grains": 100.0,
+    "fits": "8-32",
+    "verified": false
+  },
+  {
+    "brand": "QAD",
+    "model": "Exodus Swept Blade",
+    "category": "broadhead",
+    "grains": 125.0,
+    "fits": "8-32",
+    "verified": false
+  },
+  {
+    "brand": "Rage",
+    "model": "Hypodermic NC",
+    "category": "broadhead",
+    "grains": 100.0,
+    "fits": "8-32",
+    "verified": false
+  },
+  {
+    "brand": "Rage",
+    "model": "Hypodermic NC",
+    "category": "broadhead",
+    "grains": 125.0,
+    "fits": "8-32",
+    "verified": false
+  },
+  {
+    "brand": "Rage",
+    "model": "Hypodermic Trypan NC",
+    "category": "broadhead",
+    "grains": 100.0,
+    "fits": "8-32",
+    "verified": false
+  },
+  {
+    "brand": "Rage",
+    "model": "Trypan Titanium",
+    "category": "broadhead",
+    "grains": 100.0,
+    "fits": "8-32",
+    "verified": false
+  },
+  {
+    "brand": "Rage",
+    "model": "Chisel Tip SC 2-Blade",
+    "category": "broadhead",
+    "grains": 100.0,
+    "fits": "8-32",
+    "verified": false
+  },
+  {
+    "brand": "Rage",
+    "model": "Hypodermic +P",
+    "category": "broadhead",
+    "grains": 100.0,
+    "fits": "8-32",
+    "verified": false
+  },
+  {
+    "brand": "SEVR",
+    "model": "Titanium 1.5",
+    "category": "broadhead",
+    "grains": 100.0,
+    "fits": "8-32",
+    "verified": true
+  },
+  {
+    "brand": "SEVR",
+    "model": "Titanium 1.5",
+    "category": "broadhead",
+    "grains": 125.0,
+    "fits": "8-32",
+    "verified": true
+  },
+  {
+    "brand": "SEVR",
+    "model": "Titanium 2.0",
+    "category": "broadhead",
+    "grains": 100.0,
+    "fits": "8-32",
+    "verified": true
+  },
+  {
+    "brand": "SEVR",
+    "model": "Titanium 2.0",
+    "category": "broadhead",
+    "grains": 125.0,
+    "fits": "8-32",
+    "verified": true
+  },
+  {
+    "brand": "SEVR",
+    "model": "Titanium 2.1",
+    "category": "broadhead",
+    "grains": 100.0,
+    "fits": "8-32",
+    "verified": true
+  },
+  {
+    "brand": "SEVR",
+    "model": "Titanium 2.1",
+    "category": "broadhead",
+    "grains": 125.0,
+    "fits": "8-32",
+    "verified": true
+  },
+  {
+    "brand": "SEVR",
+    "model": "Robusto 1.5",
+    "category": "broadhead",
+    "grains": 100.0,
+    "fits": "8-32",
+    "verified": false
+  },
+  {
+    "brand": "SEVR",
+    "model": "Robusto 1.5",
+    "category": "broadhead",
+    "grains": 125.0,
+    "fits": "8-32",
+    "verified": false
+  },
+  {
+    "brand": "SEVR",
+    "model": "Robusto 1.5",
+    "category": "broadhead",
+    "grains": 150.0,
+    "fits": "8-32",
+    "verified": false
+  },
+  {
+    "brand": "SEVR",
+    "model": "Titanium 1.5 Hybrid",
+    "category": "broadhead",
+    "grains": 100.0,
+    "fits": "8-32",
+    "verified": false
+  },
+  {
+    "brand": "Slick Trick",
+    "model": "Standard 4-Blade",
+    "category": "broadhead",
+    "grains": 100.0,
+    "fits": "8-32",
+    "verified": false
+  },
+  {
+    "brand": "Slick Trick",
+    "model": "Standard 4-Blade",
+    "category": "broadhead",
+    "grains": 125.0,
+    "fits": "8-32",
+    "verified": false
+  },
+  {
+    "brand": "Slick Trick",
+    "model": "Magnum",
+    "category": "broadhead",
+    "grains": 100.0,
+    "fits": "8-32",
+    "verified": false
+  },
+  {
+    "brand": "Slick Trick",
+    "model": "Magnum",
+    "category": "broadhead",
+    "grains": 125.0,
+    "fits": "8-32",
+    "verified": false
+  },
+  {
+    "brand": "Slick Trick",
+    "model": "Viper Trick",
+    "category": "broadhead",
+    "grains": 100.0,
+    "fits": "8-32",
+    "verified": false
+  },
+  {
+    "brand": "Slick Trick",
+    "model": "RaZorTrick",
+    "category": "broadhead",
+    "grains": 100.0,
+    "fits": "8-32",
+    "verified": false
+  },
+  {
+    "brand": "Swhacker",
+    "model": "#261 2-Blade 2\"",
+    "category": "broadhead",
+    "grains": 100.0,
+    "fits": "8-32",
+    "verified": false
+  },
+  {
+    "brand": "Swhacker",
+    "model": "#261 2-Blade 2\"",
+    "category": "broadhead",
+    "grains": 125.0,
+    "fits": "8-32",
+    "verified": false
+  },
+  {
+    "brand": "Swhacker",
+    "model": "Levi Morgan 2-Blade",
+    "category": "broadhead",
+    "grains": 100.0,
+    "fits": "8-32",
+    "verified": false
+  },
+  {
+    "brand": "Tooth of the Arrow",
+    "model": "Solid XL 1\"",
+    "category": "broadhead",
+    "grains": 100.0,
+    "fits": "8-32",
+    "verified": false
+  },
+  {
+    "brand": "Tooth of the Arrow",
+    "model": "Solid XL 1\"",
+    "category": "broadhead",
+    "grains": 125.0,
+    "fits": "8-32",
+    "verified": false
+  },
+  {
+    "brand": "Tooth of the Arrow",
+    "model": "Vented 1 1/16\"",
+    "category": "broadhead",
+    "grains": 100.0,
+    "fits": "8-32",
+    "verified": false
+  },
+  {
+    "brand": "Tooth of the Arrow",
+    "model": "Vented 1 1/16\"",
+    "category": "broadhead",
+    "grains": 125.0,
+    "fits": "8-32",
+    "verified": false
+  },
+  {
+    "brand": "Tooth of the Arrow",
+    "model": "S-Series 1 3/16\"",
+    "category": "broadhead",
+    "grains": 150.0,
+    "fits": "8-32",
+    "verified": false
+  },
+  {
+    "brand": "Wasp",
+    "model": "Jak-Hammer SST",
+    "category": "broadhead",
+    "grains": 100.0,
+    "fits": "8-32",
+    "verified": false
+  },
+  {
+    "brand": "Wasp",
+    "model": "Jak-Hammer SST",
+    "category": "broadhead",
+    "grains": 125.0,
+    "fits": "8-32",
+    "verified": false
+  },
+  {
+    "brand": "Wasp",
+    "model": "Drone",
+    "category": "broadhead",
+    "grains": 100.0,
+    "fits": "8-32",
+    "verified": false
+  },
+  {
+    "brand": "Wasp",
+    "model": "Havalon HV",
+    "category": "broadhead",
+    "grains": 100.0,
+    "fits": "8-32",
+    "verified": false
+  },
+  {
+    "brand": "Easton",
+    "model": "Match Grade HIT Collar 5mm (4mm FMJ / 5mm Axis, size-specific)",
+    "category": "collar",
+    "grains": 13.0,
+    "fits": ".204 / 5mm",
+    "verified": true
+  },
+  {
+    "brand": "Easton",
+    "model": "Match Grade HIT Collar 5mm (heaviest size)",
+    "category": "collar",
+    "grains": 21.0,
+    "fits": ".204 / 5mm",
+    "verified": true
+  },
+  {
+    "brand": "Easton",
+    "model": "4mm Titanium HIT Collar",
+    "category": "collar",
+    "grains": 8.0,
+    "fits": ".166 / 4mm",
+    "verified": false
+  },
+  {
+    "brand": "Ethics Archery",
+    "model": "Titanium Collar .204",
+    "category": "collar",
+    "grains": 9.0,
+    "fits": ".204",
+    "verified": false
+  },
+  {
+    "brand": "Ethics Archery",
+    "model": "Stainless Collar .204",
+    "category": "collar",
+    "grains": 22.0,
+    "fits": ".204",
+    "verified": false
+  },
+  {
+    "brand": "Ethics Archery",
+    "model": "Stainless Collar .166",
+    "category": "collar",
+    "grains": 18.0,
+    "fits": ".166",
+    "verified": false
+  },
+  {
+    "brand": "Iron Will",
+    "model": "Impact Collar C10 (titanium, 0.7\")",
+    "category": "collar",
+    "grains": 10.0,
+    "fits": ".166 / .204",
+    "verified": true
+  },
+  {
+    "brand": "Iron Will",
+    "model": "Impact Collar C25 (stainless, 1\")",
+    "category": "collar",
+    "grains": 25.0,
+    "fits": ".166 / .204",
+    "verified": true
+  },
+  {
+    "brand": "Iron Will",
+    "model": "Impact Collar .246",
+    "category": "collar",
+    "grains": 25.0,
+    "fits": ".246",
+    "verified": false
+  },
+  {
+    "brand": "Black Eagle",
+    "model": "Screw-In Field Point 5/16\"",
+    "category": "field point",
+    "grains": 100.0,
+    "fits": "8-32",
+    "verified": false
+  },
+  {
+    "brand": "Black Eagle",
+    "model": "Screw-In Field Point 5/16\"",
+    "category": "field point",
+    "grains": 125.0,
+    "fits": "8-32",
+    "verified": false
+  },
+  {
+    "brand": "Black Eagle",
+    "model": "Screw-In Field Point 5/16\"",
+    "category": "field point",
+    "grains": 150.0,
+    "fits": "8-32",
+    "verified": false
+  },
+  {
+    "brand": "Easton",
+    "model": "Screw-In Field Point 5/16\" (8-32)",
+    "category": "field point",
+    "grains": 75.0,
+    "fits": "8-32",
+    "verified": false
+  },
+  {
+    "brand": "Easton",
+    "model": "Screw-In Field Point 5/16\" (8-32)",
+    "category": "field point",
+    "grains": 100.0,
+    "fits": "8-32",
+    "verified": true
+  },
+  {
+    "brand": "Easton",
+    "model": "Screw-In Field Point 5/16\" (8-32)",
+    "category": "field point",
+    "grains": 125.0,
+    "fits": "8-32",
+    "verified": false
+  },
+  {
+    "brand": "Easton",
+    "model": "Screw-In Field Point 5/16\" (8-32)",
+    "category": "field point",
+    "grains": 150.0,
+    "fits": "8-32",
+    "verified": false
+  },
+  {
+    "brand": "Easton",
+    "model": "Deep Six Field Point",
+    "category": "field point",
+    "grains": 100.0,
+    "fits": "Deep Six",
+    "verified": true
+  },
+  {
+    "brand": "Easton",
+    "model": "Deep Six Field Point",
+    "category": "field point",
+    "grains": 125.0,
+    "fits": "Deep Six",
+    "verified": false
+  },
+  {
+    "brand": "Easton",
+    "model": "Glue-In Bullet Point (4mm/X10 size-specific)",
+    "category": "field point",
+    "grains": 100.0,
+    "fits": "glue-in",
+    "verified": false
+  },
+  {
+    "brand": "Easton",
+    "model": "Glue-In Bullet Point (4mm/X10 size-specific)",
+    "category": "field point",
+    "grains": 120.0,
+    "fits": "glue-in",
+    "verified": false
+  },
+  {
+    "brand": "Gold Tip",
+    "model": "Screw-In Field Point 5/16\"",
+    "category": "field point",
+    "grains": 100.0,
+    "fits": "8-32",
+    "verified": false
+  },
+  {
+    "brand": "Gold Tip",
+    "model": "Screw-In Field Point 5/16\"",
+    "category": "field point",
+    "grains": 125.0,
+    "fits": "8-32",
+    "verified": false
+  },
+  {
+    "brand": "Gold Tip",
+    "model": "Glue-In Point .246 (Pro/Triple X)",
+    "category": "field point",
+    "grains": 100.0,
+    "fits": "glue-in",
+    "verified": false
+  },
+  {
+    "brand": "Gold Tip",
+    "model": "EZ-Pull Field Point 5/16\"",
+    "category": "field point",
+    "grains": 100.0,
+    "fits": "8-32",
+    "verified": false
+  },
+  {
+    "brand": "Saunders",
+    "model": "Combo Point 5/16\"",
+    "category": "field point",
+    "grains": 100.0,
+    "fits": "8-32",
+    "verified": false
+  },
+  {
+    "brand": "Saunders",
+    "model": "Combo Point 5/16\"",
+    "category": "field point",
+    "grains": 125.0,
+    "fits": "8-32",
+    "verified": false
+  },
+  {
+    "brand": "Saunders",
+    "model": "Bullet Point 11/32\"",
+    "category": "field point",
+    "grains": 125.0,
+    "fits": "8-32",
+    "verified": false
+  },
+  {
+    "brand": "Saunders",
+    "model": "Bullet Point 11/32\"",
+    "category": "field point",
+    "grains": 145.0,
+    "fits": "8-32",
+    "verified": false
+  },
+  {
+    "brand": "Black Eagle",
+    "model": "Standard Aluminum Insert .246",
+    "category": "insert",
+    "grains": 20.0,
+    "fits": ".246",
+    "verified": false
+  },
+  {
+    "brand": "Black Eagle",
+    "model": "Stainless Steel Insert .246",
+    "category": "insert",
+    "grains": 50.0,
+    "fits": ".246",
+    "verified": false
+  },
+  {
+    "brand": "Black Eagle",
+    "model": "Brass Insert .246",
+    "category": "insert",
+    "grains": 75.0,
+    "fits": ".246",
+    "verified": false
+  },
+  {
+    "brand": "Black Eagle",
+    "model": "Half-Out .204 (Spartan/Rampage)",
+    "category": "insert",
+    "grains": 60.0,
+    "fits": ".204",
+    "verified": false
+  },
+  {
+    "brand": "Black Eagle",
+    "model": "Outsert .166 (X-Impact)",
+    "category": "insert",
+    "grains": 40.0,
+    "fits": ".166",
+    "verified": false
+  },
+  {
+    "brand": "Easton",
+    "model": "5mm HIT Insert",
+    "category": "insert",
+    "grains": 16.0,
+    "fits": ".204 / 5mm",
+    "verified": true
+  },
+  {
+    "brand": "Easton",
+    "model": "5mm Aluminum 8-32 Half-out",
+    "category": "insert",
+    "grains": 25.0,
+    "fits": ".204 / 5mm",
+    "verified": true
+  },
+  {
+    "brand": "Easton",
+    "model": "5mm Steel 8-32 Half-out",
+    "category": "insert",
+    "grains": 50.0,
+    "fits": ".204 / 5mm",
+    "verified": true
+  },
+  {
+    "brand": "Easton",
+    "model": "4mm Aluminum 8-32 Half-out",
+    "category": "insert",
+    "grains": 50.0,
+    "fits": ".166 / 4mm",
+    "verified": true
+  },
+  {
+    "brand": "Easton",
+    "model": "4mm Match Grade Half-out Aluminum/Aluminum",
+    "category": "insert",
+    "grains": 55.0,
+    "fits": ".166 / 4mm",
+    "verified": true
+  },
+  {
+    "brand": "Easton",
+    "model": "4mm Titanium Half-out",
+    "category": "insert",
+    "grains": 60.0,
+    "fits": ".166 / 4mm",
+    "verified": false
+  },
+  {
+    "brand": "Easton",
+    "model": "4mm HIT Insert (Deep Six)",
+    "category": "insert",
+    "grains": 16.0,
+    "fits": ".166 / 4mm",
+    "verified": false
+  },
+  {
+    "brand": "Easton",
+    "model": "6mm ST RPS 8-32 Insert",
+    "category": "insert",
+    "grains": 18.0,
+    "fits": ".234 / 6mm",
+    "verified": true
+  },
+  {
+    "brand": "Easton",
+    "model": "6.5mm Aluminum RPS Insert",
+    "category": "insert",
+    "grains": 20.0,
+    "fits": ".246 / 6.5mm",
+    "verified": false
+  },
+  {
+    "brand": "Easton",
+    "model": "HIT Break-Off Weight (each)",
+    "category": "insert",
+    "grains": 25.0,
+    "fits": "HIT",
+    "verified": false
+  },
+  {
+    "brand": "Ethics Archery",
+    "model": "Titanium Insert .204",
+    "category": "insert",
+    "grains": 25.0,
+    "fits": ".204",
+    "verified": false
+  },
+  {
+    "brand": "Ethics Archery",
+    "model": "Stainless Insert .204",
+    "category": "insert",
+    "grains": 50.0,
+    "fits": ".204",
+    "verified": false
+  },
+  {
+    "brand": "Ethics Archery",
+    "model": "Stainless Insert .204",
+    "category": "insert",
+    "grains": 75.0,
+    "fits": ".204",
+    "verified": false
+  },
+  {
+    "brand": "Ethics Archery",
+    "model": "Stainless Insert .204",
+    "category": "insert",
+    "grains": 100.0,
+    "fits": ".204",
+    "verified": false
+  },
+  {
+    "brand": "Ethics Archery",
+    "model": "Stainless Outsert .166",
+    "category": "insert",
+    "grains": 75.0,
+    "fits": ".166",
+    "verified": false
+  },
+  {
+    "brand": "Gold Tip",
+    "model": "Accu-Lite Insert .246",
+    "category": "insert",
+    "grains": 12.0,
+    "fits": ".246",
+    "verified": false
+  },
+  {
+    "brand": "Gold Tip",
+    "model": "Standard Aluminum Insert .246",
+    "category": "insert",
+    "grains": 20.0,
+    "fits": ".246",
+    "verified": false
+  },
+  {
+    "brand": "Gold Tip",
+    "model": "Stainless Insert .246",
+    "category": "insert",
+    "grains": 50.0,
+    "fits": ".246",
+    "verified": false
+  },
+  {
+    "brand": "Gold Tip",
+    "model": "Brass Insert .246",
+    "category": "insert",
+    "grains": 100.0,
+    "fits": ".246",
+    "verified": false
+  },
+  {
+    "brand": "Gold Tip",
+    "model": ".204 Aluminum Half-out (Pierce / Kinetic)",
+    "category": "insert",
+    "grains": 22.0,
+    "fits": ".204",
+    "verified": false
+  },
+  {
+    "brand": "Gold Tip",
+    "model": ".204 Stainless Half-out",
+    "category": "insert",
+    "grains": 50.0,
+    "fits": ".204",
+    "verified": false
+  },
+  {
+    "brand": "Gold Tip",
+    "model": ".166 Aluminum Half-out (Pierce Platinum)",
+    "category": "insert",
+    "grains": 45.0,
+    "fits": ".166",
+    "verified": false
+  },
+  {
+    "brand": "Gold Tip",
+    "model": "Accu-Tough Insert .246",
+    "category": "insert",
+    "grains": 40.0,
+    "fits": ".246",
+    "verified": false
+  },
+  {
+    "brand": "Iron Will",
+    "model": "HIT Insert stainless .204",
+    "category": "insert",
+    "grains": 25.0,
+    "fits": ".204",
+    "verified": true
+  },
+  {
+    "brand": "Iron Will",
+    "model": "HIT Insert stainless .204",
+    "category": "insert",
+    "grains": 50.0,
+    "fits": ".204",
+    "verified": true
+  },
+  {
+    "brand": "Iron Will",
+    "model": "HIT Insert stainless .204",
+    "category": "insert",
+    "grains": 75.0,
+    "fits": ".204",
+    "verified": true
+  },
+  {
+    "brand": "Iron Will",
+    "model": "HIT Insert stainless .204",
+    "category": "insert",
+    "grains": 100.0,
+    "fits": ".204",
+    "verified": true
+  },
+  {
+    "brand": "Iron Will",
+    "model": "HIT Insert titanium .204",
+    "category": "insert",
+    "grains": 15.0,
+    "fits": ".204",
+    "verified": false
+  },
+  {
+    "brand": "Iron Will",
+    "model": "Deep Six HIT Insert .166",
+    "category": "insert",
+    "grains": 25.0,
+    "fits": ".166",
+    "verified": false
+  },
+  {
+    "brand": "Iron Will",
+    "model": "Deep Six HIT Insert .166",
+    "category": "insert",
+    "grains": 50.0,
+    "fits": ".166",
+    "verified": false
+  },
+  {
+    "brand": "Ranch Fairy (RMS)",
+    "model": "Gear Shifter Weighted Insert .204",
+    "category": "insert",
+    "grains": 100.0,
+    "fits": ".204",
+    "verified": false
+  },
+  {
+    "brand": "Ranch Fairy (RMS)",
+    "model": "Gear Shifter Weighted Insert .204",
+    "category": "insert",
+    "grains": 150.0,
+    "fits": ".204",
+    "verified": false
+  },
+  {
+    "brand": "Ranch Fairy (RMS)",
+    "model": "Gear Shifter Weighted Insert .246",
+    "category": "insert",
+    "grains": 100.0,
+    "fits": ".246",
+    "verified": false
+  },
+  {
+    "brand": "Victory",
+    "model": "SHOK Aluminum Insert .246",
+    "category": "insert",
+    "grains": 20.0,
+    "fits": ".246",
+    "verified": false
+  },
+  {
+    "brand": "Victory",
+    "model": "SHOK Stainless Insert .246",
+    "category": "insert",
+    "grains": 50.0,
+    "fits": ".246",
+    "verified": false
+  },
+  {
+    "brand": "Victory",
+    "model": "SHOK TKO Titanium Outsert .166 (VAP TKO)",
+    "category": "insert",
+    "grains": 40.0,
+    "fits": ".166",
+    "verified": false
+  },
+  {
+    "brand": "Victory",
+    "model": "SHOK TKO Stainless Outsert .166",
+    "category": "insert",
+    "grains": 60.0,
+    "fits": ".166",
+    "verified": false
+  },
+  {
+    "brand": "Victory",
+    "model": "Aluminum Half-out .204 (RIP)",
+    "category": "insert",
+    "grains": 32.0,
+    "fits": ".204",
+    "verified": false
+  },
+  {
+    "brand": "Victory",
+    "model": "Stainless Half-out .204 (RIP TKO)",
+    "category": "insert",
+    "grains": 55.0,
+    "fits": ".204",
+    "verified": false
+  },
+  {
+    "brand": "Black Eagle",
+    "model": "Standard Nock .246",
+    "category": "nock",
+    "grains": 10.0,
+    "fits": ".246 / GT",
+    "verified": false
+  },
+  {
+    "brand": "Black Eagle",
+    "model": "Nock .204 (X-style)",
+    "category": "nock",
+    "grains": 9.0,
+    "fits": ".204 / X",
+    "verified": false
+  },
+  {
+    "brand": "Black Eagle",
+    "model": "Nock .166 (G-style)",
+    "category": "nock",
+    "grains": 7.0,
+    "fits": ".166 / G",
+    "verified": false
+  },
+  {
+    "brand": "Bohning",
+    "model": "Blazer Nock .244-.246",
+    "category": "nock",
+    "grains": 12.0,
+    "fits": ".246 / GT",
+    "verified": false
+  },
+  {
+    "brand": "Bohning",
+    "model": "F Nock (.166)",
+    "category": "nock",
+    "grains": 7.0,
+    "fits": ".166 / G",
+    "verified": false
+  },
+  {
+    "brand": "Bohning",
+    "model": "Double Lock Nock (glue-on 11/32)",
+    "category": "nock",
+    "grains": 14.0,
+    "fits": "11/32 glue-on",
+    "verified": false
+  },
+  {
+    "brand": "Bohning",
+    "model": "Signature Nock .246",
+    "category": "nock",
+    "grains": 11.0,
+    "fits": ".246",
+    "verified": false
+  },
+  {
+    "brand": "Easton",
+    "model": "4mm G Nock",
+    "category": "nock",
+    "grains": 7.0,
+    "fits": ".166 / G",
+    "verified": true
+  },
+  {
+    "brand": "Easton",
+    "model": "4mm Microlite Nock",
+    "category": "nock",
+    "grains": 6.0,
+    "fits": ".166 / G",
+    "verified": true
+  },
+  {
+    "brand": "Easton",
+    "model": "5mm X Nock",
+    "category": "nock",
+    "grains": 9.0,
+    "fits": ".204 / X",
+    "verified": true
+  },
+  {
+    "brand": "Easton",
+    "model": "5mm Microlite Nock",
+    "category": "nock",
+    "grains": 8.0,
+    "fits": ".204 / X",
+    "verified": true
+  },
+  {
+    "brand": "Easton",
+    "model": "6mm H Nock",
+    "category": "nock",
+    "grains": 9.0,
+    "fits": ".234 / H",
+    "verified": true
+  },
+  {
+    "brand": "Easton",
+    "model": "6.5mm Microlite Nock",
+    "category": "nock",
+    "grains": 8.0,
+    "fits": ".246 / S",
+    "verified": true
+  },
+  {
+    "brand": "Easton",
+    "model": "Super Nock (S)",
+    "category": "nock",
+    "grains": 12.0,
+    "fits": ".244 / S",
+    "verified": false
+  },
+  {
+    "brand": "Easton",
+    "model": "Pin Nock (large/small groove)",
+    "category": "nock",
+    "grains": 5.0,
+    "fits": "pin",
+    "verified": false
+  },
+  {
+    "brand": "Easton",
+    "model": "Pin Nock Bushing 4mm",
+    "category": "nock",
+    "grains": 12.0,
+    "fits": ".166",
+    "verified": false
+  },
+  {
+    "brand": "Easton",
+    "model": "Pin Nock Bushing X10/ACE (size-specific)",
+    "category": "nock",
+    "grains": 10.0,
+    "fits": "X10 / ACE",
+    "verified": false
+  },
+  {
+    "brand": "Easton",
+    "model": "G Uni-Bushing",
+    "category": "nock",
+    "grains": 12.0,
+    "fits": ".166",
+    "verified": false
+  },
+  {
+    "brand": "Gold Tip",
+    "model": "GT Nock",
+    "category": "nock",
+    "grains": 10.0,
+    "fits": ".246 / GT",
+    "verified": false
+  },
+  {
+    "brand": "Gold Tip",
+    "model": "Accu-Lite Nock",
+    "category": "nock",
+    "grains": 8.0,
+    "fits": ".246 / GT",
+    "verified": false
+  },
+  {
+    "brand": "Gold Tip",
+    "model": ".204 Nock (Pierce/Kinetic)",
+    "category": "nock",
+    "grains": 8.0,
+    "fits": ".204",
+    "verified": false
+  },
+  {
+    "brand": "Gold Tip",
+    "model": ".166 Nock (Pierce Platinum)",
+    "category": "nock",
+    "grains": 6.0,
+    "fits": ".166",
+    "verified": false
+  },
+  {
+    "brand": "Gold Tip",
+    "model": "Pin Nock",
+    "category": "nock",
+    "grains": 5.0,
+    "fits": "pin",
+    "verified": false
+  },
+  {
+    "brand": "Gold Tip",
+    "model": "Pin Nock Bushing .246",
+    "category": "nock",
+    "grains": 22.0,
+    "fits": ".246",
+    "verified": false
+  },
+  {
+    "brand": "Lumenok",
+    "model": "Signature Lighted Nock (GT / S / X / H)",
+    "category": "nock",
+    "grains": 27.0,
+    "fits": "GT / S / X / H",
+    "verified": true
+  },
+  {
+    "brand": "Lumenok",
+    "model": "Lumenok Lite / X Lite",
+    "category": "nock",
+    "grains": 21.0,
+    "fits": "X / GT",
+    "verified": false
+  },
+  {
+    "brand": "Nockturnal",
+    "model": "Lighted Nock G",
+    "category": "nock",
+    "grains": 20.0,
+    "fits": ".166 / G",
+    "verified": true
+  },
+  {
+    "brand": "Nockturnal",
+    "model": "Lighted Nock X",
+    "category": "nock",
+    "grains": 22.0,
+    "fits": ".204 / X",
+    "verified": false
+  },
+  {
+    "brand": "Nockturnal",
+    "model": "Lighted Nock H",
+    "category": "nock",
+    "grains": 24.0,
+    "fits": ".231 / H",
+    "verified": false
+  },
+  {
+    "brand": "Nockturnal",
+    "model": "Lighted Nock S",
+    "category": "nock",
+    "grains": 25.0,
+    "fits": ".244 / S",
+    "verified": true
+  },
+  {
+    "brand": "Nockturnal",
+    "model": "Lighted Nock GT",
+    "category": "nock",
+    "grains": 25.0,
+    "fits": ".246 / GT",
+    "verified": true
+  },
+  {
+    "brand": "Nockturnal",
+    "model": "FIT Universal Lighted Nock",
+    "category": "nock",
+    "grains": 25.0,
+    "fits": "universal",
+    "verified": true
+  },
+  {
+    "brand": "Victory",
+    "model": "Nock .246 (VForce/Rival)",
+    "category": "nock",
+    "grains": 10.0,
+    "fits": ".246 / GT",
+    "verified": false
+  },
+  {
+    "brand": "Victory",
+    "model": "Nock .204 (RIP / VXT)",
+    "category": "nock",
+    "grains": 8.0,
+    "fits": ".204 / X",
+    "verified": false
+  },
+  {
+    "brand": "Victory",
+    "model": "Nock .166 (VAP)",
+    "category": "nock",
+    "grains": 6.0,
+    "fits": ".166 / G",
+    "verified": false
+  },
+  {
+    "brand": "Victory",
+    "model": "VAP Pin Nock Bushing",
+    "category": "nock",
+    "grains": 11.0,
+    "fits": ".166",
+    "verified": false
+  },
+  {
+    "brand": "AAE",
+    "model": "Hybrid 16",
+    "category": "vane",
+    "grains": 4.0,
+    "fits": null,
+    "verified": true
+  },
+  {
+    "brand": "AAE",
+    "model": "Hybrid 23",
+    "category": "vane",
+    "grains": 5.7,
+    "fits": null,
+    "verified": true
+  },
+  {
+    "brand": "AAE",
+    "model": "Hybrid HP",
+    "category": "vane",
+    "grains": 6.2,
+    "fits": null,
+    "verified": true
+  },
+  {
+    "brand": "AAE",
+    "model": "Hybrid 26",
+    "category": "vane",
+    "grains": 7.6,
+    "fits": null,
+    "verified": true
+  },
+  {
+    "brand": "AAE",
+    "model": "Max Stealth 26",
+    "category": "vane",
+    "grains": 8.8,
+    "fits": null,
+    "verified": true
+  },
+  {
+    "brand": "AAE",
+    "model": "Max Stealth 20",
+    "category": "vane",
+    "grains": 6.5,
+    "fits": null,
+    "verified": false
+  },
+  {
+    "brand": "AAE",
+    "model": "Max Hunter 2.1\"",
+    "category": "vane",
+    "grains": 7.5,
+    "fits": null,
+    "verified": false
+  },
+  {
+    "brand": "AAE",
+    "model": "Elite Plastifletch EP-23",
+    "category": "vane",
+    "grains": 5.5,
+    "fits": null,
+    "verified": false
+  },
+  {
+    "brand": "AAE",
+    "model": "Elite Plastifletch EP-40",
+    "category": "vane",
+    "grains": 10.5,
+    "fits": null,
+    "verified": false
+  },
+  {
+    "brand": "AAE",
+    "model": "Pro Max 2.1\"",
+    "category": "vane",
+    "grains": 7.0,
+    "fits": null,
+    "verified": false
+  },
+  {
+    "brand": "Bohning",
+    "model": "Air 2\"",
+    "category": "vane",
+    "grains": 4.5,
+    "fits": null,
+    "verified": true
+  },
+  {
+    "brand": "Bohning",
+    "model": "Alpha 2.8\"",
+    "category": "vane",
+    "grains": 8.5,
+    "fits": null,
+    "verified": true
+  },
+  {
+    "brand": "Bohning",
+    "model": "Atlas 2.8\"",
+    "category": "vane",
+    "grains": 9.0,
+    "fits": null,
+    "verified": true
+  },
+  {
+    "brand": "Bohning",
+    "model": "Black Sky 2.0",
+    "category": "vane",
+    "grains": 6.1,
+    "fits": null,
+    "verified": true
+  },
+  {
+    "brand": "Bohning",
+    "model": "Blazer 2\"",
+    "category": "vane",
+    "grains": 6.1,
+    "fits": null,
+    "verified": true
+  },
+  {
+    "brand": "Bohning",
+    "model": "Bronco 3\"",
+    "category": "vane",
+    "grains": 8.5,
+    "fits": null,
+    "verified": true
+  },
+  {
+    "brand": "Bohning",
+    "model": "Bronco 4\"",
+    "category": "vane",
+    "grains": 12.5,
+    "fits": null,
+    "verified": true
+  },
+  {
+    "brand": "Bohning",
+    "model": "Griffin 1\"",
+    "category": "vane",
+    "grains": 1.2,
+    "fits": null,
+    "verified": true
+  },
+  {
+    "brand": "Bohning",
+    "model": "Griffin 2\"",
+    "category": "vane",
+    "grains": 6.2,
+    "fits": null,
+    "verified": true
+  },
+  {
+    "brand": "Bohning",
+    "model": "Heat 2.5\"",
+    "category": "vane",
+    "grains": 6.1,
+    "fits": null,
+    "verified": true
+  },
+  {
+    "brand": "Bohning",
+    "model": "X Vane 1.5\"",
+    "category": "vane",
+    "grains": 3.3,
+    "fits": null,
+    "verified": true
+  },
+  {
+    "brand": "Bohning",
+    "model": "X Vane 1.75\"",
+    "category": "vane",
+    "grains": 4.3,
+    "fits": null,
+    "verified": true
+  },
+  {
+    "brand": "Bohning",
+    "model": "X Vane 2.25\"",
+    "category": "vane",
+    "grains": 5.8,
+    "fits": null,
+    "verified": true
+  },
+  {
+    "brand": "Bohning",
+    "model": "X Vane 3\"",
+    "category": "vane",
+    "grains": 10.0,
+    "fits": null,
+    "verified": true
+  },
+  {
+    "brand": "Bohning",
+    "model": "X Vane 3.5\"",
+    "category": "vane",
+    "grains": 11.6,
+    "fits": null,
+    "verified": true
+  },
+  {
+    "brand": "Bohning",
+    "model": "X3 Vane 1.5\"",
+    "category": "vane",
+    "grains": 3.3,
+    "fits": null,
+    "verified": true
+  },
+  {
+    "brand": "Bohning",
+    "model": "X3 Vane 1.75\"",
+    "category": "vane",
+    "grains": 4.3,
+    "fits": null,
+    "verified": true
+  },
+  {
+    "brand": "Bohning",
+    "model": "X3 Vane 2.25\"",
+    "category": "vane",
+    "grains": 5.8,
+    "fits": null,
+    "verified": true
+  },
+  {
+    "brand": "Bohning",
+    "model": "X3 Vane 3\"",
+    "category": "vane",
+    "grains": 10.0,
+    "fits": null,
+    "verified": true
+  },
+  {
+    "brand": "Bohning",
+    "model": "X3 Vane 3.5\"",
+    "category": "vane",
+    "grains": 11.6,
+    "fits": null,
+    "verified": true
+  },
+  {
+    "brand": "Bohning",
+    "model": "Zen 4\"",
+    "category": "vane",
+    "grains": 12.5,
+    "fits": null,
+    "verified": true
+  },
+  {
+    "brand": "Easton",
+    "model": "Diamond Vane 2.25\"",
+    "category": "vane",
+    "grains": 6.5,
+    "fits": null,
+    "verified": false
+  },
+  {
+    "brand": "Easton",
+    "model": "Tite Flight 2.5\"",
+    "category": "vane",
+    "grains": 7.0,
+    "fits": null,
+    "verified": false
+  },
+  {
+    "brand": "Easton",
+    "model": "Tite Flight 3\"",
+    "category": "vane",
+    "grains": 8.4,
+    "fits": null,
+    "verified": false
+  },
+  {
+    "brand": "Flex-Fletch",
+    "model": "FFP-187",
+    "category": "vane",
+    "grains": 4.3,
+    "fits": null,
+    "verified": false
+  },
+  {
+    "brand": "Flex-Fletch",
+    "model": "FFP-225 (Silent Knight)",
+    "category": "vane",
+    "grains": 6.9,
+    "fits": null,
+    "verified": false
+  },
+  {
+    "brand": "Flex-Fletch",
+    "model": "FFP-300",
+    "category": "vane",
+    "grains": 8.7,
+    "fits": null,
+    "verified": false
+  },
+  {
+    "brand": "Flex-Fletch",
+    "model": "FFP-360",
+    "category": "vane",
+    "grains": 10.6,
+    "fits": null,
+    "verified": false
+  },
+  {
+    "brand": "Flex-Fletch",
+    "model": "FFP-418",
+    "category": "vane",
+    "grains": 12.0,
+    "fits": null,
+    "verified": false
+  },
+  {
+    "brand": "Gateway",
+    "model": "Shield Cut Feather 2\"",
+    "category": "vane",
+    "grains": 2.0,
+    "fits": null,
+    "verified": false
+  },
+  {
+    "brand": "Gateway",
+    "model": "Parabolic Feather 4\"",
+    "category": "vane",
+    "grains": 3.5,
+    "fits": null,
+    "verified": false
+  },
+  {
+    "brand": "Gateway",
+    "model": "Parabolic Feather 5\"",
+    "category": "vane",
+    "grains": 4.5,
+    "fits": null,
+    "verified": false
+  },
+  {
+    "brand": "Q2i",
+    "model": "Fusion X-II 1.75\"",
+    "category": "vane",
+    "grains": 4.5,
+    "fits": null,
+    "verified": false
+  },
+  {
+    "brand": "Q2i",
+    "model": "Fusion X-II 2.1\"",
+    "category": "vane",
+    "grains": 6.5,
+    "fits": null,
+    "verified": false
+  },
+  {
+    "brand": "Q2i",
+    "model": "Fusion X-II 2.8\"",
+    "category": "vane",
+    "grains": 8.7,
+    "fits": null,
+    "verified": false
+  },
+  {
+    "brand": "Q2i",
+    "model": "Fusion X-II 3.0\"",
+    "category": "vane",
+    "grains": 9.6,
+    "fits": null,
+    "verified": false
+  },
+  {
+    "brand": "Q2i",
+    "model": "Rapt-X 2.1\"",
+    "category": "vane",
+    "grains": 7.0,
+    "fits": null,
+    "verified": false
+  },
+  {
+    "brand": "TAC",
+    "model": "TAC Driver 2.75\"",
+    "category": "vane",
+    "grains": 8.0,
+    "fits": null,
+    "verified": false
+  },
+  {
+    "brand": "TAC",
+    "model": "TAC Driver Micro 2.0\"",
+    "category": "vane",
+    "grains": 5.6,
+    "fits": null,
+    "verified": false
+  },
+  {
+    "brand": "TAC",
+    "model": "TAC Driver Pro Series 2.75\"",
+    "category": "vane",
+    "grains": 8.4,
+    "fits": null,
+    "verified": false
+  },
+  {
+    "brand": "Trueflight",
+    "model": "Shield Cut Feather 4\"",
+    "category": "vane",
+    "grains": 3.0,
+    "fits": null,
+    "verified": false
+  },
+  {
+    "brand": "Trueflight",
+    "model": "Parabolic Feather 5\"",
+    "category": "vane",
+    "grains": 4.0,
+    "fits": null,
+    "verified": false
+  },
+  {
+    "brand": "Bohning",
+    "model": "Blazer Wrap 4\" (standard .246)",
+    "category": "wrap",
+    "grains": 10.0,
+    "fits": ".246",
+    "verified": false
+  },
+  {
+    "brand": "Bohning",
+    "model": "Blazer Wrap 4\" (small .204)",
+    "category": "wrap",
+    "grains": 8.0,
+    "fits": ".204",
+    "verified": false
+  },
+  {
+    "brand": "Bohning",
+    "model": "Blazer Wrap 7\"",
+    "category": "wrap",
+    "grains": 17.0,
+    "fits": ".246",
+    "verified": false
+  },
+  {
+    "brand": "Onestringer",
+    "model": "Standard Wrap 4\"",
+    "category": "wrap",
+    "grains": 9.0,
+    "fits": ".246",
+    "verified": false
+  },
+  {
+    "brand": "Onestringer",
+    "model": "Small-diameter Wrap 4\"",
+    "category": "wrap",
+    "grains": 7.0,
+    "fits": ".204",
+    "verified": false
+  },
+  {
+    "brand": "Onestringer",
+    "model": "Micro Wrap 4\"",
+    "category": "wrap",
+    "grains": 6.0,
+    "fits": ".166",
+    "verified": false
+  },
+  {
+    "brand": "White Water",
+    "model": "Arrow Wrap 4\"",
+    "category": "wrap",
+    "grains": 9.0,
+    "fits": ".246",
+    "verified": false
+  }
+]

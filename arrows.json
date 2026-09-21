@@ -1,0 +1,1481 @@
+[
+  {
+    "brand": "Beman",
+    "model": "Centershot",
+    "category": "hunting",
+    "diameterIn": 0.246,
+    "gpiBySpine": {
+      "300": 9.8,
+      "340": 9.3,
+      "400": 8.6,
+      "500": 8.0
+    },
+    "verified": false
+  },
+  {
+    "brand": "Beman",
+    "model": "ICS Bowhunter",
+    "category": "hunting",
+    "diameterIn": 0.246,
+    "gpiBySpine": {
+      "300": 9.6,
+      "340": 9.0,
+      "400": 8.3,
+      "500": 7.8
+    },
+    "verified": false
+  },
+  {
+    "brand": "Beman",
+    "model": "ICS Hunter Classic",
+    "category": "hunting",
+    "diameterIn": 0.246,
+    "gpiBySpine": {
+      "300": 9.8,
+      "340": 9.3,
+      "400": 8.6,
+      "500": 8.0
+    },
+    "verified": false
+  },
+  {
+    "brand": "Beman",
+    "model": "ICS Hunter Junior",
+    "category": "hunting",
+    "diameterIn": 0.246,
+    "gpiBySpine": {
+      "600": 7.3,
+      "700": 6.8
+    },
+    "verified": false
+  },
+  {
+    "brand": "Beman",
+    "model": "White Out",
+    "category": "hunting",
+    "diameterIn": 0.246,
+    "gpiBySpine": {
+      "300": 9.8,
+      "340": 9.3,
+      "400": 8.6,
+      "500": 8.0
+    },
+    "verified": false
+  },
+  {
+    "brand": "Black Eagle",
+    "model": "Carnivore",
+    "category": "hunting",
+    "diameterIn": 0.296,
+    "gpiBySpine": {
+      "250": 9.7,
+      "300": 8.5,
+      "350": 7.5,
+      "400": 6.8
+    },
+    "verified": true
+  },
+  {
+    "brand": "Black Eagle",
+    "model": "Deep Impact",
+    "category": "hunting",
+    "diameterIn": 0.24,
+    "gpiBySpine": {
+      "300": 11.0,
+      "350": 9.6,
+      "400": 8.6,
+      "500": 7.6,
+      "600": 7.0,
+      "700": 6.3,
+      "800": 5.8,
+      "900": 5.2
+    },
+    "verified": true
+  },
+  {
+    "brand": "Black Eagle",
+    "model": "FOCUS Micro",
+    "category": "hunting",
+    "diameterIn": 0.228,
+    "gpiBySpine": {
+      "250": 10.2,
+      "300": 9.4,
+      "350": 8.6,
+      "400": 7.9
+    },
+    "verified": false
+  },
+  {
+    "brand": "Black Eagle",
+    "model": "Intrepid",
+    "category": "target",
+    "diameterIn": 0.285,
+    "gpiBySpine": {
+      "500": 7.4,
+      "600": 6.8,
+      "700": 6.3,
+      "800": 5.9,
+      "900": 5.6,
+      "1000": 5.2
+    },
+    "verified": false
+  },
+  {
+    "brand": "Black Eagle",
+    "model": "Outlaw",
+    "category": "hunting",
+    "diameterIn": 0.297,
+    "gpiBySpine": {
+      "300": 9.1,
+      "350": 8.6,
+      "400": 8.1,
+      "500": 7.4,
+      "600": 6.8,
+      "700": 6.1
+    },
+    "verified": true
+  },
+  {
+    "brand": "Black Eagle",
+    "model": "PS23",
+    "category": "3D",
+    "diameterIn": 0.359,
+    "gpiBySpine": {
+      "350": 8.0,
+      "400": 7.4,
+      "500": 6.9
+    },
+    "verified": false
+  },
+  {
+    "brand": "Black Eagle",
+    "model": "PS25",
+    "category": "target",
+    "diameterIn": 0.39,
+    "gpiBySpine": {
+      "350": 8.4,
+      "400": 7.9
+    },
+    "verified": false
+  },
+  {
+    "brand": "Black Eagle",
+    "model": "PS27",
+    "category": "target",
+    "diameterIn": 0.422,
+    "gpiBySpine": {
+      "300": 9.4,
+      "350": 8.9
+    },
+    "verified": false
+  },
+  {
+    "brand": "Black Eagle",
+    "model": "Rampage",
+    "category": "hunting",
+    "diameterIn": 0.264,
+    "gpiBySpine": {
+      "150": 16.0,
+      "200": 12.8,
+      "250": 10.7,
+      "300": 8.7,
+      "350": 8.2,
+      "400": 7.0
+    },
+    "verified": true
+  },
+  {
+    "brand": "Black Eagle",
+    "model": "Renegade",
+    "category": "hunting",
+    "diameterIn": 0.265,
+    "gpiBySpine": {
+      "300": 9.4,
+      "350": 8.6,
+      "400": 7.9,
+      "500": 7.1
+    },
+    "verified": false
+  },
+  {
+    "brand": "Black Eagle",
+    "model": "Revelation",
+    "category": "target",
+    "diameterIn": 0.246,
+    "gpiBySpine": {
+      "350": 8.8,
+      "400": 8.2,
+      "500": 7.5,
+      "600": 6.9,
+      "700": 6.4
+    },
+    "verified": false
+  },
+  {
+    "brand": "Black Eagle",
+    "model": "Spartan",
+    "category": "hunting",
+    "diameterIn": 0.282,
+    "gpiBySpine": {
+      "200": 11.6,
+      "250": 10.0,
+      "300": 9.0,
+      "350": 8.0,
+      "400": 7.2,
+      "500": 6.4
+    },
+    "verified": true
+  },
+  {
+    "brand": "Black Eagle",
+    "model": "Talon",
+    "category": "hunting",
+    "diameterIn": 0.296,
+    "gpiBySpine": {
+      "300": 9.2,
+      "350": 8.6,
+      "400": 8.0,
+      "500": 7.2
+    },
+    "verified": false
+  },
+  {
+    "brand": "Black Eagle",
+    "model": "X-Impact",
+    "category": "hunting",
+    "diameterIn": 0.231,
+    "gpiBySpine": {
+      "200": 11.0,
+      "250": 9.5,
+      "300": 8.1,
+      "350": 7.4,
+      "400": 6.7,
+      "500": 5.8,
+      "600": 5.9,
+      "700": 5.9,
+      "800": 5.4,
+      "900": 5.1
+    },
+    "verified": true
+  },
+  {
+    "brand": "Bloodsport",
+    "model": "Evidence",
+    "category": "hunting",
+    "diameterIn": 0.238,
+    "gpiBySpine": {
+      "300": 10.4,
+      "350": 9.8,
+      "400": 9.1,
+      "500": 8.5
+    },
+    "verified": false
+  },
+  {
+    "brand": "Bloodsport",
+    "model": "Grave Digger",
+    "category": "hunting",
+    "diameterIn": 0.296,
+    "gpiBySpine": {
+      "300": 9.4,
+      "350": 8.7,
+      "400": 8.1
+    },
+    "verified": false
+  },
+  {
+    "brand": "Bloodsport",
+    "model": "Hunt Tech",
+    "category": "hunting",
+    "diameterIn": 0.297,
+    "gpiBySpine": {
+      "300": 9.3,
+      "350": 8.6,
+      "400": 8.0,
+      "500": 7.2
+    },
+    "verified": false
+  },
+  {
+    "brand": "Bloodsport",
+    "model": "Justice",
+    "category": "hunting",
+    "diameterIn": 0.269,
+    "gpiBySpine": {
+      "300": 10.4,
+      "350": 8.7,
+      "400": 9.8,
+      "500": 8.2
+    },
+    "verified": false
+  },
+  {
+    "brand": "Bloodsport",
+    "model": "Onyx",
+    "category": "hunting",
+    "diameterIn": 0.24,
+    "gpiBySpine": {
+      "300": 10.6,
+      "350": 9.8,
+      "400": 9.0
+    },
+    "verified": false
+  },
+  {
+    "brand": "Bloodsport",
+    "model": "Punisher",
+    "category": "hunting",
+    "diameterIn": 0.298,
+    "gpiBySpine": {
+      "300": 10.6,
+      "350": 9.9,
+      "400": 9.3
+    },
+    "verified": false
+  },
+  {
+    "brand": "Bloodsport",
+    "model": "Witness",
+    "category": "hunting",
+    "diameterIn": 0.298,
+    "gpiBySpine": {
+      "300": 10.4,
+      "350": 9.7,
+      "400": 9.0
+    },
+    "verified": false
+  },
+  {
+    "brand": "Carbon Express",
+    "model": "D-Stroyer",
+    "category": "hunting",
+    "diameterIn": 0.296,
+    "gpiBySpine": {
+      "350": 9.1,
+      "400": 8.5,
+      "500": 7.7
+    },
+    "verified": false
+  },
+  {
+    "brand": "Carbon Express",
+    "model": "D-Stroyer PileDriver",
+    "category": "hunting",
+    "diameterIn": 0.298,
+    "gpiBySpine": {
+      "350": 11.3,
+      "400": 10.6
+    },
+    "verified": false
+  },
+  {
+    "brand": "Carbon Express",
+    "model": "Maxima Photon SD",
+    "category": "hunting",
+    "diameterIn": 0.256,
+    "gpiBySpine": {
+      "300": 8.9,
+      "350": 8.1,
+      "400": 7.2
+    },
+    "verified": true
+  },
+  {
+    "brand": "Carbon Express",
+    "model": "Maxima RED",
+    "category": "hunting",
+    "diameterIn": 0.295,
+    "gpiBySpine": {
+      "250": 9.9,
+      "350": 9.1
+    },
+    "verified": false
+  },
+  {
+    "brand": "Carbon Express",
+    "model": "Maxima RED Contour",
+    "category": "hunting",
+    "diameterIn": 0.295,
+    "gpiBySpine": {
+      "250": 10.1,
+      "350": 9.3
+    },
+    "verified": false
+  },
+  {
+    "brand": "Carbon Express",
+    "model": "Maxima RED SD",
+    "category": "hunting",
+    "diameterIn": 0.262,
+    "gpiBySpine": {
+      "300": 9.4,
+      "350": 8.7,
+      "400": 8.1
+    },
+    "verified": false
+  },
+  {
+    "brand": "Carbon Express",
+    "model": "Maxima Sable RZ",
+    "category": "hunting",
+    "diameterIn": 0.296,
+    "gpiBySpine": {
+      "350": 8.4,
+      "400": 7.5,
+      "500": 6.5
+    },
+    "verified": true
+  },
+  {
+    "brand": "Carbon Express",
+    "model": "Maxima Triad",
+    "category": "hunting",
+    "diameterIn": 0.296,
+    "gpiBySpine": {
+      "250": 10.5,
+      "350": 9.2,
+      "400": 8.3,
+      "500": 7.4
+    },
+    "verified": false
+  },
+  {
+    "brand": "Carbon Express",
+    "model": "Medallion XR",
+    "category": "target",
+    "diameterIn": 0.29,
+    "gpiBySpine": {
+      "500": 6.9,
+      "600": 6.4,
+      "700": 6.0,
+      "800": 5.6,
+      "1000": 5.3,
+      "1200": 4.8
+    },
+    "verified": false
+  },
+  {
+    "brand": "Carbon Express",
+    "model": "Nano-SST",
+    "category": "target",
+    "diameterIn": 0.21,
+    "gpiBySpine": {
+      "400": 8.2,
+      "500": 7.5,
+      "600": 7.0,
+      "700": 6.5,
+      "800": 6.1,
+      "900": 5.8,
+      "1000": 5.5
+    },
+    "verified": false
+  },
+  {
+    "brand": "Carbon Express",
+    "model": "Predator II",
+    "category": "hunting",
+    "diameterIn": 0.298,
+    "gpiBySpine": {
+      "350": 9.3,
+      "400": 8.6,
+      "500": 8.0,
+      "600": 7.3
+    },
+    "verified": false
+  },
+  {
+    "brand": "Easton",
+    "model": "4mm Axis Long Range",
+    "category": "hunting",
+    "diameterIn": 0.234,
+    "gpiBySpine": {
+      "250": 9.8,
+      "300": 9.3,
+      "340": 8.3,
+      "400": 7.6
+    },
+    "verified": true
+  },
+  {
+    "brand": "Easton",
+    "model": "4mm FMJ",
+    "category": "hunting",
+    "diameterIn": 0.24,
+    "gpiBySpine": {
+      "250": 12.3,
+      "300": 11.7,
+      "340": 11.0,
+      "400": 9.8
+    },
+    "verified": true
+  },
+  {
+    "brand": "Easton",
+    "model": "4mm X10 Parallel Pro Hunter",
+    "category": "hunting",
+    "diameterIn": 0.231,
+    "gpiBySpine": {
+      "250": 10.8,
+      "300": 9.5,
+      "340": 8.9,
+      "380": 8.3
+    },
+    "verified": true
+  },
+  {
+    "brand": "Easton",
+    "model": "5.0",
+    "category": "hunting",
+    "diameterIn": 0.258,
+    "gpiBySpine": {
+      "200": 10.6,
+      "250": 9.5,
+      "300": 8.4,
+      "340": 7.5,
+      "400": 6.8,
+      "500": 6.2
+    },
+    "verified": true
+  },
+  {
+    "brand": "Easton",
+    "model": "5mm Axis",
+    "category": "hunting",
+    "diameterIn": 0.267,
+    "gpiBySpine": {
+      "200": 12.0,
+      "260": 11.5,
+      "300": 10.7,
+      "340": 9.5,
+      "400": 9.0,
+      "500": 8.1,
+      "600": 7.2,
+      "700": 6.1
+    },
+    "verified": true
+  },
+  {
+    "brand": "Easton",
+    "model": "5mm Axis Match Grade",
+    "category": "hunting",
+    "diameterIn": 0.267,
+    "gpiBySpine": {
+      "260": 11.5,
+      "300": 10.7,
+      "340": 9.5,
+      "400": 9.0
+    },
+    "verified": false
+  },
+  {
+    "brand": "Easton",
+    "model": "5mm FMJ",
+    "category": "hunting",
+    "diameterIn": 0.279,
+    "gpiBySpine": {
+      "250": 12.7,
+      "300": 12.0,
+      "340": 11.3,
+      "400": 10.2
+    },
+    "verified": false
+  },
+  {
+    "brand": "Easton",
+    "model": "6.5 Bowhunter",
+    "category": "hunting",
+    "diameterIn": 0.298,
+    "gpiBySpine": {
+      "300": 9.4,
+      "340": 9.0,
+      "400": 8.3,
+      "500": 7.3
+    },
+    "verified": false
+  },
+  {
+    "brand": "Easton",
+    "model": "6.5 FMJ",
+    "category": "hunting",
+    "diameterIn": 0.307,
+    "gpiBySpine": {
+      "300": 12.4,
+      "340": 11.3,
+      "400": 10.5,
+      "500": 10.2
+    },
+    "verified": false
+  },
+  {
+    "brand": "Easton",
+    "model": "6.5 Hunter Classic",
+    "category": "hunting",
+    "diameterIn": 0.298,
+    "gpiBySpine": {
+      "300": 9.6,
+      "340": 9.3,
+      "400": 8.6,
+      "500": 8.0
+    },
+    "verified": false
+  },
+  {
+    "brand": "Easton",
+    "model": "6.5 Match Grade",
+    "category": "hunting",
+    "diameterIn": 0.298,
+    "gpiBySpine": {
+      "250": 10.3,
+      "300": 9.6,
+      "340": 9.3,
+      "400": 8.6,
+      "500": 8.0
+    },
+    "verified": false
+  },
+  {
+    "brand": "Easton",
+    "model": "6.5 Whiteout",
+    "category": "hunting",
+    "diameterIn": 0.298,
+    "gpiBySpine": {
+      "300": 9.6,
+      "340": 9.3,
+      "400": 8.6,
+      "500": 8.0
+    },
+    "verified": false
+  },
+  {
+    "brand": "Easton",
+    "model": "A/C/E",
+    "category": "target",
+    "diameterIn": 0.216,
+    "gpiBySpine": {
+      "370": 7.9,
+      "400": 7.5,
+      "430": 7.0,
+      "470": 6.8,
+      "520": 6.7,
+      "570": 6.3,
+      "620": 6.1,
+      "670": 5.9,
+      "720": 6.4,
+      "780": 6.0,
+      "850": 5.7,
+      "920": 5.8,
+      "1000": 5.7,
+      "1100": 5.1,
+      "1250": 5.1
+    },
+    "verified": true
+  },
+  {
+    "brand": "Easton",
+    "model": "ACG",
+    "category": "target",
+    "diameterIn": 0.216,
+    "gpiBySpine": {
+      "400": 7.7,
+      "440": 7.5,
+      "480": 7.2,
+      "540": 6.9,
+      "620": 6.5,
+      "700": 6.1,
+      "800": 5.8,
+      "900": 5.6,
+      "1000": 5.4
+    },
+    "verified": false
+  },
+  {
+    "brand": "Easton",
+    "model": "Avance",
+    "category": "target",
+    "diameterIn": 0.224,
+    "gpiBySpine": {
+      "340": 8.8,
+      "400": 7.9,
+      "450": 7.4,
+      "500": 6.9,
+      "550": 6.5,
+      "600": 6.5,
+      "660": 6.2,
+      "730": 5.7,
+      "810": 5.5,
+      "900": 5.2,
+      "1000": 4.9,
+      "1150": 4.9,
+      "1400": 4.2,
+      "1600": 3.8,
+      "1800": 3.6,
+      "2000": 3.4
+    },
+    "verified": true
+  },
+  {
+    "brand": "Easton",
+    "model": "Bloodline",
+    "category": "hunting",
+    "diameterIn": 0.27,
+    "gpiBySpine": {
+      "330": 8.3,
+      "400": 7.7,
+      "480": 7.2
+    },
+    "verified": false
+  },
+  {
+    "brand": "Easton",
+    "model": "ProComp",
+    "category": "target",
+    "diameterIn": 0.224,
+    "gpiBySpine": {
+      "250": 10.8,
+      "300": 9.5,
+      "340": 8.9,
+      "380": 8.3,
+      "420": 7.8,
+      "470": 7.3,
+      "520": 7.0,
+      "570": 6.6,
+      "610": 7.3,
+      "660": 6.9,
+      "710": 6.5,
+      "810": 6.1,
+      "880": 5.9,
+      "1000": 5.5,
+      "1150": 5.5
+    },
+    "verified": true
+  },
+  {
+    "brand": "Easton",
+    "model": "Sonic 6.0",
+    "category": "hunting",
+    "diameterIn": 0.279,
+    "gpiBySpine": {
+      "250": 9.5,
+      "300": 8.8,
+      "340": 7.8,
+      "400": 7.2,
+      "500": 6.7,
+      "600": 5.8
+    },
+    "verified": true
+  },
+  {
+    "brand": "Easton",
+    "model": "Superdrive 23",
+    "category": "3D",
+    "diameterIn": 0.359,
+    "gpiBySpine": {
+      "325": 7.4,
+      "375": 6.9,
+      "475": 6.4
+    },
+    "verified": true
+  },
+  {
+    "brand": "Easton",
+    "model": "Superdrive 25",
+    "category": "target",
+    "diameterIn": 0.396,
+    "gpiBySpine": {
+      "290": 7.8
+    },
+    "verified": true
+  },
+  {
+    "brand": "Easton",
+    "model": "Superdrive 27",
+    "category": "target",
+    "diameterIn": 0.42,
+    "gpiBySpine": {
+      "280": 9.0
+    },
+    "verified": true
+  },
+  {
+    "brand": "Easton",
+    "model": "Superdrive Micro",
+    "category": "target",
+    "diameterIn": 0.204,
+    "gpiBySpine": {
+      "380": 7.6,
+      "450": 7.0,
+      "500": 6.6
+    },
+    "verified": false
+  },
+  {
+    "brand": "Easton",
+    "model": "Vector",
+    "category": "target",
+    "diameterIn": 0.214,
+    "gpiBySpine": {
+      "600": 7.6,
+      "800": 6.2,
+      "1000": 5.4,
+      "1200": 5.1,
+      "1400": 4.2,
+      "1600": 3.8,
+      "1800": 3.6,
+      "2000": 3.4
+    },
+    "verified": true
+  },
+  {
+    "brand": "Easton",
+    "model": "Venture",
+    "category": "target",
+    "diameterIn": 0.29,
+    "gpiBySpine": {
+      "300": 8.9,
+      "340": 8.4,
+      "400": 7.6,
+      "500": 6.9
+    },
+    "verified": false
+  },
+  {
+    "brand": "Easton",
+    "model": "X10",
+    "category": "target",
+    "diameterIn": 0.206,
+    "gpiBySpine": {
+      "325": 9.2,
+      "350": 8.8,
+      "380": 8.9,
+      "410": 8.5,
+      "450": 8.1,
+      "500": 7.8,
+      "550": 7.5,
+      "600": 7.0,
+      "650": 6.8,
+      "700": 6.7,
+      "750": 6.4,
+      "830": 6.2,
+      "900": 5.8,
+      "1000": 5.3
+    },
+    "verified": true
+  },
+  {
+    "brand": "Easton",
+    "model": "X10 Parallel Pro (4mm)",
+    "category": "target",
+    "diameterIn": 0.224,
+    "gpiBySpine": {
+      "250": 10.8,
+      "300": 9.5,
+      "340": 8.9,
+      "380": 8.3,
+      "420": 7.8,
+      "470": 7.3,
+      "520": 7.0,
+      "570": 6.6
+    },
+    "verified": false
+  },
+  {
+    "brand": "Easton",
+    "model": "X10 Protour",
+    "category": "target",
+    "diameterIn": 0.206,
+    "gpiBySpine": {
+      "380": 8.8,
+      "410": 8.5,
+      "450": 8.1,
+      "500": 7.8,
+      "550": 7.5,
+      "600": 7.0,
+      "650": 6.8
+    },
+    "verified": false
+  },
+  {
+    "brand": "Gold Tip",
+    "model": "Airstrike",
+    "category": "hunting",
+    "diameterIn": 0.258,
+    "gpiBySpine": {
+      "250": 9.6,
+      "300": 8.5,
+      "340": 7.8,
+      "400": 7.2
+    },
+    "verified": true
+  },
+  {
+    "brand": "Gold Tip",
+    "model": "Black Label",
+    "category": "hunting",
+    "diameterIn": 0.3,
+    "gpiBySpine": {
+      "300": 9.3,
+      "340": 8.9,
+      "400": 8.2
+    },
+    "verified": true
+  },
+  {
+    "brand": "Gold Tip",
+    "model": "Black Label Quantum",
+    "category": "hunting",
+    "diameterIn": 0.272,
+    "gpiBySpine": {
+      "300": 10.4,
+      "340": 9.9,
+      "400": 9.5
+    },
+    "verified": false
+  },
+  {
+    "brand": "Gold Tip",
+    "model": "Force F.O.C.",
+    "category": "hunting",
+    "diameterIn": 0.3,
+    "gpiBySpine": {
+      "300": 9.3,
+      "340": 8.9,
+      "400": 8.2
+    },
+    "verified": false
+  },
+  {
+    "brand": "Gold Tip",
+    "model": "Hunter",
+    "category": "hunting",
+    "diameterIn": 0.3,
+    "gpiBySpine": {
+      "300": 9.3,
+      "340": 8.9,
+      "400": 8.2,
+      "500": 7.3
+    },
+    "verified": false
+  },
+  {
+    "brand": "Gold Tip",
+    "model": "Hunter Pro",
+    "category": "hunting",
+    "diameterIn": 0.3,
+    "gpiBySpine": {
+      "300": 9.3,
+      "340": 8.9,
+      "400": 8.2,
+      "500": 7.3
+    },
+    "verified": false
+  },
+  {
+    "brand": "Gold Tip",
+    "model": "Hunter XT",
+    "category": "hunting",
+    "diameterIn": 0.3,
+    "gpiBySpine": {
+      "250": 10.6,
+      "300": 9.3,
+      "340": 8.9,
+      "400": 8.2,
+      "500": 7.3
+    },
+    "verified": true
+  },
+  {
+    "brand": "Gold Tip",
+    "model": "Kinetic",
+    "category": "hunting",
+    "diameterIn": 0.272,
+    "gpiBySpine": {
+      "200": 11.6,
+      "300": 10.4,
+      "340": 9.9,
+      "400": 9.5,
+      "500": 7.6
+    },
+    "verified": true
+  },
+  {
+    "brand": "Gold Tip",
+    "model": "Kinetic Kaos",
+    "category": "hunting",
+    "diameterIn": 0.272,
+    "gpiBySpine": {
+      "300": 10.4,
+      "340": 9.9,
+      "400": 9.5
+    },
+    "verified": false
+  },
+  {
+    "brand": "Gold Tip",
+    "model": "Nine.3 Max",
+    "category": "target",
+    "diameterIn": 0.366,
+    "gpiBySpine": {
+      "250": 9.3,
+      "300": 9.3
+    },
+    "verified": false
+  },
+  {
+    "brand": "Gold Tip",
+    "model": "Pierce",
+    "category": "hunting",
+    "diameterIn": 0.234,
+    "gpiBySpine": {
+      "250": 9.5,
+      "300": 9.0,
+      "340": 8.6,
+      "400": 7.9,
+      "500": 6.6
+    },
+    "verified": false
+  },
+  {
+    "brand": "Gold Tip",
+    "model": "Pierce LRT",
+    "category": "hunting",
+    "diameterIn": 0.234,
+    "gpiBySpine": {
+      "250": 9.5,
+      "300": 9.0,
+      "340": 8.6,
+      "400": 7.9
+    },
+    "verified": false
+  },
+  {
+    "brand": "Gold Tip",
+    "model": "Pierce Platinum",
+    "category": "hunting",
+    "diameterIn": 0.234,
+    "gpiBySpine": {
+      "250": 9.5,
+      "300": 9.0,
+      "340": 8.6,
+      "400": 7.9,
+      "500": 6.6
+    },
+    "verified": false
+  },
+  {
+    "brand": "Gold Tip",
+    "model": "Pierce Tour",
+    "category": "target",
+    "diameterIn": 0.234,
+    "gpiBySpine": {
+      "300": 9.0,
+      "340": 8.6,
+      "400": 7.9,
+      "500": 6.6,
+      "600": 5.9
+    },
+    "verified": false
+  },
+  {
+    "brand": "Gold Tip",
+    "model": "Series 22",
+    "category": "3D",
+    "diameterIn": 0.351,
+    "gpiBySpine": {
+      "300": 7.5,
+      "350": 7.0,
+      "400": 6.5
+    },
+    "verified": false
+  },
+  {
+    "brand": "Gold Tip",
+    "model": "Traditional",
+    "category": "hunting",
+    "diameterIn": 0.3,
+    "gpiBySpine": {
+      "400": 10.0,
+      "500": 9.4,
+      "600": 8.9
+    },
+    "verified": false
+  },
+  {
+    "brand": "Gold Tip",
+    "model": "Triple X",
+    "category": "target",
+    "diameterIn": 0.422,
+    "gpiBySpine": {
+      "200": 10.4
+    },
+    "verified": false
+  },
+  {
+    "brand": "Gold Tip",
+    "model": "Ultralight Pro",
+    "category": "target",
+    "diameterIn": 0.295,
+    "gpiBySpine": {
+      "300": 8.0,
+      "340": 7.5,
+      "400": 6.8,
+      "500": 6.1,
+      "600": 5.5
+    },
+    "verified": false
+  },
+  {
+    "brand": "Gold Tip",
+    "model": "Velocity",
+    "category": "hunting",
+    "diameterIn": 0.296,
+    "gpiBySpine": {
+      "300": 7.3,
+      "340": 6.9,
+      "400": 6.3,
+      "500": 5.9
+    },
+    "verified": false
+  },
+  {
+    "brand": "Gold Tip",
+    "model": "Velocity Pro",
+    "category": "hunting",
+    "diameterIn": 0.296,
+    "gpiBySpine": {
+      "300": 7.3,
+      "340": 6.9,
+      "400": 6.3,
+      "500": 5.9
+    },
+    "verified": false
+  },
+  {
+    "brand": "Gold Tip",
+    "model": "Velocity XT",
+    "category": "hunting",
+    "diameterIn": 0.296,
+    "gpiBySpine": {
+      "300": 8.8,
+      "340": 8.2,
+      "400": 7.4,
+      "500": 6.3,
+      "600": 5.9
+    },
+    "verified": true
+  },
+  {
+    "brand": "Gold Tip",
+    "model": "X-Cutter",
+    "category": "target",
+    "diameterIn": 0.422,
+    "gpiBySpine": {
+      "250": 9.6
+    },
+    "verified": false
+  },
+  {
+    "brand": "Victory",
+    "model": "3DHV",
+    "category": "3D",
+    "diameterIn": 0.265,
+    "gpiBySpine": {
+      "300": 6.9,
+      "350": 6.4,
+      "400": 5.9,
+      "500": 5.5
+    },
+    "verified": false
+  },
+  {
+    "brand": "Victory",
+    "model": "HLR",
+    "category": "hunting",
+    "diameterIn": 0.24,
+    "gpiBySpine": {
+      "300": 9.4,
+      "350": 8.7,
+      "400": 8.0
+    },
+    "verified": false
+  },
+  {
+    "brand": "Victory",
+    "model": "RIP",
+    "category": "hunting",
+    "diameterIn": 0.263,
+    "gpiBySpine": {
+      "250": 8.7,
+      "300": 8.0,
+      "350": 7.5,
+      "400": 7.0,
+      "500": 6.3
+    },
+    "verified": false
+  },
+  {
+    "brand": "Victory",
+    "model": "RIP SS",
+    "category": "hunting",
+    "diameterIn": 0.266,
+    "gpiBySpine": {
+      "250": 9.5,
+      "300": 9.1,
+      "350": 8.6,
+      "400": 8.1
+    },
+    "verified": false
+  },
+  {
+    "brand": "Victory",
+    "model": "RIP TKO",
+    "category": "hunting",
+    "diameterIn": 0.266,
+    "gpiBySpine": {
+      "200": 10.6,
+      "250": 8.9,
+      "300": 8.8,
+      "350": 8.7,
+      "400": 9.0
+    },
+    "verified": true
+  },
+  {
+    "brand": "Victory",
+    "model": "RIP XV",
+    "category": "hunting",
+    "diameterIn": 0.255,
+    "gpiBySpine": {
+      "200": 9.3,
+      "250": 8.1,
+      "300": 7.1,
+      "350": 6.4,
+      "400": 5.9,
+      "500": 5.1
+    },
+    "verified": true
+  },
+  {
+    "brand": "Victory",
+    "model": "Rival",
+    "category": "hunting",
+    "diameterIn": 0.296,
+    "gpiBySpine": {
+      "300": 9.3,
+      "350": 8.5,
+      "400": 8.0,
+      "500": 7.2
+    },
+    "verified": false
+  },
+  {
+    "brand": "Victory",
+    "model": "Rival X",
+    "category": "hunting",
+    "diameterIn": 0.296,
+    "gpiBySpine": {
+      "300": 9.3,
+      "350": 8.5,
+      "400": 8.0,
+      "500": 7.2
+    },
+    "verified": false
+  },
+  {
+    "brand": "Victory",
+    "model": "V-TAC 23",
+    "category": "3D",
+    "diameterIn": 0.359,
+    "gpiBySpine": {
+      "300": 7.7,
+      "350": 7.2,
+      "400": 6.8,
+      "500": 6.3
+    },
+    "verified": false
+  },
+  {
+    "brand": "Victory",
+    "model": "V-TAC 25",
+    "category": "target",
+    "diameterIn": 0.39,
+    "gpiBySpine": {
+      "300": 8.5,
+      "350": 8.0,
+      "400": 7.5
+    },
+    "verified": false
+  },
+  {
+    "brand": "Victory",
+    "model": "V-TAC 27",
+    "category": "target",
+    "diameterIn": 0.422,
+    "gpiBySpine": {
+      "300": 9.4,
+      "350": 8.9
+    },
+    "verified": false
+  },
+  {
+    "brand": "Victory",
+    "model": "VAP",
+    "category": "target",
+    "diameterIn": 0.231,
+    "gpiBySpine": {
+      "300": 8.0,
+      "350": 7.5,
+      "400": 7.0,
+      "500": 6.4,
+      "600": 5.9,
+      "700": 5.5,
+      "800": 5.1,
+      "900": 4.8,
+      "1000": 4.5
+    },
+    "verified": false
+  },
+  {
+    "brand": "Victory",
+    "model": "VAP SS",
+    "category": "hunting",
+    "diameterIn": 0.236,
+    "gpiBySpine": {
+      "250": 10.3,
+      "300": 9.5,
+      "350": 8.7,
+      "400": 8.2
+    },
+    "verified": false
+  },
+  {
+    "brand": "Victory",
+    "model": "VAP TKO",
+    "category": "hunting",
+    "diameterIn": 0.236,
+    "gpiBySpine": {
+      "235": 11.1,
+      "300": 9.5,
+      "350": 8.7,
+      "400": 7.9,
+      "500": 8.0
+    },
+    "verified": true
+  },
+  {
+    "brand": "Victory",
+    "model": "VForce",
+    "category": "hunting",
+    "diameterIn": 0.296,
+    "gpiBySpine": {
+      "250": 9.8,
+      "300": 8.9,
+      "350": 8.2,
+      "400": 7.6,
+      "500": 6.8
+    },
+    "verified": false
+  },
+  {
+    "brand": "Victory",
+    "model": "VForce TKO",
+    "category": "hunting",
+    "diameterIn": 0.296,
+    "gpiBySpine": {
+      "250": 10.4,
+      "300": 9.7,
+      "350": 9.0,
+      "400": 8.3
+    },
+    "verified": false
+  },
+  {
+    "brand": "Victory",
+    "model": "VFT",
+    "category": "target",
+    "diameterIn": 0.29,
+    "gpiBySpine": {
+      "300": 8.3,
+      "350": 7.8,
+      "400": 7.3,
+      "500": 6.7,
+      "600": 6.1
+    },
+    "verified": false
+  },
+  {
+    "brand": "Victory",
+    "model": "VLR",
+    "category": "hunting",
+    "diameterIn": 0.24,
+    "gpiBySpine": {
+      "300": 8.6,
+      "350": 8.0,
+      "400": 7.4
+    },
+    "verified": false
+  },
+  {
+    "brand": "Victory",
+    "model": "VX-27",
+    "category": "target",
+    "diameterIn": 0.422,
+    "gpiBySpine": {
+      "300": 9.2,
+      "350": 8.7
+    },
+    "verified": false
+  },
+  {
+    "brand": "Victory",
+    "model": "VXT",
+    "category": "target",
+    "diameterIn": 0.246,
+    "gpiBySpine": {
+      "300": 8.1,
+      "350": 7.6,
+      "400": 7.1,
+      "500": 6.5,
+      "600": 6.0
+    },
+    "verified": false
+  },
+  {
+    "brand": "Bass Pro / Cabela's",
+    "model": "BlackOut X5 Envy",
+    "category": "hunting",
+    "diameterIn": 0.296,
+    "gpiBySpine": {
+      "300": 9.3,
+      "340": 8.8,
+      "400": 8.2,
+      "500": 7.4
+    },
+    "verified": false
+  },
+  {
+    "brand": "Bass Pro / Cabela's",
+    "model": "Cabela's Carbon Hunter",
+    "category": "hunting",
+    "diameterIn": 0.298,
+    "gpiBySpine": {
+      "300": 9.6,
+      "340": 9.1,
+      "400": 8.5,
+      "500": 7.7
+    },
+    "verified": false
+  },
+  {
+    "brand": "Bass Pro / Cabela's",
+    "model": "Cabela's Outfitter",
+    "category": "hunting",
+    "diameterIn": 0.298,
+    "gpiBySpine": {
+      "300": 9.4,
+      "340": 8.9,
+      "400": 8.3,
+      "500": 7.6
+    },
+    "verified": false
+  }
+]
