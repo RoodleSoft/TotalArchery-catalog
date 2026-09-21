@@ -1,5 +1,345 @@
 [
   {
+    "category": "mount",
+    "brand": "Axcel",
+    "model": "Antler Ridge TriLock Adjustable Offset Mount",
+    "url": "https://truball.com/products/antler-ridge-trilock-adjustable-offset-mount",
+    "priceUsd": 171.18,
+    "verified": true,
+    "tapeWidthIn": null,
+    "image": "https://cdn.shopify.com/s/files/1/2312/8661/files/SAOM-BK_03.png"
+  },
+  {
+    "category": "mount",
+    "brand": "Axcel",
+    "model": "CenterLock Quick Disconnect Mount",
+    "url": "https://truball.com/products/centerlock-quick-disconnect-mount",
+    "priceUsd": 46.68,
+    "verified": true,
+    "tapeWidthIn": null,
+    "image": "https://cdn.shopify.com/s/files/1/2312/8661/files/SCQD-Main.png"
+  },
+  {
+    "category": "mount",
+    "brand": "Axcel",
+    "model": "F1 Fixed V-Bar Mount",
+    "url": "https://truball.com/products/f1-fixed-v-bar-mount",
+    "priceUsd": 62.24,
+    "verified": true,
+    "tapeWidthIn": null,
+    "image": "https://cdn.shopify.com/s/files/1/2312/8661/files/SFVM-4500-BK05.png"
+  },
+  {
+    "category": "mount",
+    "brand": "Axcel",
+    "model": "Perfect Mount",
+    "url": "https://truball.com/products/perfect-mount-v-bar",
+    "priceUsd": 223.05,
+    "verified": true,
+    "tapeWidthIn": null,
+    "image": "https://cdn.shopify.com/s/files/1/2312/8661/files/SPVM-BK_MAIN_02.png"
+  },
+  {
+    "category": "mount",
+    "brand": "Axcel",
+    "model": "Stabilizer Adapter Screw",
+    "url": "https://truball.com/products/stabilizer-adapter-screw",
+    "priceUsd": 17.63,
+    "verified": true,
+    "tapeWidthIn": null,
+    "image": "https://cdn.shopify.com/s/files/1/2312/8661/files/SADS-SST01_e5096190-a56e-4267-9584-2322188e604c.png"
+  },
+  {
+    "category": "mount",
+    "brand": "Axcel",
+    "model": "TriLock Adjustable Offset Mount",
+    "url": "https://truball.com/products/trilock-adjustable-offset-mount",
+    "priceUsd": 191.93,
+    "verified": true,
+    "tapeWidthIn": null,
+    "image": "https://cdn.shopify.com/s/files/1/2312/8661/files/STOM-BK_04.png"
+  },
+  {
+    "category": "mount",
+    "brand": "Axcel",
+    "model": "TriLock Adjustable V-Bar Mount",
+    "url": "https://truball.com/products/trilock-adjustable-v-bar-mount",
+    "priceUsd": 202.3,
+    "verified": true,
+    "tapeWidthIn": null,
+    "image": "https://cdn.shopify.com/s/files/1/2312/8661/files/STVM-BK01.png"
+  },
+  {
+    "category": "mount",
+    "brand": "Bear Archery",
+    "model": "Hitman Bracket",
+    "url": "https://beararchery.com/products/trophy-ridge-hitman-bracket",
+    "priceUsd": 99.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "image": "https://cdn.shopify.com/s/files/1/0488/5331/9840/files/trophy-ridge-hitman-bracket_stabilizer__as1900_1.png"
+  },
+  {
+    "category": "mount",
+    "brand": "Bear",
+    "model": "Hitman Bracket",
+    "url": "https://beararchery.com/products/trophy-ridge-hitman-bracket",
+    "priceUsd": 99.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "image": "https://cdn.shopify.com/s/files/1/0488/5331/9840/files/trophy-ridge-hitman-bracket_stabilizer__as1900_1.png"
+  },
+  {
+    "category": "mount",
+    "brand": "Bee Stinger",
+    "model": "Competitor V-Bar",
+    "url": "https://beestinger.com/products/competitor-v-bar-stabilizer",
+    "priceUsd": 59.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "image": "https://cdn.shopify.com/s/files/1/0692/0192/0161/files/competitor-v-bar-stabilizer__vb210_1.png"
+  },
+  {
+    "category": "mount",
+    "brand": "Bee Stinger",
+    "model": "MicroHex Counter Slide Stabilizer with Dovetail Mount",
+    "url": "https://beestinger.com/products/microhex-counter-slide-with-dovetail-mount-stabilizer",
+    "priceUsd": 159.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "image": "https://cdn.shopify.com/s/files/1/0692/0192/0161/files/microhex-counter-slide-with-dovetail-mount-stabilizer__mhxcsdtmb10_1_0c3d7f4a-9bb8-4bdd-b31e-a5be89e83538.png"
+  },
+  {
+    "category": "mount",
+    "brand": "Bee Stinger",
+    "model": "MicroHex Counter Slide Stabilizer with Standard Mount",
+    "url": "https://beestinger.com/products/microhex-counter-slide-standard-mount",
+    "priceUsd": 134.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "image": "https://cdn.shopify.com/s/files/1/0692/0192/0161/files/microhex-counter-slide-standard-mount__mhxcs10br_1_02b694f0-878f-4c41-ad73-3f63a94022fa.png"
+  },
+  {
+    "category": "mount",
+    "brand": "Bee Stinger",
+    "model": "Premier Plus V-Bar with Countervail",
+    "url": "https://beestinger.com/products/premier-plus-v-bar-stabilizer-with-countervail",
+    "priceUsd": 74.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "image": "https://cdn.shopify.com/s/files/1/0692/0192/0161/files/premier-plus-v-bar-stabilizer-with-countervail__premiervbby10_1_b938e30d-4626-40be-894a-7d881c50343a.png"
+  },
+  {
+    "category": "mount",
+    "brand": "Bowtech",
+    "model": "CenterMass Quick Disconnect",
+    "url": "https://bowtecharchery.com/accessories/centermass-quick-disconnect/",
+    "priceUsd": 34.95,
+    "verified": true,
+    "tapeWidthIn": null,
+    "image": "https://bowtecharchery.com/wp-content/uploads/2023/10/CenterMass-QuickDisconnect-Angle-1.jpg"
+  },
+  {
+    "category": "mount",
+    "brand": "CBE",
+    "model": "TorX Stabilizer Mount",
+    "url": "https://custombowequipment.com/products/torx-stabilizer-mount",
+    "priceUsd": 104.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "image": "https://cdn.shopify.com/s/files/1/0551/6482/9781/files/CBE-Torx-stabilizer-mount.png"
+  },
+  {
+    "category": "mount",
+    "brand": "CBE",
+    "model": "TORX Stabilizer Quick Disconnect",
+    "url": "https://custombowequipment.com/products/torx-stabilizer-quick-disconnect",
+    "priceUsd": 24.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "image": "https://cdn.shopify.com/s/files/1/0551/6482/9781/products/cbe_torx_quick-disconnect-standard.png"
+  },
+  {
+    "category": "mount",
+    "brand": "Elite",
+    "model": "SideKick Stabilizer Mount",
+    "url": "https://elitearchery.com/products/sidekick-stabilizer-mount",
+    "priceUsd": 99.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "image": "https://cdn.shopify.com/s/files/1/0656/8106/4148/products/0051_AC-00059sidekickmount.jpg"
+  },
+  {
+    "category": "mount",
+    "brand": "Gray Archery",
+    "model": "Multi V-BAR",
+    "url": "https://gray-archery.com/products/multi-v-bar",
+    "priceUsd": 710.0,
+    "verified": true,
+    "tapeWidthIn": null,
+    "image": "https://cdn.shopify.com/s/files/1/1391/1085/files/BackgroundEraser_20240412_130346552.jpg"
+  },
+  {
+    "category": "mount",
+    "brand": "Gray Archery",
+    "model": "S1 45 Degree V-BAR",
+    "url": "https://gray-archery.com/products/s1-45-degree-v-bar",
+    "priceUsd": 360.0,
+    "verified": true,
+    "tapeWidthIn": null,
+    "image": "https://cdn.shopify.com/s/files/1/1391/1085/products/DSC0087.jpg"
+  },
+  {
+    "category": "mount",
+    "brand": "Gray Archery",
+    "model": "V-bar eyebolt",
+    "url": "https://gray-archery.com/products/v-bar-eyebolt",
+    "priceUsd": 206.0,
+    "verified": true,
+    "tapeWidthIn": null,
+    "image": "https://cdn.shopify.com/s/files/1/1391/1085/products/DSC0064.jpg"
+  },
+  {
+    "category": "mount",
+    "brand": "Mathews",
+    "model": "Adjustable V-Bar",
+    "url": "https://mathewsinc.com/products/adjustable-v-bar",
+    "priceUsd": 139.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "image": "https://cdn.shopify.com/s/files/1/0886/7230/5465/files/Adjustable_V-Bar_dd14dc40-58b3-45b3-8a92-a3fcd4b3dbed.jpg"
+  },
+  {
+    "category": "mount",
+    "brand": "Mathews",
+    "model": "Bridge-Lock Double V-Bar",
+    "url": "https://mathewsinc.com/products/bridge-lock™-double-v-bar",
+    "priceUsd": 299.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "image": "https://cdn.shopify.com/s/files/1/0886/7230/5465/files/Bridge-Lock_Double_V-Bar.jpg"
+  },
+  {
+    "category": "mount",
+    "brand": "Mathews",
+    "model": "Integrated Bridge-Lock V-Bar",
+    "url": "https://mathewsinc.com/products/integrated-bridge-lock-v-bar-copy",
+    "priceUsd": 229.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "image": "https://cdn.shopify.com/s/files/1/0886/7230/5465/files/MG_BridgeLock_Integrated_VBar-3Q.png"
+  },
+  {
+    "category": "mount",
+    "brand": "Mathews",
+    "model": "Quick Disconnect",
+    "url": "https://mathewsinc.com/products/quick-disconnect",
+    "priceUsd": 39.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "image": "https://cdn.shopify.com/s/files/1/0886/7230/5465/files/MA_QuickDisconnect.png"
+  },
+  {
+    "category": "mount",
+    "brand": "Mathews",
+    "model": "Static Sidebar Mount",
+    "url": "https://mathewsinc.com/products/static-sidebar-mount",
+    "priceUsd": 29.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "image": "https://cdn.shopify.com/s/files/1/0886/7230/5465/files/Static-bar-mount.jpg"
+  },
+  {
+    "category": "mount",
+    "brand": "R.A.D.",
+    "model": "Single Adjustable V-Bar",
+    "url": "https://radarchery.com/products/shrewd-single-adjustable-v-bar",
+    "priceUsd": 70.0,
+    "verified": true,
+    "tapeWidthIn": null,
+    "image": "https://cdn.shopify.com/s/files/1/0551/9337/0800/products/VBAR2.jpg"
+  },
+  {
+    "category": "mount",
+    "brand": "UltraView",
+    "model": "Side Mount",
+    "url": "https://ultraviewarchery.com/products/uv-stabilizer-mounting-bracket",
+    "priceUsd": 59.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "image": "https://cdn.shopify.com/s/files/1/0087/4476/3450/files/uv-side-mount.webp"
+  },
+  {
+    "category": "mount",
+    "brand": "X-Spot",
+    "model": "Bowtech CenterMass Back Bar Mount Intergrated",
+    "url": "https://xspotarchery.com/products/copy-of-bowtech-centermass-back-bar-mount-intergrated",
+    "priceUsd": 119.95,
+    "verified": true,
+    "tapeWidthIn": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/CenterMass-QuickDisconnect-Angle.jpg"
+  },
+  {
+    "category": "mount",
+    "brand": "X-Spot",
+    "model": "Conquest Moab Rear Offset Braket Right V Lock",
+    "url": "https://xspotarchery.com/products/conquest-moab-rear-offset-braket-right-v-lock",
+    "priceUsd": 89.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/conquest-archery-moab-offset-right-handed-back-bracket-v-lock.jpg"
+  },
+  {
+    "category": "mount",
+    "brand": "X-Spot",
+    "model": "Conquest MOAB V-Bar Bracket V-Lock Rear",
+    "url": "https://xspotarchery.com/products/conquest-moab-v-bar-bracket-v-lock-rear",
+    "priceUsd": 162.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/MOAB_V-Bar_Bracket_V-Lock01__32258.jpg"
+  },
+  {
+    "category": "mount",
+    "brand": "X-Spot",
+    "model": "Conquest Quick Disconnect 10 Degree-.850in.",
+    "url": "https://xspotarchery.com/products/conquest-quick-disconnect-10-degree-850in",
+    "priceUsd": 24.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/Quick_Disconnect_Straight01__36508_51c6c6b9-adbe-4ae5-a041-3fc8f83963af.webp"
+  },
+  {
+    "category": "mount",
+    "brand": "X-Spot",
+    "model": "Conquest Quick Disconnect Straight",
+    "url": "https://xspotarchery.com/products/conquest-quick-disconnect-straight-850in",
+    "priceUsd": 25.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/Quick_Disconnect_Straight01__36508.webp"
+  },
+  {
+    "category": "mount",
+    "brand": "X-Spot",
+    "model": "Elite Archery Sidekick Stabilizer Mount",
+    "url": "https://xspotarchery.com/products/elite-archery-sidekick-stabilizer-mount",
+    "priceUsd": 99.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/0051_AC-00059sidekickmount_768x768_8c184873-1977-4610-bef0-3cf6498d86aa.webp"
+  },
+  {
+    "category": "mount",
+    "brand": "X-Spot",
+    "model": "ELITE CARBON STABILIZER KIT 8/11 Mountain Tan",
+    "url": "https://xspotarchery.com/products/elite-carbon-stabilizer-kit-8-11-mountain-tan",
+    "priceUsd": 239.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/elite-carbon-stabilizer-kit-mountaintan_768x768_dd1e1f50-cd90-44eb-86a0-749e3977c557.webp"
+  },
+  {
     "category": "peep",
     "brand": "G5",
     "model": "Meta Peep",
@@ -43,56 +383,6 @@
     "priceUsd": null,
     "verified": false,
     "tapeWidthIn": null
-  },
-  {
-    "category": "peep",
-    "brand": "October Mountain Products",
-    "model": "Peep",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/string-accessories/ultraview-peep",
-    "priceUsd": 6.49,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2016/03/37652.jpg"
-  },
-  {
-    "category": "peep",
-    "brand": "October Mountain Products",
-    "model": "Peep Aligner Clip",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/string-accessories/peep-aligner-clip",
-    "priceUsd": 3.21,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2016/03/37653.jpg"
-  },
-  {
-    "category": "peep",
-    "brand": "October Mountain Products",
-    "model": "TriView Peep",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/string-accessories/triview-peep",
-    "priceUsd": 5.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2016/03/45391.jpg"
-  },
-  {
-    "category": "peep",
-    "brand": "October Mountain Products",
-    "model": "TruTube Peep Tubing",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/string-accessories/trutube-peep-tubing",
-    "priceUsd": 5.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2016/03/31342.jpg"
-  },
-  {
-    "category": "peep",
-    "brand": "October Mountain Products",
-    "model": "TruTurn Peep",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/string-accessories/truturn-peep",
-    "priceUsd": 6.69,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2016/03/31338.jpg"
   },
   {
     "category": "peep",
@@ -9009,116 +9299,6 @@
   },
   {
     "category": "sight",
-    "brand": "October Mountain Products",
-    "model": "2 Hole Rest",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/traditional-accessories/rests-vibration-reducers-sights/2-hole-rest",
-    "priceUsd": 4.39,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2016/03/2144.jpg"
-  },
-  {
-    "category": "sight",
-    "brand": "October Mountain Products",
-    "model": "Adventure Recurve Sight",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/traditional-accessories/rests-vibration-reducers-sights/adventure-recurve-sight",
-    "priceUsd": 21.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2016/03/61144.jpg"
-  },
-  {
-    "category": "sight",
-    "brand": "October Mountain Products",
-    "model": "Blackberry String Silencer",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/traditional-accessories/rests-vibration-reducers-sights/blackberry-string-silencer",
-    "priceUsd": 10.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2023/01/1601386.jpg"
-  },
-  {
-    "category": "sight",
-    "brand": "October Mountain Products",
-    "model": "Horse Hair Recurve/Longbow Rest",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/traditional-accessories/rests-vibration-reducers-sights/horse-hair-recurve-longbow-rest",
-    "priceUsd": 5.95,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2026/01/1601830.jpg"
-  },
-  {
-    "category": "sight",
-    "brand": "October Mountain Products",
-    "model": "Hunter Rest",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/traditional-accessories/rests-vibration-reducers-sights/hunter-rest",
-    "priceUsd": 3.49,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2019/01/81467.jpg"
-  },
-  {
-    "category": "sight",
-    "brand": "October Mountain Products",
-    "model": "In-Line Peep Sight",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/string-accessories/in-line-peep",
-    "priceUsd": 6.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2016/03/37646.jpg"
-  },
-  {
-    "category": "sight",
-    "brand": "October Mountain Products",
-    "model": "Recurve Rug Rest",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/traditional-accessories/rests-vibration-reducers-sights/recurve-rug-rest",
-    "priceUsd": 6.59,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2016/03/10112.jpg"
-  },
-  {
-    "category": "sight",
-    "brand": "October Mountain Products",
-    "model": "Remedy Vibration Reducer",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/traditional-accessories/rests-vibration-reducers-sights/remedy-vibration-reducer",
-    "priceUsd": 12.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2016/03/10216.jpg"
-  },
-  {
-    "category": "sight",
-    "brand": "October Mountain Products",
-    "model": "Retna Peep Sight",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/string-accessories/retna-peep-sight",
-    "priceUsd": 6.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2023/01/1601407.jpg"
-  },
-  {
-    "category": "sight",
-    "brand": "October Mountain Products",
-    "model": "String Silencer",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/traditional-accessories/rests-vibration-reducers-sights/string-silencer",
-    "priceUsd": 4.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2016/03/31330.jpg"
-  },
-  {
-    "category": "sight",
-    "brand": "October Mountain Products",
-    "model": "VIBE Silencers",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/traditional-accessories/rests-vibration-reducers-sights/vibe-silencers",
-    "priceUsd": 4.54,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2016/03/60968.jpg"
-  },
-  {
-    "category": "sight",
     "brand": "Option Archery",
     "model": "4s/6s Sight Models",
     "url": "https://optionarchery.com/products/new-s-series-option-sights",
@@ -11379,26 +11559,6 @@
   {
     "category": "stabilizer",
     "brand": "Axcel",
-    "model": "1\" Dia. Aluminum Stabilizer End Cap with AXCEL Logo Sticker",
-    "url": "https://truball.com/products/1-dia-aluminum-stabilizer-end-cap-with-axcel®-logo-sticker",
-    "priceUsd": 14.51,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://cdn.shopify.com/s/files/1/2312/8661/files/SEC0.3-1-BK02.png"
-  },
-  {
-    "category": "stabilizer",
-    "brand": "Axcel",
-    "model": "1\" Dia. Aluminum Stabilizer Weights",
-    "url": "https://truball.com/products/1-dia-aluminum-stabilizer-weights",
-    "priceUsd": 14.51,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://cdn.shopify.com/s/files/1/2312/8661/files/SW0.3-1-BK_01.png"
-  },
-  {
-    "category": "stabilizer",
-    "brand": "Axcel",
     "model": "Antler Ridge 550 CarboFlax Hunting Stabilizers",
     "url": "https://truball.com/products/antler-ridge-hunting-stabilizers",
     "priceUsd": 171.18,
@@ -11415,16 +11575,6 @@
     "verified": true,
     "tapeWidthIn": null,
     "image": "https://cdn.shopify.com/s/files/1/2312/8661/files/SCFR-550-86BK_01_51aa0dc4-9cca-43e5-9449-2d5be749ae1a.png"
-  },
-  {
-    "category": "stabilizer",
-    "brand": "Axcel",
-    "model": "Antler Ridge TriLock Adjustable Offset Mount",
-    "url": "https://truball.com/products/antler-ridge-trilock-adjustable-offset-mount",
-    "priceUsd": 171.18,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://cdn.shopify.com/s/files/1/2312/8661/files/SAOM-BK_03.png"
   },
   {
     "category": "stabilizer",
@@ -11459,26 +11609,6 @@
   {
     "category": "stabilizer",
     "brand": "Axcel",
-    "model": "CenterLock Quick Disconnect Mount",
-    "url": "https://truball.com/products/centerlock-quick-disconnect-mount",
-    "priceUsd": 46.68,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://cdn.shopify.com/s/files/1/2312/8661/files/SCQD-Main.png"
-  },
-  {
-    "category": "stabilizer",
-    "brand": "Axcel",
-    "model": "F1 Fixed V-Bar Mount",
-    "url": "https://truball.com/products/f1-fixed-v-bar-mount",
-    "priceUsd": 62.24,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://cdn.shopify.com/s/files/1/2312/8661/files/SFVM-4500-BK05.png"
-  },
-  {
-    "category": "stabilizer",
-    "brand": "Axcel",
     "model": "Kryptós Arc Vibration Dampener",
     "url": "https://truball.com/products/kryptos-arc-vibration-dampener",
     "priceUsd": 46.68,
@@ -11499,46 +11629,6 @@
   {
     "category": "stabilizer",
     "brand": "Axcel",
-    "model": "Perfect Mount",
-    "url": "https://truball.com/products/perfect-mount-v-bar",
-    "priceUsd": 223.05,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://cdn.shopify.com/s/files/1/2312/8661/files/SPVM-BK_MAIN_02.png"
-  },
-  {
-    "category": "stabilizer",
-    "brand": "Axcel",
-    "model": "Stabilizer Adapter Screw",
-    "url": "https://truball.com/products/stabilizer-adapter-screw",
-    "priceUsd": 17.63,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://cdn.shopify.com/s/files/1/2312/8661/files/SADS-SST01_e5096190-a56e-4267-9584-2322188e604c.png"
-  },
-  {
-    "category": "stabilizer",
-    "brand": "Axcel",
-    "model": "TriLock Adjustable Offset Mount",
-    "url": "https://truball.com/products/trilock-adjustable-offset-mount",
-    "priceUsd": 191.93,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://cdn.shopify.com/s/files/1/2312/8661/files/STOM-BK_04.png"
-  },
-  {
-    "category": "stabilizer",
-    "brand": "Axcel",
-    "model": "TriLock Adjustable V-Bar Mount",
-    "url": "https://truball.com/products/trilock-adjustable-v-bar-mount",
-    "priceUsd": 202.3,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://cdn.shopify.com/s/files/1/2312/8661/files/STVM-BK01.png"
-  },
-  {
-    "category": "stabilizer",
-    "brand": "Axcel",
     "model": "X-Vibe Hunter",
     "url": "https://truball.com/products/x-vibe-hunter-stabilizer-rod-adjustable-weight-dampener",
     "priceUsd": 67.43,
@@ -11555,16 +11645,6 @@
     "verified": true,
     "tapeWidthIn": null,
     "image": "https://cdn.shopify.com/s/files/1/2312/8661/files/SRDP-550-BK02.png"
-  },
-  {
-    "category": "stabilizer",
-    "brand": "Axcel",
-    "model": "X-Vibe Stabilizer Rod Adjustable Weight Dampener",
-    "url": "https://truball.com/products/x-vibe-stabilizer-rod-adjustable-weight-dampener",
-    "priceUsd": 62.24,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://cdn.shopify.com/s/files/1/2312/8661/files/SRD3-500-BN_SST01.png"
   },
   {
     "category": "stabilizer",
@@ -11599,16 +11679,6 @@
   {
     "category": "stabilizer",
     "brand": "Bear Archery",
-    "model": "Custom Bow Stabilizer Weight Set",
-    "url": "https://beararchery.com/products/trophy-ridge-custom-bow-stabilizer-weight-set",
-    "priceUsd": 29.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://cdn.shopify.com/s/files/1/0488/5331/9840/files/trophy-ridge-custom-bow-stabilizer-weight-set_stabilizer__asw40_1.png"
-  },
-  {
-    "category": "stabilizer",
-    "brand": "Bear Archery",
     "model": "Hitman 2.0 Bow Stabilizer",
     "url": "https://beararchery.com/products/trophy-ridge-hitman2-stabilizer",
     "priceUsd": 89.99,
@@ -11635,16 +11705,6 @@
     "verified": true,
     "tapeWidthIn": null,
     "image": "https://cdn.shopify.com/s/files/1/0488/5331/9840/files/trophy-ridge-hitman-stabilizer-kit_stabilizer__as1918_1.png"
-  },
-  {
-    "category": "stabilizer",
-    "brand": "Bear Archery",
-    "model": "Hitman Bracket",
-    "url": "https://beararchery.com/products/trophy-ridge-hitman-bracket",
-    "priceUsd": 99.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://cdn.shopify.com/s/files/1/0488/5331/9840/files/trophy-ridge-hitman-bracket_stabilizer__as1900_1.png"
   },
   {
     "category": "stabilizer",
@@ -11739,16 +11799,6 @@
   {
     "category": "stabilizer",
     "brand": "Bear",
-    "model": "Custom Bow Stabilizer Weight Set",
-    "url": "https://beararchery.com/products/trophy-ridge-custom-bow-stabilizer-weight-set",
-    "priceUsd": 29.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://cdn.shopify.com/s/files/1/0488/5331/9840/files/trophy-ridge-custom-bow-stabilizer-weight-set_stabilizer__asw40_1.png"
-  },
-  {
-    "category": "stabilizer",
-    "brand": "Bear",
     "model": "Hitman 2.0 Bow Stabilizer",
     "url": "https://beararchery.com/products/trophy-ridge-hitman2-stabilizer",
     "priceUsd": 89.99,
@@ -11775,16 +11825,6 @@
     "verified": true,
     "tapeWidthIn": null,
     "image": "https://cdn.shopify.com/s/files/1/0488/5331/9840/files/trophy-ridge-hitman-stabilizer-kit_stabilizer__as1918_1.png"
-  },
-  {
-    "category": "stabilizer",
-    "brand": "Bear",
-    "model": "Hitman Bracket",
-    "url": "https://beararchery.com/products/trophy-ridge-hitman-bracket",
-    "priceUsd": 99.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://cdn.shopify.com/s/files/1/0488/5331/9840/files/trophy-ridge-hitman-bracket_stabilizer__as1900_1.png"
   },
   {
     "category": "stabilizer",
@@ -11859,16 +11899,6 @@
   {
     "category": "stabilizer",
     "brand": "Bee Stinger",
-    "model": "Competitor V-Bar",
-    "url": "https://beestinger.com/products/competitor-v-bar-stabilizer",
-    "priceUsd": 59.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://cdn.shopify.com/s/files/1/0692/0192/0161/files/competitor-v-bar-stabilizer__vb210_1.png"
-  },
-  {
-    "category": "stabilizer",
-    "brand": "Bee Stinger",
     "model": "Freestyle Competitor Stabilizer Kit",
     "url": "https://beestinger.com/products/freestyle-competitor-stabilizer-kit",
     "priceUsd": 329.99,
@@ -11884,26 +11914,6 @@
     "priceUsd": null,
     "verified": false,
     "tapeWidthIn": null
-  },
-  {
-    "category": "stabilizer",
-    "brand": "Bee Stinger",
-    "model": "MicroHex Counter Slide Stabilizer with Dovetail Mount",
-    "url": "https://beestinger.com/products/microhex-counter-slide-with-dovetail-mount-stabilizer",
-    "priceUsd": 159.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://cdn.shopify.com/s/files/1/0692/0192/0161/files/microhex-counter-slide-with-dovetail-mount-stabilizer__mhxcsdtmb10_1_0c3d7f4a-9bb8-4bdd-b31e-a5be89e83538.png"
-  },
-  {
-    "category": "stabilizer",
-    "brand": "Bee Stinger",
-    "model": "MicroHex Counter Slide Stabilizer with Standard Mount",
-    "url": "https://beestinger.com/products/microhex-counter-slide-standard-mount",
-    "priceUsd": 134.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://cdn.shopify.com/s/files/1/0692/0192/0161/files/microhex-counter-slide-standard-mount__mhxcs10br_1_02b694f0-878f-4c41-ad73-3f63a94022fa.png"
   },
   {
     "category": "stabilizer",
@@ -11943,16 +11953,6 @@
     "verified": true,
     "tapeWidthIn": null,
     "image": "https://cdn.shopify.com/s/files/1/0692/0192/0161/files/premier-plus-stabilizer-with-countervail__premierby20_1_8c2da110-f802-49ca-96da-5f86cc02c24d.png"
-  },
-  {
-    "category": "stabilizer",
-    "brand": "Bee Stinger",
-    "model": "Premier Plus V-Bar with Countervail",
-    "url": "https://beestinger.com/products/premier-plus-v-bar-stabilizer-with-countervail",
-    "priceUsd": 74.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://cdn.shopify.com/s/files/1/0692/0192/0161/files/premier-plus-v-bar-stabilizer-with-countervail__premiervbby10_1_b938e30d-4626-40be-894a-7d881c50343a.png"
   },
   {
     "category": "stabilizer",
@@ -12002,16 +12002,6 @@
     "verified": true,
     "tapeWidthIn": null,
     "image": "https://cdn.shopify.com/s/files/1/0692/0192/0161/files/sport-hunter-xtreme-kit-stabilizer__xtremekitn10mb_1_dfa725d0-5961-47aa-b603-693279330256.png"
-  },
-  {
-    "category": "stabilizer",
-    "brand": "Bowtech",
-    "model": "CenterMass Quick Disconnect",
-    "url": "https://bowtecharchery.com/accessories/centermass-quick-disconnect/",
-    "priceUsd": 34.95,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://bowtecharchery.com/wp-content/uploads/2023/10/CenterMass-QuickDisconnect-Angle-1.jpg"
   },
   {
     "category": "stabilizer",
@@ -12082,36 +12072,6 @@
     "verified": true,
     "tapeWidthIn": null,
     "image": "https://cdn.shopify.com/s/files/1/0551/6482/9781/products/torx-spyder.png"
-  },
-  {
-    "category": "stabilizer",
-    "brand": "CBE",
-    "model": "TorX Stabilizer Mount",
-    "url": "https://custombowequipment.com/products/torx-stabilizer-mount",
-    "priceUsd": 104.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://cdn.shopify.com/s/files/1/0551/6482/9781/files/CBE-Torx-stabilizer-mount.png"
-  },
-  {
-    "category": "stabilizer",
-    "brand": "CBE",
-    "model": "TORX Stabilizer Quick Disconnect",
-    "url": "https://custombowequipment.com/products/torx-stabilizer-quick-disconnect",
-    "priceUsd": 24.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://cdn.shopify.com/s/files/1/0551/6482/9781/products/cbe_torx_quick-disconnect-standard.png"
-  },
-  {
-    "category": "stabilizer",
-    "brand": "CBE",
-    "model": "TorX Stabilizer Weights",
-    "url": "https://custombowequipment.com/products/torx-stabilizer-weights",
-    "priceUsd": 24.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://cdn.shopify.com/s/files/1/0551/6482/9781/products/cbe_torx_stablizer_weight_1oz.png"
   },
   {
     "category": "stabilizer",
@@ -12514,16 +12474,6 @@
   {
     "category": "stabilizer",
     "brand": "Elite",
-    "model": "SideKick Stabilizer Mount",
-    "url": "https://elitearchery.com/products/sidekick-stabilizer-mount",
-    "priceUsd": 99.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://cdn.shopify.com/s/files/1/0656/8106/4148/products/0051_AC-00059sidekickmount.jpg"
-  },
-  {
-    "category": "stabilizer",
-    "brand": "Elite",
     "model": "Torx Carbon Micro Stabilizer",
     "url": "https://elitearchery.com/products/torx-carbon-micro-stabilizer",
     "priceUsd": 94.99,
@@ -12591,36 +12541,6 @@
   },
   {
     "category": "stabilizer",
-    "brand": "Gray Archery",
-    "model": "Multi V-BAR",
-    "url": "https://gray-archery.com/products/multi-v-bar",
-    "priceUsd": 710.0,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://cdn.shopify.com/s/files/1/1391/1085/files/BackgroundEraser_20240412_130346552.jpg"
-  },
-  {
-    "category": "stabilizer",
-    "brand": "Gray Archery",
-    "model": "S1 45 Degree V-BAR",
-    "url": "https://gray-archery.com/products/s1-45-degree-v-bar",
-    "priceUsd": 360.0,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://cdn.shopify.com/s/files/1/1391/1085/products/DSC0087.jpg"
-  },
-  {
-    "category": "stabilizer",
-    "brand": "Gray Archery",
-    "model": "V-bar eyebolt",
-    "url": "https://gray-archery.com/products/v-bar-eyebolt",
-    "priceUsd": 206.0,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://cdn.shopify.com/s/files/1/1391/1085/products/DSC0064.jpg"
-  },
-  {
-    "category": "stabilizer",
     "brand": "Hoyt",
     "model": "Stealth Pro Series Stabilizers",
     "url": "https://hoyt.com/products/stealth-pro-series-stabilizers",
@@ -12662,26 +12582,6 @@
   {
     "category": "stabilizer",
     "brand": "Mathews",
-    "model": "1 oz. Stabilizer Weight",
-    "url": "https://mathewsinc.com/products/1-oz-stabilizer-weight",
-    "priceUsd": 12.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://cdn.shopify.com/s/files/1/0886/7230/5465/files/1oz-weight.jpg"
-  },
-  {
-    "category": "stabilizer",
-    "brand": "Mathews",
-    "model": "Adjustable V-Bar",
-    "url": "https://mathewsinc.com/products/adjustable-v-bar",
-    "priceUsd": 139.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://cdn.shopify.com/s/files/1/0886/7230/5465/files/Adjustable_V-Bar_dd14dc40-58b3-45b3-8a92-a3fcd4b3dbed.jpg"
-  },
-  {
-    "category": "stabilizer",
-    "brand": "Mathews",
     "model": "Angled Bridge-Lock Stabilizer",
     "url": "https://mathewsinc.com/products/angled-bridge-lock®-stabilizer",
     "priceUsd": 269.99,
@@ -12698,16 +12598,6 @@
     "verified": true,
     "tapeWidthIn": null,
     "image": "https://cdn.shopify.com/s/files/1/0886/7230/5465/files/Bridge_Lock_Carbon_Target_Bar.jpg"
-  },
-  {
-    "category": "stabilizer",
-    "brand": "Mathews",
-    "model": "Bridge-Lock Double V-Bar",
-    "url": "https://mathewsinc.com/products/bridge-lock™-double-v-bar",
-    "priceUsd": 299.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://cdn.shopify.com/s/files/1/0886/7230/5465/files/Bridge-Lock_Double_V-Bar.jpg"
   },
   {
     "category": "stabilizer",
@@ -12732,52 +12622,12 @@
   {
     "category": "stabilizer",
     "brand": "Mathews",
-    "model": "Bridge-Lock Stabilizer Weight",
-    "url": "https://mathewsinc.com/products/bridge-lock™-stabilizer-weight",
-    "priceUsd": 29.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://cdn.shopify.com/s/files/1/0886/7230/5465/files/Bridgelock-Stabilizer-Weight-Angled.png"
-  },
-  {
-    "category": "stabilizer",
-    "brand": "Mathews",
     "model": "Flatline Stabilizer",
     "url": "https://mathewsinc.com/products/flatline™-stabilizer",
     "priceUsd": 149.99,
     "verified": true,
     "tapeWidthIn": null,
     "image": "https://cdn.shopify.com/s/files/1/0886/7230/5465/files/black-6.jpg"
-  },
-  {
-    "category": "stabilizer",
-    "brand": "Mathews",
-    "model": "Integrated Bridge-Lock V-Bar",
-    "url": "https://mathewsinc.com/products/integrated-bridge-lock-v-bar-copy",
-    "priceUsd": 229.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://cdn.shopify.com/s/files/1/0886/7230/5465/files/MG_BridgeLock_Integrated_VBar-3Q.png"
-  },
-  {
-    "category": "stabilizer",
-    "brand": "Mathews",
-    "model": "Quick Disconnect",
-    "url": "https://mathewsinc.com/products/quick-disconnect",
-    "priceUsd": 39.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://cdn.shopify.com/s/files/1/0886/7230/5465/files/MA_QuickDisconnect.png"
-  },
-  {
-    "category": "stabilizer",
-    "brand": "Mathews",
-    "model": "Static Sidebar Mount",
-    "url": "https://mathewsinc.com/products/static-sidebar-mount",
-    "priceUsd": 29.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://cdn.shopify.com/s/files/1/0886/7230/5465/files/Static-bar-mount.jpg"
   },
   {
     "category": "stabilizer",
@@ -12792,32 +12642,12 @@
   {
     "category": "stabilizer",
     "brand": "Option Archery",
-    "model": "Stabilizer Weights and Attachment Screws",
-    "url": "https://optionarchery.com/products/stabilizer-rods-does-not-include-end-weights",
-    "priceUsd": 24.0,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://cdn.shopify.com/s/files/1/1336/2251/files/5ounceStackplusDoinkerwithBrassScrew.jpg"
-  },
-  {
-    "category": "stabilizer",
-    "brand": "Option Archery",
     "model": "Stabilizers and Back-Bars",
     "url": "https://optionarchery.com/products/stabilizers",
     "priceUsd": 160.0,
     "verified": true,
     "tapeWidthIn": null,
     "image": "https://cdn.shopify.com/s/files/1/1336/2251/files/StabilizerwithWeightStackandQuick-DetachMount.jpg"
-  },
-  {
-    "category": "stabilizer",
-    "brand": "Option Archery",
-    "model": "Weight Attach Screws for Stabilizers",
-    "url": "https://optionarchery.com/products/weight-attach-screws-for-stabilizers",
-    "priceUsd": 12.68,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://cdn.shopify.com/s/files/1/1336/2251/files/BrassWeightAttachScrews.jpg"
   },
   {
     "category": "stabilizer",
@@ -12878,16 +12708,6 @@
     "verified": true,
     "tapeWidthIn": null,
     "image": "https://cdn.shopify.com/s/files/1/0551/9337/0800/products/REDLINESTABILIZER.2.jpg"
-  },
-  {
-    "category": "stabilizer",
-    "brand": "R.A.D.",
-    "model": "Single Adjustable V-Bar",
-    "url": "https://radarchery.com/products/shrewd-single-adjustable-v-bar",
-    "priceUsd": 70.0,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://cdn.shopify.com/s/files/1/0551/9337/0800/products/VBAR2.jpg"
   },
   {
     "category": "stabilizer",
@@ -13038,16 +12858,6 @@
   },
   {
     "category": "stabilizer",
-    "brand": "UltraView",
-    "model": "Side Mount",
-    "url": "https://ultraviewarchery.com/products/uv-stabilizer-mounting-bracket",
-    "priceUsd": 59.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://cdn.shopify.com/s/files/1/0087/4476/3450/files/uv-side-mount.webp"
-  },
-  {
-    "category": "stabilizer",
     "brand": "White Water Archery",
     "model": "American Flag Constitution &#8220;We the People&#8221; Stabilizer Wrap",
     "url": "https://whitewaterarchery.com/product/american-flag-constitution-we-the-people-stabilizer-wrap/",
@@ -13283,16 +13093,6 @@
     "verified": true,
     "tapeWidthIn": null,
     "image": "https://whitewaterarchery.com/wp-content/uploads/2026/08/FGC-White-Fade-10.25x2.5.jpg"
-  },
-  {
-    "category": "stabilizer",
-    "brand": "X-Spot",
-    "model": "Bowtech CenterMass Back Bar Mount Intergrated",
-    "url": "https://xspotarchery.com/products/copy-of-bowtech-centermass-back-bar-mount-intergrated",
-    "priceUsd": 119.95,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/CenterMass-QuickDisconnect-Angle.jpg"
   },
   {
     "category": "stabilizer",
@@ -13427,16 +13227,6 @@
   {
     "category": "stabilizer",
     "brand": "X-Spot",
-    "model": "Conquest 1 3/4 Threaded Stack Weights",
-    "url": "https://xspotarchery.com/products/conquest-1-3-4-threaded-stack-weights-8oz",
-    "priceUsd": 30.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/1.75-Stack-Weights-2__03751_8f8bb035-51ab-4ef8-b258-757d07df9993.jpg"
-  },
-  {
-    "category": "stabilizer",
-    "brand": "X-Spot",
     "model": "Conquest 3K Carbon Hunting Stabilizer 10 In.",
     "url": "https://xspotarchery.com/products/conquest-3k-carbon-hunting-stabilizer-10-in",
     "priceUsd": 99.99,
@@ -13463,46 +13253,6 @@
     "verified": true,
     "tapeWidthIn": null,
     "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/1044709_6.jpg"
-  },
-  {
-    "category": "stabilizer",
-    "brand": "X-Spot",
-    "model": "Conquest Moab Rear Offset Braket Right V Lock",
-    "url": "https://xspotarchery.com/products/conquest-moab-rear-offset-braket-right-v-lock",
-    "priceUsd": 89.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/conquest-archery-moab-offset-right-handed-back-bracket-v-lock.jpg"
-  },
-  {
-    "category": "stabilizer",
-    "brand": "X-Spot",
-    "model": "Conquest MOAB V-Bar Bracket V-Lock Rear",
-    "url": "https://xspotarchery.com/products/conquest-moab-v-bar-bracket-v-lock-rear",
-    "priceUsd": 162.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/MOAB_V-Bar_Bracket_V-Lock01__32258.jpg"
-  },
-  {
-    "category": "stabilizer",
-    "brand": "X-Spot",
-    "model": "Conquest Quick Disconnect 10 Degree-.850in.",
-    "url": "https://xspotarchery.com/products/conquest-quick-disconnect-10-degree-850in",
-    "priceUsd": 24.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/Quick_Disconnect_Straight01__36508_51c6c6b9-adbe-4ae5-a041-3fc8f83963af.webp"
-  },
-  {
-    "category": "stabilizer",
-    "brand": "X-Spot",
-    "model": "Conquest Quick Disconnect Straight",
-    "url": "https://xspotarchery.com/products/conquest-quick-disconnect-straight-850in",
-    "priceUsd": 25.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/Quick_Disconnect_Straight01__36508.webp"
   },
   {
     "category": "stabilizer",
@@ -13617,16 +13367,6 @@
   {
     "category": "stabilizer",
     "brand": "X-Spot",
-    "model": "Custom Hammerhead Stabilizer Weight Mount",
-    "url": "https://xspotarchery.com/products/custom-hammerhead-stabilizer-weight-mount",
-    "priceUsd": 64.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/thumbnail_1_f90023fc-dd29-434f-b4cc-1468078df0bc.jpg"
-  },
-  {
-    "category": "stabilizer",
-    "brand": "X-Spot",
     "model": "Darton Conquest LVS Lower Vibe Stopper",
     "url": "https://xspotarchery.com/products/conquest-lvs-lower-vibe-stopper",
     "priceUsd": 29.99,
@@ -13647,16 +13387,6 @@
   {
     "category": "stabilizer",
     "brand": "X-Spot",
-    "model": "Elite Archery Sidekick Stabilizer Mount",
-    "url": "https://xspotarchery.com/products/elite-archery-sidekick-stabilizer-mount",
-    "priceUsd": 99.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/0051_AC-00059sidekickmount_768x768_8c184873-1977-4610-bef0-3cf6498d86aa.webp"
-  },
-  {
-    "category": "stabilizer",
-    "brand": "X-Spot",
     "model": "Elite Carbon Stabilizer Kit 8/11 Black",
     "url": "https://xspotarchery.com/products/elite-carbon-stabilizer-kit-8-11-black",
     "priceUsd": 239.99,
@@ -13667,92 +13397,12 @@
   {
     "category": "stabilizer",
     "brand": "X-Spot",
-    "model": "ELITE CARBON STABILIZER KIT 8/11 Mountain Tan",
-    "url": "https://xspotarchery.com/products/elite-carbon-stabilizer-kit-8-11-mountain-tan",
-    "priceUsd": 239.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/elite-carbon-stabilizer-kit-mountaintan_768x768_dd1e1f50-cd90-44eb-86a0-749e3977c557.webp"
-  },
-  {
-    "category": "stabilizer",
-    "brand": "X-Spot",
     "model": "Elite Carbon Stabilizer Kit 8/11\" OD Green",
     "url": "https://xspotarchery.com/products/elite-carbon-stabilizer-kit-8-11",
     "priceUsd": 239.99,
     "verified": true,
     "tapeWidthIn": null,
     "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/0003_elite-carbon-stabilizer-kit-green_720x_eae1b4c6-0959-4bfd-9981-868fbd1a8781.webp"
-  },
-  {
-    "category": "stabilizer",
-    "brand": "X-Spot",
-    "model": "Hamskea Black Stainless Steel 1oz Quick Change In-Line Weight",
-    "url": "https://xspotarchery.com/products/hamskea-black-stainless-steel-1oz-quick-change-in-line-weight",
-    "priceUsd": 16.0,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/1037573.jpg"
-  },
-  {
-    "category": "stabilizer",
-    "brand": "X-Spot",
-    "model": "Hamskea Black Stainless Steel 4 oz Quick Change In-Line Weight",
-    "url": "https://xspotarchery.com/products/hamskea-black-stainless-steel-14-oz-quick-change-in-line-weight",
-    "priceUsd": 28.0,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/1037574.jpg"
-  },
-  {
-    "category": "stabilizer",
-    "brand": "X-Spot",
-    "model": "Hamskea Black Stainless Steel 8 oz Quick Change In-Line Weight",
-    "url": "https://xspotarchery.com/products/hamskea-black-stainless-steel-8-oz-quick-change-in-line-weight",
-    "priceUsd": 38.0,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/1037575.jpg"
-  },
-  {
-    "category": "stabilizer",
-    "brand": "X-Spot",
-    "model": "Hamskea Black Stainless Steel Basic Quick Change Weight Kit",
-    "url": "https://xspotarchery.com/products/hamskea-black-stainless-steel-basic-quick-change-weight-kit",
-    "priceUsd": 124.0,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/Basic-Weight-Kit-Label-Black-Stainless.png"
-  },
-  {
-    "category": "stabilizer",
-    "brand": "X-Spot",
-    "model": "Hamskea Black Stainless Steel Essential Quick Change Weight Kit",
-    "url": "https://xspotarchery.com/products/hamskea-black-stainless-steel-essential-quick-change-weight-kit-1",
-    "priceUsd": 300.0,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/Essential-Weight-Kit-Label-Black-Stainless_19186c7c-cfe8-4aa4-a17b-9ae5f0f0bda3.png"
-  },
-  {
-    "category": "stabilizer",
-    "brand": "X-Spot",
-    "model": "Hamskea Natural Stainless Steel Executive Quick Change Weight Kit",
-    "url": "https://xspotarchery.com/products/hamskea-black-stainless-steel-essential-quick-change-weight-kit-2",
-    "priceUsd": 390.0,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/Executive-Weight-Kit-Label.png"
-  },
-  {
-    "category": "stabilizer",
-    "brand": "X-Spot",
-    "model": "Sims LimbSaver Stabilizer Enhancer",
-    "url": "https://xspotarchery.com/products/sims-limbsaver-stabilizer-enhancer",
-    "priceUsd": 16.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/3013Black1024x1024_1024x1024_d6081c38-a0a6-4848-aaf7-a5a34bd528f0.webp"
   },
   {
     "category": "stabilizer",
@@ -14533,2206 +14183,6 @@
     "priceUsd": null,
     "verified": false,
     "tapeWidthIn": null
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Adventure Tab",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/traditional-accessories/bow-stringers-shooting-aids/adventure-tab",
-    "priceUsd": 11.29,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2016/03/10296.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "B-50 Recurve String",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/traditional-accessories/recurve-longbow-strings/b-50-recurve-string",
-    "priceUsd": 13.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2015/08/B50RecurveStrings.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "C-Clips 100 pk.",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/string-accessories/c-clips-100-pk",
-    "priceUsd": 23.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2016/03/60906.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Fall Away Pad w/Arrow Holder",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/string-accessories/fall-away-pad-warrow-holder",
-    "priceUsd": 11.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2016/03/45400.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Flemish Twist String",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/traditional-accessories/recurve-longbow-strings/flemish-twist-string",
-    "priceUsd": 29.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2016/03/10116.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Flex Pro Longbow Stringer",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/traditional-accessories/bow-stringers-shooting-aids/flex-pro-longbow-stringer",
-    "priceUsd": 21.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2016/03/37372.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Flex Pro Recurve Stringer",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/traditional-accessories/bow-stringers-shooting-aids/flex-pro-recurve-stringer",
-    "priceUsd": 21.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2016/03/37285.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Football Clip",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/string-accessories/football-clip",
-    "priceUsd": 10.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2016/03/29337.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Force Flyte Crossbow String (#37323)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/force-flyte-crossbow-string-37323",
-    "priceUsd": 31.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601814.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Force Flyte Crossbow String (#37324)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/force-flyte-crossbow-string-37324",
-    "priceUsd": 31.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601814.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Force Flyte Crossbow String (#37326)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/force-flyte-crossbow-string-37326",
-    "priceUsd": 31.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601814.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Force Flyte Crossbow String (#37327)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/force-flyte-crossbow-string-37327",
-    "priceUsd": 31.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601814.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Force Flyte Crossbow String (#37328)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/force-flyte-crossbow-string-37328",
-    "priceUsd": 31.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601814.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Force Flyte Crossbow String (#37329)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/force-flyte-crossbow-string-37329",
-    "priceUsd": 31.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601814.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Force Flyte Crossbow String (#37330)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/force-flyte-crossbow-string-37330",
-    "priceUsd": 31.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601814.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Force Flyte Crossbow String (#37332)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/force-flyte-crossbow-string-37332",
-    "priceUsd": 31.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601814.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Force Flyte Crossbow String (#37333)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/force-flyte-crossbow-string-37333",
-    "priceUsd": 31.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601814.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Force Flyte Crossbow String (#37334)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/force-flyte-crossbow-string-37334",
-    "priceUsd": 31.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601814.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Force Flyte Crossbow String (#37362)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/force-flyte-crossbow-string-37362",
-    "priceUsd": 31.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601814.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Force Flyte Crossbow String (#57437)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/force-flyte-crossbow-string-57437",
-    "priceUsd": 31.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601814.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Force Flyte Crossbow String (#57438)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/force-flyte-crossbow-string-57438",
-    "priceUsd": 31.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601814.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Force Flyte Recurve Crossbow String (#57436)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/force-flyte-recurve-crossbow-string-57436",
-    "priceUsd": 31.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601814.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "No Cable Available",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/no-cable-available",
-    "priceUsd": 0.0,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2016/05/4433_OMP_NoCableAvailable_Graphic.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Nock Sets",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/string-accessories/nock-sets",
-    "priceUsd": 4.29,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2016/03/31352.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Pin Point Kisser Button",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/string-accessories/pin-point-kisser-button",
-    "priceUsd": 4.29,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2016/03/37655.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Premium Loop Rope",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/string-accessories/premium-loop-rope",
-    "priceUsd": 49.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2016/03/45366.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Quick Crimp Kisser Button",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/string-accessories/quick-crimp-kisser-button",
-    "priceUsd": 5.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2021/01/1601157.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "QuickShot Finger Saver",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/traditional-accessories/bow-stringers-shooting-aids/quickshot-finger-saver",
-    "priceUsd": 6.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2016/03/37287.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Recurve Hair Tab",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/traditional-accessories/bow-stringers-shooting-aids/recurve-hair-tab",
-    "priceUsd": 13.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2023/01/1601379.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Recurve Leather Tab",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/traditional-accessories/bow-stringers-shooting-aids/recurve-leather-tab",
-    "priceUsd": 12.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2023/01/1601387.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Slotted Kisser",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/string-accessories/slotted-kisser",
-    "priceUsd": 3.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2016/03/1836.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Speed Slide S2",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/string-accessories/speed-slide-s2",
-    "priceUsd": 12.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2016/03/13197.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "String Love 2.0 Kisser Button",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/string-accessories/string-love-2-0-kisser-button",
-    "priceUsd": 5.59,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2016/03/60769.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Tradition Stringer",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/traditional-accessories/bow-stringers-shooting-aids/tradition-stringer",
-    "priceUsd": 20.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2019/01/81500-1.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Traditional Bow Stringer",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/traditional-accessories/bow-stringers-shooting-aids/traditional-bow-stringer",
-    "priceUsd": 10.29,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2016/03/13070.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Traditional Shooter&#8217;s Glove",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/traditional-accessories/bow-stringers-shooting-aids/shooters-glove",
-    "priceUsd": 17.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2015/08/57354.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Turbo Button 2.0",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/string-accessories/turbo-button-2-0",
-    "priceUsd": 2.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2016/03/45415.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow Cables (#10248)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-cables-10248",
-    "priceUsd": 44.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2023/01/1601809.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow Cables (#10250)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-cables-10250",
-    "priceUsd": 44.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2023/01/1601809.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow Cables (#10251)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-cables-10251",
-    "priceUsd": 44.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2023/01/1601809.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow Cables (#10252)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-cables-10252",
-    "priceUsd": 44.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2023/01/1601809.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow Cables (#10254)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-cables-10254",
-    "priceUsd": 44.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2023/01/1601809.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow Cables (#10256)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-cables-10256",
-    "priceUsd": 44.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2023/01/1601809.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow Cables (#10257)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-cables-10257",
-    "priceUsd": 44.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2023/01/1601809.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow Cables (#10259)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-cables-10259",
-    "priceUsd": 44.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2023/01/1601809.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow Cables (#10263)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-cables-10263",
-    "priceUsd": 44.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2023/01/1601809.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow Cables (#10264)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-cables-10264",
-    "priceUsd": 42.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2023/01/1601809.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow Cables (#10265)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-cables-10265",
-    "priceUsd": 44.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2023/01/1601809.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow Cables (#10267)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-cables-10267",
-    "priceUsd": 44.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2023/01/1601809.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow Cables (#10270)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-cables-10270",
-    "priceUsd": 44.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2023/01/1601809.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow Cables (#10272)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-cables-10272",
-    "priceUsd": 44.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2023/01/1601809.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow Cables (#10273)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-cables-10273",
-    "priceUsd": 42.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2023/01/1601809.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow Cables (#10274)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-cables-10274",
-    "priceUsd": 44.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2023/01/1601809.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow Cables (#13138)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-cables-13138",
-    "priceUsd": 44.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2023/01/1601809.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow Cables (#13144)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-cables-13144",
-    "priceUsd": 44.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2023/01/1601809.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow Cables (#13145)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-cables-13145",
-    "priceUsd": 44.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2023/01/1601809.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow Cables (#13147)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-cables-13147",
-    "priceUsd": 44.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2023/01/1601809.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow Cables (#13148)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-cables-13148",
-    "priceUsd": 44.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2023/01/1601809.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow Cables (#13149)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-cables-13149",
-    "priceUsd": 44.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2016/03/10248.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow Cables (#13150)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-cables-13150",
-    "priceUsd": 44.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2016/03/10248.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow Cables (#13151)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-cables-13151",
-    "priceUsd": 44.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2016/03/10248.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow Cables (#13152)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-cables-13152",
-    "priceUsd": 44.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2016/03/10248.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow Cables (#1601096)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-cables-1601096",
-    "priceUsd": 44.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2023/01/1601809.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow Cables (#1601100)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-cables-1601100",
-    "priceUsd": 44.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2023/01/1601809.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow Cables (#1601101)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-cables-1601101",
-    "priceUsd": 44.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2023/01/1601809.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow Cables (#1601225)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-cables-1601225",
-    "priceUsd": 44.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2023/01/1601809.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow Cables (#1601227)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-cables-1601227",
-    "priceUsd": 44.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2023/01/1601809.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow Cables (#1601230)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-cables-1601230",
-    "priceUsd": 44.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2023/01/1601809.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow Cables (#1601232)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-cables-1601232",
-    "priceUsd": 44.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2023/01/1601809.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow Cables (#1601236)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-cables-1601236",
-    "priceUsd": 44.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2023/01/1601809.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow Cables (#1601349)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-cables-1601349",
-    "priceUsd": 44.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2023/01/1601809.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow Cables (#1601357)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-cables-1601357",
-    "priceUsd": 44.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2023/01/1601809.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow Cables (#1601360)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-cables-1601360",
-    "priceUsd": 67.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2023/01/1601809.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow Cables (#1601362)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-cables-1601362",
-    "priceUsd": 67.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2023/01/1601809.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow Cables (#1601451)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-cables-1601451",
-    "priceUsd": 44.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2023/01/1601451.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow Cables (#1601453 &#8211; Set of 4)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-cables-1601453",
-    "priceUsd": 61.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2023/01/1601453.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow Cables (#1601809)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-cables-1601809",
-    "priceUsd": 44.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2023/01/1601451.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow Cables (#1601810)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-cables-1601810",
-    "priceUsd": 44.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2023/01/1601451.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow Cables (#1601837)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-cables-1601837",
-    "priceUsd": 43.95,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601811.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow Cables (#37338)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-cables-37338",
-    "priceUsd": 44.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2023/01/1601809.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow Cables (#37339)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-cables-37339",
-    "priceUsd": 44.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2023/01/1601809.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow Cables (#37354)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-cables-37354",
-    "priceUsd": 44.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2023/01/1601809.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow Cables (#37355)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-cables-37355",
-    "priceUsd": 44.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2023/01/1601809.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow Cables (#37358)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-cables-37358",
-    "priceUsd": 44.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2023/01/1601809.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow Cables (#39812)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-cables-39812",
-    "priceUsd": 44.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2023/01/1601809.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow Cables (#39813)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-cables-39813",
-    "priceUsd": 44.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2023/01/1601809.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow Cables (#45154)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-cables-45154",
-    "priceUsd": 44.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2023/01/1601809.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow Cables (#45156)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-cables-45156",
-    "priceUsd": 44.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2023/01/1601809.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow Cables (#57417)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-cables-57417",
-    "priceUsd": 44.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2023/01/1601809.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow Cables (#57420)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-cables-57420",
-    "priceUsd": 44.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2023/01/1601809.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow Cables (#57422)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-cables-57422",
-    "priceUsd": 44.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2023/01/1601809.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow Cables (#57425)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-cables-57425",
-    "priceUsd": 44.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2023/01/1601809.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow Cables (#60762)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-cables-60762",
-    "priceUsd": 44.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2023/01/1601809.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow Cables (#60764)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-cables-60764",
-    "priceUsd": 44.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2023/01/1601809.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow Cables (#60765)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-cables-60765",
-    "priceUsd": 44.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2023/01/1601809.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow Cables (#61018)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-cables-61018",
-    "priceUsd": 44.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2023/01/1601809.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow Cables (#81023)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-cables-81023",
-    "priceUsd": 36.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2023/01/1601809.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow Cables (#81025)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-cables-81025",
-    "priceUsd": 44.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2023/01/1601809.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow Cables (#81033)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-cables-81033",
-    "priceUsd": 44.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2023/01/1601809.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow Cables (#81284)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-cables-81284",
-    "priceUsd": 44.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2023/01/1601809.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow Cables (#81652)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-cables-81652",
-    "priceUsd": 44.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2023/01/1601809.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow Cables (#81657)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-cables-81657",
-    "priceUsd": 44.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2023/01/1601809.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow Cables (#81685 &#8211; Set of 4)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-cables-81685",
-    "priceUsd": 67.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2023/01/1601809.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow Control Cables (#13136)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-control-cables-13136",
-    "priceUsd": 42.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601811.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow Control Cables (#13139)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-control-cables-13139",
-    "priceUsd": 44.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601811.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow Control Cables (#13141)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-control-cables-13141",
-    "priceUsd": 44.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601811.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow Control Cables (#13142)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-control-cables-13142",
-    "priceUsd": 42.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601811.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow Control Cables (#1601098)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-control-cables-1601098",
-    "priceUsd": 67.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601811.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow Control Cables (#1601102)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-control-cables-1601102",
-    "priceUsd": 67.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601811.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow Control Cables (#1601355)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-control-cables-1601355",
-    "priceUsd": 44.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601811.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow Control Cables (#1601811)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-cables-1601811",
-    "priceUsd": 44.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601811.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow Control Cables (#1601812",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-control-cables-1601812-set-of-4",
-    "priceUsd": 67.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601811.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow Control Cables (#1601813",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-control-cables-1601813-set-of-4",
-    "priceUsd": 67.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601811.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow Control Cables (#1601838)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-control-cables-1601838",
-    "priceUsd": 43.95,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601811.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow Control Cables (#39814)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-control-cables-39814",
-    "priceUsd": 44.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601811.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow Control Cables (#57431)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-control-cables-57431",
-    "priceUsd": 44.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601811.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow Control Cables (#61114)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-control-cables-61114",
-    "priceUsd": 44.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601811.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow Control Cables (#81020)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-control-cables-81020",
-    "priceUsd": 44.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601811.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow Control Cables (#81031)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-control-cables-81031",
-    "priceUsd": 44.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601811.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow Control Cables (#81667 &#8211; Set of 4)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-control-cables-81667",
-    "priceUsd": 67.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601811.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow Control Cables (#81687 &#8211; Set of 4)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-control-cables-81687",
-    "priceUsd": 67.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601811.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow String (#10227)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-string-10227",
-    "priceUsd": 31.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601814.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow String (#10229)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-string-10229",
-    "priceUsd": 31.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601814.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow String (#10230)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-string-10230",
-    "priceUsd": 31.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601814.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow String (#10231)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-string-10231",
-    "priceUsd": 31.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601814.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow String (#10232)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-string-10232",
-    "priceUsd": 31.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601814.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow String (#10233)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-string-10233",
-    "priceUsd": 31.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601814.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow String (#10234)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-string-10234",
-    "priceUsd": 31.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601814.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow String (#10235)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-string-10235",
-    "priceUsd": 31.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601814.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow String (#10236)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-string-10236",
-    "priceUsd": 31.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601814.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow String (#10238)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-string-10238",
-    "priceUsd": 31.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601814.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow String (#10241)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-string-10241",
-    "priceUsd": 31.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601814.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow String (#10242)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-string-10242",
-    "priceUsd": 29.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601814.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow String (#10243)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-string-10243",
-    "priceUsd": 31.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601814.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow String (#10244)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-string-10244",
-    "priceUsd": 31.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601814.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow String (#10246)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-string-10246",
-    "priceUsd": 31.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601814.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow String (#10247)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-string-10247",
-    "priceUsd": 31.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601814.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow String (#10309)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-string-10309",
-    "priceUsd": 31.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601814.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow String (#13018)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-string-13018",
-    "priceUsd": 31.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601814.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow String (#13112)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-string-13112",
-    "priceUsd": 29.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601814.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow String (#13114)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-string-13114",
-    "priceUsd": 31.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601814.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow String (#13117)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-string-13117",
-    "priceUsd": 31.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601814.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow String (#13118)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-string-13118",
-    "priceUsd": 31.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601814.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow String (#13119)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-string-13119",
-    "priceUsd": 31.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601814.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow String (#13120)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-string-13120",
-    "priceUsd": 31.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601814.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow String (#13122)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-string-13122",
-    "priceUsd": 31.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601814.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow String (#13124)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-string-13124",
-    "priceUsd": 31.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601814.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow String (#13125)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-string-13125",
-    "priceUsd": 31.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601814.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow String (#13127)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-string-13127",
-    "priceUsd": 31.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601814.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow String (#13128)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-string-13128",
-    "priceUsd": 31.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601814.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow String (#13133)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-string-13133",
-    "priceUsd": 31.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601814.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow String (#1601088)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-string-1601088",
-    "priceUsd": 36.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601814.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow String (#1601089)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-string-1601089",
-    "priceUsd": 36.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601814.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow String (#1601090)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-string-1601090",
-    "priceUsd": 31.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601814.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow String (#1601091)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-string-1601091",
-    "priceUsd": 31.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601814.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow String (#1601092)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-string-1601092",
-    "priceUsd": 36.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601814.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow String (#1601093)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-string-1601093",
-    "priceUsd": 31.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601814.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow String (#1601094)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-string-1601094",
-    "priceUsd": 36.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601814.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow String (#1601228)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-string-1601228",
-    "priceUsd": 31.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601814.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow String (#1601229)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-string-1601229",
-    "priceUsd": 31.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601814.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow String (#1601231)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-string-1601231",
-    "priceUsd": 31.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601814.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow String (#1601233)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-string-1601233",
-    "priceUsd": 31.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601814.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow String (#1601237)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-string-1601237",
-    "priceUsd": 31.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601814.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow String (#1601348)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-string-1601348",
-    "priceUsd": 31.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601814.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow String (#1601354)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-string-1601354",
-    "priceUsd": 31.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601814.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow String (#1601356)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-string-1601356",
-    "priceUsd": 31.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601814.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow String (#1601358)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-string-1601358",
-    "priceUsd": 31.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601814.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow String (#1601359)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-string-1601359",
-    "priceUsd": 36.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601814.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow String (#1601361)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-string-1601361",
-    "priceUsd": 36.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601814.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow String (#1601450)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-string-1601450",
-    "priceUsd": 31.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2023/01/1601450.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow String (#1601814)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-string-1601814",
-    "priceUsd": 31.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601814.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow String (#1601815)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-string-1601815",
-    "priceUsd": 31.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601814.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow String (#1601816)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-string-1601816",
-    "priceUsd": 31.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601814.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow String (#1601817)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-string-1601817",
-    "priceUsd": 36.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601814.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow String (#1601818)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-string-1601818",
-    "priceUsd": 36.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601814.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow String (#1601839)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-string-1601839",
-    "priceUsd": 35.95,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601814.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow String (#1601840)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-string-1601840",
-    "priceUsd": 35.95,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601814.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow String (#37335)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-string-37335",
-    "priceUsd": 29.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601814.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow String (#37336)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-string-37336",
-    "priceUsd": 31.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601814.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow String (#37337)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-string-37337",
-    "priceUsd": 31.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601814.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow String (#37342)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-string-37342",
-    "priceUsd": 31.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601814.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow String (#37343)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-string-37343",
-    "priceUsd": 31.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601814.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow String (#37344)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-string-37344",
-    "priceUsd": 31.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601814.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow String (#37346)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-string-37346",
-    "priceUsd": 31.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601814.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow String (#37348)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-string-37348",
-    "priceUsd": 31.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601814.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow String (#37352)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-string-37352",
-    "priceUsd": 31.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601814.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow String (#37356)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-string-37356",
-    "priceUsd": 31.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601814.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow String (#37357)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-string-37357",
-    "priceUsd": 31.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601814.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow String (#37359)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-string-37359",
-    "priceUsd": 31.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601814.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow String (#39810)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-string-39810",
-    "priceUsd": 31.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601814.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow String (#39811)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-string-39811",
-    "priceUsd": 31.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601814.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow String (#45153)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-string-45153",
-    "priceUsd": 31.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601814.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow String (#45155)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-string-45155",
-    "priceUsd": 31.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601814.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow String (#57419)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-string-57419",
-    "priceUsd": 31.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601814.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow String (#57421)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-string-57421",
-    "priceUsd": 31.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601814.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow String (#57424)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-string-57424",
-    "priceUsd": 31.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601814.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow String (#57426)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-string-57426",
-    "priceUsd": 31.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601814.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow String (#57430)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-string-57430",
-    "priceUsd": 31.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601814.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow String (#57432)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-string-57432",
-    "priceUsd": 31.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601814.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow String (#60761)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-string-60761",
-    "priceUsd": 31.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601814.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow String (#60763)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-string-60763",
-    "priceUsd": 31.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601814.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow String (#60766)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-string-60766",
-    "priceUsd": 31.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601814.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow String (#60768)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-string-60768",
-    "priceUsd": 31.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601814.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow String (#61016)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-string-61016",
-    "priceUsd": 31.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601814.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow String (#81004)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-string-81004",
-    "priceUsd": 31.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601814.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow String (#81009)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-string-81009",
-    "priceUsd": 31.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601814.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow String (#81015)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-string-81015",
-    "priceUsd": 31.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601814.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow String (#81016)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-string-81016",
-    "priceUsd": 28.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601814.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow String (#81017)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-string-81017",
-    "priceUsd": 31.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601814.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow String (#81283)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-string-81283",
-    "priceUsd": 31.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601814.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow String (#81291)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-string-81291",
-    "priceUsd": 31.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601814.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow String (#81297)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-string-81297",
-    "priceUsd": 29.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601814.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow String (#81649)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-string-81649",
-    "priceUsd": 31.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601814.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow String (#81651)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-string-81651",
-    "priceUsd": 31.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601814.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow String (#81653)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-string-81653",
-    "priceUsd": 31.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601814.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow String (#81656)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-string-81656",
-    "priceUsd": 31.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601814.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow String (#81666)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-string-81666",
-    "priceUsd": 31.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601814.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow String (#81668)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-string-81668",
-    "priceUsd": 31.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601814.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow String (#81684)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-string-81684",
-    "priceUsd": 36.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601814.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "October Mountain Products",
-    "model": "Velocity Plus Crossbow String (#81686)",
-    "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/crossbow-strings-cables/velocity-plus-crossbow-string-81686",
-    "priceUsd": 36.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "image": "https://www.octobermountainproducts.com/wp-content/uploads/2025/01/1601814.jpg"
   },
   {
     "category": "string",
