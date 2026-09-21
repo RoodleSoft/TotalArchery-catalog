@@ -1,0 +1,3234 @@
+[
+  {
+    "category": "peep",
+    "brand": "G5",
+    "model": "Meta Peep",
+    "url": "https://www.g5outdoors.com",
+    "priceUsd": null,
+    "verified": false
+  },
+  {
+    "category": "peep",
+    "brand": "G5",
+    "model": "Meta Pro Peep",
+    "url": "https://www.g5outdoors.com",
+    "priceUsd": null,
+    "verified": false
+  },
+  {
+    "category": "peep",
+    "brand": "Hamskea",
+    "model": "InSight Peep",
+    "url": "https://hamskea.com",
+    "priceUsd": null,
+    "verified": false
+  },
+  {
+    "category": "peep",
+    "brand": "Hamskea",
+    "model": "RAPTOR Peep",
+    "url": "https://hamskea.com",
+    "priceUsd": null,
+    "verified": false
+  },
+  {
+    "category": "peep",
+    "brand": "Nock On",
+    "model": "Verifier Peep",
+    "url": "https://nockon.com",
+    "priceUsd": null,
+    "verified": false
+  },
+  {
+    "category": "peep",
+    "brand": "Option Archery",
+    "model": "Oval Peep",
+    "url": "https://optionarchery.com/products/oval-peep",
+    "priceUsd": 20.0,
+    "verified": true
+  },
+  {
+    "category": "peep",
+    "brand": "Radical Archery Designs",
+    "model": "Super Deuce 38",
+    "url": "https://www.radicalarcherydesigns.com",
+    "priceUsd": null,
+    "verified": false
+  },
+  {
+    "category": "peep",
+    "brand": "Radical Archery Designs",
+    "model": "Super Flex",
+    "url": "https://www.radicalarcherydesigns.com",
+    "priceUsd": null,
+    "verified": false
+  },
+  {
+    "category": "peep",
+    "brand": "Specialty Archery",
+    "model": "Super Ball Peep",
+    "url": "https://www.specialtyarch.com",
+    "priceUsd": null,
+    "verified": false
+  },
+  {
+    "category": "peep",
+    "brand": "Specialty Archery",
+    "model": "Super D Peep",
+    "url": "https://www.specialtyarch.com",
+    "priceUsd": null,
+    "verified": false
+  },
+  {
+    "category": "peep",
+    "brand": "Specialty Archery",
+    "model": "Ultra Lite Peep",
+    "url": "https://www.specialtyarch.com",
+    "priceUsd": null,
+    "verified": false
+  },
+  {
+    "category": "peep",
+    "brand": "Vapor Trail",
+    "model": "Verti-Peep",
+    "url": "https://www.vaportrailarchery.com",
+    "priceUsd": null,
+    "verified": false
+  },
+  {
+    "category": "quiver",
+    "brand": "Bohning",
+    "model": "Lynx",
+    "url": "https://www.bohning.com",
+    "priceUsd": null,
+    "verified": false
+  },
+  {
+    "category": "quiver",
+    "brand": "CBE",
+    "model": "Adapt Quiver",
+    "url": "https://custombowequipment.com/products/adapt-quiver",
+    "priceUsd": 114.99,
+    "verified": true
+  },
+  {
+    "category": "quiver",
+    "brand": "CBE",
+    "model": "Tactic 5 Quiver",
+    "url": "https://custombowequipment.com/products/tactic-5-quiver",
+    "priceUsd": 49.99,
+    "verified": true
+  },
+  {
+    "category": "quiver",
+    "brand": "Hoyt",
+    "model": "SuperLite 2-Piece Quiver",
+    "url": "https://hoyt.com/products/superlite-2-piece-quiver-1",
+    "priceUsd": 259.99,
+    "verified": true
+  },
+  {
+    "category": "quiver",
+    "brand": "Hoyt",
+    "model": "SuperLite QD Quiver",
+    "url": "https://hoyt.com/products/superlite-qd-quiver",
+    "priceUsd": 259.99,
+    "verified": true
+  },
+  {
+    "category": "quiver",
+    "brand": "Hoyt",
+    "model": "SuperLite Stretch QD Quiver",
+    "url": "https://hoyt.com/products/superlite-stretch",
+    "priceUsd": 299.99,
+    "verified": true
+  },
+  {
+    "category": "quiver",
+    "brand": "Kwikee",
+    "model": "Kwikee Kwiver",
+    "url": "https://www.kwikee.com",
+    "priceUsd": null,
+    "verified": false
+  },
+  {
+    "category": "quiver",
+    "brand": "Mathews",
+    "model": "Arrow Web HD Series Quiver",
+    "url": "https://mathewsinc.com/products/arrow-web®-hd-series-quiver",
+    "priceUsd": 169.99,
+    "verified": true
+  },
+  {
+    "category": "quiver",
+    "brand": "Mathews",
+    "model": "Custom Quiver Insert",
+    "url": "https://mathewsinc.com/products/custom-quiver-insert",
+    "priceUsd": 19.99,
+    "verified": true
+  },
+  {
+    "category": "quiver",
+    "brand": "Mathews",
+    "model": "HD Spider Claw",
+    "url": "https://mathewsinc.com/products/hd-spider-claw®",
+    "priceUsd": 99.99,
+    "verified": true
+  },
+  {
+    "category": "quiver",
+    "brand": "Mathews",
+    "model": "LowPro Detachable Quiver",
+    "url": "https://mathewsinc.com/products/lowpro-detachable-quiver",
+    "priceUsd": 249.99,
+    "verified": true
+  },
+  {
+    "category": "quiver",
+    "brand": "Mathews",
+    "model": "LowPro Fixed Quiver",
+    "url": "https://mathewsinc.com/products/lowpro-fixed-quiver",
+    "priceUsd": 199.99,
+    "verified": true
+  },
+  {
+    "category": "quiver",
+    "brand": "Mathews",
+    "model": "Marsupial Field Quiver",
+    "url": "https://mathewsinc.com/products/mathews-marsupial-field-quiver",
+    "priceUsd": 259.99,
+    "verified": true
+  },
+  {
+    "category": "quiver",
+    "brand": "Mathews",
+    "model": "Quiver Foam",
+    "url": "https://mathewsinc.com/products/quiver-foam",
+    "priceUsd": 24.99,
+    "verified": true
+  },
+  {
+    "category": "quiver",
+    "brand": "Option Archery",
+    "model": "(New 2024 Style) Machined Hood for Quivalizer",
+    "url": "https://optionarchery.com/products/machined-hood-for-quivalizer",
+    "priceUsd": 90.0,
+    "verified": true
+  },
+  {
+    "category": "quiver",
+    "brand": "Option Archery",
+    "model": "5 Arrow Quivalizer w/ Molded Hood and Carbon Tube",
+    "url": "https://optionarchery.com/products/quivalizer-molded-hood",
+    "priceUsd": 215.0,
+    "verified": true
+  },
+  {
+    "category": "quiver",
+    "brand": "Option Archery",
+    "model": "8-10 Arrow Quivalizer Model(s) w/ Molded Hood and Carbon Tube",
+    "url": "https://optionarchery.com/products/8-arrow-quivalizer-w-molded-hood-and-carbon-tube-available-in-black-tan-od-green",
+    "priceUsd": 220.0,
+    "verified": true
+  },
+  {
+    "category": "quiver",
+    "brand": "Option Archery",
+    "model": "Broadhead Insert for Molded Hood",
+    "url": "https://optionarchery.com/products/broadhead-insert-for-molded-hood",
+    "priceUsd": 15.0,
+    "verified": true
+  },
+  {
+    "category": "quiver",
+    "brand": "Option Archery",
+    "model": "Cache-Bar",
+    "url": "https://optionarchery.com/products/cache-bar-multi-purpose-stabilizer-back-bar",
+    "priceUsd": 205.0,
+    "verified": true
+  },
+  {
+    "category": "quiver",
+    "brand": "Option Archery",
+    "model": "Carbon Rod for Quivalizer",
+    "url": "https://optionarchery.com/products/carbon-rod-for-quivalizer",
+    "priceUsd": 45.0,
+    "verified": true
+  },
+  {
+    "category": "quiver",
+    "brand": "Option Archery",
+    "model": "Molded Quiver Hood for Quivalizer",
+    "url": "https://optionarchery.com/products/molded-quiver-hood-for-2018-model-quivalizer",
+    "priceUsd": 45.0,
+    "verified": true
+  },
+  {
+    "category": "quiver",
+    "brand": "Option Archery",
+    "model": "Offset Quiver Adapter",
+    "url": "https://optionarchery.com/products/offset-quiver-adapter",
+    "priceUsd": 25.0,
+    "verified": true
+  },
+  {
+    "category": "quiver",
+    "brand": "Option Archery",
+    "model": "Quivalizer",
+    "url": "https://optionarchery.com/products/quivalizer-quick-detach-mounts",
+    "priceUsd": 45.0,
+    "verified": true
+  },
+  {
+    "category": "quiver",
+    "brand": "Option Archery",
+    "model": "Quivalizer Arrow Grippers and Gripper Attach Block",
+    "url": "https://optionarchery.com/products/quivalizer-arrow-gripper",
+    "priceUsd": 15.0,
+    "verified": true
+  },
+  {
+    "category": "quiver",
+    "brand": "Option Archery",
+    "model": "Replacement Foam for Machined Quivalizer Hood",
+    "url": "https://optionarchery.com/products/replacement-foam-for-machined-quivalizer-hood",
+    "priceUsd": 15.0,
+    "verified": true
+  },
+  {
+    "category": "quiver",
+    "brand": "Option Archery",
+    "model": "Stabilizer Adapter (allows any stabilizer to be used with Quivalizer quick-detach)",
+    "url": "https://optionarchery.com/products/stabilizer-adapter-allows-any-stabilizer-to-be-used-with-quivalizer-quick-detach",
+    "priceUsd": 20.0,
+    "verified": true
+  },
+  {
+    "category": "quiver",
+    "brand": "Option Archery",
+    "model": "Threaded Quivalizer End Caps",
+    "url": "https://optionarchery.com/products/threaded-quivalizer-end-caps",
+    "priceUsd": 20.0,
+    "verified": true
+  },
+  {
+    "category": "quiver",
+    "brand": "Spot Hogg",
+    "model": "Wiseguy Quiver",
+    "url": "https://www.spot-hogg.com",
+    "priceUsd": null,
+    "verified": false
+  },
+  {
+    "category": "quiver",
+    "brand": "TightSpot",
+    "model": "5-Arrow",
+    "url": "https://tightspotquiver.com",
+    "priceUsd": null,
+    "verified": false
+  },
+  {
+    "category": "quiver",
+    "brand": "TightSpot",
+    "model": "5-Arrow Quiver",
+    "url": "https://tightspotquiver.com/quivers/5-arrow-quiver/",
+    "priceUsd": 179.95,
+    "verified": true
+  },
+  {
+    "category": "quiver",
+    "brand": "TightSpot",
+    "model": "7-Arrow",
+    "url": "https://tightspotquiver.com",
+    "priceUsd": null,
+    "verified": false
+  },
+  {
+    "category": "quiver",
+    "brand": "TightSpot",
+    "model": "7-Arrow Quiver",
+    "url": "https://tightspotquiver.com/quivers/7-arrow-quiver/",
+    "priceUsd": 189.95,
+    "verified": true
+  },
+  {
+    "category": "quiver",
+    "brand": "TightSpot",
+    "model": "Airlock",
+    "url": "https://tightspotquiver.com/quivers/airlock/",
+    "priceUsd": 199.95,
+    "verified": true
+  },
+  {
+    "category": "quiver",
+    "brand": "TightSpot",
+    "model": "Pivot 2.5",
+    "url": "https://tightspotquiver.com/quivers/pivot-2-5/",
+    "priceUsd": 229.95,
+    "verified": true
+  },
+  {
+    "category": "quiver",
+    "brand": "TightSpot",
+    "model": "Rise",
+    "url": "https://tightspotquiver.com",
+    "priceUsd": null,
+    "verified": false
+  },
+  {
+    "category": "quiver",
+    "brand": "TightSpot",
+    "model": "Rise Arrow Quiver",
+    "url": "https://tightspotquiver.com/quivers/rise-arrow-quiver/",
+    "priceUsd": 189.95,
+    "verified": true
+  },
+  {
+    "category": "quiver",
+    "brand": "TightSpot",
+    "model": "Shiftlock",
+    "url": "https://tightspotquiver.com/quivers/shiftlock/",
+    "priceUsd": 219.95,
+    "verified": true
+  },
+  {
+    "category": "quiver",
+    "brand": "Trophy Ridge",
+    "model": "Hex Light",
+    "url": "https://www.trophyridge.com",
+    "priceUsd": null,
+    "verified": false
+  },
+  {
+    "category": "release",
+    "brand": "Axcel",
+    "model": "Abyss Flex",
+    "url": "https://truball.com/products/abyss-flex",
+    "priceUsd": 352.74,
+    "verified": true
+  },
+  {
+    "category": "release",
+    "brand": "Axcel",
+    "model": "Aileron HBC Flex",
+    "url": "https://truball.com/products/aileron-hbc-flex",
+    "priceUsd": 389.05,
+    "verified": true
+  },
+  {
+    "category": "release",
+    "brand": "Axcel",
+    "model": "Alt-Zero",
+    "url": "https://truball.com/products/altzero",
+    "priceUsd": 140.05,
+    "verified": true
+  },
+  {
+    "category": "release",
+    "brand": "Axcel",
+    "model": "Assassin Scout",
+    "url": "https://truball.com/products/assassin-scout",
+    "priceUsd": 72.61,
+    "verified": true
+  },
+  {
+    "category": "release",
+    "brand": "Axcel",
+    "model": "Assassin XT",
+    "url": "https://truball.com/products/assassin-xt",
+    "priceUsd": 93.36,
+    "verified": true
+  },
+  {
+    "category": "release",
+    "brand": "Axcel",
+    "model": "Bandit",
+    "url": "https://truball.com/products/bandit",
+    "priceUsd": 57.05,
+    "verified": true
+  },
+  {
+    "category": "release",
+    "brand": "Axcel",
+    "model": "Beast XT Hybrid",
+    "url": "https://truball.com/products/beast-xt-hybrid",
+    "priceUsd": 140.05,
+    "verified": true
+  },
+  {
+    "category": "release",
+    "brand": "Axcel",
+    "model": "Blade Fusion Pro Flex CK",
+    "url": "https://truball.com/products/blade-fusion-pro-flex-ck",
+    "priceUsd": 389.05,
+    "verified": true
+  },
+  {
+    "category": "release",
+    "brand": "Axcel",
+    "model": "Blade Pro Flex",
+    "url": "https://truball.com/products/blade-pro-flex",
+    "priceUsd": 389.05,
+    "verified": true
+  },
+  {
+    "category": "release",
+    "brand": "Axcel",
+    "model": "Blade Pro Mini",
+    "url": "https://truball.com/products/blade-pro-mini",
+    "priceUsd": 347.55,
+    "verified": true
+  },
+  {
+    "category": "release",
+    "brand": "Axcel",
+    "model": "Bone Collector Assassin XT",
+    "url": "https://truball.com/products/bone-collector™-assassin-xt",
+    "priceUsd": 108.93,
+    "verified": true
+  },
+  {
+    "category": "release",
+    "brand": "Axcel",
+    "model": "Bone Collector Bandit",
+    "url": "https://truball.com/products/bone-collector™-bandit",
+    "priceUsd": 62.24,
+    "verified": true
+  },
+  {
+    "category": "release",
+    "brand": "Axcel",
+    "model": "Bone Collector Beast XT Hybrid",
+    "url": "https://truball.com/products/bone-collector™-beast-xt-hybrid",
+    "priceUsd": 134.86,
+    "verified": true
+  },
+  {
+    "category": "release",
+    "brand": "Axcel",
+    "model": "Bone Collector Scout",
+    "url": "https://truball.com/products/bone-collector™-scout",
+    "priceUsd": 67.43,
+    "verified": true
+  },
+  {
+    "category": "release",
+    "brand": "Axcel",
+    "model": "Bone Collector T-Rex",
+    "url": "https://truball.com/products/bone-collector™-t-rex",
+    "priceUsd": 191.93,
+    "verified": true
+  },
+  {
+    "category": "release",
+    "brand": "Axcel",
+    "model": "Boss X",
+    "url": "https://truball.com/products/bossx",
+    "priceUsd": 274.93,
+    "verified": true
+  },
+  {
+    "category": "release",
+    "brand": "Axcel",
+    "model": "Champ",
+    "url": "https://truball.com/products/champ",
+    "priceUsd": 124.49,
+    "verified": true
+  },
+  {
+    "category": "release",
+    "brand": "Axcel",
+    "model": "eXecute V2 CK",
+    "url": "https://truball.com/products/execute-v2-ck",
+    "priceUsd": 238.81,
+    "verified": true
+  },
+  {
+    "category": "release",
+    "brand": "Axcel",
+    "model": "Executive Flex",
+    "url": "https://truball.com/products/executive-flex",
+    "priceUsd": 352.74,
+    "verified": true
+  },
+  {
+    "category": "release",
+    "brand": "Axcel",
+    "model": "Fulkrum Flex AC",
+    "url": "https://truball.com/products/fulkrum-flex-ac",
+    "priceUsd": 352.74,
+    "verified": true
+  },
+  {
+    "category": "release",
+    "brand": "Axcel",
+    "model": "GOAT",
+    "url": "https://truball.com/products/goat",
+    "priceUsd": 389.05,
+    "verified": true
+  },
+  {
+    "category": "release",
+    "brand": "Axcel",
+    "model": "HBC Flex",
+    "url": "https://truball.com/products/hbc-flex",
+    "priceUsd": 326.8,
+    "verified": true
+  },
+  {
+    "category": "release",
+    "brand": "Axcel",
+    "model": "HBC Flex CK",
+    "url": "https://truball.com/products/hbc-flex-ck",
+    "priceUsd": 352.74,
+    "verified": true
+  },
+  {
+    "category": "release",
+    "brand": "Axcel",
+    "model": "Max Hunter PLUS",
+    "url": "https://truball.com/products/max-hunter",
+    "priceUsd": 124.49,
+    "verified": true
+  },
+  {
+    "category": "release",
+    "brand": "Axcel",
+    "model": "Max Pro Flex",
+    "url": "https://truball.com/products/max-pro-flex",
+    "priceUsd": 191.93,
+    "verified": true
+  },
+  {
+    "category": "release",
+    "brand": "Axcel",
+    "model": "Max Pro PLUS",
+    "url": "https://truball.com/products/max-pro",
+    "priceUsd": 155.61,
+    "verified": true
+  },
+  {
+    "category": "release",
+    "brand": "Axcel",
+    "model": "Outlaw XT",
+    "url": "https://truball.com/products/outlaw-xt",
+    "priceUsd": 62.24,
+    "verified": true
+  },
+  {
+    "category": "release",
+    "brand": "Axcel",
+    "model": "Rave",
+    "url": "https://truball.com/products/rave",
+    "priceUsd": 186.74,
+    "verified": true
+  },
+  {
+    "category": "release",
+    "brand": "Axcel",
+    "model": "RidgePoint Flex",
+    "url": "https://truball.com/products/ridgepoint-flex",
+    "priceUsd": 311.24,
+    "verified": true
+  },
+  {
+    "category": "release",
+    "brand": "Axcel",
+    "model": "RidgePoint Pro Flex CK",
+    "url": "https://truball.com/products/ridgepoint-pro-flex-ck",
+    "priceUsd": 389.05,
+    "verified": true
+  },
+  {
+    "category": "release",
+    "brand": "Axcel",
+    "model": "Shooter",
+    "url": "https://truball.com/products/shooter",
+    "priceUsd": 57.05,
+    "verified": true
+  },
+  {
+    "category": "release",
+    "brand": "Axcel",
+    "model": "Short-N-Sweet'R Hybrid",
+    "url": "https://truball.com/products/short-n-sweetr-hybrid",
+    "priceUsd": 124.49,
+    "verified": true
+  },
+  {
+    "category": "release",
+    "brand": "Axcel",
+    "model": "Stalk'r",
+    "url": "https://truball.com/products/stalkr",
+    "priceUsd": 186.74,
+    "verified": true
+  },
+  {
+    "category": "release",
+    "brand": "Axcel",
+    "model": "Stinger XT",
+    "url": "https://truball.com/products/stinger-xt",
+    "priceUsd": 62.24,
+    "verified": true
+  },
+  {
+    "category": "release",
+    "brand": "Axcel",
+    "model": "Sweet Spot Pro Flex",
+    "url": "https://truball.com/products/sweet-spot-pro-flex",
+    "priceUsd": 300.86,
+    "verified": true
+  },
+  {
+    "category": "release",
+    "brand": "Axcel",
+    "model": "Tornado",
+    "url": "https://truball.com/products/tornado",
+    "priceUsd": 88.18,
+    "verified": true
+  },
+  {
+    "category": "release",
+    "brand": "Axcel",
+    "model": "Ultimate Flex",
+    "url": "https://truball.com/products/ultimate-flex",
+    "priceUsd": 456.49,
+    "verified": true
+  },
+  {
+    "category": "release",
+    "brand": "B3",
+    "model": "Exile",
+    "url": "https://www.b3archery.com",
+    "priceUsd": null,
+    "verified": false
+  },
+  {
+    "category": "release",
+    "brand": "B3",
+    "model": "Hawk",
+    "url": "https://www.b3archery.com",
+    "priceUsd": null,
+    "verified": false
+  },
+  {
+    "category": "release",
+    "brand": "B3",
+    "model": "Rival",
+    "url": "https://www.b3archery.com",
+    "priceUsd": null,
+    "verified": false
+  },
+  {
+    "category": "release",
+    "brand": "Carter",
+    "model": "Evolution Plus",
+    "url": "https://www.carterenterprises.com",
+    "priceUsd": null,
+    "verified": false
+  },
+  {
+    "category": "release",
+    "brand": "Carter",
+    "model": "Honey 2",
+    "url": "https://www.carterenterprises.com",
+    "priceUsd": null,
+    "verified": false
+  },
+  {
+    "category": "release",
+    "brand": "Carter",
+    "model": "Insatiable",
+    "url": "https://www.carterenterprises.com",
+    "priceUsd": null,
+    "verified": false
+  },
+  {
+    "category": "release",
+    "brand": "Carter",
+    "model": "Just B-Cuz",
+    "url": "https://www.carterenterprises.com",
+    "priceUsd": null,
+    "verified": false
+  },
+  {
+    "category": "release",
+    "brand": "Carter",
+    "model": "Too Simple",
+    "url": "https://www.carterenterprises.com",
+    "priceUsd": null,
+    "verified": false
+  },
+  {
+    "category": "release",
+    "brand": "Carter",
+    "model": "Wise Choice",
+    "url": "https://www.carterenterprises.com",
+    "priceUsd": null,
+    "verified": false
+  },
+  {
+    "category": "release",
+    "brand": "Nock On",
+    "model": "Nock 2 It",
+    "url": "https://nockon.com",
+    "priceUsd": null,
+    "verified": false
+  },
+  {
+    "category": "release",
+    "brand": "Nock On",
+    "model": "Silverback",
+    "url": "https://nockon.com",
+    "priceUsd": null,
+    "verified": false
+  },
+  {
+    "category": "release",
+    "brand": "Scott",
+    "model": "Apex Core",
+    "url": "https://scottarchery.com/products/apex-core",
+    "priceUsd": 284.99,
+    "verified": true
+  },
+  {
+    "category": "release",
+    "brand": "Scott",
+    "model": "Aspen",
+    "url": "https://scottarchery.com/products/aspen",
+    "priceUsd": 59.99,
+    "verified": true
+  },
+  {
+    "category": "release",
+    "brand": "Scott",
+    "model": "Cypress",
+    "url": "https://scottarchery.com/products/cypress",
+    "priceUsd": 59.99,
+    "verified": true
+  },
+  {
+    "category": "release",
+    "brand": "Scott",
+    "model": "Ghost",
+    "url": "https://scottarchery.com/products/ghost",
+    "priceUsd": 104.99,
+    "verified": true
+  },
+  {
+    "category": "release",
+    "brand": "Scott",
+    "model": "Ghost w/ NCS Strap",
+    "url": "https://scottarchery.com/products/ghost-w-ncs-strap",
+    "priceUsd": 104.99,
+    "verified": true
+  },
+  {
+    "category": "release",
+    "brand": "Scott",
+    "model": "Little Goose RTS",
+    "url": "https://scottarchery.com/products/little-goose-rts",
+    "priceUsd": 79.99,
+    "verified": true
+  },
+  {
+    "category": "release",
+    "brand": "Scott",
+    "model": "Longhorn Expert",
+    "url": "https://scottarchery.com/products/longhorn-expert",
+    "priceUsd": 249.99,
+    "verified": true
+  },
+  {
+    "category": "release",
+    "brand": "Scott",
+    "model": "Pursuit",
+    "url": "https://scottarchery.com/products/pursuit",
+    "priceUsd": 179.99,
+    "verified": true
+  },
+  {
+    "category": "release",
+    "brand": "Scott",
+    "model": "Quick-Shot",
+    "url": "https://scottarchery.com/products/quick-shot",
+    "priceUsd": 44.99,
+    "verified": true
+  },
+  {
+    "category": "release",
+    "brand": "Scott",
+    "model": "Quickshot Jr.",
+    "url": "https://scottarchery.com/products/quickshot-jr",
+    "priceUsd": 44.99,
+    "verified": true
+  },
+  {
+    "category": "release",
+    "brand": "Scott",
+    "model": "Shark RTS",
+    "url": "https://scottarchery.com/products/shark-rts",
+    "priceUsd": 79.99,
+    "verified": true
+  },
+  {
+    "category": "release",
+    "brand": "Scott",
+    "model": "SR1",
+    "url": "https://scottarchery.com/products/sr1",
+    "priceUsd": 279.99,
+    "verified": true
+  },
+  {
+    "category": "release",
+    "brand": "Scott",
+    "model": "STB",
+    "url": "https://scottarchery.com/products/stb",
+    "priceUsd": 275.99,
+    "verified": true
+  },
+  {
+    "category": "release",
+    "brand": "Scott",
+    "model": "Summit",
+    "url": "https://scottarchery.com/products/summit",
+    "priceUsd": 124.99,
+    "verified": true
+  },
+  {
+    "category": "release",
+    "brand": "Scott",
+    "model": "Vibe",
+    "url": "https://scottarchery.com/products/vibe",
+    "priceUsd": 69.99,
+    "verified": true
+  },
+  {
+    "category": "release",
+    "brand": "Spot Hogg",
+    "model": "Saturday Night Special",
+    "url": "https://www.spot-hogg.com",
+    "priceUsd": null,
+    "verified": false
+  },
+  {
+    "category": "release",
+    "brand": "Spot Hogg",
+    "model": "Whipper Snapper",
+    "url": "https://www.spot-hogg.com",
+    "priceUsd": null,
+    "verified": false
+  },
+  {
+    "category": "release",
+    "brand": "Spot Hogg",
+    "model": "Wiseguy",
+    "url": "https://www.spot-hogg.com",
+    "priceUsd": null,
+    "verified": false
+  },
+  {
+    "category": "release",
+    "brand": "Stan",
+    "model": "Element",
+    "url": "https://www.stanarchery.com",
+    "priceUsd": null,
+    "verified": false
+  },
+  {
+    "category": "release",
+    "brand": "Stan",
+    "model": "Onnex",
+    "url": "https://www.stanarchery.com",
+    "priceUsd": null,
+    "verified": false
+  },
+  {
+    "category": "release",
+    "brand": "Stan",
+    "model": "PerfeX",
+    "url": "https://www.stanarchery.com",
+    "priceUsd": null,
+    "verified": false
+  },
+  {
+    "category": "release",
+    "brand": "Stan",
+    "model": "Shootoff",
+    "url": "https://www.stanarchery.com",
+    "priceUsd": null,
+    "verified": false
+  },
+  {
+    "category": "release",
+    "brand": "Stan",
+    "model": "Xtinction",
+    "url": "https://www.stanarchery.com",
+    "priceUsd": null,
+    "verified": false
+  },
+  {
+    "category": "release",
+    "brand": "Tru-Fire",
+    "model": "Edge",
+    "url": "https://www.trufire.com",
+    "priceUsd": null,
+    "verified": false
+  },
+  {
+    "category": "release",
+    "brand": "Tru-Fire",
+    "model": "Sear",
+    "url": "https://www.trufire.com",
+    "priceUsd": null,
+    "verified": false
+  },
+  {
+    "category": "release",
+    "brand": "Tru-Fire",
+    "model": "Synapse",
+    "url": "https://www.trufire.com",
+    "priceUsd": null,
+    "verified": false
+  },
+  {
+    "category": "release",
+    "brand": "UltraView",
+    "model": "Button",
+    "url": "https://ultraviewarchery.com/products/uv-button",
+    "priceUsd": 299.99,
+    "verified": true
+  },
+  {
+    "category": "release",
+    "brand": "UltraView",
+    "model": "Button 2",
+    "url": "https://ultraviewarchery.com/products/uv-button™-2-copy",
+    "priceUsd": 299.99,
+    "verified": true
+  },
+  {
+    "category": "release",
+    "brand": "UltraView",
+    "model": "Button 2 & Hinge 3",
+    "url": "https://ultraviewarchery.com/products/uv-button-2-finger-attachments-copy",
+    "priceUsd": 39.99,
+    "verified": true
+  },
+  {
+    "category": "release",
+    "brand": "UltraView",
+    "model": "Hinge 3",
+    "url": "https://ultraviewarchery.com/products/uv-hinge™-3",
+    "priceUsd": 249.99,
+    "verified": true
+  },
+  {
+    "category": "release",
+    "brand": "UltraView",
+    "model": "Robin Hood Release Holster",
+    "url": "https://ultraviewarchery.com/products/robin-hood-release-holster",
+    "priceUsd": 59.99,
+    "verified": true
+  },
+  {
+    "category": "release",
+    "brand": "UltraView",
+    "model": "The Hinge 2",
+    "url": "https://ultraviewarchery.com/products/the-hinge-2",
+    "priceUsd": 149.99,
+    "verified": true
+  },
+  {
+    "category": "rest",
+    "brand": "AAE",
+    "model": "Pro Blade",
+    "url": "https://www.arizonaarchery.com",
+    "priceUsd": null,
+    "verified": false
+  },
+  {
+    "category": "rest",
+    "brand": "AAE",
+    "model": "Pro Drop",
+    "url": "https://www.arizonaarchery.com",
+    "priceUsd": null,
+    "verified": false
+  },
+  {
+    "category": "rest",
+    "brand": "CBE",
+    "model": "Arrow Mane Rest",
+    "url": "https://custombowequipment.com/products/arrow-mane-rest",
+    "priceUsd": 49.99,
+    "verified": true
+  },
+  {
+    "category": "rest",
+    "brand": "CBE",
+    "model": "Defy Micro",
+    "url": "https://custombowequipment.com/products/defy-micro",
+    "priceUsd": 169.99,
+    "verified": true
+  },
+  {
+    "category": "rest",
+    "brand": "Hamskea",
+    "model": "Epsilon",
+    "url": "https://hamskea.com",
+    "priceUsd": null,
+    "verified": false
+  },
+  {
+    "category": "rest",
+    "brand": "Hamskea",
+    "model": "Hybrid Hunter Pro",
+    "url": "https://hamskea.com",
+    "priceUsd": null,
+    "verified": false
+  },
+  {
+    "category": "rest",
+    "brand": "Hamskea",
+    "model": "Raptor",
+    "url": "https://hamskea.com",
+    "priceUsd": null,
+    "verified": false
+  },
+  {
+    "category": "rest",
+    "brand": "Hamskea",
+    "model": "Trinity Hunter Pro",
+    "url": "https://hamskea.com",
+    "priceUsd": null,
+    "verified": false
+  },
+  {
+    "category": "rest",
+    "brand": "Hamskea",
+    "model": "Trinity Target Pro",
+    "url": "https://hamskea.com",
+    "priceUsd": null,
+    "verified": false
+  },
+  {
+    "category": "rest",
+    "brand": "Hamskea",
+    "model": "Versarest",
+    "url": "https://hamskea.com",
+    "priceUsd": null,
+    "verified": false
+  },
+  {
+    "category": "rest",
+    "brand": "Hoyt",
+    "model": "UltraRest",
+    "url": "https://hoyt.com/products/hoyt-ultra-rest",
+    "priceUsd": 199.99,
+    "verified": true
+  },
+  {
+    "category": "rest",
+    "brand": "Hoyt",
+    "model": "UltraRest Integrate MX Arrow Rest",
+    "url": "https://hoyt.com/products/ultrarest-integrate-mx",
+    "priceUsd": 299.99,
+    "verified": true
+  },
+  {
+    "category": "rest",
+    "brand": "Hoyt",
+    "model": "UltraRest Integrate MX2 Arrow Rest",
+    "url": "https://hoyt.com/products/hoyt-ultrarest-integrate-mx2-arrow-rest",
+    "priceUsd": 309.99,
+    "verified": true
+  },
+  {
+    "category": "rest",
+    "brand": "Mathews",
+    "model": "UltraRest HDX",
+    "url": "https://mathewsinc.com/products/ultrarest-hdx™",
+    "priceUsd": 189.99,
+    "verified": true
+  },
+  {
+    "category": "rest",
+    "brand": "Mathews",
+    "model": "Ultrarest Integrate MX2",
+    "url": "https://mathewsinc.com/products/ultrarest-integrate-mx2™",
+    "priceUsd": 299.99,
+    "verified": true
+  },
+  {
+    "category": "rest",
+    "brand": "Mathews",
+    "model": "Ultrarest TRi Target Rest",
+    "url": "https://mathewsinc.com/products/ultrarest-tri™-target-rest",
+    "priceUsd": 389.99,
+    "verified": true
+  },
+  {
+    "category": "rest",
+    "brand": "Option Archery",
+    "model": "ASSET Rest (Summer '26)",
+    "url": "https://optionarchery.com/products/asset-arrow-rest-coming-summer-2026",
+    "priceUsd": 0.0,
+    "verified": true
+  },
+  {
+    "category": "rest",
+    "brand": "QAD",
+    "model": "Integrate MX",
+    "url": "https://www.qadinc.com",
+    "priceUsd": null,
+    "verified": false
+  },
+  {
+    "category": "rest",
+    "brand": "QAD",
+    "model": "Integrate MX2",
+    "url": "https://www.qadinc.com",
+    "priceUsd": null,
+    "verified": false
+  },
+  {
+    "category": "rest",
+    "brand": "QAD",
+    "model": "Integrate MXT",
+    "url": "https://www.qadinc.com",
+    "priceUsd": null,
+    "verified": false
+  },
+  {
+    "category": "rest",
+    "brand": "QAD",
+    "model": "Ultrarest HDX",
+    "url": "https://www.qadinc.com",
+    "priceUsd": null,
+    "verified": false
+  },
+  {
+    "category": "rest",
+    "brand": "QAD",
+    "model": "Ultrarest HDX Pro",
+    "url": "https://www.qadinc.com",
+    "priceUsd": null,
+    "verified": false
+  },
+  {
+    "category": "rest",
+    "brand": "QAD",
+    "model": "Ultrarest Integrate Blade",
+    "url": "https://www.qadinc.com",
+    "priceUsd": null,
+    "verified": false
+  },
+  {
+    "category": "rest",
+    "brand": "Ripcord",
+    "model": "Ace",
+    "url": "https://www.ripcordarchery.com",
+    "priceUsd": null,
+    "verified": false
+  },
+  {
+    "category": "rest",
+    "brand": "Ripcord",
+    "model": "Ace Pro",
+    "url": "https://www.ripcordarchery.com",
+    "priceUsd": null,
+    "verified": false
+  },
+  {
+    "category": "rest",
+    "brand": "Ripcord",
+    "model": "Code Red X",
+    "url": "https://www.ripcordarchery.com",
+    "priceUsd": null,
+    "verified": false
+  },
+  {
+    "category": "rest",
+    "brand": "Shrewd",
+    "model": "Remedy Arrow Rest",
+    "url": "https://shrewdarchery.com/products/remedy-arrow-rest",
+    "priceUsd": 170.0,
+    "verified": true
+  },
+  {
+    "category": "rest",
+    "brand": "Spot Hogg",
+    "model": "Boss Hogg Rest",
+    "url": "https://www.spot-hogg.com",
+    "priceUsd": null,
+    "verified": false
+  },
+  {
+    "category": "rest",
+    "brand": "Spot Hogg",
+    "model": "Edge",
+    "url": "https://www.spot-hogg.com",
+    "priceUsd": null,
+    "verified": false
+  },
+  {
+    "category": "rest",
+    "brand": "Spot Hogg",
+    "model": "Fast Eddie Rest",
+    "url": "https://www.spot-hogg.com",
+    "priceUsd": null,
+    "verified": false
+  },
+  {
+    "category": "rest",
+    "brand": "Trophy Ridge",
+    "model": "Sync",
+    "url": "https://www.trophyridge.com",
+    "priceUsd": null,
+    "verified": false
+  },
+  {
+    "category": "rest",
+    "brand": "Trophy Ridge",
+    "model": "Whisker Biscuit Kill Shot",
+    "url": "https://www.trophyridge.com",
+    "priceUsd": null,
+    "verified": false
+  },
+  {
+    "category": "rest",
+    "brand": "Trophy Taker",
+    "model": "Smackdown Pro",
+    "url": "https://www.trophytaker.com",
+    "priceUsd": null,
+    "verified": false
+  },
+  {
+    "category": "rest",
+    "brand": "Trophy Taker",
+    "model": "Smackdown Pro Dovetail",
+    "url": "https://www.trophytaker.com",
+    "priceUsd": null,
+    "verified": false
+  },
+  {
+    "category": "rest",
+    "brand": "Trophy Taker",
+    "model": "Spring Steel Pro",
+    "url": "https://www.trophytaker.com",
+    "priceUsd": null,
+    "verified": false
+  },
+  {
+    "category": "rest",
+    "brand": "Vapor Trail",
+    "model": "Gen 7X",
+    "url": "https://www.vaportrailarchery.com",
+    "priceUsd": null,
+    "verified": false
+  },
+  {
+    "category": "rest",
+    "brand": "Vapor Trail",
+    "model": "Pro-V",
+    "url": "https://www.vaportrailarchery.com",
+    "priceUsd": null,
+    "verified": false
+  },
+  {
+    "category": "scope",
+    "brand": "Axcel",
+    "model": "AccuStat II CK Scope",
+    "url": "https://truball.com/products/accustat-ii-ck-scope",
+    "priceUsd": 259.36,
+    "verified": true
+  },
+  {
+    "category": "scope",
+    "brand": "Axcel",
+    "model": "AccuStat II Scope",
+    "url": "https://truball.com/products/accustat-ii-scope",
+    "priceUsd": 248.99,
+    "verified": true
+  },
+  {
+    "category": "scope",
+    "brand": "Axcel",
+    "model": "AV-25 PLUS Scope",
+    "url": "https://truball.com/products/av-25-plus-scope",
+    "priceUsd": 186.72,
+    "verified": true
+  },
+  {
+    "category": "scope",
+    "brand": "Axcel",
+    "model": "AVX-31 PLUS CK Scope",
+    "url": "https://truball.com/products/avx-31-ck-plus-scope",
+    "priceUsd": 225.12,
+    "verified": true
+  },
+  {
+    "category": "scope",
+    "brand": "Axcel",
+    "model": "AVX-31 PLUS Scope",
+    "url": "https://truball.com/products/avx-31-plus-scope",
+    "priceUsd": 214.74,
+    "verified": true
+  },
+  {
+    "category": "scope",
+    "brand": "Axcel",
+    "model": "AVX-41 PLUS CK Scope",
+    "url": "https://truball.com/products/avx-41-ck-plus-scope",
+    "priceUsd": 225.12,
+    "verified": true
+  },
+  {
+    "category": "scope",
+    "brand": "Axcel",
+    "model": "AVX-41 PLUS Scope",
+    "url": "https://truball.com/products/avx-41-plus-scope",
+    "priceUsd": 214.74,
+    "verified": true
+  },
+  {
+    "category": "scope",
+    "brand": "Axcel",
+    "model": "Curve Cube Scope",
+    "url": "https://truball.com/products/curve-cube",
+    "priceUsd": 84.99,
+    "verified": true
+  },
+  {
+    "category": "scope",
+    "brand": "Axcel",
+    "model": "Curve RX & RXF Aperture Disc",
+    "url": "https://truball.com/products/curve-rx-rxf-aperture-disc",
+    "priceUsd": 19.66,
+    "verified": true
+  },
+  {
+    "category": "scope",
+    "brand": "Axcel",
+    "model": "Curve RX Scope",
+    "url": "https://truball.com/products/curve-rx-recurve-sope",
+    "priceUsd": 103.74,
+    "verified": true
+  },
+  {
+    "category": "scope",
+    "brand": "Axcel",
+    "model": "Curve RXF Scope",
+    "url": "https://truball.com/products/curve-rxf-sjef-signature-series",
+    "priceUsd": 103.74,
+    "verified": true
+  },
+  {
+    "category": "scope",
+    "brand": "Black Gold",
+    "model": "Verdict Scope",
+    "url": "https://blackgoldaccessories.com",
+    "priceUsd": null,
+    "verified": false
+  },
+  {
+    "category": "scope",
+    "brand": "Shrewd",
+    "model": "Nomad Scope",
+    "url": "https://shrewdarchery.com/products/nomad-scope",
+    "priceUsd": 99.0,
+    "verified": true
+  },
+  {
+    "category": "scope",
+    "brand": "Shrewd",
+    "model": "Optum 29mm Scope",
+    "url": "https://shrewdarchery.com/products/optum-29mm-scope-2026-patriot-edition",
+    "priceUsd": 188.6,
+    "verified": true
+  },
+  {
+    "category": "scope",
+    "brand": "Shrewd",
+    "model": "Optum Ring System",
+    "url": "https://shrewdarchery.com/products/optum-ring-system-dual-fiber-pin",
+    "priceUsd": 85.0,
+    "verified": true
+  },
+  {
+    "category": "scope",
+    "brand": "Shrewd",
+    "model": "Optum Scope",
+    "url": "https://shrewdarchery.com/products/optum-scope-dune-29mm-rh",
+    "priceUsd": 155.0,
+    "verified": true
+  },
+  {
+    "category": "scope",
+    "brand": "Shrewd",
+    "model": "Optum Scope- Crimson Red",
+    "url": "https://shrewdarchery.com/products/optum-scope-crimson-red-29mm",
+    "priceUsd": 135.0,
+    "verified": true
+  },
+  {
+    "category": "scope",
+    "brand": "Shrewd",
+    "model": "Optum Scope- Forge Grey",
+    "url": "https://shrewdarchery.com/products/optum-scope-forge-grey-29mm",
+    "priceUsd": 135.0,
+    "verified": true
+  },
+  {
+    "category": "scope",
+    "brand": "Shrewd",
+    "model": "Optum Scope- Freedom Blue",
+    "url": "https://shrewdarchery.com/products/optum-scope-freedom-blue-29mm",
+    "priceUsd": 135.0,
+    "verified": true
+  },
+  {
+    "category": "scope",
+    "brand": "Shrewd",
+    "model": "Optum Scope- Orange",
+    "url": "https://shrewdarchery.com/products/optum-scope-orange-29mm",
+    "priceUsd": 135.0,
+    "verified": true
+  },
+  {
+    "category": "scope",
+    "brand": "Shrewd",
+    "model": "Razor Pin",
+    "url": "https://shrewdarchery.com/products/razor-pin-mini-mag-29mm",
+    "priceUsd": 15.0,
+    "verified": true
+  },
+  {
+    "category": "scope",
+    "brand": "Shrewd",
+    "model": "Scope Hex Nut",
+    "url": "https://shrewdarchery.com/products/scope-hex-nut",
+    "priceUsd": 2.0,
+    "verified": true
+  },
+  {
+    "category": "scope",
+    "brand": "Shrewd",
+    "model": "TAK",
+    "url": "https://shrewdarchery.com/products/tak-tubing-adapter-kit",
+    "priceUsd": 10.0,
+    "verified": true
+  },
+  {
+    "category": "scope",
+    "brand": "Shrewd",
+    "model": "VentX Recurve Scope",
+    "url": "https://shrewdarchery.com/products/ventx-recurve-scope",
+    "priceUsd": 160.0,
+    "verified": true
+  },
+  {
+    "category": "scope",
+    "brand": "Specialty Archery",
+    "model": "Pro Series Scope",
+    "url": "https://www.specialtyarch.com",
+    "priceUsd": null,
+    "verified": false
+  },
+  {
+    "category": "scope",
+    "brand": "Spot Hogg",
+    "model": "Hogg-It Scope",
+    "url": "https://www.spot-hogg.com",
+    "priceUsd": null,
+    "verified": false
+  },
+  {
+    "category": "scope",
+    "brand": "UltraView",
+    "model": "Hunting Scopes",
+    "url": "https://ultraviewarchery.com/products/uv3xl-se-1",
+    "priceUsd": 129.99,
+    "verified": true
+  },
+  {
+    "category": "scope",
+    "brand": "UltraView",
+    "model": "Scope Rod Wrench Tool",
+    "url": "https://ultraviewarchery.com/products/uv-set-screw-wrench-kit",
+    "priceUsd": 9.99,
+    "verified": true
+  },
+  {
+    "category": "scope",
+    "brand": "UltraView",
+    "model": "Target Scopes",
+    "url": "https://ultraviewarchery.com/products/uv3xl-target-kit",
+    "priceUsd": 129.99,
+    "verified": true
+  },
+  {
+    "category": "scope",
+    "brand": "Viper",
+    "model": "Venom Pro",
+    "url": "https://www.viperarcheryproducts.com",
+    "priceUsd": null,
+    "verified": false
+  },
+  {
+    "category": "sight",
+    "brand": "Axcel",
+    "model": "Achieve XP",
+    "url": "https://truball.com/products/achieve-xp-recurve",
+    "priceUsd": 544.68,
+    "verified": true
+  },
+  {
+    "category": "sight",
+    "brand": "Axcel",
+    "model": "Achieve XP PRO",
+    "url": "https://truball.com/products/achieve-xp-pro-recurve-diamond-weave-carbon-bar",
+    "priceUsd": 586.18,
+    "verified": true
+  },
+  {
+    "category": "sight",
+    "brand": "Axcel",
+    "model": "Achieve XP PRO with Bridge-Lock Mount",
+    "url": "https://truball.com/products/achieve-xp-pro-with-bridge-lock™-mount",
+    "priceUsd": 614.99,
+    "verified": true
+  },
+  {
+    "category": "sight",
+    "brand": "Axcel",
+    "model": "Driver",
+    "url": "https://truball.com/products/driver-avx-triple-threat-pin-picatinny",
+    "priceUsd": 508.36,
+    "verified": true
+  },
+  {
+    "category": "sight",
+    "brand": "Axcel",
+    "model": "Driver CK",
+    "url": "https://truball.com/products/driver-ck-standard-pro-avx-triple-threat-pin",
+    "priceUsd": 560.24,
+    "verified": true
+  },
+  {
+    "category": "sight",
+    "brand": "Axcel",
+    "model": "Landslyde",
+    "url": "https://truball.com/products/landslyde-sight-bar-only-no-scope",
+    "priceUsd": 363.11,
+    "verified": true
+  },
+  {
+    "category": "sight",
+    "brand": "Axcel",
+    "model": "RheoTech",
+    "url": "https://truball.com/products/rheotech-fixed-pin-sight",
+    "priceUsd": 352.74,
+    "verified": true
+  },
+  {
+    "category": "sight",
+    "brand": "Black Gold",
+    "model": "Ascent Verdict",
+    "url": "https://blackgoldaccessories.com/bowsights/ascent-verdict/",
+    "priceUsd": 279.95,
+    "verified": true
+  },
+  {
+    "category": "sight",
+    "brand": "Black Gold",
+    "model": "Ascent Verdict Assault",
+    "url": "https://blackgoldaccessories.com/bowsights/ascent-verdict-assault/",
+    "priceUsd": 339.95,
+    "verified": true
+  },
+  {
+    "category": "sight",
+    "brand": "Black Gold",
+    "model": "Ascent Whitetail",
+    "url": "https://blackgoldaccessories.com/bowsights/ascent-whitetail/",
+    "priceUsd": 239.95,
+    "verified": true
+  },
+  {
+    "category": "sight",
+    "brand": "Black Gold",
+    "model": "Dovetail Bases",
+    "url": "https://blackgoldaccessories.com/sight-accessories/dovetail-bases/",
+    "priceUsd": 89.95,
+    "verified": true
+  },
+  {
+    "category": "sight",
+    "brand": "Black Gold",
+    "model": "Dovetail Quiver Adapter",
+    "url": "https://blackgoldaccessories.com/sight-accessories/dovetail-quiver-adapter/",
+    "priceUsd": 21.95,
+    "verified": true
+  },
+  {
+    "category": "sight",
+    "brand": "Black Gold",
+    "model": "Dual Indicator System",
+    "url": "https://blackgoldaccessories.com/sight-accessories/dual-indicator-system/",
+    "priceUsd": 24.95,
+    "verified": true
+  },
+  {
+    "category": "sight",
+    "brand": "Black Gold",
+    "model": "Dual Trac",
+    "url": "https://blackgoldaccessories.com/bowsights/dual-trac/",
+    "priceUsd": 379.95,
+    "verified": true
+  },
+  {
+    "category": "sight",
+    "brand": "Black Gold",
+    "model": "MODD",
+    "url": "https://blackgoldaccessories.com/bowsights/modd/",
+    "priceUsd": 629.95,
+    "verified": true
+  },
+  {
+    "category": "sight",
+    "brand": "Black Gold",
+    "model": "MODD Speed Knob",
+    "url": "https://blackgoldaccessories.com/modd-sight-accessories/modd-speed-knob/",
+    "priceUsd": 24.95,
+    "verified": true
+  },
+  {
+    "category": "sight",
+    "brand": "Black Gold",
+    "model": "Pro FX",
+    "url": "https://blackgoldaccessories.com/bowsights/pro-fx/",
+    "priceUsd": 349.95,
+    "verified": true
+  },
+  {
+    "category": "sight",
+    "brand": "Black Gold",
+    "model": "Pro Hunter HD",
+    "url": "https://blackgoldaccessories.com/bowsights/pro-hunter-hd/",
+    "priceUsd": 319.95,
+    "verified": true
+  },
+  {
+    "category": "sight",
+    "brand": "Black Gold",
+    "model": "Pro Hunter HD Dovetail",
+    "url": "https://blackgoldaccessories.com/bowsights/pro-hunter-hd-dovetail/",
+    "priceUsd": 359.95,
+    "verified": true
+  },
+  {
+    "category": "sight",
+    "brand": "Black Gold",
+    "model": "Pro Hunter HD Quick Link",
+    "url": "https://blackgoldaccessories.com/bowsights/pro-hunter-hd-quick-link/",
+    "priceUsd": 359.99,
+    "verified": true
+  },
+  {
+    "category": "sight",
+    "brand": "Black Gold",
+    "model": "Pro Sight",
+    "url": "https://blackgoldaccessories.com/bowsights/pro-sight/",
+    "priceUsd": 369.95,
+    "verified": true
+  },
+  {
+    "category": "sight",
+    "brand": "Black Gold",
+    "model": "Quick Detach Knob",
+    "url": "https://blackgoldaccessories.com/sight-accessories/quick-detach-knob/",
+    "priceUsd": 20.0,
+    "verified": true
+  },
+  {
+    "category": "sight",
+    "brand": "Black Gold",
+    "model": "Quick Link",
+    "url": "https://blackgoldaccessories.com/sight-accessories/quick-link/",
+    "priceUsd": 124.95,
+    "verified": true
+  },
+  {
+    "category": "sight",
+    "brand": "Black Gold",
+    "model": "Revenge",
+    "url": "https://blackgoldaccessories.com/bowsights/revenge/",
+    "priceUsd": 289.95,
+    "verified": true
+  },
+  {
+    "category": "sight",
+    "brand": "Black Gold",
+    "model": "Rush",
+    "url": "https://blackgoldaccessories.com/bowsights/rush/",
+    "priceUsd": 119.95,
+    "verified": true
+  },
+  {
+    "category": "sight",
+    "brand": "Black Gold",
+    "model": "Widow Maker",
+    "url": "https://blackgoldaccessories.com/bowsights/widow-maker/",
+    "priceUsd": 189.95,
+    "verified": true
+  },
+  {
+    "category": "sight",
+    "brand": "Black Gold",
+    "model": "Wing Truss Bars",
+    "url": "https://blackgoldaccessories.com/sight-accessories/wing-truss-bars/",
+    "priceUsd": 135.95,
+    "verified": true
+  },
+  {
+    "category": "sight",
+    "brand": "Burris",
+    "model": "Oracle 2",
+    "url": "https://www.burrisoptics.com",
+    "priceUsd": null,
+    "verified": false
+  },
+  {
+    "category": "sight",
+    "brand": "Burris",
+    "model": "Oracle X",
+    "url": "https://www.burrisoptics.com",
+    "priceUsd": null,
+    "verified": false
+  },
+  {
+    "category": "sight",
+    "brand": "CBE",
+    "model": "Axis",
+    "url": "https://custombowequipment.com/products/axis",
+    "priceUsd": 449.99,
+    "verified": true
+  },
+  {
+    "category": "sight",
+    "brand": "CBE",
+    "model": "CX-5 Hunting Sight",
+    "url": "https://custombowequipment.com/products/cx-5-hunting-sight",
+    "priceUsd": 189.99,
+    "verified": true
+  },
+  {
+    "category": "sight",
+    "brand": "CBE",
+    "model": "Tactic",
+    "url": "https://custombowequipment.com/products/tactic",
+    "priceUsd": 74.99,
+    "verified": true
+  },
+  {
+    "category": "sight",
+    "brand": "CBE",
+    "model": "Tactic Hybrid",
+    "url": "https://custombowequipment.com/products/tactic-hybrid",
+    "priceUsd": 139.99,
+    "verified": true
+  },
+  {
+    "category": "sight",
+    "brand": "CBE",
+    "model": "Tactic Micro",
+    "url": "https://custombowequipment.com/products/tactic-micro",
+    "priceUsd": 94.99,
+    "verified": true
+  },
+  {
+    "category": "sight",
+    "brand": "CBE",
+    "model": "Trek 2V",
+    "url": "https://custombowequipment.com/products/trek-2v",
+    "priceUsd": 259.99,
+    "verified": true
+  },
+  {
+    "category": "sight",
+    "brand": "CBE",
+    "model": "Trek Pro 2V",
+    "url": "https://custombowequipment.com/products/trek-pro-2v",
+    "priceUsd": 329.99,
+    "verified": true
+  },
+  {
+    "category": "sight",
+    "brand": "CBE",
+    "model": "Trek Pro Micro 3V",
+    "url": "https://custombowequipment.com/products/trek-pro-micro-3v",
+    "priceUsd": 349.99,
+    "verified": true
+  },
+  {
+    "category": "sight",
+    "brand": "CBE",
+    "model": "Trek Pro Sight",
+    "url": "https://custombowequipment.com/products/trek-pro-sight",
+    "priceUsd": 344.99,
+    "verified": true
+  },
+  {
+    "category": "sight",
+    "brand": "CBE",
+    "model": "Trek Sight",
+    "url": "https://custombowequipment.com/products/trek-sight",
+    "priceUsd": 259.99,
+    "verified": true
+  },
+  {
+    "category": "sight",
+    "brand": "Dialed",
+    "model": "SL Series",
+    "url": "https://www.dialedarchery.com",
+    "priceUsd": null,
+    "verified": false
+  },
+  {
+    "category": "sight",
+    "brand": "Dialed",
+    "model": "SLT",
+    "url": "https://www.dialedarchery.com",
+    "priceUsd": null,
+    "verified": false
+  },
+  {
+    "category": "sight",
+    "brand": "Garmin",
+    "model": "Xero A1i Pro",
+    "url": "https://www.garmin.com",
+    "priceUsd": null,
+    "verified": false
+  },
+  {
+    "category": "sight",
+    "brand": "HHA",
+    "model": "Kingpin",
+    "url": "https://www.hhasports.com",
+    "priceUsd": null,
+    "verified": false
+  },
+  {
+    "category": "sight",
+    "brand": "HHA",
+    "model": "Optimizer Lite",
+    "url": "https://www.hhasports.com",
+    "priceUsd": null,
+    "verified": false
+  },
+  {
+    "category": "sight",
+    "brand": "HHA",
+    "model": "Tetra",
+    "url": "https://www.hhasports.com",
+    "priceUsd": null,
+    "verified": false
+  },
+  {
+    "category": "sight",
+    "brand": "HHA",
+    "model": "Tetra Max",
+    "url": "https://www.hhasports.com",
+    "priceUsd": null,
+    "verified": false
+  },
+  {
+    "category": "sight",
+    "brand": "HHA",
+    "model": "Tetra Tournament",
+    "url": "https://www.hhasports.com",
+    "priceUsd": null,
+    "verified": false
+  },
+  {
+    "category": "sight",
+    "brand": "Hoyt",
+    "model": "Vectrix PXT 5-Pin Sight",
+    "url": "https://hoyt.com/products/hoyt-vectrix-pxt-sight",
+    "priceUsd": 169.99,
+    "verified": true
+  },
+  {
+    "category": "sight",
+    "brand": "Hoyt",
+    "model": "XERO A1i Pro Digital Sight",
+    "url": "https://hoyt.com/products/xero-a1i-pro-digital-sight",
+    "priceUsd": 1399.0,
+    "verified": true
+  },
+  {
+    "category": "sight",
+    "brand": "Mathews",
+    "model": "Bridge-Lock Carbon Sight Bar",
+    "url": "https://mathewsinc.com/products/bridge-lock™carbon-sight-bar",
+    "priceUsd": 119.99,
+    "verified": true
+  },
+  {
+    "category": "sight",
+    "brand": "Mathews",
+    "model": "Bridge-Lock Fixed 5-Pin Sight",
+    "url": "https://mathewsinc.com/products/bridge-lock™fixed-5-pin-sight",
+    "priceUsd": 389.99,
+    "verified": true
+  },
+  {
+    "category": "sight",
+    "brand": "Mathews",
+    "model": "Bridge-Lock Sight Set Screw",
+    "url": "https://mathewsinc.com/products/bridge-lock®-sight-set-screw",
+    "priceUsd": 14.99,
+    "verified": true
+  },
+  {
+    "category": "sight",
+    "brand": "Mathews",
+    "model": "Bridge-Lock UV Slider 2",
+    "url": "https://mathewsinc.com/products/bridge-lock®-uv-slider-2",
+    "priceUsd": 699.99,
+    "verified": true
+  },
+  {
+    "category": "sight",
+    "brand": "Mathews",
+    "model": "Bridge-Lock UV Slider 2 Cartridge",
+    "url": "https://mathewsinc.com/products/bridge-lock-uv-slider-cartridge-2",
+    "priceUsd": 149.99,
+    "verified": true
+  },
+  {
+    "category": "sight",
+    "brand": "Option Archery",
+    "model": "4s/6s Sight Models",
+    "url": "https://optionarchery.com/products/new-s-series-option-sights",
+    "priceUsd": 530.0,
+    "verified": true
+  },
+  {
+    "category": "sight",
+    "brand": "Option Archery",
+    "model": "8s Sight Model",
+    "url": "https://optionarchery.com/products/option-sight-model-8s",
+    "priceUsd": 560.0,
+    "verified": true
+  },
+  {
+    "category": "sight",
+    "brand": "Option Archery",
+    "model": "Allen Wrench Set",
+    "url": "https://optionarchery.com/products/allen-wrench-set",
+    "priceUsd": 15.0,
+    "verified": true
+  },
+  {
+    "category": "sight",
+    "brand": "Option Archery",
+    "model": "Available Sight Upgrades (for previous models)",
+    "url": "https://optionarchery.com/products/s-series-sight-upgrade-upgrade-previous-option-trophy-taker-sights",
+    "priceUsd": 60.0,
+    "verified": true
+  },
+  {
+    "category": "sight",
+    "brand": "Option Archery",
+    "model": "BOTTOM Adjust Knob for Canyon Pounder",
+    "url": "https://optionarchery.com/products/bottom-adjust-knob-for-canyon-pounder",
+    "priceUsd": 7.5,
+    "verified": true
+  },
+  {
+    "category": "sight",
+    "brand": "Option Archery",
+    "model": "Canyon Pounder Sight",
+    "url": "https://optionarchery.com/products/2023-canyon-pounder-sight",
+    "priceUsd": 640.0,
+    "verified": true
+  },
+  {
+    "category": "sight",
+    "brand": "Option Archery",
+    "model": "Canyon Pounder Sight Components",
+    "url": "https://optionarchery.com/products/canyon-pounder-sight-components-not-complete-sights",
+    "priceUsd": 395.0,
+    "verified": true
+  },
+  {
+    "category": "sight",
+    "brand": "Option Archery",
+    "model": "Canyon Pounder Sight Tapes",
+    "url": "https://optionarchery.com/products/canyon-pounder-sight-tapes",
+    "priceUsd": 20.0,
+    "verified": true
+  },
+  {
+    "category": "sight",
+    "brand": "Option Archery",
+    "model": "Clarifier Peep Components",
+    "url": "https://optionarchery.com/products/copy-of-clarifier-peep-system-kits",
+    "priceUsd": 40.0,
+    "verified": true
+  },
+  {
+    "category": "sight",
+    "brand": "Option Archery",
+    "model": "Clarifier Peep System Kits",
+    "url": "https://optionarchery.com/products/clarifier-peep-system",
+    "priceUsd": 190.0,
+    "verified": true
+  },
+  {
+    "category": "sight",
+    "brand": "Option Archery",
+    "model": "Components and Accessories for Option 4s/6s/8s Sight Models",
+    "url": "https://optionarchery.com/products/mathews-v3x-specific-mount-bar",
+    "priceUsd": 85.0,
+    "verified": true
+  },
+  {
+    "category": "sight",
+    "brand": "Option Archery",
+    "model": "Extra Sight Pins",
+    "url": "https://optionarchery.com/products/extra-sight-pins",
+    "priceUsd": 60.0,
+    "verified": true
+  },
+  {
+    "category": "sight",
+    "brand": "Option Archery",
+    "model": "Lense System for Canyon Pounder and 4s/6s Sight Models",
+    "url": "https://optionarchery.com/products/lense-system-components-for-all-round-housing-sight-models",
+    "priceUsd": 45.0,
+    "verified": true
+  },
+  {
+    "category": "sight",
+    "brand": "Option Archery",
+    "model": "Level Bubble Options",
+    "url": "https://optionarchery.com/products/level-bubble-options",
+    "priceUsd": 37.5,
+    "verified": true
+  },
+  {
+    "category": "sight",
+    "brand": "Option Archery",
+    "model": "New Style Adjust Knobs for Option 4s/6s/8s Sight Models",
+    "url": "https://optionarchery.com/products/new-style-adjust-knobs-for-option-4s-6s-8s-sight-models",
+    "priceUsd": 20.0,
+    "verified": true
+  },
+  {
+    "category": "sight",
+    "brand": "Option Archery",
+    "model": "Optional Zero Stop (for Canyon Pounder Sight)",
+    "url": "https://optionarchery.com/products/optional-zero-stop-for-canyon-pounder-sight",
+    "priceUsd": 20.0,
+    "verified": true
+  },
+  {
+    "category": "sight",
+    "brand": "Option Archery",
+    "model": "Raptor Hunting Peeps",
+    "url": "https://optionarchery.com/products/oval-peep-sight",
+    "priceUsd": 20.0,
+    "verified": true
+  },
+  {
+    "category": "sight",
+    "brand": "Option Archery",
+    "model": "Sight Lights",
+    "url": "https://optionarchery.com/products/sight-lights",
+    "priceUsd": 25.0,
+    "verified": true
+  },
+  {
+    "category": "sight",
+    "brand": "Option Archery",
+    "model": "Sight Pin Customization",
+    "url": "https://optionarchery.com/products/8s-sight-model-sight-pin-customization",
+    "priceUsd": 9.0,
+    "verified": true
+  },
+  {
+    "category": "sight",
+    "brand": "Option Archery",
+    "model": "Sight Tapes for Option 4s/6s/8s Sight Models",
+    "url": "https://optionarchery.com/products/sight-tapes-for-option-4s-6s-8s-sight-models",
+    "priceUsd": 20.0,
+    "verified": true
+  },
+  {
+    "category": "sight",
+    "brand": "Option Archery",
+    "model": "Speed Specific Laser Engraved Sight Scale for Canyon Pounder",
+    "url": "https://optionarchery.com/products/left-hand-speed-specific-laser-engraved-sight-scale-for-canyon-pounder-copy",
+    "priceUsd": 20.0,
+    "verified": true
+  },
+  {
+    "category": "sight",
+    "brand": "Spot Hogg",
+    "model": "Boonie",
+    "url": "https://www.spot-hogg.com",
+    "priceUsd": null,
+    "verified": false
+  },
+  {
+    "category": "sight",
+    "brand": "Spot Hogg",
+    "model": "Fast Eddie",
+    "url": "https://www.spot-hogg.com",
+    "priceUsd": null,
+    "verified": false
+  },
+  {
+    "category": "sight",
+    "brand": "Spot Hogg",
+    "model": "Fast Eddie XL",
+    "url": "https://www.spot-hogg.com",
+    "priceUsd": null,
+    "verified": false
+  },
+  {
+    "category": "sight",
+    "brand": "Spot Hogg",
+    "model": "Grinder",
+    "url": "https://www.spot-hogg.com",
+    "priceUsd": null,
+    "verified": false
+  },
+  {
+    "category": "sight",
+    "brand": "Spot Hogg",
+    "model": "Hogg Father",
+    "url": "https://www.spot-hogg.com",
+    "priceUsd": null,
+    "verified": false
+  },
+  {
+    "category": "sight",
+    "brand": "Spot Hogg",
+    "model": "Hunter Hogg-It",
+    "url": "https://www.spot-hogg.com",
+    "priceUsd": null,
+    "verified": false
+  },
+  {
+    "category": "sight",
+    "brand": "Spot Hogg",
+    "model": "Tommy Hogg",
+    "url": "https://www.spot-hogg.com",
+    "priceUsd": null,
+    "verified": false
+  },
+  {
+    "category": "sight",
+    "brand": "Trophy Ridge",
+    "model": "Fix",
+    "url": "https://www.trophyridge.com",
+    "priceUsd": null,
+    "verified": false
+  },
+  {
+    "category": "sight",
+    "brand": "Trophy Ridge",
+    "model": "Hotwire",
+    "url": "https://www.trophyridge.com",
+    "priceUsd": null,
+    "verified": false
+  },
+  {
+    "category": "sight",
+    "brand": "Trophy Ridge",
+    "model": "React Pro",
+    "url": "https://www.trophyridge.com",
+    "priceUsd": null,
+    "verified": false
+  },
+  {
+    "category": "sight",
+    "brand": "Trophy Ridge",
+    "model": "React Trio Pro",
+    "url": "https://www.trophyridge.com",
+    "priceUsd": null,
+    "verified": false
+  },
+  {
+    "category": "sight",
+    "brand": "UltraView",
+    "model": "Slider 2",
+    "url": "https://ultraviewarchery.com/products/uv-slider-2",
+    "priceUsd": 499.99,
+    "verified": true
+  },
+  {
+    "category": "sight",
+    "brand": "UltraView",
+    "model": "Slider 2 Indicator Pins",
+    "url": "https://ultraviewarchery.com/products/uv-slider-2-indicator-pins",
+    "priceUsd": 9.99,
+    "verified": true
+  },
+  {
+    "category": "sight",
+    "brand": "UltraView",
+    "model": "Slider 2 Light Cartridge",
+    "url": "https://ultraviewarchery.com/products/uv-slider-2-light-cartridge",
+    "priceUsd": 99.99,
+    "verified": true
+  },
+  {
+    "category": "sight",
+    "brand": "UltraView",
+    "model": "Slider 2 Metal Setup Tape",
+    "url": "https://ultraviewarchery.com/products/uv-slider-2-metal-setup-tape",
+    "priceUsd": 19.99,
+    "verified": true
+  },
+  {
+    "category": "sight",
+    "brand": "UltraView",
+    "model": "Slider 2 Metal Sight Tapes",
+    "url": "https://ultraviewarchery.com/products/uv-slider-2-metal-sight-tapes",
+    "priceUsd": 24.99,
+    "verified": true
+  },
+  {
+    "category": "sight",
+    "brand": "UltraView",
+    "model": "Slider 2 Pin Cartridges",
+    "url": "https://ultraviewarchery.com/products/uv-slider-2-pin-cartridges",
+    "priceUsd": 149.0,
+    "verified": true
+  },
+  {
+    "category": "sight",
+    "brand": "UltraView",
+    "model": "Slider 2 Sight Tapes",
+    "url": "https://ultraviewarchery.com/products/uv-slider-2-sight-tapes",
+    "priceUsd": 19.99,
+    "verified": true
+  },
+  {
+    "category": "sight",
+    "brand": "UltraView",
+    "model": "Slider 2 Spare Hardware Kit",
+    "url": "https://ultraviewarchery.com/products/uv-slider-2-spare-hardware-kit",
+    "priceUsd": 29.99,
+    "verified": true
+  },
+  {
+    "category": "sight",
+    "brand": "UltraView",
+    "model": "Slider 2 Speed Tapes",
+    "url": "https://ultraviewarchery.com/products/uv-slider-2-speed-tapes",
+    "priceUsd": 19.99,
+    "verified": true
+  },
+  {
+    "category": "sight",
+    "brand": "UltraView",
+    "model": "Slider 2 Tape Plates",
+    "url": "https://ultraviewarchery.com/products/uv-slider-2-tape-plates",
+    "priceUsd": 19.99,
+    "verified": true
+  },
+  {
+    "category": "sight",
+    "brand": "UltraView",
+    "model": "Slider 2 USB-C Charging Cable",
+    "url": "https://ultraviewarchery.com/products/uv-slider-2-usb-c-charging-cable",
+    "priceUsd": 19.99,
+    "verified": true
+  },
+  {
+    "category": "sight",
+    "brand": "UltraView",
+    "model": "Slider 2 Viz Ring",
+    "url": "https://ultraviewarchery.com/products/uv-slider-2-viz-ring",
+    "priceUsd": 19.99,
+    "verified": true
+  },
+  {
+    "category": "sight",
+    "brand": "UltraView",
+    "model": "Slider 2 Windage Spacer",
+    "url": "https://ultraviewarchery.com/products/uv-slider-2-windage-spacer",
+    "priceUsd": 14.99,
+    "verified": true
+  },
+  {
+    "category": "sight",
+    "brand": "UltraView",
+    "model": "Slider Metal Spare Sight Tape Plates",
+    "url": "https://ultraviewarchery.com/products/uv-slider-metal-sight-tapes",
+    "priceUsd": 24.99,
+    "verified": true
+  },
+  {
+    "category": "sight",
+    "brand": "UltraView",
+    "model": "Slider Spare Hardware",
+    "url": "https://ultraviewarchery.com/products/uv-slider-spare-hardware",
+    "priceUsd": 29.99,
+    "verified": true
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Axcel",
+    "model": "1\" Dia. Aluminum Stabilizer End Cap with AXCEL Logo Sticker",
+    "url": "https://truball.com/products/1-dia-aluminum-stabilizer-end-cap-with-axcel®-logo-sticker",
+    "priceUsd": 14.51,
+    "verified": true
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Axcel",
+    "model": "1\" Dia. Aluminum Stabilizer Weights",
+    "url": "https://truball.com/products/1-dia-aluminum-stabilizer-weights",
+    "priceUsd": 14.51,
+    "verified": true
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Axcel",
+    "model": "Antler Ridge 550 CarboFlax Hunting Stabilizers",
+    "url": "https://truball.com/products/antler-ridge-hunting-stabilizers",
+    "priceUsd": 171.18,
+    "verified": true
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Axcel",
+    "model": "Antler Ridge Hunting Stabilizer Kit",
+    "url": "https://truball.com/products/antler-ridge-hunting-stabilizer-kit",
+    "priceUsd": 440.93,
+    "verified": true
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Axcel",
+    "model": "Antler Ridge TriLock Adjustable Offset Mount",
+    "url": "https://truball.com/products/antler-ridge-trilock-adjustable-offset-mount",
+    "priceUsd": 171.18,
+    "verified": true
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Axcel",
+    "model": "Antler Ridge Xile Hunting Stabilizers",
+    "url": "https://truball.com/products/antler-ridge-xile-hunting-stabilizers",
+    "priceUsd": 248.99,
+    "verified": true
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Axcel",
+    "model": "CarboFlax Acclaim 550 PRO Stabilizer",
+    "url": "https://truball.com/products/axcel®-acclaim-550-carboflax™-stabilizer",
+    "priceUsd": 248.99,
+    "verified": true
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Axcel",
+    "model": "CarboFlax Acclaim Aero 500 Stabilizer",
+    "url": "https://truball.com/products/axcel®-acclaim-aero-500-carboflax™-stabilizer",
+    "priceUsd": 259.36,
+    "verified": true
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Axcel",
+    "model": "CenterLock Quick Disconnect Mount",
+    "url": "https://truball.com/products/centerlock-quick-disconnect-mount",
+    "priceUsd": 46.68,
+    "verified": true
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Axcel",
+    "model": "F1 Fixed V-Bar Mount",
+    "url": "https://truball.com/products/f1-fixed-v-bar-mount",
+    "priceUsd": 62.24,
+    "verified": true
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Axcel",
+    "model": "Kryptós Arc Vibration Dampener",
+    "url": "https://truball.com/products/kryptos-arc-vibration-dampener",
+    "priceUsd": 46.68,
+    "verified": true
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Axcel",
+    "model": "Kryptós Pro Adjustable Vibration Dampener",
+    "url": "https://truball.com/products/kryptos-pro-adjustable-vibration-dampener",
+    "priceUsd": 176.36,
+    "verified": true
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Axcel",
+    "model": "Perfect Mount",
+    "url": "https://truball.com/products/perfect-mount-v-bar",
+    "priceUsd": 223.05,
+    "verified": true
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Axcel",
+    "model": "Stabilizer Adapter Screw",
+    "url": "https://truball.com/products/stabilizer-adapter-screw",
+    "priceUsd": 17.63,
+    "verified": true
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Axcel",
+    "model": "TriLock Adjustable Offset Mount",
+    "url": "https://truball.com/products/trilock-adjustable-offset-mount",
+    "priceUsd": 191.93,
+    "verified": true
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Axcel",
+    "model": "TriLock Adjustable V-Bar Mount",
+    "url": "https://truball.com/products/trilock-adjustable-v-bar-mount",
+    "priceUsd": 202.3,
+    "verified": true
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Axcel",
+    "model": "X-Vibe Hunter",
+    "url": "https://truball.com/products/x-vibe-hunter-stabilizer-rod-adjustable-weight-dampener",
+    "priceUsd": 67.43,
+    "verified": true
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Axcel",
+    "model": "X-Vibe Picatinny",
+    "url": "https://truball.com/products/x-vibe-picatinny-stabilizer-rod-adjustable-weight-dampener",
+    "priceUsd": 67.43,
+    "verified": true
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Axcel",
+    "model": "X-Vibe Stabilizer Rod Adjustable Weight Dampener",
+    "url": "https://truball.com/products/x-vibe-stabilizer-rod-adjustable-weight-dampener",
+    "priceUsd": 62.24,
+    "verified": true
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Bee Stinger",
+    "model": "Competitor Stabilizer",
+    "url": "https://beestinger.com/products/competitor-stabilizer",
+    "priceUsd": 119.99,
+    "verified": true
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Bee Stinger",
+    "model": "Competitor V-Bar",
+    "url": "https://beestinger.com/products/competitor-v-bar-stabilizer",
+    "priceUsd": 59.99,
+    "verified": true
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Bee Stinger",
+    "model": "Freestyle Competitor Stabilizer Kit",
+    "url": "https://beestinger.com/products/freestyle-competitor-stabilizer-kit",
+    "priceUsd": 329.99,
+    "verified": true
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Bee Stinger",
+    "model": "MicroHex",
+    "url": "https://beestinger.com",
+    "priceUsd": null,
+    "verified": false
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Bee Stinger",
+    "model": "MicroHex Counter Slide Stabilizer with Dovetail Mount",
+    "url": "https://beestinger.com/products/microhex-counter-slide-with-dovetail-mount-stabilizer",
+    "priceUsd": 159.99,
+    "verified": true
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Bee Stinger",
+    "model": "MicroHex Counter Slide Stabilizer with Standard Mount",
+    "url": "https://beestinger.com/products/microhex-counter-slide-standard-mount",
+    "priceUsd": 134.99,
+    "verified": true
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Bee Stinger",
+    "model": "MicroHex Hunting Stabilizer",
+    "url": "https://beestinger.com/products/microhex-hunting-stabilizer",
+    "priceUsd": 74.99,
+    "verified": true
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Bee Stinger",
+    "model": "MicroHex Target Stabilizer",
+    "url": "https://beestinger.com/products/microhex-target-stabilizer",
+    "priceUsd": 284.99,
+    "verified": true
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Bee Stinger",
+    "model": "Premier Plus",
+    "url": "https://beestinger.com",
+    "priceUsd": null,
+    "verified": false
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Bee Stinger",
+    "model": "Premier Plus Stabilizer with Countervail",
+    "url": "https://beestinger.com/products/premier-plus-stabilizer-with-countervail",
+    "priceUsd": 254.99,
+    "verified": true
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Bee Stinger",
+    "model": "Premier Plus V-Bar with Countervail",
+    "url": "https://beestinger.com/products/premier-plus-v-bar-stabilizer-with-countervail",
+    "priceUsd": 74.99,
+    "verified": true
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Bee Stinger",
+    "model": "Pro Hunter Maxx Stabilizer",
+    "url": "https://beestinger.com/products/pro-hunter-maxx-hunting-stabilizer",
+    "priceUsd": 89.99,
+    "verified": true
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Bee Stinger",
+    "model": "Sport Hunter Counter Slide Stabilizer",
+    "url": "https://beestinger.com/products/sport-hunter-counter-slide-stabilizer",
+    "priceUsd": 129.99,
+    "verified": true
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Bee Stinger",
+    "model": "Sport Hunter Xtreme",
+    "url": "https://beestinger.com",
+    "priceUsd": null,
+    "verified": false
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Bee Stinger",
+    "model": "Sport Hunter Xtreme Stabilizer",
+    "url": "https://beestinger.com/products/sport-hunter-xtreme-stabilizer",
+    "priceUsd": 69.99,
+    "verified": true
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Bee Stinger",
+    "model": "Sport Hunter Xtreme Stabilizer Kit",
+    "url": "https://beestinger.com/products/sport-hunter-xtreme-kit-stabilizer",
+    "priceUsd": 249.99,
+    "verified": true
+  },
+  {
+    "category": "stabilizer",
+    "brand": "CBE",
+    "model": "Affect Hunting Stabilizer",
+    "url": "https://custombowequipment.com/products/affect-hunting-stabilizer",
+    "priceUsd": 49.99,
+    "verified": true
+  },
+  {
+    "category": "stabilizer",
+    "brand": "CBE",
+    "model": "Torx Carbon Micro Kit",
+    "url": "https://custombowequipment.com/products/torx-carbon-micro-kit-1",
+    "priceUsd": 239.99,
+    "verified": true
+  },
+  {
+    "category": "stabilizer",
+    "brand": "CBE",
+    "model": "Torx Carbon Micro Stabilizer",
+    "url": "https://custombowequipment.com/products/torx-carbon-micro-stabilizer",
+    "priceUsd": 94.99,
+    "verified": true
+  },
+  {
+    "category": "stabilizer",
+    "brand": "CBE",
+    "model": "TorX Hunting Stabilizer",
+    "url": "https://custombowequipment.com/products/torx-hunting-stabilizer",
+    "priceUsd": 84.99,
+    "verified": true
+  },
+  {
+    "category": "stabilizer",
+    "brand": "CBE",
+    "model": "TorX Hunting Stabilizer Kit",
+    "url": "https://custombowequipment.com/products/torx-hunting-stabilizer-kit",
+    "priceUsd": 209.99,
+    "verified": true
+  },
+  {
+    "category": "stabilizer",
+    "brand": "CBE",
+    "model": "TorX Spyder Stabilizer",
+    "url": "https://custombowequipment.com/products/torx-spyder-stabilizer",
+    "priceUsd": 154.99,
+    "verified": true
+  },
+  {
+    "category": "stabilizer",
+    "brand": "CBE",
+    "model": "TorX Stabilizer Mount",
+    "url": "https://custombowequipment.com/products/torx-stabilizer-mount",
+    "priceUsd": 104.99,
+    "verified": true
+  },
+  {
+    "category": "stabilizer",
+    "brand": "CBE",
+    "model": "TORX Stabilizer Quick Disconnect",
+    "url": "https://custombowequipment.com/products/torx-stabilizer-quick-disconnect",
+    "priceUsd": 24.99,
+    "verified": true
+  },
+  {
+    "category": "stabilizer",
+    "brand": "CBE",
+    "model": "TorX Stabilizer Weights",
+    "url": "https://custombowequipment.com/products/torx-stabilizer-weights",
+    "priceUsd": 24.99,
+    "verified": true
+  },
+  {
+    "category": "stabilizer",
+    "brand": "CBE",
+    "model": "TorX Target Stabilizer",
+    "url": "https://custombowequipment.com/products/torx-target-stabilizer",
+    "priceUsd": 84.99,
+    "verified": true
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Conquest Archery",
+    "model": "Smacdown .500",
+    "url": "https://www.conquestarchery.com",
+    "priceUsd": null,
+    "verified": false
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Conquest Archery",
+    "model": "Smacdown .750",
+    "url": "https://www.conquestarchery.com",
+    "priceUsd": null,
+    "verified": false
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Doinker",
+    "model": "0.5oz",
+    "url": "https://doinker.com/products/0-5oz-3-4-dinky-doinker-1-4-20-m-f-thread-set-of-two",
+    "priceUsd": 35.99,
+    "verified": true
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Doinker",
+    "model": "0.6oz",
+    "url": "https://doinker.com/products/0-6oz-pee-wee-doinker-set-of-two-metric-4-thread-m",
+    "priceUsd": 35.99,
+    "verified": true
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Doinker",
+    "model": "0.9oz",
+    "url": "https://doinker.com/products/0-9oz-doinker-sight-eze-8-32f-recurve",
+    "priceUsd": 32.99,
+    "verified": true
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Doinker",
+    "model": "1.2oz- 1 1/8\" Doinker Supreme 5/16-24 Female X 1/4-20 Male",
+    "url": "https://doinker.com/products/1-2oz-1-1-8-doinker-supreme-5-16-24-female-x-1-4-20-male",
+    "priceUsd": 28.99,
+    "verified": true
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Doinker",
+    "model": "1.5oz.",
+    "url": "https://doinker.com/products/1-5oz-a-bomb™-doinker®-1-4-20-m-f-thread-standard",
+    "priceUsd": 32.99,
+    "verified": true
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Doinker",
+    "model": "1.7oz",
+    "url": "https://doinker.com/products/1-7oz-1-1-4-hero-doinker-1-4-20-m-f-thread",
+    "priceUsd": 63.99,
+    "verified": true
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Doinker",
+    "model": "1.7oz.",
+    "url": "https://doinker.com/products/1-7oz-1-3-4-exo-doinker-1-4-20-m-m-thread",
+    "priceUsd": 48.99,
+    "verified": true
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Doinker",
+    "model": "1.7oz. 1” “A-BOMB” DOINKER 5/16-24 M/E THREAD",
+    "url": "https://doinker.com/products/1-7oz-1-a-bomb™-doinker®-5-16-24-m-e-thread-standard",
+    "priceUsd": 32.99,
+    "verified": true
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Doinker",
+    "model": "14.2oz",
+    "url": "https://doinker.com/products/14-2oz-21-storm-ultra-hi-mod-stabilizer",
+    "priceUsd": 209.99,
+    "verified": true
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Doinker",
+    "model": "2.1oz",
+    "url": "https://doinker.com/products/2-1oz-1-1-2-flex-doinker-5-16-24-m-f-thread",
+    "priceUsd": 31.99,
+    "verified": true
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Doinker",
+    "model": "Carbon Field (AVAILABLE IN 3 SIZES)",
+    "url": "https://doinker.com/products/copy-of-copy-of-carbon-field-12-10-9oz",
+    "priceUsd": 139.99,
+    "verified": true
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Doinker",
+    "model": "Carbon Flex 10.5\"",
+    "url": "https://doinker.com/products/carbon-flex-10-5",
+    "priceUsd": 84.95,
+    "verified": true
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Doinker",
+    "model": "Carbon Flex 5\"",
+    "url": "https://doinker.com/products/carbon-flex-6-5",
+    "priceUsd": 90.99,
+    "verified": true
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Doinker",
+    "model": "Carbon Flex 7\"",
+    "url": "https://doinker.com/products/carbon-flex-8",
+    "priceUsd": 90.99,
+    "verified": true
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Doinker",
+    "model": "CHAMPION 27\" 14.2oz",
+    "url": "https://doinker.com/products/copy-of-champion-27-14-2oz",
+    "priceUsd": 417.99,
+    "verified": true
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Doinker",
+    "model": "CHAMPION 30\" 14.7oz",
+    "url": "https://doinker.com/products/champion-30-14-7oz-30-champion-ultra-hi-mod-stabilizer",
+    "priceUsd": 417.99,
+    "verified": true
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Doinker",
+    "model": "GHOST 27\" 14.05oz",
+    "url": "https://doinker.com/products/doinker-ghost-27-14-05oz",
+    "priceUsd": 485.99,
+    "verified": true
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Doinker",
+    "model": "GHOST 30\" 15.05oz",
+    "url": "https://doinker.com/products/doinker-ghost-30-15-05oz",
+    "priceUsd": 485.99,
+    "verified": true
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Doinker",
+    "model": "GHOST 33\" 16.02oz",
+    "url": "https://doinker.com/products/doinker-ghost-33",
+    "priceUsd": 485.99,
+    "verified": true
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Doinker",
+    "model": "GHOST SIDE-KICK 12\" 12.45oz",
+    "url": "https://doinker.com/products/doinker-ghost-side-kick-12",
+    "priceUsd": 185.99,
+    "verified": true
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Doinker",
+    "model": "GHOST SIDE-KICK 15\" 12.80oz",
+    "url": "https://doinker.com/products/doinker-ghost-side-kick-15",
+    "priceUsd": 185.99,
+    "verified": true
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Doinker",
+    "model": "SIDE-KICK 12\"",
+    "url": "https://doinker.com/products/side-kick-12",
+    "priceUsd": 156.99,
+    "verified": true
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Doinker",
+    "model": "SIDE-KICK 15\"",
+    "url": "https://doinker.com/products/side-kick-15",
+    "priceUsd": 156.99,
+    "verified": true
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Fuse",
+    "model": "Blade Hunter",
+    "url": "https://www.fusearchery.com",
+    "priceUsd": null,
+    "verified": false
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Fuse",
+    "model": "Carbon Blade",
+    "url": "https://www.fusearchery.com",
+    "priceUsd": null,
+    "verified": false
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Hoyt",
+    "model": "Stealth Pro Series Stabilizers",
+    "url": "https://hoyt.com/products/stealth-pro-series-stabilizers",
+    "priceUsd": 159.99,
+    "verified": true
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Hoyt",
+    "model": "Suppressor Stabilizers",
+    "url": "https://hoyt.com/products/suppressor-stabilizers",
+    "priceUsd": 89.99,
+    "verified": true
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Mathews",
+    "model": "1 oz. Stabilizer Weight",
+    "url": "https://mathewsinc.com/products/1-oz-stabilizer-weight",
+    "priceUsd": 12.99,
+    "verified": true
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Mathews",
+    "model": "Adjustable V-Bar",
+    "url": "https://mathewsinc.com/products/adjustable-v-bar",
+    "priceUsd": 139.99,
+    "verified": true
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Mathews",
+    "model": "Angled Bridge-Lock Stabilizer",
+    "url": "https://mathewsinc.com/products/angled-bridge-lock®-stabilizer",
+    "priceUsd": 269.99,
+    "verified": true
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Mathews",
+    "model": "Bridge-Lock Carbon Target Bar",
+    "url": "https://mathewsinc.com/products/bridge-lock™-carbon-target-bar",
+    "priceUsd": 359.0,
+    "verified": true
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Mathews",
+    "model": "Bridge-Lock Double V-Bar",
+    "url": "https://mathewsinc.com/products/bridge-lock™-double-v-bar",
+    "priceUsd": 299.99,
+    "verified": true
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Mathews",
+    "model": "Bridge-Lock Stabilizer",
+    "url": "https://mathewsinc.com/products/bridge-lock-stabilizer",
+    "priceUsd": 249.99,
+    "verified": true
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Mathews",
+    "model": "Bridge-Lock Stabilizer Knob",
+    "url": "https://mathewsinc.com/products/bridge-lock™-stabilizer-knob",
+    "priceUsd": 19.99,
+    "verified": true
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Mathews",
+    "model": "Bridge-Lock Stabilizer Weight",
+    "url": "https://mathewsinc.com/products/bridge-lock™-stabilizer-weight",
+    "priceUsd": 29.99,
+    "verified": true
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Mathews",
+    "model": "Flatline Stabilizer",
+    "url": "https://mathewsinc.com/products/flatline™-stabilizer",
+    "priceUsd": 149.99,
+    "verified": true
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Mathews",
+    "model": "Integrated Bridge-Lock V-Bar",
+    "url": "https://mathewsinc.com/products/integrated-bridge-lock-v-bar-copy",
+    "priceUsd": 229.99,
+    "verified": true
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Mathews",
+    "model": "Quick Disconnect",
+    "url": "https://mathewsinc.com/products/quick-disconnect",
+    "priceUsd": 39.99,
+    "verified": true
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Mathews",
+    "model": "Static Sidebar Mount",
+    "url": "https://mathewsinc.com/products/static-sidebar-mount",
+    "priceUsd": 29.99,
+    "verified": true
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Option Archery",
+    "model": "Stabilizer Rods",
+    "url": "https://optionarchery.com/products/stabilizer-rods",
+    "priceUsd": 30.0,
+    "verified": true
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Option Archery",
+    "model": "Stabilizer Weights and Attachment Screws",
+    "url": "https://optionarchery.com/products/stabilizer-rods-does-not-include-end-weights",
+    "priceUsd": 24.0,
+    "verified": true
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Option Archery",
+    "model": "Stabilizers and Back-Bars",
+    "url": "https://optionarchery.com/products/stabilizers",
+    "priceUsd": 160.0,
+    "verified": true
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Option Archery",
+    "model": "Weight Attach Screws for Stabilizers",
+    "url": "https://optionarchery.com/products/weight-attach-screws-for-stabilizers",
+    "priceUsd": 12.68,
+    "verified": true
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Shrewd",
+    "model": "600 Pro",
+    "url": "https://shrewdarchery.com/products/600-pro-pro-series",
+    "priceUsd": 132.3,
+    "verified": true
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Shrewd",
+    "model": "INDX",
+    "url": "https://shrewdarchery.com/products/indx",
+    "priceUsd": 180.0,
+    "verified": true
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Shrewd",
+    "model": "INDX Lite",
+    "url": "https://shrewdarchery.com/products/indx-lite",
+    "priceUsd": 180.0,
+    "verified": true
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Shrewd",
+    "model": "Onyx",
+    "url": "https://shrewdarchery.com/products/onyx-premier-series",
+    "priceUsd": 135.0,
+    "verified": true
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Shrewd",
+    "model": "Revel",
+    "url": "https://shrewdarchery.com/products/revel-recurve-stabilizer",
+    "priceUsd": 100.0,
+    "verified": true
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Shrewd",
+    "model": "RevX",
+    "url": "https://shrewdarchery.com/products/revx",
+    "priceUsd": 130.0,
+    "verified": true
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Shrewd",
+    "model": "REX",
+    "url": "https://shrewdarchery.com/products/rex-recurve-extender",
+    "priceUsd": 60.0,
+    "verified": true
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Shrewd",
+    "model": "S-PACK Stabilizer Bag",
+    "url": "https://shrewdarchery.com/products/s-pack-stabilizer-bag",
+    "priceUsd": 20.0,
+    "verified": true
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Shrewd",
+    "model": "S2",
+    "url": "https://shrewdarchery.com/products/s2",
+    "priceUsd": 99.0,
+    "verified": true
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Shrewd",
+    "model": "TRAK Hunting Stabilizer",
+    "url": "https://shrewdarchery.com/products/trak-hunting-stabilizer-dune",
+    "priceUsd": 120.0,
+    "verified": true
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Shrewd",
+    "model": "Vantage Series",
+    "url": "https://shrewdarchery.com/products/vantage-series",
+    "priceUsd": 109.0,
+    "verified": true
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Stokerized",
+    "model": "SS1",
+    "url": "https://www.stokerized.com",
+    "priceUsd": null,
+    "verified": false
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Stokerized",
+    "model": "SS2",
+    "url": "https://www.stokerized.com",
+    "priceUsd": null,
+    "verified": false
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Trophy Ridge",
+    "model": "Static",
+    "url": "https://www.trophyridge.com",
+    "priceUsd": null,
+    "verified": false
+  },
+  {
+    "category": "stabilizer",
+    "brand": "UltraView",
+    "model": "Hunting Stabilizer",
+    "url": "https://ultraviewarchery.com/products/uv-hunting-stabilizer",
+    "priceUsd": 79.99,
+    "verified": true
+  },
+  {
+    "category": "stabilizer",
+    "brand": "UltraView",
+    "model": "Side Mount",
+    "url": "https://ultraviewarchery.com/products/uv-stabilizer-mounting-bracket",
+    "priceUsd": 59.99,
+    "verified": true
+  }
+]

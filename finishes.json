@@ -1,0 +1,879 @@
+[
+  {
+    "brand": "hoyt",
+    "finishes": [
+      {
+        "name": "Blackout",
+        "colors": [
+          4279966493
+        ],
+        "scale": 0.0,
+        "pattern": "solid"
+      },
+      {
+        "name": "Georgia Clay",
+        "colors": [
+          4287253294
+        ],
+        "scale": 0.0,
+        "pattern": "solid"
+      },
+      {
+        "name": "Sandstorm",
+        "colors": [
+          4290355834
+        ],
+        "scale": 0.0,
+        "pattern": "solid"
+      },
+      {
+        "name": "Tombstone",
+        "colors": [
+          4285427310
+        ],
+        "scale": 0.0,
+        "pattern": "solid"
+      },
+      {
+        "name": "Wilderness",
+        "colors": [
+          4283128382
+        ],
+        "scale": 0.0,
+        "pattern": "solid"
+      },
+      {
+        "name": "Bone Collector Blackout",
+        "colors": [
+          4280295458
+        ],
+        "scale": 0.0,
+        "pattern": "solid"
+      },
+      {
+        "name": "Duck Camo",
+        "colors": [
+          4291409034,
+          4285225534,
+          4282337843,
+          4287464545,
+          4281215778
+        ],
+        "scale": 1.8,
+        "pattern": "blotch"
+      },
+      {
+        "name": "Realtree APX",
+        "colors": [
+          4284241743,
+          4287266672,
+          4282004783,
+          4289963919,
+          4281018147
+        ],
+        "scale": 1.5,
+        "pattern": "blotch"
+      },
+      {
+        "name": "Mossy Oak Bottomland",
+        "colors": [
+          4280951838,
+          4283055408,
+          4285422405,
+          4287593311,
+          4280031252
+        ],
+        "scale": 1.6,
+        "pattern": "bark"
+      },
+      {
+        "name": "KUIU Verde 2.0",
+        "colors": [
+          4284246858,
+          4287272816,
+          4282272307,
+          4289640084,
+          4281086756
+        ],
+        "scale": 1.2,
+        "pattern": "cloud"
+      },
+      {
+        "name": "Optifade Subalpine",
+        "colors": [
+          4284312404,
+          4287401845,
+          4282008630,
+          4289309067,
+          4280691748
+        ],
+        "scale": 1.1,
+        "pattern": "cloud"
+      }
+    ]
+  },
+  {
+    "brand": "mathews",
+    "finishes": [
+      {
+        "name": "Black",
+        "colors": [
+          4279834907
+        ],
+        "scale": 0.0,
+        "pattern": "solid"
+      },
+      {
+        "name": "Kodiak Brown",
+        "colors": [
+          4284104235
+        ],
+        "scale": 0.0,
+        "pattern": "solid"
+      },
+      {
+        "name": "Shale",
+        "colors": [
+          4284047723
+        ],
+        "scale": 0.0,
+        "pattern": "solid"
+      },
+      {
+        "name": "Earth",
+        "colors": [
+          4285422149
+        ],
+        "scale": 0.0,
+        "pattern": "solid"
+      },
+      {
+        "name": "Green Ambush",
+        "colors": [
+          4283193914,
+          4285233742,
+          4281614378,
+          4287272040
+        ],
+        "scale": 1.4,
+        "pattern": "cloud"
+      },
+      {
+        "name": "Mossy Oak Bottomland",
+        "colors": [
+          4280951838,
+          4283055408,
+          4285422405,
+          4287593311,
+          4280031252
+        ],
+        "scale": 1.6,
+        "pattern": "bark"
+      },
+      {
+        "name": "KUIU Verde 2.0",
+        "colors": [
+          4284246858,
+          4287272816,
+          4282272307,
+          4289640084,
+          4281086756
+        ],
+        "scale": 1.2,
+        "pattern": "cloud"
+      },
+      {
+        "name": "First Lite Specter",
+        "colors": [
+          4286347886,
+          4288913292,
+          4283387462,
+          4291018665,
+          4281676846
+        ],
+        "scale": 1.3,
+        "pattern": "cloud"
+      },
+      {
+        "name": "Optifade Subalpine",
+        "colors": [
+          4284312404,
+          4287401845,
+          4282008630,
+          4289309067,
+          4280691748
+        ],
+        "scale": 1.1,
+        "pattern": "cloud"
+      }
+    ]
+  },
+  {
+    "brand": "mission",
+    "finishes": [
+      {
+        "name": "Black",
+        "colors": [
+          4279834907
+        ],
+        "scale": 0.0,
+        "pattern": "solid"
+      },
+      {
+        "name": "Earth",
+        "colors": [
+          4285422149
+        ],
+        "scale": 0.0,
+        "pattern": "solid"
+      },
+      {
+        "name": "Mossy Oak Bottomland",
+        "colors": [
+          4280951838,
+          4283055408,
+          4285422405,
+          4287593311,
+          4280031252
+        ],
+        "scale": 1.6,
+        "pattern": "bark"
+      }
+    ]
+  },
+  {
+    "brand": "pse",
+    "finishes": [
+      {
+        "name": "Black",
+        "colors": [
+          4279703578
+        ],
+        "scale": 0.0,
+        "pattern": "solid"
+      },
+      {
+        "name": "Charcoal",
+        "colors": [
+          4282006592
+        ],
+        "scale": 0.0,
+        "pattern": "solid"
+      },
+      {
+        "name": "Clay Brown",
+        "colors": [
+          4286470718
+        ],
+        "scale": 0.0,
+        "pattern": "solid"
+      },
+      {
+        "name": "Olive Green",
+        "colors": [
+          4283785279
+        ],
+        "scale": 0.0,
+        "pattern": "solid"
+      },
+      {
+        "name": "KUIU Verde 2.0",
+        "colors": [
+          4284246858,
+          4287272816,
+          4282272307,
+          4289640084,
+          4281086756
+        ],
+        "scale": 1.2,
+        "pattern": "cloud"
+      },
+      {
+        "name": "Mossy Oak Bottomland",
+        "colors": [
+          4280951838,
+          4283055408,
+          4285422405,
+          4287593311,
+          4280031252
+        ],
+        "scale": 1.6,
+        "pattern": "bark"
+      },
+      {
+        "name": "Kryptek Skyfall",
+        "colors": [
+          4285494136,
+          4283059538,
+          4287402134,
+          4281283126,
+          4289112493
+        ],
+        "scale": 1.0,
+        "pattern": "angular"
+      }
+    ]
+  },
+  {
+    "brand": "bowtech",
+    "finishes": [
+      {
+        "name": "Black",
+        "colors": [
+          4279900700
+        ],
+        "scale": 0.0,
+        "pattern": "solid"
+      },
+      {
+        "name": "Red Dirt",
+        "colors": [
+          4286463535
+        ],
+        "scale": 0.0,
+        "pattern": "solid"
+      },
+      {
+        "name": "Stealth Grey",
+        "colors": [
+          4284375654
+        ],
+        "scale": 0.0,
+        "pattern": "solid"
+      },
+      {
+        "name": "OD Green",
+        "colors": [
+          4283128378
+        ],
+        "scale": 0.0,
+        "pattern": "solid"
+      },
+      {
+        "name": "Sandstone",
+        "colors": [
+          4290223995
+        ],
+        "scale": 0.0,
+        "pattern": "solid"
+      },
+      {
+        "name": "Mossy Oak Bottomland",
+        "colors": [
+          4280951838,
+          4283055408,
+          4285422405,
+          4287593311,
+          4280031252
+        ],
+        "scale": 1.6,
+        "pattern": "bark"
+      },
+      {
+        "name": "Mossy Oak Country DNA",
+        "colors": [
+          4286212686,
+          4283055918,
+          4289305208,
+          4281215522,
+          4287396956
+        ],
+        "scale": 1.4,
+        "pattern": "blotch"
+      },
+      {
+        "name": "KUIU Verde 2.0",
+        "colors": [
+          4284246858,
+          4287272816,
+          4282272307,
+          4289640084,
+          4281086756
+        ],
+        "scale": 1.2,
+        "pattern": "cloud"
+      },
+      {
+        "name": "Optifade Subalpine",
+        "colors": [
+          4284312404,
+          4287401845,
+          4282008630,
+          4289309067,
+          4280691748
+        ],
+        "scale": 1.1,
+        "pattern": "cloud"
+      }
+    ]
+  },
+  {
+    "brand": "diamond",
+    "finishes": [
+      {
+        "name": "Black",
+        "colors": [
+          4279900700
+        ],
+        "scale": 0.0,
+        "pattern": "solid"
+      },
+      {
+        "name": "Sandstone",
+        "colors": [
+          4290223995
+        ],
+        "scale": 0.0,
+        "pattern": "solid"
+      },
+      {
+        "name": "Mossy Oak Bottomland",
+        "colors": [
+          4280951838,
+          4283055408,
+          4285422405,
+          4287593311,
+          4280031252
+        ],
+        "scale": 1.6,
+        "pattern": "bark"
+      },
+      {
+        "name": "Mossy Oak Country DNA",
+        "colors": [
+          4286212686,
+          4283055918,
+          4289305208,
+          4281215522,
+          4287396956
+        ],
+        "scale": 1.4,
+        "pattern": "blotch"
+      }
+    ]
+  },
+  {
+    "brand": "elite",
+    "finishes": [
+      {
+        "name": "Ninja Black",
+        "colors": [
+          4279505942
+        ],
+        "scale": 0.0,
+        "pattern": "solid"
+      },
+      {
+        "name": "Flat Black",
+        "colors": [
+          4280427044
+        ],
+        "scale": 0.0,
+        "pattern": "solid"
+      },
+      {
+        "name": "Cobalt Blue",
+        "colors": [
+          4280962728
+        ],
+        "scale": 0.0,
+        "pattern": "solid"
+      },
+      {
+        "name": "Orange Ignition",
+        "colors": [
+          4293419546
+        ],
+        "scale": 0.0,
+        "pattern": "solid"
+      },
+      {
+        "name": "Black Cherry",
+        "colors": [
+          4283046434
+        ],
+        "scale": 0.0,
+        "pattern": "solid"
+      },
+      {
+        "name": "Raspberry",
+        "colors": [
+          4290261098
+        ],
+        "scale": 0.0,
+        "pattern": "solid"
+      },
+      {
+        "name": "Alloy Silver",
+        "colors": [
+          4290231232
+        ],
+        "scale": 0.0,
+        "pattern": "solid"
+      },
+      {
+        "name": "Sour Apple",
+        "colors": [
+          4287481407
+        ],
+        "scale": 0.0,
+        "pattern": "solid"
+      },
+      {
+        "name": "Liquid Bronze",
+        "colors": [
+          4287326780
+        ],
+        "scale": 0.0,
+        "pattern": "solid"
+      },
+      {
+        "name": "Midnight Copper",
+        "colors": [
+          4284103210
+        ],
+        "scale": 0.0,
+        "pattern": "solid"
+      },
+      {
+        "name": "OD Green",
+        "colors": [
+          4283128378
+        ],
+        "scale": 0.0,
+        "pattern": "solid"
+      },
+      {
+        "name": "Mountain Tan",
+        "colors": [
+          4288711530
+        ],
+        "scale": 0.0,
+        "pattern": "solid"
+      },
+      {
+        "name": "Sienna Brown",
+        "colors": [
+          4286204462
+        ],
+        "scale": 0.0,
+        "pattern": "solid"
+      },
+      {
+        "name": "Slate Grey",
+        "colors": [
+          4285231222
+        ],
+        "scale": 0.0,
+        "pattern": "solid"
+      },
+      {
+        "name": "Realtree Edge",
+        "colors": [
+          4285226574,
+          4282332974,
+          4288449394,
+          4280688921,
+          4286936674
+        ],
+        "scale": 1.5,
+        "pattern": "blotch"
+      },
+      {
+        "name": "Mossy Oak Bottomland",
+        "colors": [
+          4280951838,
+          4283055408,
+          4285422405,
+          4287593311,
+          4280031252
+        ],
+        "scale": 1.6,
+        "pattern": "bark"
+      },
+      {
+        "name": "KUIU Verde 2.0",
+        "colors": [
+          4284246858,
+          4287272816,
+          4282272307,
+          4289640084,
+          4281086756
+        ],
+        "scale": 1.2,
+        "pattern": "cloud"
+      },
+      {
+        "name": "Optifade Subalpine",
+        "colors": [
+          4284312404,
+          4287401845,
+          4282008630,
+          4289309067,
+          4280691748
+        ],
+        "scale": 1.1,
+        "pattern": "cloud"
+      }
+    ]
+  },
+  {
+    "brand": "prime",
+    "finishes": [
+      {
+        "name": "Black",
+        "colors": [
+          4279900700
+        ],
+        "scale": 0.0,
+        "pattern": "solid"
+      },
+      {
+        "name": "Morel",
+        "colors": [
+          4285424462
+        ],
+        "scale": 0.0,
+        "pattern": "solid"
+      },
+      {
+        "name": "Ridge Rock Tan",
+        "colors": [
+          4288581232
+        ],
+        "scale": 0.0,
+        "pattern": "solid"
+      },
+      {
+        "name": "Recon Grey",
+        "colors": [
+          4285493877
+        ],
+        "scale": 0.0,
+        "pattern": "solid"
+      },
+      {
+        "name": "First Lite Specter",
+        "colors": [
+          4286347886,
+          4288913292,
+          4283387462,
+          4291018665,
+          4281676846
+        ],
+        "scale": 1.3,
+        "pattern": "cloud"
+      },
+      {
+        "name": "Mossy Oak Bottomland",
+        "colors": [
+          4280951838,
+          4283055408,
+          4285422405,
+          4287593311,
+          4280031252
+        ],
+        "scale": 1.6,
+        "pattern": "bark"
+      },
+      {
+        "name": "Optifade Subalpine",
+        "colors": [
+          4284312404,
+          4287401845,
+          4282008630,
+          4289309067,
+          4280691748
+        ],
+        "scale": 1.1,
+        "pattern": "cloud"
+      },
+      {
+        "name": "Cover",
+        "colors": [
+          4283057728,
+          4285228380,
+          4281215783,
+          4287267704
+        ],
+        "scale": 1.2,
+        "pattern": "cloud"
+      }
+    ]
+  },
+  {
+    "brand": "bear",
+    "finishes": [
+      {
+        "name": "Stone",
+        "colors": [
+          4287268216
+        ],
+        "scale": 0.0,
+        "pattern": "solid"
+      },
+      {
+        "name": "Olive",
+        "colors": [
+          4283785280
+        ],
+        "scale": 0.0,
+        "pattern": "solid"
+      },
+      {
+        "name": "Black",
+        "colors": [
+          4279966493
+        ],
+        "scale": 0.0,
+        "pattern": "solid"
+      },
+      {
+        "name": "Emerge 2.0",
+        "colors": [
+          4285165146,
+          4282204725,
+          4287599228,
+          4280493600,
+          4289770140
+        ],
+        "scale": 1.2,
+        "pattern": "cloud"
+      },
+      {
+        "name": "Mossy Oak Bottomland",
+        "colors": [
+          4280951838,
+          4283055408,
+          4285422405,
+          4287593311,
+          4280031252
+        ],
+        "scale": 1.6,
+        "pattern": "bark"
+      }
+    ]
+  },
+  {
+    "brand": "darton",
+    "finishes": [
+      {
+        "name": "Black",
+        "colors": [
+          4279900700
+        ],
+        "scale": 0.0,
+        "pattern": "solid"
+      },
+      {
+        "name": "FDE",
+        "colors": [
+          4289301603
+        ],
+        "scale": 0.0,
+        "pattern": "solid"
+      },
+      {
+        "name": "Stone Grey",
+        "colors": [
+          4286348922
+        ],
+        "scale": 0.0,
+        "pattern": "solid"
+      },
+      {
+        "name": "OD Green",
+        "colors": [
+          4283128378
+        ],
+        "scale": 0.0,
+        "pattern": "solid"
+      },
+      {
+        "name": "Mossy Oak Bottomland",
+        "colors": [
+          4280951838,
+          4283055408,
+          4285422405,
+          4287593311,
+          4280031252
+        ],
+        "scale": 1.6,
+        "pattern": "bark"
+      },
+      {
+        "name": "First Lite Specter",
+        "colors": [
+          4286347886,
+          4288913292,
+          4283387462,
+          4291018665,
+          4281676846
+        ],
+        "scale": 1.3,
+        "pattern": "cloud"
+      },
+      {
+        "name": "First Lite Fusion",
+        "colors": [
+          4285424214,
+          4287595631,
+          4283122232,
+          4289766538,
+          4281281060
+        ],
+        "scale": 1.3,
+        "pattern": "cloud"
+      }
+    ]
+  },
+  {
+    "brand": "xpedition",
+    "finishes": [
+      {
+        "name": "Armor Black",
+        "colors": [
+          4279703578
+        ],
+        "scale": 0.0,
+        "pattern": "solid"
+      },
+      {
+        "name": "Sniper Gray",
+        "colors": [
+          4285296757
+        ],
+        "scale": 0.0,
+        "pattern": "solid"
+      },
+      {
+        "name": "FDE",
+        "colors": [
+          4289301603
+        ],
+        "scale": 0.0,
+        "pattern": "solid"
+      },
+      {
+        "name": "OD Green",
+        "colors": [
+          4283128378
+        ],
+        "scale": 0.0,
+        "pattern": "solid"
+      },
+      {
+        "name": "Mossy Oak Bottomland",
+        "colors": [
+          4280951838,
+          4283055408,
+          4285422405,
+          4287593311,
+          4280031252
+        ],
+        "scale": 1.6,
+        "pattern": "bark"
+      }
+    ]
+  }
+]
