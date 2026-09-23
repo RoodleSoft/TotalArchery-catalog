@@ -9496,6 +9496,15 @@
   },
   {
     "brand": "Bohning",
+    "model": "Blazer Vanes (100-Pack)",
+    "category": "vane",
+    "grains": 6.0,
+    "fits": null,
+    "verified": false,
+    "url": "https://www.bohning.com"
+  },
+  {
+    "brand": "Bohning",
     "model": "Blazer Vanes (36-Pack)",
     "category": "vane",
     "grains": 6.0,
@@ -9524,15 +9533,6 @@
   {
     "brand": "Bohning",
     "model": "Blazer Vanes (Satin)",
-    "category": "vane",
-    "grains": 6.0,
-    "fits": null,
-    "verified": false,
-    "url": "https://www.bohning.com"
-  },
-  {
-    "brand": "Bohning",
-    "model": "Blazer Vanes",
     "category": "vane",
     "grains": 6.0,
     "fits": null,
@@ -9649,16 +9649,7 @@
   },
   {
     "brand": "Bohning",
-    "model": "X-Vanes (36-pack)",
-    "category": "vane",
-    "grains": 6.0,
-    "fits": null,
-    "verified": false,
-    "url": "https://www.bohning.com"
-  },
-  {
-    "brand": "Bohning",
-    "model": "X-Vanes",
+    "model": "X-Vanes (100-Pack)",
     "category": "vane",
     "grains": 10.0,
     "fits": null,
@@ -9667,7 +9658,7 @@
   },
   {
     "brand": "Bohning",
-    "model": "X-Vanes",
+    "model": "X-Vanes (100-Pack)",
     "category": "vane",
     "grains": 3.0,
     "fits": null,
@@ -9676,7 +9667,7 @@
   },
   {
     "brand": "Bohning",
-    "model": "X-Vanes",
+    "model": "X-Vanes (100-Pack)",
     "category": "vane",
     "grains": 4.3,
     "fits": null,
@@ -9685,9 +9676,18 @@
   },
   {
     "brand": "Bohning",
-    "model": "X-Vanes",
+    "model": "X-Vanes (100-Pack)",
     "category": "vane",
     "grains": 5.8,
+    "fits": null,
+    "verified": false,
+    "url": "https://www.bohning.com"
+  },
+  {
+    "brand": "Bohning",
+    "model": "X-Vanes (36-pack)",
+    "category": "vane",
+    "grains": 6.0,
     "fits": null,
     "verified": false,
     "url": "https://www.bohning.com"
