@@ -11,7 +11,8 @@
     "target": false,
     "tier": "flagship",
     "verified": true,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "Hoyt",
@@ -25,7 +26,8 @@
     "target": false,
     "tier": "flagship",
     "verified": true,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "Hoyt",
@@ -39,7 +41,8 @@
     "target": false,
     "tier": "flagship",
     "verified": false,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "Hoyt",
@@ -53,7 +56,8 @@
     "target": false,
     "tier": "flagship",
     "verified": false,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "Hoyt",
@@ -67,7 +71,8 @@
     "target": false,
     "tier": "flagship",
     "verified": true,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "Hoyt",
@@ -81,7 +86,8 @@
     "target": false,
     "tier": "flagship",
     "verified": true,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "Hoyt",
@@ -95,7 +101,8 @@
     "target": false,
     "tier": "flagship",
     "verified": false,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "Hoyt",
@@ -109,7 +116,8 @@
     "target": false,
     "tier": "flagship",
     "verified": false,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "Hoyt",
@@ -123,7 +131,8 @@
     "target": false,
     "tier": "flagship",
     "verified": true,
-    "note": "90 lb"
+    "note": "90 lb",
+    "msrpUsd": null
   },
   {
     "brand": "Hoyt",
@@ -137,7 +146,8 @@
     "target": false,
     "tier": "enthusiast",
     "verified": true,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "Hoyt",
@@ -151,7 +161,8 @@
     "target": false,
     "tier": "flagship",
     "verified": true,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "Hoyt",
@@ -165,7 +176,8 @@
     "target": false,
     "tier": "flagship",
     "verified": true,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "Hoyt",
@@ -179,7 +191,8 @@
     "target": false,
     "tier": "flagship",
     "verified": false,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "Hoyt",
@@ -193,7 +206,8 @@
     "target": false,
     "tier": "flagship",
     "verified": true,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "Hoyt",
@@ -207,7 +221,8 @@
     "target": false,
     "tier": "flagship",
     "verified": false,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "Hoyt",
@@ -221,7 +236,8 @@
     "target": false,
     "tier": "flagship",
     "verified": true,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "Hoyt",
@@ -235,7 +251,8 @@
     "target": false,
     "tier": "flagship",
     "verified": false,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "Hoyt",
@@ -249,7 +266,8 @@
     "target": false,
     "tier": "flagship",
     "verified": true,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "Hoyt",
@@ -263,7 +281,8 @@
     "target": false,
     "tier": "flagship",
     "verified": true,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "Hoyt",
@@ -277,7 +296,8 @@
     "target": false,
     "tier": "flagship",
     "verified": true,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "Hoyt",
@@ -291,7 +311,8 @@
     "target": false,
     "tier": "flagship",
     "verified": true,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "Hoyt",
@@ -305,7 +326,8 @@
     "target": false,
     "tier": "flagship",
     "verified": true,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "Hoyt",
@@ -319,7 +341,8 @@
     "target": false,
     "tier": "flagship",
     "verified": true,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "Hoyt",
@@ -333,7 +356,8 @@
     "target": false,
     "tier": "flagship",
     "verified": false,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "Hoyt",
@@ -347,7 +371,8 @@
     "target": false,
     "tier": "flagship",
     "verified": false,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "Mathews",
@@ -361,7 +386,8 @@
     "target": false,
     "tier": "flagship",
     "verified": true,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "Mathews",
@@ -375,7 +401,8 @@
     "target": false,
     "tier": "flagship",
     "verified": true,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "Mathews",
@@ -389,7 +416,8 @@
     "target": false,
     "tier": "flagship",
     "verified": true,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "Mathews",
@@ -403,7 +431,8 @@
     "target": false,
     "tier": "flagship",
     "verified": true,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "Mathews",
@@ -417,7 +446,8 @@
     "target": false,
     "tier": "flagship",
     "verified": true,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "Mathews",
@@ -431,7 +461,8 @@
     "target": false,
     "tier": "flagship",
     "verified": true,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "Mathews",
@@ -445,7 +476,8 @@
     "target": false,
     "tier": "flagship",
     "verified": true,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "Mathews",
@@ -459,7 +491,8 @@
     "target": false,
     "tier": "flagship",
     "verified": true,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "Mathews",
@@ -473,7 +506,8 @@
     "target": false,
     "tier": "flagship",
     "verified": true,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "Mathews",
@@ -487,7 +521,8 @@
     "target": false,
     "tier": "flagship",
     "verified": true,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "Mathews",
@@ -501,7 +536,8 @@
     "target": false,
     "tier": "flagship",
     "verified": true,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "Mathews",
@@ -515,7 +551,8 @@
     "target": true,
     "tier": "flagship",
     "verified": true,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "Mathews",
@@ -529,7 +566,8 @@
     "target": true,
     "tier": "flagship",
     "verified": false,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "Mathews",
@@ -543,7 +581,8 @@
     "target": true,
     "tier": "flagship",
     "verified": false,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "Mathews",
@@ -557,7 +596,8 @@
     "target": true,
     "tier": "flagship",
     "verified": false,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "Mathews",
@@ -571,7 +611,8 @@
     "target": true,
     "tier": "flagship",
     "verified": false,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "PSE",
@@ -585,7 +626,8 @@
     "target": false,
     "tier": "flagship",
     "verified": true,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "PSE",
@@ -599,7 +641,8 @@
     "target": false,
     "tier": "flagship",
     "verified": true,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "PSE",
@@ -613,7 +656,8 @@
     "target": false,
     "tier": "flagship",
     "verified": false,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "PSE",
@@ -627,7 +671,8 @@
     "target": false,
     "tier": "flagship",
     "verified": true,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "PSE",
@@ -641,7 +686,8 @@
     "target": false,
     "tier": "flagship",
     "verified": true,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "PSE",
@@ -655,7 +701,8 @@
     "target": false,
     "tier": "flagship",
     "verified": true,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "PSE",
@@ -669,7 +716,8 @@
     "target": false,
     "tier": "flagship",
     "verified": true,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "PSE",
@@ -683,7 +731,8 @@
     "target": false,
     "tier": "flagship",
     "verified": true,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "PSE",
@@ -697,7 +746,8 @@
     "target": false,
     "tier": "flagship",
     "verified": true,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "PSE",
@@ -711,7 +761,8 @@
     "target": false,
     "tier": "flagship",
     "verified": false,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "PSE",
@@ -725,7 +776,8 @@
     "target": false,
     "tier": "flagship",
     "verified": false,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "PSE",
@@ -739,7 +791,8 @@
     "target": false,
     "tier": "flagship",
     "verified": false,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "Bowtech",
@@ -753,7 +806,8 @@
     "target": false,
     "tier": "flagship",
     "verified": true,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "Bowtech",
@@ -767,7 +821,8 @@
     "target": false,
     "tier": "flagship",
     "verified": true,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "Bowtech",
@@ -781,7 +836,8 @@
     "target": false,
     "tier": "flagship",
     "verified": true,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "Bowtech",
@@ -795,7 +851,8 @@
     "target": false,
     "tier": "flagship",
     "verified": true,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "Bowtech",
@@ -809,7 +866,8 @@
     "target": false,
     "tier": "flagship",
     "verified": false,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "Bowtech",
@@ -823,7 +881,8 @@
     "target": false,
     "tier": "flagship",
     "verified": true,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "Bowtech",
@@ -837,7 +896,8 @@
     "target": false,
     "tier": "flagship",
     "verified": true,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "Bowtech",
@@ -851,7 +911,8 @@
     "target": false,
     "tier": "flagship",
     "verified": true,
-    "note": "short draw"
+    "note": "short draw",
+    "msrpUsd": null
   },
   {
     "brand": "Bowtech",
@@ -865,7 +926,8 @@
     "target": false,
     "tier": "flagship",
     "verified": true,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "Bowtech",
@@ -879,7 +941,8 @@
     "target": false,
     "tier": "flagship",
     "verified": false,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "Bowtech",
@@ -893,7 +956,8 @@
     "target": false,
     "tier": "flagship",
     "verified": true,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "Bowtech",
@@ -907,7 +971,8 @@
     "target": false,
     "tier": "flagship",
     "verified": true,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "Bowtech",
@@ -921,7 +986,8 @@
     "target": false,
     "tier": "flagship",
     "verified": false,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "Elite",
@@ -935,7 +1001,8 @@
     "target": false,
     "tier": "flagship",
     "verified": true,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "Elite",
@@ -949,7 +1016,8 @@
     "target": false,
     "tier": "flagship",
     "verified": true,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "Elite",
@@ -963,7 +1031,8 @@
     "target": false,
     "tier": "budget",
     "verified": true,
-    "note": "youth"
+    "note": "youth",
+    "msrpUsd": null
   },
   {
     "brand": "Elite",
@@ -977,7 +1046,8 @@
     "target": false,
     "tier": "flagship",
     "verified": true,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "Elite",
@@ -991,7 +1061,8 @@
     "target": false,
     "tier": "flagship",
     "verified": false,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "Elite",
@@ -1005,7 +1076,8 @@
     "target": false,
     "tier": "flagship",
     "verified": true,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "Elite",
@@ -1019,7 +1091,8 @@
     "target": false,
     "tier": "flagship",
     "verified": true,
-    "note": "women's"
+    "note": "women's",
+    "msrpUsd": null
   },
   {
     "brand": "Elite",
@@ -1033,7 +1106,8 @@
     "target": false,
     "tier": "flagship",
     "verified": true,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "Elite",
@@ -1047,7 +1121,8 @@
     "target": false,
     "tier": "flagship",
     "verified": true,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "Elite",
@@ -1061,7 +1136,8 @@
     "target": false,
     "tier": "flagship",
     "verified": true,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "Elite",
@@ -1075,7 +1151,8 @@
     "target": true,
     "tier": "flagship",
     "verified": true,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "Elite",
@@ -1089,7 +1166,8 @@
     "target": false,
     "tier": "flagship",
     "verified": true,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "Prime",
@@ -1103,7 +1181,8 @@
     "target": false,
     "tier": "flagship",
     "verified": true,
-    "note": "brace selectable 6 or 7"
+    "note": "brace selectable 6 or 7",
+    "msrpUsd": null
   },
   {
     "brand": "Prime",
@@ -1117,7 +1196,8 @@
     "target": false,
     "tier": "flagship",
     "verified": true,
-    "note": "brace selectable 6 or 7"
+    "note": "brace selectable 6 or 7",
+    "msrpUsd": null
   },
   {
     "brand": "Prime",
@@ -1131,7 +1211,8 @@
     "target": false,
     "tier": "flagship",
     "verified": true,
-    "note": "brace selectable 6 or 7"
+    "note": "brace selectable 6 or 7",
+    "msrpUsd": null
   },
   {
     "brand": "Prime",
@@ -1145,7 +1226,8 @@
     "target": false,
     "tier": "flagship",
     "verified": true,
-    "note": "brace selectable 6 or 7"
+    "note": "brace selectable 6 or 7",
+    "msrpUsd": null
   },
   {
     "brand": "Prime",
@@ -1159,7 +1241,8 @@
     "target": true,
     "tier": "flagship",
     "verified": false,
-    "note": "Was misspelled \"Ronin\" -- g5prime.com's own product page/image confirm \"Ronan\"."
+    "note": "Was misspelled \"Ronin\" -- g5prime.com's own product page/image confirm \"Ronan\".",
+    "msrpUsd": null
   },
   {
     "brand": "Prime",
@@ -1173,7 +1256,8 @@
     "target": false,
     "tier": "flagship",
     "verified": true,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "Prime",
@@ -1187,7 +1271,8 @@
     "target": false,
     "tier": "flagship",
     "verified": false,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "Prime",
@@ -1201,7 +1286,8 @@
     "target": false,
     "tier": "flagship",
     "verified": false,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "Prime",
@@ -1215,7 +1301,8 @@
     "target": false,
     "tier": "flagship",
     "verified": true,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "Prime",
@@ -1229,7 +1316,8 @@
     "target": false,
     "tier": "flagship",
     "verified": true,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "Prime",
@@ -1243,7 +1331,8 @@
     "target": false,
     "tier": "flagship",
     "verified": true,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "Prime",
@@ -1257,7 +1346,8 @@
     "target": false,
     "tier": "flagship",
     "verified": true,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "Prime",
@@ -1271,7 +1361,8 @@
     "target": false,
     "tier": "flagship",
     "verified": true,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "Prime",
@@ -1285,7 +1376,8 @@
     "target": false,
     "tier": "flagship",
     "verified": true,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "Prime",
@@ -1299,7 +1391,8 @@
     "target": false,
     "tier": "flagship",
     "verified": false,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "Prime",
@@ -1313,7 +1406,8 @@
     "target": false,
     "tier": "flagship",
     "verified": true,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "Prime",
@@ -1327,7 +1421,8 @@
     "target": false,
     "tier": "flagship",
     "verified": false,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "Bear",
@@ -1341,7 +1436,8 @@
     "target": false,
     "tier": "flagship",
     "verified": true,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "Bear",
@@ -1355,7 +1451,8 @@
     "target": false,
     "tier": "flagship",
     "verified": false,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "Bear",
@@ -1369,7 +1466,8 @@
     "target": false,
     "tier": "flagship",
     "verified": true,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "Bear",
@@ -1383,7 +1481,8 @@
     "target": false,
     "tier": "flagship",
     "verified": false,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "Bear",
@@ -1397,7 +1496,8 @@
     "target": false,
     "tier": "budget",
     "verified": false,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "Bear",
@@ -1411,7 +1511,8 @@
     "target": false,
     "tier": "flagship",
     "verified": false,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "Bear",
@@ -1425,7 +1526,8 @@
     "target": false,
     "tier": "flagship",
     "verified": true,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "Bear",
@@ -1439,7 +1541,8 @@
     "target": false,
     "tier": "flagship",
     "verified": true,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "Bear",
@@ -1453,7 +1556,8 @@
     "target": false,
     "tier": "flagship",
     "verified": true,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "Bear",
@@ -1467,7 +1571,8 @@
     "target": false,
     "tier": "budget",
     "verified": true,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "Bear",
@@ -1481,7 +1586,8 @@
     "target": false,
     "tier": "flagship",
     "verified": true,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "Bear",
@@ -1495,7 +1601,8 @@
     "target": false,
     "tier": "flagship",
     "verified": false,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "Bear",
@@ -1509,7 +1616,8 @@
     "target": false,
     "tier": "flagship",
     "verified": true,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "Bear",
@@ -1523,7 +1631,8 @@
     "target": false,
     "tier": "flagship",
     "verified": false,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "Darton",
@@ -1537,7 +1646,8 @@
     "target": false,
     "tier": "enthusiast",
     "verified": true,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "Darton",
@@ -1551,7 +1661,8 @@
     "target": false,
     "tier": "enthusiast",
     "verified": false,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "Darton",
@@ -1565,7 +1676,8 @@
     "target": false,
     "tier": "enthusiast",
     "verified": true,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "Darton",
@@ -1579,7 +1691,8 @@
     "target": false,
     "tier": "enthusiast",
     "verified": false,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "Darton",
@@ -1593,7 +1706,8 @@
     "target": false,
     "tier": "enthusiast",
     "verified": true,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "Darton",
@@ -1607,7 +1721,8 @@
     "target": false,
     "tier": "enthusiast",
     "verified": false,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "Darton",
@@ -1621,7 +1736,8 @@
     "target": false,
     "tier": "enthusiast",
     "verified": false,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "Darton",
@@ -1635,7 +1751,8 @@
     "target": false,
     "tier": "enthusiast",
     "verified": false,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "Xpedition",
@@ -1649,7 +1766,8 @@
     "target": false,
     "tier": "enthusiast",
     "verified": true,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "Xpedition",
@@ -1663,7 +1781,8 @@
     "target": false,
     "tier": "enthusiast",
     "verified": true,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "Xpedition",
@@ -1677,7 +1796,8 @@
     "target": false,
     "tier": "enthusiast",
     "verified": true,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "Xpedition",
@@ -1691,7 +1811,8 @@
     "target": false,
     "tier": "enthusiast",
     "verified": false,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "Xpedition",
@@ -1705,7 +1826,8 @@
     "target": false,
     "tier": "enthusiast",
     "verified": false,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "Xpedition",
@@ -1719,7 +1841,8 @@
     "target": true,
     "tier": "enthusiast",
     "verified": false,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "Xpedition",
@@ -1733,7 +1856,8 @@
     "target": false,
     "tier": "enthusiast",
     "verified": false,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "Xpedition",
@@ -1747,7 +1871,8 @@
     "target": false,
     "tier": "enthusiast",
     "verified": false,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "Xpedition",
@@ -1761,7 +1886,8 @@
     "target": false,
     "tier": "enthusiast",
     "verified": true,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "Diamond",
@@ -1775,7 +1901,8 @@
     "target": false,
     "tier": "budget",
     "verified": true,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "Diamond",
@@ -1789,7 +1916,8 @@
     "target": false,
     "tier": "budget",
     "verified": false,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "Diamond",
@@ -1803,7 +1931,8 @@
     "target": false,
     "tier": "budget",
     "verified": false,
-    "note": "carbon, 3.2 lb"
+    "note": "carbon, 3.2 lb",
+    "msrpUsd": null
   },
   {
     "brand": "Mission",
@@ -1817,7 +1946,8 @@
     "target": false,
     "tier": "budget",
     "verified": true,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "Mission",
@@ -1831,7 +1961,8 @@
     "target": false,
     "tier": "budget",
     "verified": false,
-    "note": null
+    "note": null,
+    "msrpUsd": null
   },
   {
     "brand": "Mission",
@@ -1845,6 +1976,7 @@
     "target": false,
     "tier": "budget",
     "verified": true,
-    "note": "youth to adult"
+    "note": "youth to adult",
+    "msrpUsd": null
   }
 ]
