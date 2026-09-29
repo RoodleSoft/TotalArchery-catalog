@@ -1,20 +1,5 @@
 [
   {
-    "brand": "ZZZ-TEST-DELETE-ME",
-    "year": null,
-    "model": null,
-    "ataIn": null,
-    "braceIn": null,
-    "speedFps": null,
-    "massWeightOz": null,
-    "centerShotIn": null,
-    "target": false,
-    "tier": null,
-    "verified": false,
-    "note": null,
-    "msrpUsd": null
-  },
-  {
     "brand": "Hoyt",
     "year": 2026,
     "model": "Carbon RX-10",
@@ -1697,7 +1682,7 @@
   {
     "brand": "Darton",
     "year": 2025,
-    "model": "Sequel 33 ST²",
+    "model": "Sequel 33 ST\u00b2",
     "ataIn": 33,
     "braceIn": null,
     "speedFps": null,
