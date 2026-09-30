@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T19:25:19.085658Z",
+  "updatedAt": "2026-09-30T19:28:23.379991Z",
   "bows": {
     "hoyt_2026_carbon_rx_10": {
       "system": "hoyt_xts",
@@ -204,15 +204,13 @@
       "source": "rule"
     },
     "mathews_2022_title_36": {
-      "system": "mathews_lst",
-      "source": "listing",
-      "evidence": "limb shift technology",
+      "system": "mathews_tophat",
+      "source": "rule",
       "checkedAt": "2026-09-30T19:25:19.085658Z"
     },
     "mathews_2022_title_38": {
-      "system": "mathews_lst",
-      "source": "listing",
-      "evidence": "limb shift technology",
+      "system": "mathews_tophat",
+      "source": "rule",
       "checkedAt": "2026-09-30T19:25:19.085658Z"
     },
     "mathews_2022_trx_36": {
