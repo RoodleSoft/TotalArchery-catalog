@@ -1,9 +1,11 @@
 {
-  "updatedAt": "2026-09-30T17:55:19.012233Z",
+  "updatedAt": "2026-09-30T19:25:19.085658Z",
   "bows": {
     "hoyt_2026_carbon_rx_10": {
       "system": "hoyt_xts",
-      "source": "rule"
+      "source": "listing",
+      "evidence": "xts tuning",
+      "checkedAt": "2026-09-30T19:25:19.085658Z"
     },
     "hoyt_2026_carbon_rx_10_ultra": {
       "system": "hoyt_xts",
@@ -13,7 +15,9 @@
     },
     "hoyt_2026_carbon_rx_10_ultra_ld": {
       "system": "hoyt_xts",
-      "source": "rule"
+      "source": "listing",
+      "evidence": "xts tuning",
+      "checkedAt": "2026-09-30T19:25:19.085658Z"
     },
     "hoyt_2026_carbon_rx_10_sd": {
       "system": "hoyt_xts",
@@ -29,23 +33,33 @@
     },
     "hoyt_2026_alpha_ax_3_33": {
       "system": "hoyt_xts",
-      "source": "rule"
+      "source": "listing",
+      "evidence": "xts tuning",
+      "checkedAt": "2026-09-30T19:25:19.085658Z"
     },
     "hoyt_2026_alpha_ax_3_33_ld": {
       "system": "hoyt_xts",
-      "source": "rule"
+      "source": "listing",
+      "evidence": "xts tuning",
+      "checkedAt": "2026-09-30T19:25:19.085658Z"
     },
     "hoyt_2026_alpha_ax_3_sd": {
       "system": "hoyt_xts",
-      "source": "rule"
+      "source": "listing",
+      "evidence": "xts tuning",
+      "checkedAt": "2026-09-30T19:25:19.085658Z"
     },
     "hoyt_2026_alpha_ax_90": {
       "system": "hoyt_xts",
-      "source": "rule"
+      "source": "listing",
+      "evidence": "xts tuning",
+      "checkedAt": "2026-09-30T19:25:19.085658Z"
     },
     "hoyt_2026_enduro": {
-      "system": "hoyt_hbx",
-      "source": "rule"
+      "system": "hoyt_xts",
+      "source": "listing",
+      "evidence": "xts tuning",
+      "checkedAt": "2026-09-30T19:25:19.085658Z"
     },
     "hoyt_2025_carbon_rx_9": {
       "system": "hoyt_hbx",
@@ -134,11 +148,14 @@
     },
     "mathews_2026_arc_34": {
       "system": "mathews_tophat",
-      "source": "rule"
+      "source": "rule",
+      "checkedAt": "2026-09-30T19:25:19.085658Z"
     },
     "mathews_2026_lift_rs": {
-      "system": "mathews_tophat",
-      "source": "rule"
+      "system": "mathews_lst",
+      "source": "listing",
+      "evidence": "limb shift technology",
+      "checkedAt": "2026-09-30T19:25:19.085658Z"
     },
     "mathews_2026_lift_xd": {
       "system": "mathews_lst",
@@ -148,11 +165,15 @@
     },
     "mathews_2025_lift_x_29_5": {
       "system": "mathews_lst",
-      "source": "rule"
+      "source": "listing",
+      "evidence": "limb shift technology",
+      "checkedAt": "2026-09-30T19:25:19.085658Z"
     },
     "mathews_2025_lift_x_33": {
       "system": "mathews_lst",
-      "source": "rule"
+      "source": "listing",
+      "evidence": "limb shift technology",
+      "checkedAt": "2026-09-30T19:25:19.085658Z"
     },
     "mathews_2024_lift_29_5": {
       "system": "mathews_tophat",
@@ -183,12 +204,16 @@
       "source": "rule"
     },
     "mathews_2022_title_36": {
-      "system": "mathews_tophat",
-      "source": "rule"
+      "system": "mathews_lst",
+      "source": "listing",
+      "evidence": "limb shift technology",
+      "checkedAt": "2026-09-30T19:25:19.085658Z"
     },
     "mathews_2022_title_38": {
-      "system": "mathews_tophat",
-      "source": "rule"
+      "system": "mathews_lst",
+      "source": "listing",
+      "evidence": "limb shift technology",
+      "checkedAt": "2026-09-30T19:25:19.085658Z"
     },
     "mathews_2022_trx_36": {
       "system": "mathews_tophat",
@@ -203,12 +228,16 @@
       "source": "rule"
     },
     "pse_2026_sicario_carbon_fds": {
-      "system": "pse_classic",
-      "source": "rule"
+      "system": "pse_ez220",
+      "source": "listing",
+      "evidence": "ez.220",
+      "checkedAt": "2026-09-30T19:25:19.085658Z"
     },
     "pse_2026_force_ds": {
-      "system": "pse_classic",
-      "source": "rule"
+      "system": "pse_ez220",
+      "source": "listing",
+      "evidence": "ez.220",
+      "checkedAt": "2026-09-30T19:25:19.085658Z"
     },
     "pse_2026_decree_fds": {
       "system": "pse_ez220",
@@ -217,12 +246,16 @@
       "checkedAt": "2026-09-30T16:25:25.429880Z"
     },
     "pse_2026_sicario_carbon_35_fds": {
-      "system": "pse_classic",
-      "source": "rule"
+      "system": "pse_ez220",
+      "source": "listing",
+      "evidence": "ez.220",
+      "checkedAt": "2026-09-30T19:25:19.085658Z"
     },
     "pse_2025_mach_35_ds_carbon": {
       "system": "pse_ez220",
-      "source": "rule"
+      "source": "listing",
+      "evidence": "ez.220",
+      "checkedAt": "2026-09-30T19:25:19.085658Z"
     },
     "pse_2025_mach_33_ds": {
       "system": "pse_ez220",
@@ -273,8 +306,10 @@
       "source": "rule"
     },
     "pse_2023_stinger_atk": {
-      "system": "pse_classic",
-      "source": "rule"
+      "system": "pse_ez220",
+      "source": "listing",
+      "evidence": "ez.220",
+      "checkedAt": "2026-09-30T19:25:19.085658Z"
     },
     "pse_2022_nock_on_carbon_levitate": {
       "system": "pse_classic",
@@ -378,35 +413,46 @@
     },
     "elite_2026_emerse": {
       "system": "elite_set",
-      "source": "rule"
+      "source": "rule",
+      "checkedAt": "2026-09-30T19:25:19.085658Z"
     },
     "elite_2026_carbon_eon": {
       "system": "elite_set",
-      "source": "rule"
+      "source": "listing",
+      "evidence": "s.e.t.",
+      "checkedAt": "2026-09-30T19:25:19.085658Z"
     },
     "elite_2026_victra_40": {
       "system": "elite_set",
-      "source": "rule"
+      "source": "listing",
+      "evidence": "s.e.t.",
+      "checkedAt": "2026-09-30T19:25:19.085658Z"
     },
     "elite_2026_victra": {
       "system": "elite_set",
-      "source": "rule"
+      "source": "listing",
+      "evidence": "s.e.t.",
+      "checkedAt": "2026-09-30T19:25:19.085658Z"
     },
     "elite_2026_hntr33": {
       "system": "elite_set",
-      "source": "rule"
+      "source": "rule",
+      "checkedAt": "2026-09-30T19:25:19.085658Z"
     },
     "elite_2026_terrain": {
       "system": "elite_set",
-      "source": "rule"
+      "source": "rule",
+      "checkedAt": "2026-09-30T19:25:19.085658Z"
     },
     "elite_2026_basin": {
       "system": "elite_set",
-      "source": "rule"
+      "source": "rule",
+      "checkedAt": "2026-09-30T19:25:19.085658Z"
     },
     "elite_2026_ember": {
       "system": "elite_set",
-      "source": "rule"
+      "source": "rule",
+      "checkedAt": "2026-09-30T19:25:19.085658Z"
     },
     "elite_2025_artus": {
       "system": "elite_set",
@@ -424,7 +470,9 @@
     },
     "elite_2024_allure": {
       "system": "elite_set",
-      "source": "rule"
+      "source": "listing",
+      "evidence": "s.e.t.",
+      "checkedAt": "2026-09-30T19:25:19.085658Z"
     },
     "elite_2024_enkore": {
       "system": "elite_set",
@@ -526,15 +574,18 @@
     },
     "bear_2026_redeem": {
       "system": "bear_timing",
-      "source": "rule"
+      "source": "rule",
+      "checkedAt": "2026-09-30T19:25:19.085658Z"
     },
     "bear_2026_alaskan_pro": {
       "system": "bear_timing",
-      "source": "rule"
+      "source": "rule",
+      "checkedAt": "2026-09-30T19:25:19.085658Z"
     },
     "bear_2025_persist_33": {
       "system": "bear_timing",
-      "source": "rule"
+      "source": "rule",
+      "checkedAt": "2026-09-30T19:25:19.085658Z"
     },
     "bear_2025_legend_30": {
       "system": "bear_timing",
@@ -664,15 +715,20 @@
     },
     "xpedition_2026_nexlite_30": {
       "system": "xpedition_nexlite",
-      "source": "rule"
+      "source": "listing",
+      "evidence": "xlok",
+      "checkedAt": "2026-09-30T19:25:19.085658Z"
     },
     "xpedition_2026_nexlite_33": {
       "system": "xpedition_nexlite",
-      "source": "rule"
+      "source": "listing",
+      "evidence": "xlok",
+      "checkedAt": "2026-09-30T19:25:19.085658Z"
     },
     "xpedition_2025_xlite_32": {
       "system": "xpedition_twist",
-      "source": "rule"
+      "source": "rule",
+      "checkedAt": "2026-09-30T19:25:19.085658Z"
     },
     "xpedition_2023_x30": {
       "system": "xpedition_twist",
@@ -696,7 +752,8 @@
     },
     "xpedition_2022_mx32": {
       "system": "xpedition_twist",
-      "source": "rule"
+      "source": "rule",
+      "checkedAt": "2026-09-30T19:25:19.085658Z"
     },
     "diamond_2024_edge_xt": {
       "system": "diamond_modules",
@@ -732,7 +789,8 @@
     },
     "mission_2026_range": {
       "system": "mission_shims",
-      "source": "rule"
+      "source": "rule",
+      "checkedAt": "2026-09-30T19:25:19.085658Z"
     },
     "mission_2024_switch": {
       "system": "mission_shims",
@@ -740,7 +798,8 @@
     },
     "mission_2024_hammr": {
       "system": "mission_shims",
-      "source": "rule"
+      "source": "rule",
+      "checkedAt": "2026-09-30T19:25:19.085658Z"
     },
     "quest_2021_centec": {
       "system": "quest_shims",
