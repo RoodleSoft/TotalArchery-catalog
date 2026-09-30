@@ -1,0 +1,748 @@
+{
+  "updatedAt": "2026-09-30T16:25:25.429880Z",
+  "bows": {
+    "hoyt_2026_carbon_rx_10": {
+      "system": "hoyt_xts",
+      "source": "rule"
+    },
+    "hoyt_2026_carbon_rx_10_ultra": {
+      "system": "hoyt_xts",
+      "source": "rule"
+    },
+    "hoyt_2026_carbon_rx_10_ultra_ld": {
+      "system": "hoyt_xts",
+      "source": "rule"
+    },
+    "hoyt_2026_carbon_rx_10_sd": {
+      "system": "hoyt_xts",
+      "source": "listing",
+      "evidence": "xts tuning",
+      "checkedAt": "2026-09-30T16:25:25.429880Z"
+    },
+    "hoyt_2026_alpha_ax_3_29": {
+      "system": "hoyt_xts",
+      "source": "rule"
+    },
+    "hoyt_2026_alpha_ax_3_33": {
+      "system": "hoyt_xts",
+      "source": "rule"
+    },
+    "hoyt_2026_alpha_ax_3_33_ld": {
+      "system": "hoyt_xts",
+      "source": "rule"
+    },
+    "hoyt_2026_alpha_ax_3_sd": {
+      "system": "hoyt_xts",
+      "source": "rule"
+    },
+    "hoyt_2026_alpha_ax_90": {
+      "system": "hoyt_xts",
+      "source": "rule"
+    },
+    "hoyt_2026_enduro": {
+      "system": "hoyt_hbx",
+      "source": "rule"
+    },
+    "hoyt_2025_carbon_rx_9": {
+      "system": "hoyt_hbx",
+      "source": "rule"
+    },
+    "hoyt_2025_carbon_rx_9_ultra": {
+      "system": "hoyt_hbx",
+      "source": "rule"
+    },
+    "hoyt_2025_carbon_rx_9_sd": {
+      "system": "hoyt_hbx",
+      "source": "rule"
+    },
+    "hoyt_2025_alpha_ax_2_29": {
+      "system": "hoyt_hbx",
+      "source": "rule"
+    },
+    "hoyt_2025_alpha_ax_2_32": {
+      "system": "hoyt_hbx",
+      "source": "rule"
+    },
+    "hoyt_2024_carbon_rx_8": {
+      "system": "hoyt_hbx",
+      "source": "rule"
+    },
+    "hoyt_2024_carbon_rx_8_ultra": {
+      "system": "hoyt_hbx",
+      "source": "rule"
+    },
+    "hoyt_2024_alpha_x_30": {
+      "system": "hoyt_hbx",
+      "source": "rule"
+    },
+    "hoyt_2024_alpha_x_33": {
+      "system": "hoyt_hbx",
+      "source": "rule"
+    },
+    "hoyt_2023_vtm_31": {
+      "system": "hoyt_hbx",
+      "source": "rule"
+    },
+    "hoyt_2023_vtm_34": {
+      "system": "hoyt_hbx",
+      "source": "rule"
+    },
+    "hoyt_2022_carbon_rx_7": {
+      "system": "hoyt_hbx",
+      "source": "rule"
+    },
+    "hoyt_2022_carbon_rx_7_ultra": {
+      "system": "hoyt_hbx",
+      "source": "rule"
+    },
+    "hoyt_2022_ventum_pro_30": {
+      "system": "hoyt_hbx",
+      "source": "rule"
+    },
+    "hoyt_2022_ventum_pro_33": {
+      "system": "hoyt_hbx",
+      "source": "rule"
+    },
+    "hoyt_2024_eclipse": {
+      "system": "hoyt_hbx",
+      "source": "rule"
+    },
+    "hoyt_2022_highline": {
+      "system": "hoyt_hbx",
+      "source": "rule"
+    },
+    "hoyt_2020_torrex_xt": {
+      "system": "hoyt_yoke",
+      "source": "rule"
+    },
+    "hoyt_2020_torrex": {
+      "system": "hoyt_yoke",
+      "source": "rule"
+    },
+    "mathews_2026_atlas": {
+      "system": "mathews_tophat",
+      "source": "rule"
+    },
+    "mathews_2026_arc_30": {
+      "system": "mathews_tophat",
+      "source": "rule"
+    },
+    "mathews_2026_arc_34": {
+      "system": "mathews_tophat",
+      "source": "rule"
+    },
+    "mathews_2026_lift_rs": {
+      "system": "mathews_tophat",
+      "source": "rule"
+    },
+    "mathews_2026_lift_xd": {
+      "system": "mathews_lst",
+      "source": "listing",
+      "evidence": "limb shift technology",
+      "checkedAt": "2026-09-30T16:25:25.429880Z"
+    },
+    "mathews_2025_lift_x_29_5": {
+      "system": "mathews_lst",
+      "source": "rule"
+    },
+    "mathews_2025_lift_x_33": {
+      "system": "mathews_lst",
+      "source": "rule"
+    },
+    "mathews_2024_lift_29_5": {
+      "system": "mathews_tophat",
+      "source": "rule"
+    },
+    "mathews_2024_lift_33": {
+      "system": "mathews_tophat",
+      "source": "rule"
+    },
+    "mathews_2023_phase4_29": {
+      "system": "mathews_tophat",
+      "source": "rule"
+    },
+    "mathews_2023_phase4_33": {
+      "system": "mathews_tophat",
+      "source": "rule"
+    },
+    "mathews_2023_image": {
+      "system": "mathews_tophat",
+      "source": "rule"
+    },
+    "mathews_2022_v3x_29": {
+      "system": "mathews_tophat",
+      "source": "rule"
+    },
+    "mathews_2022_v3x_33": {
+      "system": "mathews_tophat",
+      "source": "rule"
+    },
+    "mathews_2022_title_36": {
+      "system": "mathews_tophat",
+      "source": "rule"
+    },
+    "mathews_2022_title_38": {
+      "system": "mathews_tophat",
+      "source": "rule"
+    },
+    "mathews_2022_trx_36": {
+      "system": "mathews_tophat",
+      "source": "rule"
+    },
+    "mathews_2022_trx_38": {
+      "system": "mathews_tophat",
+      "source": "rule"
+    },
+    "mathews_2022_trx_40": {
+      "system": "mathews_tophat",
+      "source": "rule"
+    },
+    "pse_2026_sicario_carbon_fds": {
+      "system": "pse_classic",
+      "source": "rule"
+    },
+    "pse_2026_force_ds": {
+      "system": "pse_classic",
+      "source": "rule"
+    },
+    "pse_2026_decree_fds": {
+      "system": "pse_ez220",
+      "source": "listing",
+      "evidence": "ez.220",
+      "checkedAt": "2026-09-30T16:25:25.429880Z"
+    },
+    "pse_2026_sicario_carbon_35_fds": {
+      "system": "pse_classic",
+      "source": "rule"
+    },
+    "pse_2025_mach_35_ds_carbon": {
+      "system": "pse_ez220",
+      "source": "rule"
+    },
+    "pse_2025_mach_33_ds": {
+      "system": "pse_ez220",
+      "source": "rule"
+    },
+    "pse_2025_fortis": {
+      "system": "pse_ez220",
+      "source": "rule"
+    },
+    "pse_2024_mach_30_ds": {
+      "system": "pse_ez220",
+      "source": "rule"
+    },
+    "pse_2024_nock_on_evo_30_es": {
+      "system": "pse_classic",
+      "source": "rule"
+    },
+    "pse_2024_decree_hd": {
+      "system": "pse_classic",
+      "source": "rule"
+    },
+    "pse_2024_evolve_ds_33": {
+      "system": "pse_ez220",
+      "source": "rule"
+    },
+    "pse_2024_evolve_ds_30": {
+      "system": "pse_ez220",
+      "source": "rule"
+    },
+    "pse_2023_mach_34": {
+      "system": "pse_ez220",
+      "source": "rule"
+    },
+    "pse_2023_dominator_duo_35_m2_": {
+      "system": "pse_ez220",
+      "source": "rule"
+    },
+    "pse_2023_drive_nxt": {
+      "system": "pse_classic",
+      "source": "rule"
+    },
+    "pse_2023_unite": {
+      "system": "pse_ez220",
+      "source": "rule"
+    },
+    "pse_2023_levitate": {
+      "system": "pse_ez220",
+      "source": "rule"
+    },
+    "pse_2023_stinger_atk": {
+      "system": "pse_classic",
+      "source": "rule"
+    },
+    "pse_2022_nock_on_carbon_levitate": {
+      "system": "pse_classic",
+      "source": "rule"
+    },
+    "pse_2022_evo_evl_32": {
+      "system": "pse_classic",
+      "source": "rule"
+    },
+    "pse_2022_evo_evl_34": {
+      "system": "pse_classic",
+      "source": "rule"
+    },
+    "bowtech_2026_alliance_30_5": {
+      "system": "bowtech_deadlock",
+      "source": "listing",
+      "evidence": "deadlock cam",
+      "checkedAt": "2026-09-30T16:25:25.429880Z"
+    },
+    "bowtech_2026_alliance_33": {
+      "system": "bowtech_deadlock",
+      "source": "listing",
+      "evidence": "deadlock cam",
+      "checkedAt": "2026-09-30T16:25:25.429880Z"
+    },
+    "bowtech_2025_virtue": {
+      "system": "bowtech_deadlock",
+      "source": "listing",
+      "evidence": "deadlock cam",
+      "checkedAt": "2026-09-30T16:25:25.429880Z"
+    },
+    "bowtech_2025_ascend": {
+      "system": "bowtech_deadlock",
+      "source": "listing",
+      "evidence": "deadlock",
+      "checkedAt": "2026-09-30T16:25:25.429880Z"
+    },
+    "bowtech_2025_carbon_rose": {
+      "system": "bowtech_legacy",
+      "source": "rule"
+    },
+    "bowtech_2025_proven_34_long_cam_": {
+      "system": "bowtech_deadlock",
+      "source": "listing",
+      "evidence": "deadlock cam",
+      "checkedAt": "2026-09-30T16:25:25.429880Z"
+    },
+    "bowtech_2025_proven_34_medium_cam_": {
+      "system": "bowtech_deadlock",
+      "source": "listing",
+      "evidence": "deadlock cam",
+      "checkedAt": "2026-09-30T16:25:25.429880Z"
+    },
+    "bowtech_2025_proven_30": {
+      "system": "bowtech_deadlock",
+      "source": "rule"
+    },
+    "bowtech_2024_core_ss": {
+      "system": "bowtech_deadlock",
+      "source": "rule"
+    },
+    "bowtech_2024_amplify": {
+      "system": "bowtech_legacy",
+      "source": "rule"
+    },
+    "bowtech_2024_eva_gen_3": {
+      "system": "bowtech_deadlock",
+      "source": "listing",
+      "evidence": "deadlock cam",
+      "checkedAt": "2026-09-30T16:25:25.429880Z"
+    },
+    "bowtech_2023_carbon_one": {
+      "system": "bowtech_deadlock",
+      "source": "rule"
+    },
+    "bowtech_2023_ss34": {
+      "system": "bowtech_legacy",
+      "source": "rule"
+    },
+    "bowtech_2022_sr350": {
+      "system": "bowtech_deadlock",
+      "source": "rule"
+    },
+    "bowtech_2022_solution": {
+      "system": "bowtech_deadlock",
+      "source": "rule"
+    },
+    "bowtech_2022_solution_sd": {
+      "system": "bowtech_deadlock",
+      "source": "rule"
+    },
+    "elite_2026_varos": {
+      "system": "elite_set",
+      "source": "listing",
+      "evidence": "s.e.t.",
+      "checkedAt": "2026-09-30T16:25:25.429880Z"
+    },
+    "elite_2026_carbon_axys": {
+      "system": "elite_set",
+      "source": "rule"
+    },
+    "elite_2026_emerse": {
+      "system": "elite_set",
+      "source": "rule"
+    },
+    "elite_2026_carbon_eon": {
+      "system": "elite_set",
+      "source": "rule"
+    },
+    "elite_2026_victra_40": {
+      "system": "elite_set",
+      "source": "rule"
+    },
+    "elite_2026_victra": {
+      "system": "elite_set",
+      "source": "rule"
+    },
+    "elite_2026_hntr33": {
+      "system": "elite_set",
+      "source": "rule"
+    },
+    "elite_2026_terrain": {
+      "system": "elite_set",
+      "source": "rule"
+    },
+    "elite_2026_basin": {
+      "system": "elite_set",
+      "source": "rule"
+    },
+    "elite_2026_ember": {
+      "system": "elite_set",
+      "source": "rule"
+    },
+    "elite_2025_artus": {
+      "system": "elite_set",
+      "source": "listing",
+      "evidence": "s.e.t.",
+      "checkedAt": "2026-09-30T16:25:25.429880Z"
+    },
+    "elite_2025_exalt": {
+      "system": "elite_set",
+      "source": "rule"
+    },
+    "elite_2024_ethos": {
+      "system": "elite_set",
+      "source": "rule"
+    },
+    "elite_2024_allure": {
+      "system": "elite_set",
+      "source": "rule"
+    },
+    "elite_2024_enkore": {
+      "system": "elite_set",
+      "source": "rule"
+    },
+    "elite_2023_omnia": {
+      "system": "elite_set",
+      "source": "rule"
+    },
+    "elite_2023_era": {
+      "system": "elite_set",
+      "source": "rule"
+    },
+    "elite_2023_rezult_36": {
+      "system": "elite_set",
+      "source": "rule"
+    },
+    "elite_2022_envision": {
+      "system": "elite_set",
+      "source": "rule"
+    },
+    "prime_2026_divide_31": {
+      "system": "prime_shims",
+      "source": "rule",
+      "checkedAt": "2026-09-30T16:25:25.429880Z"
+    },
+    "prime_2026_divide_33": {
+      "system": "prime_shims",
+      "source": "rule",
+      "checkedAt": "2026-09-30T16:25:25.429880Z"
+    },
+    "prime_2026_divide_35": {
+      "system": "prime_shims",
+      "source": "rule",
+      "checkedAt": "2026-09-30T16:25:25.429880Z"
+    },
+    "prime_2026_divide_37": {
+      "system": "prime_shims",
+      "source": "rule",
+      "checkedAt": "2026-09-30T16:25:25.429880Z"
+    },
+    "prime_2026_ronan_34": {
+      "system": "prime_shims",
+      "source": "rule",
+      "checkedAt": "2026-09-30T16:25:25.429880Z"
+    },
+    "prime_2025_form_34": {
+      "system": "prime_shims",
+      "source": "rule"
+    },
+    "prime_2025_form_30": {
+      "system": "prime_shims",
+      "source": "rule",
+      "checkedAt": "2026-09-30T16:25:25.429880Z"
+    },
+    "prime_2025_form_32": {
+      "system": "prime_shims",
+      "source": "rule"
+    },
+    "prime_2025_form_36": {
+      "system": "prime_shims",
+      "source": "rule"
+    },
+    "prime_2024_rvx_32": {
+      "system": "prime_shims",
+      "source": "rule"
+    },
+    "prime_2024_rvx_34": {
+      "system": "prime_shims",
+      "source": "rule"
+    },
+    "prime_2024_rvx_36": {
+      "system": "prime_shims",
+      "source": "rule"
+    },
+    "prime_2023_revex_2": {
+      "system": "prime_shims",
+      "source": "rule"
+    },
+    "prime_2023_revex_4": {
+      "system": "prime_shims",
+      "source": "rule"
+    },
+    "prime_2023_revex_6": {
+      "system": "prime_shims",
+      "source": "rule"
+    },
+    "prime_2022_inline_1": {
+      "system": "prime_shims",
+      "source": "rule"
+    },
+    "prime_2022_inline_3": {
+      "system": "prime_shims",
+      "source": "rule"
+    },
+    "prime_2022_inline_5": {
+      "system": "prime_shims",
+      "source": "rule"
+    },
+    "bear_2026_redeem": {
+      "system": "bear_timing",
+      "source": "rule"
+    },
+    "bear_2026_alaskan_pro": {
+      "system": "bear_timing",
+      "source": "rule"
+    },
+    "bear_2025_persist_33": {
+      "system": "bear_timing",
+      "source": "rule"
+    },
+    "bear_2025_legend_30": {
+      "system": "bear_timing",
+      "source": "rule"
+    },
+    "bear_2025_whitetail_int": {
+      "system": "bear_timing",
+      "source": "rule"
+    },
+    "bear_2025_alaskan_xt": {
+      "system": "bear_timing",
+      "source": "rule"
+    },
+    "bear_2024_persist": {
+      "system": "bear_timing",
+      "source": "rule"
+    },
+    "bear_2023_execute_30": {
+      "system": "bear_timing",
+      "source": "rule"
+    },
+    "bear_2023_execute_32": {
+      "system": "bear_timing",
+      "source": "rule"
+    },
+    "bear_2023_legend_xr": {
+      "system": "bear_timing",
+      "source": "rule"
+    },
+    "bear_2023_refine_eko": {
+      "system": "bear_timing",
+      "source": "rule"
+    },
+    "bear_2022_refine_eko": {
+      "system": "bear_timing",
+      "source": "rule"
+    },
+    "bear_2022_kuma_30": {
+      "system": "bear_timing",
+      "source": "rule"
+    },
+    "bear_2022_refuge": {
+      "system": "bear_timing",
+      "source": "rule"
+    },
+    "bear_2021_cruzer_g4": {
+      "system": "bear_timing",
+      "source": "rule"
+    },
+    "bear_2021_legit": {
+      "system": "bear_timing",
+      "source": "rule"
+    },
+    "bear_2020_royale": {
+      "system": "bear_timing",
+      "source": "rule"
+    },
+    "darton_2026_tritech_31": {
+      "system": "darton_perfect_tune",
+      "source": "listing",
+      "evidence": "perfect timing",
+      "checkedAt": "2026-09-30T16:25:25.429880Z"
+    },
+    "darton_2026_tritech_33": {
+      "system": "darton_perfect_tune",
+      "source": "listing",
+      "evidence": "perfect tune",
+      "checkedAt": "2026-09-30T16:25:25.429880Z"
+    },
+    "darton_2026_tritech_35": {
+      "system": "darton_perfect_tune",
+      "source": "listing",
+      "evidence": "perfect tune",
+      "checkedAt": "2026-09-30T16:25:25.429880Z"
+    },
+    "darton_2026_consequence_31": {
+      "system": "darton_perfect_tune",
+      "source": "rule",
+      "checkedAt": "2026-09-30T16:25:25.429880Z"
+    },
+    "darton_2026_consequence_2": {
+      "system": "darton_perfect_tune",
+      "source": "rule",
+      "checkedAt": "2026-09-30T16:25:25.429880Z"
+    },
+    "darton_2026_consequence_sd": {
+      "system": "darton_perfect_tune",
+      "source": "rule",
+      "checkedAt": "2026-09-30T16:25:25.429880Z"
+    },
+    "darton_2026_prelude_e_32": {
+      "system": "darton_perfect_tune",
+      "source": "rule"
+    },
+    "darton_2025_sequel_33_st_": {
+      "system": "darton_perfect_tune",
+      "source": "rule"
+    },
+    "darton_2025_sequel_31_st2": {
+      "system": "darton_perfect_tune",
+      "source": "rule"
+    },
+    "darton_2025_sequel_35_st2": {
+      "system": "darton_perfect_tune",
+      "source": "rule"
+    },
+    "darton_2024_departure": {
+      "system": "darton_perfect_tune",
+      "source": "rule"
+    },
+    "darton_2023_veracity_35": {
+      "system": "darton_perfect_tune",
+      "source": "rule"
+    },
+    "darton_2022_sequel_31": {
+      "system": "darton_perfect_tune",
+      "source": "rule"
+    },
+    "darton_2022_sequel_33": {
+      "system": "darton_perfect_tune",
+      "source": "rule"
+    },
+    "darton_2022_spectra_e_32": {
+      "system": "darton_perfect_tune",
+      "source": "rule"
+    },
+    "xpedition_2026_nexlite_30": {
+      "system": "xpedition_nexlite",
+      "source": "rule"
+    },
+    "xpedition_2026_nexlite_33": {
+      "system": "xpedition_nexlite",
+      "source": "rule"
+    },
+    "xpedition_2025_xlite_32": {
+      "system": "xpedition_twist",
+      "source": "rule"
+    },
+    "xpedition_2023_x30": {
+      "system": "xpedition_twist",
+      "source": "rule"
+    },
+    "xpedition_2023_x33": {
+      "system": "xpedition_twist",
+      "source": "rule"
+    },
+    "xpedition_2023_x37": {
+      "system": "xpedition_twist",
+      "source": "rule"
+    },
+    "xpedition_2023_mako_x": {
+      "system": "xpedition_twist",
+      "source": "rule"
+    },
+    "xpedition_2022_smoke": {
+      "system": "xpedition_twist",
+      "source": "rule"
+    },
+    "xpedition_2022_mx32": {
+      "system": "xpedition_twist",
+      "source": "rule"
+    },
+    "diamond_2024_edge_xt": {
+      "system": "diamond_modules",
+      "source": "rule",
+      "checkedAt": "2026-09-30T16:25:25.429880Z"
+    },
+    "diamond_2024_edge_max": {
+      "system": "diamond_modules",
+      "source": "rule",
+      "checkedAt": "2026-09-30T16:25:25.429880Z"
+    },
+    "diamond_2024_deploy_sb": {
+      "system": "diamond_modules",
+      "source": "rule",
+      "checkedAt": "2026-09-30T16:25:25.429880Z"
+    },
+    "diamond_2026_radian": {
+      "system": "diamond_modules",
+      "source": "rule",
+      "checkedAt": "2026-09-30T16:25:25.429880Z"
+    },
+    "diamond_2023_alter": {
+      "system": "diamond_modules",
+      "source": "rule"
+    },
+    "diamond_2021_infinite_edge_pro_legacy": {
+      "system": "diamond_modules",
+      "source": "rule"
+    },
+    "diamond_2020_prism": {
+      "system": "diamond_modules",
+      "source": "rule"
+    },
+    "mission_2026_range": {
+      "system": "mission_shims",
+      "source": "rule"
+    },
+    "mission_2024_switch": {
+      "system": "mission_shims",
+      "source": "rule"
+    },
+    "mission_2024_hammr": {
+      "system": "mission_shims",
+      "source": "rule"
+    },
+    "quest_2021_centec": {
+      "system": "quest_shims",
+      "source": "rule"
+    },
+    "quest_2019_centec_nxt": {
+      "system": "quest_shims",
+      "source": "rule"
+    }
+  }
+}

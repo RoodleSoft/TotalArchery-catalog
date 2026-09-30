@@ -1,0 +1,47 @@
+{
+  "updatedAt": "2026-09-30T16:25:25.429880Z",
+  "docs": {
+    "https://bowtecharchery.com/wp-content/uploads/2026/01/Alliance-Bow-Owners-Manual.pdf": {
+      "label": "Alliance owner's manual (DeadLock)",
+      "brand": "Bowtech",
+      "hash": "-35e721274d19e6c1",
+      "checkedAt": "2026-09-30T16:25:25.429880Z"
+    },
+    "https://bowtecharchery.com/bowtech-deadlock-technology/": {
+      "label": "DeadLock technology page",
+      "brand": "Bowtech",
+      "hash": "-31bdabe11f729dfe",
+      "checkedAt": "2026-09-30T16:25:25.429880Z"
+    },
+    "https://mathewsinc.com/pages/lift-x": {
+      "label": "Lift X (Limb Shift Technology)",
+      "brand": "Mathews",
+      "hash": "-17e68d7506461cbd",
+      "checkedAt": "2026-09-30T16:25:25.429880Z"
+    },
+    "https://www.g5prime.com/wp-content/uploads/2025/11/Divide-Tuning-Chart.pdf": {
+      "label": "Divide tuning chart",
+      "brand": "Prime",
+      "hash": "-65a3c3b92df9fbc3",
+      "checkedAt": "2026-09-30T16:25:25.429880Z"
+    },
+    "https://www.xpeditionarchery.com/pages/user-manuals": {
+      "label": "User manuals index",
+      "brand": "Xpedition",
+      "hash": "799ad9457fadf312",
+      "checkedAt": "2026-09-30T16:25:25.429880Z"
+    },
+    "https://store-6ztydpftbt.mybigcommerce.com/content/2025-26-Darton-Manual.pdf": {
+      "label": "2025-26 owner's manual",
+      "brand": "Darton",
+      "hash": "5a80ca165bd4ac3e",
+      "checkedAt": "2026-09-30T16:25:25.429880Z"
+    },
+    "https://dartonarchery.com/faq/": {
+      "label": "FAQ",
+      "brand": "Darton",
+      "hash": "-31d7c331add9d2bd",
+      "checkedAt": "2026-09-30T16:25:25.429880Z"
+    }
+  }
+}
