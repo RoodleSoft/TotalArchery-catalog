@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T16:25:25.429880Z",
+  "updatedAt": "2026-09-30T16:27:46.949194Z",
   "bows": {
     "hoyt_2026_carbon_rx_10": {
       "system": "hoyt_xts",
@@ -7,7 +7,9 @@
     },
     "hoyt_2026_carbon_rx_10_ultra": {
       "system": "hoyt_xts",
-      "source": "rule"
+      "source": "listing",
+      "evidence": "xts tuning",
+      "checkedAt": "2026-09-30T16:27:46.949194Z"
     },
     "hoyt_2026_carbon_rx_10_ultra_ld": {
       "system": "hoyt_xts",
@@ -21,7 +23,9 @@
     },
     "hoyt_2026_alpha_ax_3_29": {
       "system": "hoyt_xts",
-      "source": "rule"
+      "source": "listing",
+      "evidence": "xts tuning",
+      "checkedAt": "2026-09-30T16:27:46.949194Z"
     },
     "hoyt_2026_alpha_ax_3_33": {
       "system": "hoyt_xts",
@@ -125,7 +129,8 @@
     },
     "mathews_2026_arc_30": {
       "system": "mathews_tophat",
-      "source": "rule"
+      "source": "rule",
+      "checkedAt": "2026-09-30T16:27:46.949194Z"
     },
     "mathews_2026_arc_34": {
       "system": "mathews_tophat",
@@ -585,7 +590,8 @@
     },
     "bear_2020_royale": {
       "system": "bear_timing",
-      "source": "rule"
+      "source": "rule",
+      "checkedAt": "2026-09-30T16:27:46.949194Z"
     },
     "darton_2026_tritech_31": {
       "system": "darton_perfect_tune",
