@@ -4404,7 +4404,7 @@
     "brand": "Elite Accessories",
     "model": "Elite Ultrarest Integrate MX2",
     "url": "https://elitearchery.com/products/elite-ultrarest-integrate-mx2",
-    "priceUsd": 299.99,
+    "priceUsd": 309.99,
     "verified": true,
     "tapeWidthIn": null,
     "weightG": null,
@@ -5308,28 +5308,6 @@
     "tapeWidthIn": null,
     "weightG": null,
     "image": "https://cdn.shopify.com/s/files/1/2312/8661/files/AV25-TSCPPLUS-BK_01_WSL.png"
-  },
-  {
-    "category": "scope",
-    "brand": "Axcel",
-    "model": "AV-25 Scope",
-    "url": "https://competitionarcheryproducts.com/products/axcel-av-25-scope-modified-for-light-kits",
-    "priceUsd": 35.0,
-    "verified": true,
-    "tapeWidthIn": null,
-    "weightG": null,
-    "image": "https://cdn.shopify.com/s/files/1/0800/2397/8279/files/UE100-axcel-av25-scope-1.jpg"
-  },
-  {
-    "category": "scope",
-    "brand": "Axcel",
-    "model": "AV-31 Scope with Sun Shade",
-    "url": "https://competitionarcheryproducts.com/products/axcel-av-31-scope-with-sun-shade",
-    "priceUsd": 45.0,
-    "verified": true,
-    "tapeWidthIn": null,
-    "weightG": null,
-    "image": "https://cdn.shopify.com/s/files/1/0800/2397/8279/files/UE102-axcel-av31-scope-1.jpg"
   },
   {
     "category": "scope",
@@ -6677,17 +6655,6 @@
     "tapeWidthIn": null,
     "weightG": null,
     "image": "https://cdn.shopify.com/s/files/1/0551/6482/9781/products/CX5-sight-green.png"
-  },
-  {
-    "category": "sight",
-    "brand": "CBE",
-    "model": "CX5, Carbon Bar 5-Pin Sight, .019",
-    "url": "https://xspotarchery.com/products/cbe-cx5-carbon-bar-5-pin-sight-019",
-    "priceUsd": 159.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "weightG": null,
-    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/cbe-cx-5-hunting-archery-bow-sight_1.jpg"
   },
   {
     "category": "sight",
@@ -8231,17 +8198,6 @@
   {
     "category": "sight",
     "brand": "Spot Hogg",
-    "model": "Fast Eddie XL Triple Stack Mrt Sight 3 Pin .019",
-    "url": "https://xspotarchery.com/products/cspot-hogg-fast-eddie-xl-triple-stack-mrt-sight-3-pin-019-lh",
-    "priceUsd": 349.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "weightG": null,
-    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/1207250_1_da6b7819-8d8f-4a7c-9fcb-6da5d4abf5e7.jpg"
-  },
-  {
-    "category": "sight",
-    "brand": "Spot Hogg",
     "model": "Grinder",
     "url": "https://www.spot-hogg.com",
     "priceUsd": null,
@@ -8278,28 +8234,6 @@
     "verified": false,
     "tapeWidthIn": null,
     "weightG": null
-  },
-  {
-    "category": "sight",
-    "brand": "Spott Hogg",
-    "model": "Spot Hogg Fast Eddie Sight 1 Pin .019",
-    "url": "https://xspotarchery.com/products/spot-hogg-fast-eddie-sight-1-pin-019-lh",
-    "priceUsd": 249.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "weightG": null,
-    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/78301_1_319e54cd-14c3-43e5-88f8-dd215b01caf3.jpg"
-  },
-  {
-    "category": "sight",
-    "brand": "Spott Hogg",
-    "model": "Spot Hogg Fast Eddie Triple Stack Mrt Sight 3 Pin .019",
-    "url": "https://xspotarchery.com/products/spot-hogg-fast-eddie-triple-stack-mrt-sight-3-pin-019-rh",
-    "priceUsd": 329.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "weightG": null,
-    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/1207248_1.jpg"
   },
   {
     "category": "sight",
@@ -8486,17 +8420,6 @@
     "tapeWidthIn": null,
     "weightG": null,
     "image": "https://cdn.shopify.com/s/files/1/0488/5331/9840/files/trophy-ridge-hotwire-bow-sight_sight-nonreact__as325r_1.png"
-  },
-  {
-    "category": "sight",
-    "brand": "Trophy Ridge",
-    "model": "Hotwire Sight 3 Pin .019",
-    "url": "https://xspotarchery.com/products/trophy-ridge-hotwire-sight-3-pin-019-rh",
-    "priceUsd": 159.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "weightG": null,
-    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/hotwire_sight-nonreact__as325r_01_1076x681_bd12c3d6-0e15-4841-a554-369b47f50fe1.png"
   },
   {
     "category": "sight",
@@ -8781,17 +8704,6 @@
     "tapeWidthIn": null,
     "weightG": null,
     "image": "https://cdn.shopify.com/s/files/1/0488/5331/9840/files/trophy-ridge-react-trio-pro-bow-sight_sight-react__as713r19_1.png"
-  },
-  {
-    "category": "sight",
-    "brand": "Trophy Ridge",
-    "model": "React Trio Pro Sight 3 Pin .019",
-    "url": "https://xspotarchery.com/products/trophy-ridge-react-trio-pro-sight-3-pin-019-rh",
-    "priceUsd": 279.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "weightG": null,
-    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/79056_1.jpg"
   },
   {
     "category": "sight",
@@ -9225,39 +9137,6 @@
   {
     "category": "stabilizer",
     "brand": "AAE",
-    "model": "15\" Stabilizers",
-    "url": "https://competitionarcheryproducts.com/products/aae-15-stabilizers-set-of-2",
-    "priceUsd": 50.0,
-    "verified": true,
-    "tapeWidthIn": null,
-    "weightG": null,
-    "image": "https://cdn.shopify.com/s/files/1/0800/2397/8279/files/UE109-aae-15-stabilizers-set-of-2.jpg"
-  },
-  {
-    "category": "stabilizer",
-    "brand": "AAE",
-    "model": "Hot Rodz 15\" Stabilizer",
-    "url": "https://competitionarcheryproducts.com/products/aae-hot-rodz-15-stabilizer",
-    "priceUsd": 30.0,
-    "verified": true,
-    "tapeWidthIn": null,
-    "weightG": null,
-    "image": "https://cdn.shopify.com/s/files/1/0800/2397/8279/files/UE108-aae-hot-rodz-15-stabilizer.jpg"
-  },
-  {
-    "category": "stabilizer",
-    "brand": "AAE",
-    "model": "Hot Rodz 27\" Stabilizer",
-    "url": "https://competitionarcheryproducts.com/products/aae-hot-rodz-27-stabilizer",
-    "priceUsd": 100.0,
-    "verified": true,
-    "tapeWidthIn": null,
-    "weightG": null,
-    "image": "https://cdn.shopify.com/s/files/1/0800/2397/8279/files/UE112-aae-hot-rodz-27-stabilizer.jpg"
-  },
-  {
-    "category": "stabilizer",
-    "brand": "AAE",
     "model": "Hot Rodz 30\" Stabilizer",
     "url": "https://competitionarcheryproducts.com/products/aae-hot-rodz-30-stabilizer",
     "priceUsd": 100.0,
@@ -9265,61 +9144,6 @@
     "tapeWidthIn": null,
     "weightG": null,
     "image": "https://cdn.shopify.com/s/files/1/0800/2397/8279/files/UE111-aae-hot-rodz-30-stabilizer.jpg"
-  },
-  {
-    "category": "stabilizer",
-    "brand": "AAE",
-    "model": "Hot Rodz Advantex-X 30\" Stabilizer",
-    "url": "https://competitionarcheryproducts.com/products/aae-hot-rodz-advantex-x-30-stabilizer",
-    "priceUsd": 100.0,
-    "verified": true,
-    "tapeWidthIn": null,
-    "weightG": null,
-    "image": "https://cdn.shopify.com/s/files/1/0800/2397/8279/files/UE119-aae-hot-rodz-advantex-x-30-stabilizer.jpg"
-  },
-  {
-    "category": "stabilizer",
-    "brand": "AAE",
-    "model": "Hot Rodz Nitrous 15\" Stabilizer",
-    "url": "https://competitionarcheryproducts.com/products/aae-hot-rodz-nitrous-15-stabilizer-1",
-    "priceUsd": 35.0,
-    "verified": true,
-    "tapeWidthIn": null,
-    "weightG": null,
-    "image": "https://cdn.shopify.com/s/files/1/0800/2397/8279/files/UE106-aae-hot-rodz-nitrous-15-stabilizer.jpg"
-  },
-  {
-    "category": "stabilizer",
-    "brand": "AAE",
-    "model": "Hot Rodz Nitrous 30\" Stabilizer",
-    "url": "https://competitionarcheryproducts.com/products/aae-hot-rodz-nitrous-30-stabilizer",
-    "priceUsd": 100.0,
-    "verified": true,
-    "tapeWidthIn": null,
-    "weightG": null,
-    "image": "https://cdn.shopify.com/s/files/1/0800/2397/8279/files/UE118-aae-hot-rodz-nitrous-30-stabilizer.jpg"
-  },
-  {
-    "category": "stabilizer",
-    "brand": "AAE",
-    "model": "Hot Rodz Nitrous 33\" Stabilizer",
-    "url": "https://competitionarcheryproducts.com/products/aae-hot-rodz-nitrous-33-stabilizer",
-    "priceUsd": 100.0,
-    "verified": true,
-    "tapeWidthIn": null,
-    "weightG": null,
-    "image": "https://cdn.shopify.com/s/files/1/0800/2397/8279/files/UE114-aae-hot-rodz-nitrous-33-stabilizer.jpg"
-  },
-  {
-    "category": "stabilizer",
-    "brand": "AAE",
-    "model": "Keep Hammering 15\" Stabilizer",
-    "url": "https://competitionarcheryproducts.com/products/aae-keep-hammering-15-stabilizer",
-    "priceUsd": 35.0,
-    "verified": true,
-    "tapeWidthIn": null,
-    "weightG": null,
-    "image": "https://cdn.shopify.com/s/files/1/0800/2397/8279/files/UE110-aae-keep-hammering-15-stabilizer.jpg"
   },
   {
     "category": "stabilizer",
@@ -10402,17 +10226,6 @@
     "tapeWidthIn": null,
     "weightG": null,
     "image": "https://cdn.shopify.com/s/files/1/0886/7230/5465/files/black-6.jpg"
-  },
-  {
-    "category": "stabilizer",
-    "brand": "Mathews",
-    "model": "Harmonic Stabilizer/Dampener Lot",
-    "url": "https://competitionarcheryproducts.com/products/mathews-harmonic-stabilizer-dampener-lot",
-    "priceUsd": 25.0,
-    "verified": true,
-    "tapeWidthIn": null,
-    "weightG": null,
-    "image": "https://cdn.shopify.com/s/files/1/0800/2397/8279/files/UE096-mathews-harmonic-dampener-lot.jpg"
   },
   {
     "category": "stabilizer",
