@@ -1,0 +1,41 @@
+{
+  "checkedAt": "2026-10-03T03:26:10Z",
+  "files": {
+    "bows": {
+      "rows": 175,
+      "curated": false
+    },
+    "arrows": {
+      "rows": 109,
+      "curated": false
+    },
+    "components": {
+      "rows": 1443,
+      "curated": false
+    },
+    "targets": {
+      "rows": 180,
+      "curated": true
+    },
+    "sights": {
+      "rows": 94,
+      "curated": true
+    },
+    "finishes": {
+      "rows": 11,
+      "curated": true
+    },
+    "gear": {
+      "rows": 1063,
+      "curated": false
+    },
+    "images": {
+      "rows": 173,
+      "curated": false
+    },
+    "sources": {
+      "rows": 3,
+      "curated": false
+    }
+  }
+}
