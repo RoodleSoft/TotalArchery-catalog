@@ -115,7 +115,7 @@
     "phone": "+16028818165",
     "email": "anchorpointarcheryaz@gmail.com",
     "website": "",
-    "programs": "indoor range, outdoor field range, 3d range",
+    "programs": "",
     "reviewStatus": "approved",
     "externalRef": "nfaa:anchor point archery az|15836 w eddie albert way goodyear arizona 85338"
   },
@@ -2105,7 +2105,7 @@
     "phone": "+15635056365",
     "email": "president@davenportvalleyarchers.com",
     "website": "http://davenportvalleyarchers.com",
-    "programs": "",
+    "programs": "outdoor field range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:davenport valley archers|15535 270th street long grove iowa 52756"
   },
@@ -2721,13 +2721,13 @@
   },
   {
     "name": "Full Curl Archery",
-    "address": "12501 OLD SEWARD HWY, ANCHORAGE, Alaska, 99515",
-    "phone": "+19078302089",
+    "address": "Full Curl Archery, 12501 Old Seward Hwy E-F, Anchorage, Alaska, United States of America, 99515",
+    "phone": "(907) 344-2697",
     "email": "akfullcurlarchery@gmail.com",
-    "website": "",
-    "programs": "indoor range",
+    "website": "http://www.fullcurlarchery.com",
+    "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program, 3D Archery, Field Archery",
     "reviewStatus": "approved",
-    "externalRef": "nfaa:full curl archery|12501 old seward hwy anchorage alaska 99515"
+    "externalRef": "usarchery:full curl archery|full curl archery 12501 old seward hwy e f anchorage alaska united states of america 99515"
   },
   {
     "name": "Full Draw Bowhunters",
@@ -2978,16 +2978,6 @@
     "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program, 3D Archery",
     "reviewStatus": "approved",
     "externalRef": "usarchery:gotham archery baton rouge|gotham archery baton rouge 14455 greenwell springs road suite f central louisiana united states of america 70739"
-  },
-  {
-    "name": "Granby Bow & Gun Club Inc",
-    "address": "19 Oakridge Circle, Ware, Massachusetts, 01082",
-    "phone": "",
-    "email": "",
-    "website": "",
-    "programs": "outdoor field range, indoor range",
-    "reviewStatus": "approved",
-    "externalRef": "nfaa:granby bow gun club inc|19 oakridge circle ware massachusetts 01082"
   },
   {
     "name": "Grand County Archers Association",
@@ -8710,16 +8700,6 @@
     "externalRef": "nfaa:wolf ridge archery|4300 camp chestnut ridge rd efland north carolina 27243"
   },
   {
-    "name": "Wolf Ridge Archery Club",
-    "address": "4300 Camp Chestnut Ridge Road, Efland, North Carolina, United States of America, 27243",
-    "phone": "919-423-1061",
-    "email": "archerycoach@wolfridgearchery.org",
-    "website": "http://www.wolfridgearchery.org",
-    "programs": "Junior Olympic Archery Development (JOAD)",
-    "reviewStatus": "approved",
-    "externalRef": "usarchery:wolf ridge archery club|4300 camp chestnut ridge road efland north carolina united states of america 27243"
-  },
-  {
     "name": "Wolves Archery Academy",
     "address": "8310 Dorchester Road, North Charleston, South Carolina, United States of America, 29418",
     "phone": "+18435520624",
@@ -8878,16 +8858,6 @@
     "programs": "3d range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:yuba sutter bowhunters sutter ca|770 n walton avenue yuba city california 95993"
-  },
-  {
-    "name": "Yuba-Sutter Archery Assoc",
-    "address": "1919 B. Street, MJUSD, Marysville, California, United States of America, 95901",
-    "phone": "530-749-6196",
-    "email": "pbennett@mjusd.k12.ca.us",
-    "website": "",
-    "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program",
-    "reviewStatus": "approved",
-    "externalRef": "usarchery:yuba sutter archery assoc|1919 b street mjusd marysville california united states of america 95901"
   },
   {
     "name": "Yuba-Sutter Archery Association - Marysville, CA",

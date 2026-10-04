@@ -1,5 +1,120 @@
 [
   {
+    "brand": "Altra",
+    "model": "Centrum 166 Premier",
+    "category": "hunting",
+    "diameterIn": 0.0,
+    "gpiBySpine": {
+      "250": 11.8,
+      "300": 10.5,
+      "350": 9.4,
+      "400": 8.5
+    },
+    "verified": false,
+    "msrpUsd": null,
+    "url": "https://lancasterarchery.com/products/altra-centrum-166-premier-001-carbon-arrow-shaft"
+  },
+  {
+    "brand": "Altra",
+    "model": "Centrum 204 Premier",
+    "category": "hunting",
+    "diameterIn": 0.0,
+    "gpiBySpine": {
+      "250": 10.7,
+      "300": 9.1,
+      "350": 8.2,
+      "400": 7.7
+    },
+    "verified": false,
+    "msrpUsd": null,
+    "url": "https://wildernessarchery.com/product/altra-centrum-premier-204-arrow-shafts-12pk/"
+  },
+  {
+    "brand": "Altra",
+    "model": "Centrum 246 Premier",
+    "category": "hunting",
+    "diameterIn": 0.0,
+    "gpiBySpine": {
+      "300": 9.7,
+      "350": 8.8,
+      "400": 8.2
+    },
+    "verified": false,
+    "msrpUsd": null,
+    "url": "https://lancasterarchery.com/products/altra-centrum-246-premier-001-carbon-arrow-shaft"
+  },
+  {
+    "brand": "Altra",
+    "model": "Centrum 25 Premier",
+    "category": "3D",
+    "diameterIn": 0.0,
+    "gpiBySpine": {
+      "250": 7.9,
+      "350": 7.0
+    },
+    "verified": false,
+    "msrpUsd": null,
+    "url": "https://lancasterarchery.com/products/altra-centrum-25-premier-carbon-arrow-shafts"
+  },
+  {
+    "brand": "Altra",
+    "model": "Centrum 27 Limited",
+    "category": "3D",
+    "diameterIn": 0.0,
+    "gpiBySpine": {
+      "200": 8.9,
+      "300": 8.3
+    },
+    "verified": false,
+    "msrpUsd": null,
+    "url": "https://lancasterarchery.com/products/altra-centrum-27-limited-carbon-arrow-shafts"
+  },
+  {
+    "brand": "Bass Pro / Cabela's",
+    "model": "BlackOut X5 Envy",
+    "category": "hunting",
+    "diameterIn": 0.296,
+    "gpiBySpine": {
+      "300": 9.3,
+      "340": 8.8,
+      "400": 8.2,
+      "500": 7.4
+    },
+    "verified": false,
+    "msrpUsd": null,
+    "url": null
+  },
+  {
+    "brand": "Bass Pro / Cabela's",
+    "model": "Cabela's Carbon Hunter",
+    "category": "hunting",
+    "diameterIn": 0.298,
+    "gpiBySpine": {
+      "300": 9.6,
+      "340": 9.1,
+      "400": 8.5,
+      "500": 7.7
+    },
+    "verified": false,
+    "msrpUsd": null,
+    "url": null
+  },
+  {
+    "brand": "Bass Pro / Cabela's",
+    "model": "Cabela's Outfitter",
+    "category": "hunting",
+    "diameterIn": 0.298,
+    "gpiBySpine": {
+      "300": 9.4,
+      "340": 8.9,
+      "400": 8.3,
+      "500": 7.6
+    },
+    "verified": false,
+    "msrpUsd": null,
+    "url": null
+  },
+  {
     "brand": "Beman",
     "model": "Centershot",
     "category": "hunting",
@@ -558,10 +673,82 @@
     "url": null
   },
   {
+    "brand": "Day Six",
+    "model": "HD",
+    "category": "hunting",
+    "diameterIn": 0.245,
+    "gpiBySpine": {
+      "250": 12.4,
+      "275": 11.8,
+      "300": 11.2,
+      "350": 10.2,
+      "400": 9.2,
+      "500": 8.2
+    },
+    "verified": true,
+    "msrpUsd": null,
+    "url": "https://www.daysixgear.com/products/hd-bare-shaft-half-dozen"
+  },
+  {
+    "brand": "Day Six",
+    "model": "XD",
+    "category": "hunting",
+    "diameterIn": 0.267,
+    "gpiBySpine": {
+      "250": 11.1,
+      "300": 9.9,
+      "350": 9.0,
+      "400": 8.0
+    },
+    "verified": true,
+    "msrpUsd": null,
+    "url": "https://www.daysixgear.com/products/xd-fletched-arrows-dozen"
+  },
+  {
+    "brand": "Day Six",
+    "model": "XR",
+    "category": "hunting",
+    "diameterIn": 0.226,
+    "gpiBySpine": {
+      "200": 10.7,
+      "250": 9.2,
+      "300": 8.2,
+      "350": 7.4,
+      "400": 6.8
+    },
+    "verified": true,
+    "msrpUsd": null,
+    "url": "https://www.daysixgear.com/products/xr-fletched-arrows"
+  },
+  {
+    "brand": "Easton",
+    "model": "3.2mm X10 Parallel Pro",
+    "category": "target",
+    "diameterIn": 0.194,
+    "gpiBySpine": {
+      "340": 10.0,
+      "380": 9.3,
+      "420": 8.9,
+      "460": 8.5,
+      "500": 8.0,
+      "550": 7.6,
+      "600": 7.3,
+      "650": 7.0,
+      "700": 6.8,
+      "750": 6.5,
+      "800": 6.0,
+      "900": 5.8,
+      "1000": 5.5
+    },
+    "verified": true,
+    "msrpUsd": null,
+    "url": "https://eastonarchery.com/arrows_/x10_3-2_mm_parallel_pro/"
+  },
+  {
     "brand": "Easton",
     "model": "4mm Axis Long Range",
     "category": "hunting",
-    "diameterIn": 0.234,
+    "diameterIn": 0.241,
     "gpiBySpine": {
       "250": 9.8,
       "300": 9.3,
@@ -574,9 +761,24 @@
   },
   {
     "brand": "Easton",
+    "model": "4mm Carbon Injexion",
+    "category": "hunting",
+    "diameterIn": 0.244,
+    "gpiBySpine": {
+      "280": 11.2,
+      "330": 10.2,
+      "400": 8.9,
+      "480": 8.3
+    },
+    "verified": true,
+    "msrpUsd": null,
+    "url": "https://eastonarchery.com/arrows_/4mm-carbon-injexion/"
+  },
+  {
+    "brand": "Easton",
     "model": "4mm FMJ",
     "category": "hunting",
-    "diameterIn": 0.24,
+    "diameterIn": 0.244,
     "gpiBySpine": {
       "250": 12.3,
       "300": 11.7,
@@ -589,9 +791,24 @@
   },
   {
     "brand": "Easton",
+    "model": "4mm FMJ Injexion",
+    "category": "hunting",
+    "diameterIn": 0.24,
+    "gpiBySpine": {
+      "280": 12.0,
+      "330": 11.0,
+      "400": 9.8,
+      "460": 9.0
+    },
+    "verified": true,
+    "msrpUsd": null,
+    "url": "https://eastonarchery.com/arrows_/4mm-fmj-injexion/"
+  },
+  {
+    "brand": "Easton",
     "model": "4mm X10 Parallel Pro Hunter",
     "category": "hunting",
-    "diameterIn": 0.231,
+    "diameterIn": 0.236,
     "gpiBySpine": {
       "250": 10.8,
       "300": 9.5,
@@ -606,7 +823,7 @@
     "brand": "Easton",
     "model": "5.0",
     "category": "hunting",
-    "diameterIn": 0.258,
+    "diameterIn": 0.264,
     "gpiBySpine": {
       "200": 10.6,
       "250": 9.5,
@@ -631,8 +848,7 @@
       "340": 9.5,
       "400": 9.0,
       "500": 8.1,
-      "600": 7.2,
-      "700": 6.1
+      "600": 7.2
     },
     "verified": true,
     "msrpUsd": null,
@@ -644,29 +860,82 @@
     "category": "hunting",
     "diameterIn": 0.267,
     "gpiBySpine": {
+      "200": 12.0,
       "260": 11.5,
       "300": 10.7,
       "340": 9.5,
-      "400": 9.0
+      "400": 9.0,
+      "500": 8.1,
+      "600": 7.2
     },
-    "verified": false,
+    "verified": true,
     "msrpUsd": null,
     "url": "https://eastonarchery.com/arrows_/5mm-axis-2/"
   },
   {
     "brand": "Easton",
+    "model": "5mm Axis Sport (SPT)",
+    "category": "hunting",
+    "diameterIn": 0.267,
+    "gpiBySpine": {
+      "260": 11.5,
+      "300": 10.7,
+      "340": 9.5,
+      "400": 9.0,
+      "500": 8.1,
+      "600": 7.2
+    },
+    "verified": true,
+    "msrpUsd": null,
+    "url": "https://eastonarchery.com/arrows_/5mm-axis-spt/"
+  },
+  {
+    "brand": "Easton",
+    "model": "5mm Axis Traditional",
+    "category": "hunting",
+    "diameterIn": 0.261,
+    "gpiBySpine": {
+      "340": 10.3,
+      "400": 9.8,
+      "500": 8.9,
+      "600": 7.9,
+      "700": 6.8
+    },
+    "verified": true,
+    "msrpUsd": null,
+    "url": "https://eastonarchery.com/arrows_/5mm-axis-traditional/"
+  },
+  {
+    "brand": "Easton",
     "model": "5mm FMJ",
     "category": "hunting",
-    "diameterIn": 0.279,
+    "diameterIn": 0.269,
     "gpiBySpine": {
-      "250": 12.7,
+      "250": 11.5,
       "300": 12.0,
       "340": 11.3,
-      "400": 10.2
+      "400": 10.2,
+      "500": 9.1
     },
-    "verified": false,
+    "verified": true,
     "msrpUsd": null,
     "url": "https://eastonarchery.com/arrows_/5mm-full-metal-jacket/"
+  },
+  {
+    "brand": "Easton",
+    "model": "5mm FMJ Max",
+    "category": "hunting",
+    "diameterIn": 0.264,
+    "gpiBySpine": {
+      "200": 13.3,
+      "250": 11.3,
+      "300": 10.3,
+      "340": 9.8,
+      "400": 9.0
+    },
+    "verified": true,
+    "msrpUsd": null,
+    "url": "https://eastonarchery.com/arrows_/5mm-fmj-max/"
   },
   {
     "brand": "Easton",
@@ -674,12 +943,13 @@
     "category": "hunting",
     "diameterIn": 0.298,
     "gpiBySpine": {
-      "300": 9.4,
-      "340": 9.0,
-      "400": 8.3,
+      "250": 10.0,
+      "300": 9.5,
+      "340": 9.3,
+      "400": 8.4,
       "500": 7.3
     },
-    "verified": false,
+    "verified": true,
     "msrpUsd": null,
     "url": "https://eastonarchery.com/arrows_/6-5mm-acu-carbon-bowhunter/"
   },
@@ -704,12 +974,13 @@
     "category": "hunting",
     "diameterIn": 0.298,
     "gpiBySpine": {
-      "300": 9.6,
+      "250": 10.0,
+      "300": 9.5,
       "340": 9.3,
-      "400": 8.6,
-      "500": 8.0
+      "400": 8.4,
+      "500": 7.3
     },
-    "verified": false,
+    "verified": true,
     "msrpUsd": null,
     "url": "https://eastonarchery.com/arrows_/6-5mm-acu-carbon-classic/"
   },
@@ -731,24 +1002,86 @@
   },
   {
     "brand": "Easton",
+    "model": "6.5 Matrix & Match Grade",
+    "category": "hunting",
+    "diameterIn": 0.295,
+    "gpiBySpine": {
+      "250": 9.4,
+      "300": 8.9,
+      "340": 8.1,
+      "400": 7.4,
+      "500": 6.8
+    },
+    "verified": true,
+    "msrpUsd": null,
+    "url": "https://eastonarchery.com/arrows_/6-5-matrix/"
+  },
+  {
+    "brand": "Easton",
     "model": "6.5 Whiteout",
     "category": "hunting",
     "diameterIn": 0.298,
     "gpiBySpine": {
       "300": 9.6,
-      "340": 9.3,
-      "400": 8.6,
-      "500": 8.0
+      "340": 8.8,
+      "400": 8.1,
+      "500": 7.5
     },
-    "verified": false,
+    "verified": true,
     "msrpUsd": null,
     "url": "https://eastonarchery.com/arrows_/6-5-whiteout/"
   },
   {
     "brand": "Easton",
+    "model": "6.5mm Junior",
+    "category": "hunting",
+    "diameterIn": 0.298,
+    "gpiBySpine": {
+      "250": 10.0,
+      "300": 9.5,
+      "340": 9.3,
+      "400": 8.4,
+      "500": 7.3
+    },
+    "verified": true,
+    "msrpUsd": null,
+    "url": "https://eastonarchery.com/arrows_/6-5junior/"
+  },
+  {
+    "brand": "Easton",
+    "model": "6mm Aftermath",
+    "category": "hunting",
+    "diameterIn": 0.285,
+    "gpiBySpine": {
+      "300": 10.2,
+      "340": 9.6,
+      "400": 8.8,
+      "500": 7.3,
+      "600": 6.4
+    },
+    "verified": true,
+    "msrpUsd": null,
+    "url": "https://eastonarchery.com/arrows_/6mm-aftermath/"
+  },
+  {
+    "brand": "Easton",
+    "model": "6mm HEXX & HEXX F.O.C.",
+    "category": "hunting",
+    "diameterIn": 0.28,
+    "gpiBySpine": {
+      "260": 9.3,
+      "330": 7.9,
+      "400": 7.2
+    },
+    "verified": true,
+    "msrpUsd": null,
+    "url": "https://eastonarchery.com/arrows_/6mm-hexx-2/"
+  },
+  {
+    "brand": "Easton",
     "model": "A/C/E",
     "category": "target",
-    "diameterIn": 0.216,
+    "diameterIn": 0.215,
     "gpiBySpine": {
       "370": 7.9,
       "400": 7.5,
@@ -774,27 +1107,53 @@
     "brand": "Easton",
     "model": "ACG",
     "category": "target",
-    "diameterIn": 0.216,
+    "diameterIn": 0.213,
     "gpiBySpine": {
-      "400": 7.7,
-      "440": 7.5,
-      "480": 7.2,
-      "540": 6.9,
-      "620": 6.5,
-      "700": 6.1,
-      "800": 5.8,
-      "900": 5.6,
-      "1000": 5.4
+      "430": 8.9,
+      "480": 8.4,
+      "540": 7.7,
+      "610": 7.3,
+      "660": 6.9,
+      "710": 6.5,
+      "810": 6.1,
+      "880": 5.9,
+      "1000": 5.5,
+      "1150": 5.5,
+      "1300": 5.1,
+      "1500": 4.7
     },
-    "verified": false,
+    "verified": true,
     "msrpUsd": null,
     "url": "https://eastonarchery.com/arrows_/a-c-g/"
   },
   {
     "brand": "Easton",
+    "model": "Apollo",
+    "category": "target",
+    "diameterIn": 0.216,
+    "gpiBySpine": {
+      "560": 8.4,
+      "610": 8.1,
+      "670": 7.7,
+      "740": 7.2,
+      "840": 6.5,
+      "950": 6.2,
+      "1070": 5.5,
+      "1200": 5.5,
+      "1400": 4.2,
+      "1600": 3.8,
+      "1800": 3.6,
+      "2000": 3.4
+    },
+    "verified": true,
+    "msrpUsd": null,
+    "url": "https://eastonarchery.com/arrows_/apollo/"
+  },
+  {
+    "brand": "Easton",
     "model": "Avance",
     "category": "target",
-    "diameterIn": 0.224,
+    "diameterIn": 0.217,
     "gpiBySpine": {
       "340": 8.8,
       "400": 7.9,
@@ -821,21 +1180,129 @@
     "brand": "Easton",
     "model": "Bloodline",
     "category": "hunting",
-    "diameterIn": 0.27,
+    "diameterIn": 0.285,
     "gpiBySpine": {
-      "330": 8.3,
-      "400": 7.7,
-      "480": 7.2
+      "240": 9.4,
+      "330": 8.7,
+      "400": 7.7
     },
-    "verified": false,
+    "verified": true,
     "msrpUsd": null,
     "url": "https://eastonarchery.com/arrows_/6mm-bloodline-2/"
   },
   {
     "brand": "Easton",
+    "model": "Carbon Legacy",
+    "category": "hunting",
+    "diameterIn": 0.296,
+    "gpiBySpine": {
+      "340": 10.1,
+      "400": 9.3,
+      "500": 8.3,
+      "600": 7.5,
+      "700": 7.1
+    },
+    "verified": true,
+    "msrpUsd": null,
+    "url": "https://eastonarchery.com/arrows_/carbon-legacy/"
+  },
+  {
+    "brand": "Easton",
+    "model": "Carbon ONE",
+    "category": "target",
+    "diameterIn": 0.214,
+    "gpiBySpine": {
+      "410": 8.5,
+      "450": 8.1,
+      "500": 7.4,
+      "550": 6.9,
+      "600": 6.9,
+      "660": 6.6,
+      "730": 6.0,
+      "810": 5.8,
+      "900": 5.3,
+      "1000": 5.0,
+      "1150": 5.0,
+      "1400": 4.2,
+      "1600": 3.8,
+      "1800": 3.6,
+      "2000": 3.4
+    },
+    "verified": true,
+    "msrpUsd": null,
+    "url": "https://eastonarchery.com/arrows_/carbon-one/"
+  },
+  {
+    "brand": "Easton",
+    "model": "FMJ Match",
+    "category": "hunting",
+    "diameterIn": 0.233,
+    "gpiBySpine": {
+      "375": 10.3,
+      "400": 10.0,
+      "450": 9.4,
+      "490": 8.9,
+      "530": 8.4
+    },
+    "verified": true,
+    "msrpUsd": null,
+    "url": "https://eastonarchery.com/arrows_/fmj-match/"
+  },
+  {
+    "brand": "Easton",
+    "model": "Gamegetter",
+    "category": "hunting",
+    "diameterIn": 0.291,
+    "gpiBySpine": {
+      "340": 11.7,
+      "400": 10.6,
+      "500": 10.0
+    },
+    "verified": true,
+    "msrpUsd": null,
+    "url": "https://eastonarchery.com/arrows_/gamegetter/"
+  },
+  {
+    "brand": "Easton",
+    "model": "Hyperspeed & Hyperspeed Pro",
+    "category": "hunting",
+    "diameterIn": 0.295,
+    "gpiBySpine": {
+      "300": 8.8,
+      "340": 8.1,
+      "400": 7.4,
+      "500": 6.9
+    },
+    "verified": true,
+    "msrpUsd": null,
+    "url": "https://eastonarchery.com/arrows_/hyperspeed/"
+  },
+  {
+    "brand": "Easton",
+    "model": "Inspiré",
+    "category": "target",
+    "diameterIn": 0.22,
+    "gpiBySpine": {
+      "570": 8.2,
+      "630": 7.9,
+      "750": 8.1,
+      "900": 7.7,
+      "1000": 7.2,
+      "1200": 7.2,
+      "1400": 4.2,
+      "1600": 3.8,
+      "1800": 3.6,
+      "2000": 3.4
+    },
+    "verified": true,
+    "msrpUsd": null,
+    "url": "https://eastonarchery.com/arrows_/inspire/"
+  },
+  {
+    "brand": "Easton",
     "model": "ProComp",
     "category": "target",
-    "diameterIn": 0.224,
+    "diameterIn": 0.217,
     "gpiBySpine": {
       "250": 10.8,
       "300": 9.5,
@@ -873,6 +1340,20 @@
     "verified": true,
     "msrpUsd": null,
     "url": "https://eastonarchery.com/arrows_/sonic-arrow-6-0/"
+  },
+  {
+    "brand": "Easton",
+    "model": "Superdrive 19",
+    "category": "target",
+    "diameterIn": 0.278,
+    "gpiBySpine": {
+      "330": 8.3,
+      "380": 7.8,
+      "460": 6.9
+    },
+    "verified": true,
+    "msrpUsd": null,
+    "url": "https://eastonarchery.com/arrows_/superdrive-19/"
   },
   {
     "brand": "Easton",
@@ -916,13 +1397,21 @@
     "brand": "Easton",
     "model": "Superdrive Micro",
     "category": "target",
-    "diameterIn": 0.204,
+    "diameterIn": 0.217,
     "gpiBySpine": {
-      "380": 7.6,
-      "450": 7.0,
-      "500": 6.6
+      "325": 8.1,
+      "375": 7.4,
+      "425": 6.8,
+      "475": 6.4,
+      "525": 6.1,
+      "575": 5.9,
+      "625": 5.7,
+      "675": 5.6,
+      "750": 5.5,
+      "850": 5.3,
+      "950": 5.1
     },
-    "verified": false,
+    "verified": true,
     "msrpUsd": null,
     "url": "https://eastonarchery.com/arrows_/superdrive-micro/"
   },
@@ -949,14 +1438,11 @@
     "brand": "Easton",
     "model": "Venture",
     "category": "target",
-    "diameterIn": 0.29,
+    "diameterIn": 0.268,
     "gpiBySpine": {
-      "300": 8.9,
-      "340": 8.4,
-      "400": 7.6,
-      "500": 6.9
+      "600": 5.8
     },
-    "verified": false,
+    "verified": true,
     "msrpUsd": null,
     "url": "https://eastonarchery.com/arrows_/venture/"
   },
@@ -964,7 +1450,7 @@
     "brand": "Easton",
     "model": "X10",
     "category": "target",
-    "diameterIn": 0.206,
+    "diameterIn": 0.203,
     "gpiBySpine": {
       "325": 9.2,
       "350": 8.8,
@@ -989,7 +1475,7 @@
     "brand": "Easton",
     "model": "X10 Parallel Pro (4mm)",
     "category": "target",
-    "diameterIn": 0.224,
+    "diameterIn": 0.217,
     "gpiBySpine": {
       "250": 10.8,
       "300": 9.5,
@@ -998,9 +1484,16 @@
       "420": 7.8,
       "470": 7.3,
       "520": 7.0,
-      "570": 6.6
+      "570": 6.6,
+      "610": 7.3,
+      "660": 6.9,
+      "710": 6.5,
+      "810": 6.1,
+      "880": 5.9,
+      "1000": 5.5,
+      "1150": 5.5
     },
-    "verified": false,
+    "verified": true,
     "msrpUsd": null,
     "url": "https://eastonarchery.com/arrows_/x10-parallel-pro/"
   },
@@ -1008,19 +1501,63 @@
     "brand": "Easton",
     "model": "X10 Protour",
     "category": "target",
-    "diameterIn": 0.206,
+    "diameterIn": 0.194,
     "gpiBySpine": {
-      "380": 8.8,
-      "410": 8.5,
-      "450": 8.1,
-      "500": 7.8,
-      "550": 7.5,
-      "600": 7.0,
-      "650": 6.8
+      "340": 8.8,
+      "380": 8.4,
+      "420": 8.0,
+      "470": 7.6,
+      "520": 7.3,
+      "570": 6.9,
+      "620": 6.7,
+      "670": 6.5,
+      "720": 6.2,
+      "770": 6.0
     },
-    "verified": false,
+    "verified": true,
     "msrpUsd": null,
     "url": "https://eastonarchery.com/arrows_/x10-protour/"
+  },
+  {
+    "brand": "Fivics",
+    "model": "Five-X",
+    "category": "target",
+    "diameterIn": 0.2013,
+    "gpiBySpine": {
+      "350": 9.6,
+      "400": 8.9,
+      "450": 8.2,
+      "500": 8.0,
+      "550": 7.0,
+      "600": 6.7,
+      "650": 6.5,
+      "700": 6.0,
+      "750": 5.8,
+      "800": 5.8,
+      "850": 5.4,
+      "900": 5.2,
+      "1000": 4.8
+    },
+    "verified": true,
+    "msrpUsd": null,
+    "url": "https://fivics-usa.com/products/five-x-carbon-arrow-shaft"
+  },
+  {
+    "brand": "Fivics",
+    "model": "Goldro",
+    "category": "target",
+    "diameterIn": 0.211,
+    "gpiBySpine": {
+      "1100": 5.6,
+      "1200": 5.2,
+      "1300": 4.7,
+      "1400": 4.4,
+      "1500": 4.0,
+      "1600": 3.5
+    },
+    "verified": true,
+    "msrpUsd": null,
+    "url": "https://fivics-usa.com/products/goldro-carbon-arrow"
   },
   {
     "brand": "Gold Tip",
@@ -1170,6 +1707,30 @@
   },
   {
     "brand": "Gold Tip",
+    "model": "Nine.3 Max Plus",
+    "category": "target",
+    "diameterIn": 0.365,
+    "gpiBySpine": {
+      "250": 8.3
+    },
+    "verified": true,
+    "msrpUsd": null,
+    "url": null
+  },
+  {
+    "brand": "Gold Tip",
+    "model": "Nine.3 Max Pro",
+    "category": "target",
+    "diameterIn": 0.365,
+    "gpiBySpine": {
+      "250": 8.3
+    },
+    "verified": true,
+    "msrpUsd": null,
+    "url": null
+  },
+  {
+    "brand": "Gold Tip",
     "model": "Pierce",
     "category": "hunting",
     "diameterIn": 0.234,
@@ -1247,6 +1808,32 @@
   },
   {
     "brand": "Gold Tip",
+    "model": "Series 22 Pro",
+    "category": "3D",
+    "diameterIn": 0.338,
+    "gpiBySpine": {
+      "300": 7.3
+    },
+    "verified": true,
+    "msrpUsd": null,
+    "url": null
+  },
+  {
+    "brand": "Gold Tip",
+    "model": "Ted Nugent",
+    "category": "hunting",
+    "diameterIn": 0.301,
+    "gpiBySpine": {
+      "300": 10.8,
+      "400": 9.3,
+      "500": 8.4
+    },
+    "verified": true,
+    "msrpUsd": null,
+    "url": "https://goldtip.com/products/ted-nugent-hunting-arrows"
+  },
+  {
+    "brand": "Gold Tip",
     "model": "Traditional",
     "category": "hunting",
     "diameterIn": 0.3,
@@ -1258,6 +1845,51 @@
     "verified": false,
     "msrpUsd": null,
     "url": "https://goldtip.com/products/traditional-hunting-arrows"
+  },
+  {
+    "brand": "Gold Tip",
+    "model": "Traditional Classic",
+    "category": "hunting",
+    "diameterIn": 0.282,
+    "gpiBySpine": {
+      "340": 12.0,
+      "400": 11.3,
+      "500": 10.2,
+      "600": 9.1
+    },
+    "verified": true,
+    "msrpUsd": null,
+    "url": "https://goldtip.com/products/traditional-classic-hunting-arrows"
+  },
+  {
+    "brand": "Gold Tip",
+    "model": "Traditional Classic XT",
+    "category": "hunting",
+    "diameterIn": 0.282,
+    "gpiBySpine": {
+      "340": 12.0,
+      "400": 11.3,
+      "500": 10.2,
+      "600": 9.1
+    },
+    "verified": true,
+    "msrpUsd": null,
+    "url": "https://goldtip.com/products/traditional-classic-xt-hunting-arrows"
+  },
+  {
+    "brand": "Gold Tip",
+    "model": "Traditional XT",
+    "category": "hunting",
+    "diameterIn": 0.302,
+    "gpiBySpine": {
+      "340": 10.5,
+      "400": 9.3,
+      "500": 8.6,
+      "600": 7.8
+    },
+    "verified": true,
+    "msrpUsd": null,
+    "url": "https://goldtip.com/products/traditional-xt-hunting-arrows"
   },
   {
     "brand": "Gold Tip",
@@ -1335,6 +1967,22 @@
   },
   {
     "brand": "Gold Tip",
+    "model": "Warrior",
+    "category": "hunting",
+    "diameterIn": 0.29,
+    "gpiBySpine": {
+      "340": 8.9,
+      "400": 8.2,
+      "500": 7.4,
+      "600": 5.7,
+      "700": 5.4
+    },
+    "verified": true,
+    "msrpUsd": null,
+    "url": "https://goldtip.com/products/warrior-hunting-arrows"
+  },
+  {
+    "brand": "Gold Tip",
     "model": "X-Cutter",
     "category": "target",
     "diameterIn": 0.422,
@@ -1342,6 +1990,118 @@
       "250": 9.6
     },
     "verified": false,
+    "msrpUsd": null,
+    "url": null
+  },
+  {
+    "brand": "Gold Tip",
+    "model": "X-Cutter Pro",
+    "category": "target",
+    "diameterIn": 0.38,
+    "gpiBySpine": {
+      "250": 7.8
+    },
+    "verified": true,
+    "msrpUsd": null,
+    "url": null
+  },
+  {
+    "brand": "Skylon",
+    "model": "Brixxon",
+    "category": "target",
+    "diameterIn": 0.2315,
+    "gpiBySpine": {
+      "400": 9.47,
+      "450": 8.63,
+      "500": 8.0,
+      "550": 7.47,
+      "600": 7.09,
+      "650": 6.42,
+      "700": 6.17,
+      "750": 5.94,
+      "800": 5.8,
+      "850": 5.48,
+      "900": 5.34,
+      "1000": 4.9,
+      "1100": 4.64
+    },
+    "verified": true,
+    "msrpUsd": null,
+    "url": null
+  },
+  {
+    "brand": "Skylon",
+    "model": "Paragon",
+    "category": "target",
+    "diameterIn": 0.1929,
+    "gpiBySpine": {
+      "350": 8.47,
+      "400": 7.93,
+      "450": 7.42,
+      "500": 6.9,
+      "550": 6.5,
+      "600": 6.1,
+      "650": 5.83,
+      "700": 5.55,
+      "750": 5.31,
+      "800": 5.06,
+      "850": 4.94,
+      "900": 4.81,
+      "1000": 4.7
+    },
+    "verified": true,
+    "msrpUsd": null,
+    "url": null
+  },
+  {
+    "brand": "Skylon",
+    "model": "Performa",
+    "category": "target",
+    "diameterIn": 0.1929,
+    "gpiBySpine": {
+      "350": 8.47,
+      "400": 7.93,
+      "450": 7.42,
+      "500": 6.9,
+      "550": 6.5,
+      "600": 6.1,
+      "650": 5.83,
+      "700": 5.55,
+      "750": 5.31,
+      "800": 5.06,
+      "850": 4.94,
+      "900": 4.81,
+      "1000": 4.7
+    },
+    "verified": true,
+    "msrpUsd": null,
+    "url": null
+  },
+  {
+    "brand": "Skylon",
+    "model": "Radius",
+    "category": "target",
+    "diameterIn": 0.2315,
+    "gpiBySpine": {
+      "400": 9.47,
+      "450": 8.63,
+      "500": 8.0,
+      "550": 7.47,
+      "600": 7.09,
+      "650": 6.42,
+      "700": 6.17,
+      "750": 5.94,
+      "800": 5.8,
+      "850": 5.48,
+      "900": 5.34,
+      "1000": 4.9,
+      "1100": 4.64,
+      "1300": 4.16,
+      "1500": 4.0,
+      "1800": 3.89,
+      "2000": 3.6
+    },
+    "verified": true,
     "msrpUsd": null,
     "url": null
   },
@@ -1650,50 +2410,5 @@
     "verified": false,
     "msrpUsd": null,
     "url": "https://victoryarchery.com/arrows-target/vxt/"
-  },
-  {
-    "brand": "Bass Pro / Cabela's",
-    "model": "BlackOut X5 Envy",
-    "category": "hunting",
-    "diameterIn": 0.296,
-    "gpiBySpine": {
-      "300": 9.3,
-      "340": 8.8,
-      "400": 8.2,
-      "500": 7.4
-    },
-    "verified": false,
-    "msrpUsd": null,
-    "url": null
-  },
-  {
-    "brand": "Bass Pro / Cabela's",
-    "model": "Cabela's Carbon Hunter",
-    "category": "hunting",
-    "diameterIn": 0.298,
-    "gpiBySpine": {
-      "300": 9.6,
-      "340": 9.1,
-      "400": 8.5,
-      "500": 7.7
-    },
-    "verified": false,
-    "msrpUsd": null,
-    "url": null
-  },
-  {
-    "brand": "Bass Pro / Cabela's",
-    "model": "Cabela's Outfitter",
-    "category": "hunting",
-    "diameterIn": 0.298,
-    "gpiBySpine": {
-      "300": 9.4,
-      "340": 8.9,
-      "400": 8.3,
-      "500": 7.6
-    },
-    "verified": false,
-    "msrpUsd": null,
-    "url": null
   }
 ]
