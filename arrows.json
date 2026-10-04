@@ -541,6 +541,22 @@
   },
   {
     "brand": "Carbon Express",
+    "model": "Mach 5",
+    "category": "hunting",
+    "diameterIn": 0.0,
+    "gpiBySpine": {
+      "200": 9.3,
+      "250": 8.1,
+      "300": 7.2,
+      "350": 6.4,
+      "400": 5.8
+    },
+    "verified": true,
+    "msrpUsd": null,
+    "url": "https://feradyne.com/products/mach-5-5mm-12-pk-shafts-200-spine"
+  },
+  {
+    "brand": "Carbon Express",
     "model": "Maxima Photon SD",
     "category": "hunting",
     "diameterIn": 0.256,
@@ -565,6 +581,76 @@
     "verified": false,
     "msrpUsd": null,
     "url": "https://feradyne.com/products/maxima-red"
+  },
+  {
+    "brand": "Carbon Express",
+    "model": "Maxima RED 4mm",
+    "category": "hunting",
+    "diameterIn": 0.0,
+    "gpiBySpine": {
+      "300": 11.3,
+      "350": 10.2,
+      "400": 9.3
+    },
+    "verified": true,
+    "msrpUsd": null,
+    "url": "https://feradyne.com/products/maxima-red-4mm-12-pk-shafts"
+  },
+  {
+    "brand": "Carbon Express",
+    "model": "Maxima RED 5mm",
+    "category": "hunting",
+    "diameterIn": 0.0,
+    "gpiBySpine": {
+      "300": 11.9,
+      "350": 10.3,
+      "400": 9.4
+    },
+    "verified": true,
+    "msrpUsd": null,
+    "url": "https://feradyne.com/products/maxima-red-5mm-12-pk-shafts-300-spine"
+  },
+  {
+    "brand": "Carbon Express",
+    "model": "Maxima RED 5mm Drab",
+    "category": "hunting",
+    "diameterIn": 0.0,
+    "gpiBySpine": {
+      "300": 11.6,
+      "350": 9.8,
+      "400": 8.7
+    },
+    "verified": true,
+    "msrpUsd": null,
+    "url": "https://feradyne.com/products/maxima-red-5mm-drab-300-12pk-shafts"
+  },
+  {
+    "brand": "Carbon Express",
+    "model": "Maxima RED 6mm",
+    "category": "hunting",
+    "diameterIn": 0.0,
+    "gpiBySpine": {
+      "300": 9.7,
+      "350": 9.1,
+      "400": 8.1
+    },
+    "verified": true,
+    "msrpUsd": null,
+    "url": "https://feradyne.com/products/maxima-red-6mm-12-pk-shafts-300-spine"
+  },
+  {
+    "brand": "Carbon Express",
+    "model": "Maxima RED 6mm Drab",
+    "category": "hunting",
+    "diameterIn": 0.0,
+    "gpiBySpine": {
+      "300": 10.0,
+      "350": 9.1,
+      "400": 8.2
+    },
+    "verified": true,
+    "msrpUsd": null,
+    "url": "https://feradyne.com/products/maxima-red-drab-6mm-300-12pk-shafts"
   },
   {
     "brand": "Carbon Express",
@@ -624,6 +710,46 @@
   },
   {
     "brand": "Carbon Express",
+    "model": "Maxima XL 23",
+    "category": "3D",
+    "diameterIn": 0.0,
+    "gpiBySpine": {
+      "320": 9.0,
+      "400": 8.1,
+      "500": 7.3
+    },
+    "verified": true,
+    "msrpUsd": null,
+    "url": "https://feradyne.com/products/maxima-xl-23-350-spine-12pk-shafts"
+  },
+  {
+    "brand": "Carbon Express",
+    "model": "Maxima XL 25",
+    "category": "target",
+    "diameterIn": 0.0,
+    "gpiBySpine": {
+      "300": 8.9,
+      "400": 8.1
+    },
+    "verified": true,
+    "msrpUsd": null,
+    "url": "https://feradyne.com/products/maxima-xl-25-350-spine-12pk-shafts"
+  },
+  {
+    "brand": "Carbon Express",
+    "model": "Maxima XL 27",
+    "category": "target",
+    "diameterIn": 0.0,
+    "gpiBySpine": {
+      "240": 9.8,
+      "300": 8.8
+    },
+    "verified": true,
+    "msrpUsd": null,
+    "url": "https://feradyne.com/products/maxima-xl-27-240-spine-12pk-shafts"
+  },
+  {
+    "brand": "Carbon Express",
     "model": "Medallion XR",
     "category": "target",
     "diameterIn": 0.29,
@@ -638,6 +764,46 @@
     "verified": false,
     "msrpUsd": null,
     "url": null
+  },
+  {
+    "brand": "Carbon Express",
+    "model": "Nano Pro RZ",
+    "category": "target",
+    "diameterIn": 0.0,
+    "gpiBySpine": {
+      "350": 9.6,
+      "400": 8.7,
+      "450": 8.1,
+      "500": 7.6,
+      "550": 7.2,
+      "600": 6.9,
+      "650": 6.5
+    },
+    "verified": true,
+    "msrpUsd": null,
+    "url": "https://feradyne.com/products/nano-pro-rz-350-12pk-shafts"
+  },
+  {
+    "brand": "Carbon Express",
+    "model": "Nano-Pro X-Treme",
+    "category": "target",
+    "diameterIn": 0.0,
+    "gpiBySpine": {
+      "350": 9.3,
+      "400": 8.69,
+      "450": 8.02,
+      "500": 7.75,
+      "550": 7.1,
+      "600": 6.7,
+      "650": 6.2,
+      "700": 6.0,
+      "750": 5.85,
+      "800": 5.82,
+      "900": 5.19
+    },
+    "verified": true,
+    "msrpUsd": null,
+    "url": "https://feradyne.com/products/nano-pro-x-treme-350-shafts-12pk"
   },
   {
     "brand": "Carbon Express",
@@ -656,6 +822,77 @@
     "verified": false,
     "msrpUsd": null,
     "url": null
+  },
+  {
+    "brand": "Carbon Express",
+    "model": "Photon 4mm",
+    "category": "hunting",
+    "diameterIn": 0.0,
+    "gpiBySpine": {
+      "300": 8.9,
+      "350": 8.2,
+      "400": 7.7
+    },
+    "verified": true,
+    "msrpUsd": null,
+    "url": "https://feradyne.com/products/photon-4mm-12pk-shafts"
+  },
+  {
+    "brand": "Carbon Express",
+    "model": "Photon 6mm",
+    "category": "hunting",
+    "diameterIn": 0.0,
+    "gpiBySpine": {
+      "300": 8.9,
+      "350": 8.1,
+      "400": 7.6
+    },
+    "verified": true,
+    "msrpUsd": null,
+    "url": "https://feradyne.com/products/photon-6mm-12pk-shafts"
+  },
+  {
+    "brand": "Carbon Express",
+    "model": "Predator AIR 4mm",
+    "category": "hunting",
+    "diameterIn": 0.0,
+    "gpiBySpine": {
+      "300": 10.7,
+      "350": 9.8,
+      "400": 8.8
+    },
+    "verified": true,
+    "msrpUsd": null,
+    "url": "https://feradyne.com/products/predator-air-4mm-12-pk-shafts-300-spine"
+  },
+  {
+    "brand": "Carbon Express",
+    "model": "Predator AIR 5mm",
+    "category": "hunting",
+    "diameterIn": 0.0,
+    "gpiBySpine": {
+      "300": 9.1,
+      "350": 8.1,
+      "400": 7.4
+    },
+    "verified": true,
+    "msrpUsd": null,
+    "url": "https://feradyne.com/products/predator-air-5mm-12-pk-shafts-300-spine"
+  },
+  {
+    "brand": "Carbon Express",
+    "model": "Predator AIR 6mm",
+    "category": "hunting",
+    "diameterIn": 0.0,
+    "gpiBySpine": {
+      "300": 8.6,
+      "350": 8.1,
+      "400": 7.2,
+      "500": 6.2
+    },
+    "verified": true,
+    "msrpUsd": null,
+    "url": "https://feradyne.com/products/predator-air-6mm-12-pk-shafts-300-spine"
   },
   {
     "brand": "Carbon Express",
@@ -1561,9 +1798,33 @@
   },
   {
     "brand": "Gold Tip",
+    "model": "30X",
+    "category": "target",
+    "diameterIn": 0.399,
+    "gpiBySpine": {
+      "150": 8.5
+    },
+    "verified": true,
+    "msrpUsd": null,
+    "url": "https://www.goldtip.com/products/30x"
+  },
+  {
+    "brand": "Gold Tip",
+    "model": "30X Pro",
+    "category": "target",
+    "diameterIn": 0.399,
+    "gpiBySpine": {
+      "150": 8.5
+    },
+    "verified": true,
+    "msrpUsd": null,
+    "url": "https://www.goldtip.com/products/30x-pro"
+  },
+  {
+    "brand": "Gold Tip",
     "model": "Airstrike",
     "category": "hunting",
-    "diameterIn": 0.258,
+    "diameterIn": 0.262,
     "gpiBySpine": {
       "250": 9.6,
       "300": 8.5,
@@ -1572,7 +1833,7 @@
     },
     "verified": true,
     "msrpUsd": null,
-    "url": "https://goldtip.com/products/airstrike-hunting-arrows"
+    "url": "https://www.goldtip.com/products/airstrike-hunting-arrows"
   },
   {
     "brand": "Gold Tip",
@@ -1586,35 +1847,37 @@
     },
     "verified": true,
     "msrpUsd": null,
-    "url": "https://www.goldtip.com/hunting-arrows/black-label-series/black-label-hunting-arrows/PG3398797.html"
+    "url": "https://www.goldtip.com/products/black-label-hunting-arrows"
   },
   {
     "brand": "Gold Tip",
     "model": "Black Label Quantum",
     "category": "hunting",
-    "diameterIn": 0.272,
+    "diameterIn": 0.261,
     "gpiBySpine": {
-      "300": 10.4,
-      "340": 9.9,
-      "400": 9.5
+      "250": 9.3,
+      "300": 8.3,
+      "340": 7.7,
+      "400": 7.0
     },
-    "verified": false,
+    "verified": true,
     "msrpUsd": null,
-    "url": "https://www.goldtip.com/hunting-arrows/black-label-series/black-label-quantum-hunting-arrows/PG3398799.html"
+    "url": "https://www.goldtip.com/products/black-label-quantum-hunting-arrows"
   },
   {
     "brand": "Gold Tip",
     "model": "Force F.O.C.",
     "category": "hunting",
-    "diameterIn": 0.3,
+    "diameterIn": 0.299,
     "gpiBySpine": {
-      "300": 9.3,
-      "340": 8.9,
-      "400": 8.2
+      "250": 9.8,
+      "300": 8.8,
+      "340": 8.2,
+      "400": 7.4
     },
-    "verified": false,
+    "verified": true,
     "msrpUsd": null,
-    "url": "https://goldtip.com/products/force-f-o-c-hunting-arrows"
+    "url": "https://www.goldtip.com/products/force-f-o-c-hunting-arrows"
   },
   {
     "brand": "Gold Tip",
@@ -1627,9 +1890,9 @@
       "400": 8.2,
       "500": 7.3
     },
-    "verified": false,
+    "verified": true,
     "msrpUsd": null,
-    "url": "https://goldtip.com/products/hunter-hunting-arrows"
+    "url": "https://www.goldtip.com/products/hunter-hunting-arrows"
   },
   {
     "brand": "Gold Tip",
@@ -1642,9 +1905,9 @@
       "400": 8.2,
       "500": 7.3
     },
-    "verified": false,
+    "verified": true,
     "msrpUsd": null,
-    "url": "https://goldtip.com/products/hunter-pro-hunting-arrows"
+    "url": "https://www.goldtip.com/products/hunter-pro-hunting-arrows"
   },
   {
     "brand": "Gold Tip",
@@ -1660,7 +1923,7 @@
     },
     "verified": true,
     "msrpUsd": null,
-    "url": "https://goldtip.com/products/hunter-xt-hunting-arrows"
+    "url": "https://www.goldtip.com/products/hunter-xt-hunting-arrows"
   },
   {
     "brand": "Gold Tip",
@@ -1676,7 +1939,7 @@
     },
     "verified": true,
     "msrpUsd": null,
-    "url": "https://www.goldtip.com/hunting-arrows/kinetic-series/kinetic-hunting-arrows/P01275.html"
+    "url": "https://www.goldtip.com/products/kinetic-hunting-arrows"
   },
   {
     "brand": "Gold Tip",
@@ -1684,30 +1947,19 @@
     "category": "hunting",
     "diameterIn": 0.272,
     "gpiBySpine": {
+      "200": 11.6,
       "300": 10.4,
       "340": 9.9,
-      "400": 9.5
+      "400": 9.5,
+      "500": 7.6
     },
-    "verified": false,
+    "verified": true,
     "msrpUsd": null,
-    "url": "https://goldtip.com/products/kinetic-kaos-hunting-arrows"
+    "url": "https://www.goldtip.com/products/kinetic-kaos-hunting-arrows"
   },
   {
     "brand": "Gold Tip",
     "model": "Nine.3 Max",
-    "category": "target",
-    "diameterIn": 0.366,
-    "gpiBySpine": {
-      "250": 9.3,
-      "300": 9.3
-    },
-    "verified": false,
-    "msrpUsd": null,
-    "url": null
-  },
-  {
-    "brand": "Gold Tip",
-    "model": "Nine.3 Max Plus",
     "category": "target",
     "diameterIn": 0.365,
     "gpiBySpine": {
@@ -1715,7 +1967,7 @@
     },
     "verified": true,
     "msrpUsd": null,
-    "url": null
+    "url": "https://www.goldtip.com/products/9-3-max"
   },
   {
     "brand": "Gold Tip",
@@ -1727,7 +1979,7 @@
     },
     "verified": true,
     "msrpUsd": null,
-    "url": null
+    "url": "https://www.goldtip.com/products/9-3-max-pro"
   },
   {
     "brand": "Gold Tip",
@@ -1735,15 +1987,15 @@
     "category": "hunting",
     "diameterIn": 0.234,
     "gpiBySpine": {
-      "250": 9.5,
-      "300": 9.0,
-      "340": 8.6,
-      "400": 7.9,
+      "250": 9.8,
+      "300": 9.1,
+      "340": 8.3,
+      "400": 7.5,
       "500": 6.6
     },
-    "verified": false,
+    "verified": true,
     "msrpUsd": null,
-    "url": "https://goldtip.com/products/pierce-hunting-arrows"
+    "url": "https://www.goldtip.com/products/pierce-hunting-arrows"
   },
   {
     "brand": "Gold Tip",
@@ -1751,14 +2003,15 @@
     "category": "hunting",
     "diameterIn": 0.234,
     "gpiBySpine": {
-      "250": 9.5,
-      "300": 9.0,
-      "340": 8.6,
-      "400": 7.9
+      "250": 9.8,
+      "300": 9.1,
+      "340": 8.3,
+      "400": 7.5,
+      "500": 6.6
     },
-    "verified": false,
+    "verified": true,
     "msrpUsd": null,
-    "url": "https://goldtip.com/products/pierce-lrt-hunting-arrows"
+    "url": "https://www.goldtip.com/products/pierce-lrt-hunting-arrows"
   },
   {
     "brand": "Gold Tip",
@@ -1766,45 +2019,45 @@
     "category": "hunting",
     "diameterIn": 0.234,
     "gpiBySpine": {
-      "250": 9.5,
-      "300": 9.0,
-      "340": 8.6,
-      "400": 7.9,
+      "250": 9.8,
+      "300": 9.1,
+      "340": 8.3,
+      "400": 7.5,
       "500": 6.6
     },
-    "verified": false,
+    "verified": true,
     "msrpUsd": null,
-    "url": "https://www.goldtip.com/hunting-arrows/pierce-platinum-hunting-arrows/PG4342808.html"
+    "url": "https://www.goldtip.com/products/pierce-platinum-hunting-arrows"
   },
   {
     "brand": "Gold Tip",
     "model": "Pierce Tour",
     "category": "target",
-    "diameterIn": 0.234,
+    "diameterIn": 0.229,
     "gpiBySpine": {
-      "300": 9.0,
-      "340": 8.6,
-      "400": 7.9,
+      "250": 9.8,
+      "300": 9.1,
+      "340": 8.3,
+      "400": 7.6,
       "500": 6.6,
-      "600": 5.9
+      "600": 6.2,
+      "700": 5.5
     },
-    "verified": false,
+    "verified": true,
     "msrpUsd": null,
-    "url": "https://www.goldtip.com/target-arrows/pierce-series/kinetic-pierce-tour-target-arrows/PG3399578.html"
+    "url": "https://www.goldtip.com/products/kinetic-pierce-tour-target-arrows"
   },
   {
     "brand": "Gold Tip",
     "model": "Series 22",
     "category": "3D",
-    "diameterIn": 0.351,
+    "diameterIn": 0.338,
     "gpiBySpine": {
-      "300": 7.5,
-      "350": 7.0,
-      "400": 6.5
+      "300": 7.3
     },
-    "verified": false,
+    "verified": true,
     "msrpUsd": null,
-    "url": null
+    "url": "https://www.goldtip.com/products/series-22"
   },
   {
     "brand": "Gold Tip",
@@ -1816,7 +2069,7 @@
     },
     "verified": true,
     "msrpUsd": null,
-    "url": null
+    "url": "https://www.goldtip.com/products/series-22-pro"
   },
   {
     "brand": "Gold Tip",
@@ -1830,21 +2083,22 @@
     },
     "verified": true,
     "msrpUsd": null,
-    "url": "https://goldtip.com/products/ted-nugent-hunting-arrows"
+    "url": "https://www.goldtip.com/products/ted-nugent-hunting-arrows"
   },
   {
     "brand": "Gold Tip",
     "model": "Traditional",
     "category": "hunting",
-    "diameterIn": 0.3,
+    "diameterIn": 0.302,
     "gpiBySpine": {
-      "400": 10.0,
-      "500": 9.4,
-      "600": 8.9
+      "340": 10.5,
+      "400": 9.3,
+      "500": 8.6,
+      "600": 7.8
     },
-    "verified": false,
+    "verified": true,
     "msrpUsd": null,
-    "url": "https://goldtip.com/products/traditional-hunting-arrows"
+    "url": "https://www.goldtip.com/products/traditional-hunting-arrows"
   },
   {
     "brand": "Gold Tip",
@@ -1859,7 +2113,7 @@
     },
     "verified": true,
     "msrpUsd": null,
-    "url": "https://goldtip.com/products/traditional-classic-hunting-arrows"
+    "url": "https://www.goldtip.com/products/traditional-classic-hunting-arrows"
   },
   {
     "brand": "Gold Tip",
@@ -1874,7 +2128,7 @@
     },
     "verified": true,
     "msrpUsd": null,
-    "url": "https://goldtip.com/products/traditional-classic-xt-hunting-arrows"
+    "url": "https://www.goldtip.com/products/traditional-classic-xt-hunting-arrows"
   },
   {
     "brand": "Gold Tip",
@@ -1889,19 +2143,31 @@
     },
     "verified": true,
     "msrpUsd": null,
-    "url": "https://goldtip.com/products/traditional-xt-hunting-arrows"
+    "url": "https://www.goldtip.com/products/traditional-xt-hunting-arrows"
   },
   {
     "brand": "Gold Tip",
     "model": "Triple X",
     "category": "target",
-    "diameterIn": 0.422,
+    "diameterIn": 0.421,
     "gpiBySpine": {
-      "200": 10.4
+      "100": 9.3
     },
-    "verified": false,
+    "verified": true,
     "msrpUsd": null,
-    "url": null
+    "url": "https://www.goldtip.com/products/triple-x"
+  },
+  {
+    "brand": "Gold Tip",
+    "model": "Triple X Pro",
+    "category": "target",
+    "diameterIn": 0.421,
+    "gpiBySpine": {
+      "100": 9.3
+    },
+    "verified": true,
+    "msrpUsd": null,
+    "url": "https://www.goldtip.com/products/triple-x-pro"
   },
   {
     "brand": "Gold Tip",
@@ -1923,47 +2189,55 @@
     "brand": "Gold Tip",
     "model": "Velocity",
     "category": "hunting",
-    "diameterIn": 0.296,
+    "diameterIn": 0.291,
     "gpiBySpine": {
-      "300": 7.3,
-      "340": 6.9,
-      "400": 6.3,
-      "500": 5.9
+      "250": 9.8,
+      "300": 8.8,
+      "340": 8.2,
+      "400": 7.4,
+      "500": 6.3,
+      "600": 5.9,
+      "700": 5.4
     },
-    "verified": false,
+    "verified": true,
     "msrpUsd": null,
-    "url": "https://goldtip.com/products/velocity-hunting-arrows"
+    "url": "https://www.goldtip.com/products/velocity-hunting-arrows"
   },
   {
     "brand": "Gold Tip",
     "model": "Velocity Pro",
     "category": "hunting",
-    "diameterIn": 0.296,
+    "diameterIn": 0.291,
     "gpiBySpine": {
-      "300": 7.3,
-      "340": 6.9,
-      "400": 6.3,
-      "500": 5.9
+      "250": 9.8,
+      "300": 8.8,
+      "340": 8.2,
+      "400": 7.4,
+      "500": 6.3,
+      "600": 5.9,
+      "700": 5.4
     },
-    "verified": false,
+    "verified": true,
     "msrpUsd": null,
-    "url": "https://goldtip.com/products/velocity-pro-hunting-arrows"
+    "url": "https://www.goldtip.com/products/velocity-pro-hunting-arrows"
   },
   {
     "brand": "Gold Tip",
     "model": "Velocity XT",
     "category": "hunting",
-    "diameterIn": 0.296,
+    "diameterIn": 0.291,
     "gpiBySpine": {
+      "250": 9.8,
       "300": 8.8,
       "340": 8.2,
       "400": 7.4,
       "500": 6.3,
-      "600": 5.9
+      "600": 5.9,
+      "700": 5.4
     },
     "verified": true,
     "msrpUsd": null,
-    "url": "https://goldtip.com/products/velocity-xt-hunting-arrows"
+    "url": "https://www.goldtip.com/products/velocity-xt-hunting-arrows"
   },
   {
     "brand": "Gold Tip",
@@ -1979,19 +2253,19 @@
     },
     "verified": true,
     "msrpUsd": null,
-    "url": "https://goldtip.com/products/warrior-hunting-arrows"
+    "url": "https://www.goldtip.com/products/warrior-hunting-arrows"
   },
   {
     "brand": "Gold Tip",
     "model": "X-Cutter",
     "category": "target",
-    "diameterIn": 0.422,
+    "diameterIn": 0.38,
     "gpiBySpine": {
-      "250": 9.6
+      "250": 7.8
     },
-    "verified": false,
+    "verified": true,
     "msrpUsd": null,
-    "url": null
+    "url": "https://www.goldtip.com/products/x-cutter"
   },
   {
     "brand": "Gold Tip",
@@ -2003,7 +2277,7 @@
     },
     "verified": true,
     "msrpUsd": null,
-    "url": null
+    "url": "https://www.goldtip.com/products/x-cutter-pro"
   },
   {
     "brand": "Skylon",
@@ -2177,7 +2451,7 @@
       "350": 8.7,
       "400": 9.0
     },
-    "verified": true,
+    "verified": false,
     "msrpUsd": null,
     "url": "https://victoryarchery.com/arrows-hunting/rip-tko/"
   },
@@ -2317,7 +2591,7 @@
       "400": 7.9,
       "500": 8.0
     },
-    "verified": true,
+    "verified": false,
     "msrpUsd": null,
     "url": "https://victoryarchery.com/arrows-hunting/vap-tko/"
   },
