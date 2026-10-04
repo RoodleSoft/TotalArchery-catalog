@@ -300,16 +300,6 @@
     "externalRef": "nfaa:armstrong county 4h shooting sports|901 hurley ave claude texas 79019"
   },
   {
-    "name": "Arrow Dynamic Archery",
-    "address": "1070 251st Street, Harbor City, California, United States of America, 90710",
-    "phone": "+14245334807",
-    "email": "ArrowDynamicArcheryClub@gmail.com",
-    "website": "http://www.arrowdynamicarchery.com",
-    "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program",
-    "reviewStatus": "approved",
-    "externalRef": "usarchery:arrow dynamic archery|1070 251st street harbor city california united states of america 90710"
-  },
-  {
     "name": "Arrow Minded Outdoors",
     "address": "5835 FM1863, Bulverde, Texas, United States of America, 78163",
     "phone": "+1 830-515-5905",
@@ -318,16 +308,6 @@
     "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program, 3D Archery, Field Archery",
     "reviewStatus": "approved",
     "externalRef": "usarchery:arrow minded outdoors|5835 fm1863 bulverde texas united states of america 78163"
-  },
-  {
-    "name": "Arrow Minded Outdoors Archery Club",
-    "address": "5835 FM1863, Bulverde, Texas, 78163",
-    "phone": "+18305155905",
-    "email": "info@arrowminded.co",
-    "website": "",
-    "programs": "outdoor range",
-    "reviewStatus": "approved",
-    "externalRef": "nfaa:arrow minded outdoors archery club|5835 fm1863 bulverde texas 78163"
   },
   {
     "name": "Arrowhead Archery",
@@ -1148,16 +1128,6 @@
     "programs": "outdoor field range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:broadwater rod gun club|96 canton lane 330 indian creek townsend montana 59644"
-  },
-  {
-    "name": "Broken Arrows Archery Club",
-    "address": "11750 Cholla Dr., Desert Hot Springs, California, United States of America, 92240",
-    "phone": "+1 760-702-2454",
-    "email": "scouterkoda@gmail.com",
-    "website": "",
-    "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program",
-    "reviewStatus": "approved",
-    "externalRef": "usarchery:broken arrows archery club|11750 cholla dr desert hot springs california united states of america 92240"
   },
   {
     "name": "Broken Trail Bowmen",
@@ -2751,13 +2721,13 @@
   },
   {
     "name": "Full Curl Archery",
-    "address": "Full Curl Archery, 12501 Old Seward Hwy E-F, Anchorage, Alaska, United States of America, 99515",
-    "phone": "(907) 344-2697",
+    "address": "12501 OLD SEWARD HWY, ANCHORAGE, Alaska, 99515",
+    "phone": "+19078302089",
     "email": "akfullcurlarchery@gmail.com",
-    "website": "http://www.fullcurlarchery.com",
-    "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program, 3D Archery, Field Archery",
+    "website": "",
+    "programs": "indoor range",
     "reviewStatus": "approved",
-    "externalRef": "usarchery:full curl archery|full curl archery 12501 old seward hwy e f anchorage alaska united states of america 99515"
+    "externalRef": "nfaa:full curl archery|12501 old seward hwy anchorage alaska 99515"
   },
   {
     "name": "Full Draw Bowhunters",
@@ -2982,7 +2952,7 @@
   {
     "name": "Golden State JOAD",
     "address": "227 Montrose Dr, Folsom, California, United States of America, 95630",
-    "phone": "(916) 803-1261",
+    "phone": "+19168031261",
     "email": "wildernessjoad@gmail.com",
     "website": "http://www.wildernessjoad.com",
     "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program",
@@ -5635,7 +5605,7 @@
     "phone": "",
     "email": "prarcheryleague@gmail.com",
     "website": "",
-    "programs": "indoor range, outdoor range",
+    "programs": "outdoor range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:pral team|pr 681 km 21 6 barceloneta usa 00617"
   },
