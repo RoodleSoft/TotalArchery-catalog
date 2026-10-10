@@ -2026,7 +2026,7 @@
     "centerShotIn": null,
     "target": false,
     "tier": "budget",
-    "verified": false,
+    "verified": true,
     "note": null,
     "msrpUsd": null,
     "url": null
