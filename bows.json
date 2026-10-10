@@ -442,8 +442,8 @@
     "centerShotIn": null,
     "target": false,
     "tier": "budget",
-    "verified": false,
-    "note": null,
+    "verified": true,
+    "note": "some retailers list 327 fps / 30.75 in / 7 in brace for the XT; these values match the base Torrex, while Hoyt-carried listings give 336 fps, 30 in, 6 in",
     "msrpUsd": null,
     "url": null
   },
