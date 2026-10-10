@@ -1539,7 +1539,7 @@
     "brand": "Elite",
     "year": 2025,
     "model": "Exalt",
-    "ataIn": null,
+    "ataIn": 35,
     "braceIn": null,
     "speedFps": null,
     "massWeightOz": 76.8,
