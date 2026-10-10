@@ -2170,7 +2170,7 @@
     "centerShotIn": null,
     "target": false,
     "tier": "budget",
-    "verified": false,
+    "verified": true,
     "note": "hugely adjustable, 10-70 lb / 14-30in draw",
     "msrpUsd": null,
     "url": null
