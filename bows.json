@@ -2579,7 +2579,7 @@
     "brand": "Xpedition",
     "year": 2022,
     "model": "Smoke",
-    "ataIn": null,
+    "ataIn": 32,
     "braceIn": null,
     "speedFps": null,
     "massWeightOz": null,
