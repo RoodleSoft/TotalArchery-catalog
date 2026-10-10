@@ -259,17 +259,17 @@
     "brand": "Hoyt",
     "year": 2024,
     "model": "Carbon RX-8 Ultra",
-    "ataIn": 34,
-    "braceIn": 6.125,
-    "speedFps": 342,
-    "massWeightOz": null,
+    "ataIn": 34.69,
+    "braceIn": 7.0625,
+    "speedFps": 332,
+    "massWeightOz": 70.4,
     "centerShotIn": null,
     "target": false,
     "tier": "flagship",
-    "verified": false,
+    "verified": true,
     "note": null,
     "msrpUsd": null,
-    "url": null
+    "url": "https://hoyt.com/compound-bows/carbon-rx-8/carbon-rx-8-ultra"
   },
   {
     "brand": "Hoyt",
