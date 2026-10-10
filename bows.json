@@ -837,15 +837,15 @@
     "model": "Mach 35 DS Carbon",
     "ataIn": 35,
     "braceIn": 7.25,
-    "speedFps": 330,
+    "speedFps": 324,
     "massWeightOz": 62.4,
     "centerShotIn": null,
     "target": false,
     "tier": "flagship",
-    "verified": false,
+    "verified": true,
     "note": null,
     "msrpUsd": null,
-    "url": "https://psearchery.com/products/mach-35-ds-carbon-fds"
+    "url": "https://psearchery.com/products/mach-35-ds"
   },
   {
     "brand": "PSE",
