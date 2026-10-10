@@ -810,8 +810,8 @@
     "centerShotIn": null,
     "target": false,
     "tier": "flagship",
-    "verified": false,
-    "note": "distinct FDS-cam model from the Decree HD -- 347 fps is at the top draw weight, not a flat IBO rating",
+    "verified": true,
+    "note": "347 fps is the maker's listed IBO speed rating",
     "msrpUsd": null,
     "url": "https://psearchery.com/products/decree-fds"
   },
