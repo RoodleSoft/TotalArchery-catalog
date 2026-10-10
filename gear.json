@@ -4217,6 +4217,17 @@
   {
     "category": "release",
     "brand": "UltraView",
+    "model": "Hinge 3 Aluminum Standard Black",
+    "url": "https://xspotarchery.com/products/ultraview-uv-hinge-3-aluminum-standard-black",
+    "priceUsd": 249.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/1045868_al-standard_1000x1000_c2388d5b-fc0a-4c83-acdd-ac3627c5ce12.webp"
+  },
+  {
+    "category": "release",
+    "brand": "UltraView",
     "model": "Robin Hood Release Holster",
     "url": "https://ultraviewarchery.com/products/robin-hood-release-holster",
     "priceUsd": 59.99,
@@ -8741,13 +8752,13 @@
   {
     "category": "sight",
     "brand": "Trophy Ridge",
-    "model": "Sight light 3 position",
-    "url": "https://xspotarchery.com/products/trophy-ridge-sight-light-3-position",
-    "priceUsd": null,
+    "model": "Sight React HS 5 Pin Bow Sight Black W/ Sight AS855",
+    "url": "https://xspotarchery.com/products/copy-of-trophy-ridge-sight-react-hs-5-pin-bow-sight-black-w-sight-right-hand-as855",
+    "priceUsd": 179.99,
     "verified": true,
     "tapeWidthIn": null,
     "weightG": null,
-    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/wbkplz3arzm6625melzb.png"
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/79058_1.jpg"
   },
   {
     "category": "sight",
@@ -11051,6 +11062,28 @@
     "verified": false,
     "tapeWidthIn": null,
     "weightG": null
+  },
+  {
+    "category": "string",
+    "brand": "GAS Bowstrings",
+    "model": "Kodiabow 185 Express",
+    "url": "https://gasbowstrings.com/product/kodiabow-185-express-string-only-flo-orange-black-twist-with-black-serving-2/",
+    "priceUsd": 50.0,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://gasbowstrings.com/wp-content/uploads/2026/10/IMG_2371-scaled.jpg"
+  },
+  {
+    "category": "string",
+    "brand": "GAS Bowstrings",
+    "model": "Mathews Arc 30",
+    "url": "https://gasbowstrings.com/product/mathews-arc-30-string-only-ghost-xv-with-black-serving-and-white-nocks/",
+    "priceUsd": 60.0,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://gasbowstrings.com/wp-content/uploads/2026/10/IMG_2363-scaled.jpg"
   },
   {
     "category": "string",

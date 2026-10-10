@@ -6327,6 +6327,24 @@
     "url": "https://blackeaglearrows.com"
   },
   {
+    "brand": "Bodnik Archery",
+    "model": "Bodnik .204 Break-Off Brass HIT Inserts",
+    "category": "insert",
+    "grains": 100.0,
+    "fits": ".204",
+    "verified": false,
+    "url": "https://lancasterarchery.com/products/bodnik-204-break-off-brass-hit-inserts"
+  },
+  {
+    "brand": "Bodnik Archery",
+    "model": "Bodnik .204 Break-Off Brass HIT Inserts",
+    "category": "insert",
+    "grains": 50.0,
+    "fits": ".204",
+    "verified": false,
+    "url": "https://lancasterarchery.com/products/bodnik-204-break-off-brass-hit-inserts"
+  },
+  {
     "brand": "Carbon Express",
     "model": ".203 Aluminum Half-Outs (12 Pack)",
     "category": "insert",
@@ -9439,6 +9457,114 @@
     "fits": null,
     "verified": false,
     "url": "https://lancasterarchery.com/products/bjorn-dragonflight-vanes-3-1-2"
+  },
+  {
+    "brand": "Bodnik Archery",
+    "model": "Bodnik 3\" Parabolic Barred Feathers",
+    "category": "vane",
+    "grains": 6.0,
+    "fits": null,
+    "verified": false,
+    "url": "https://lancasterarchery.com/products/bodnik-3-parabolic-barred-feathers"
+  },
+  {
+    "brand": "Bodnik Archery",
+    "model": "Bodnik 3\" Parabolic Feathers",
+    "category": "vane",
+    "grains": 6.0,
+    "fits": null,
+    "verified": false,
+    "url": "https://lancasterarchery.com/products/bodnik-3-parabolic-feathers"
+  },
+  {
+    "brand": "Bodnik Archery",
+    "model": "Bodnik 3\" Shield Barred Feathers",
+    "category": "vane",
+    "grains": 6.0,
+    "fits": null,
+    "verified": false,
+    "url": "https://lancasterarchery.com/products/bodnik-3-shield-barred-feathers"
+  },
+  {
+    "brand": "Bodnik Archery",
+    "model": "Bodnik 3\" Shield Feathers",
+    "category": "vane",
+    "grains": 6.0,
+    "fits": null,
+    "verified": false,
+    "url": "https://lancasterarchery.com/products/bodnik-3-shield-feathers"
+  },
+  {
+    "brand": "Bodnik Archery",
+    "model": "Bodnik 4\" Parabolic Barred Feathers",
+    "category": "vane",
+    "grains": 6.0,
+    "fits": null,
+    "verified": false,
+    "url": "https://lancasterarchery.com/products/bodnik-4-parabolic-barred-feathers"
+  },
+  {
+    "brand": "Bodnik Archery",
+    "model": "Bodnik 4\" Parabolic Feathers",
+    "category": "vane",
+    "grains": 6.0,
+    "fits": null,
+    "verified": false,
+    "url": "https://lancasterarchery.com/products/bodnik-4-parabolic-feathers"
+  },
+  {
+    "brand": "Bodnik Archery",
+    "model": "Bodnik 4\" Shield Barred Feathers",
+    "category": "vane",
+    "grains": 6.0,
+    "fits": null,
+    "verified": false,
+    "url": "https://lancasterarchery.com/products/bodnik-4-shield-barred-feathers"
+  },
+  {
+    "brand": "Bodnik Archery",
+    "model": "Bodnik 4\" Shield Feathers",
+    "category": "vane",
+    "grains": 6.0,
+    "fits": null,
+    "verified": false,
+    "url": "https://lancasterarchery.com/products/bodnik-4-shield-feathers"
+  },
+  {
+    "brand": "Bodnik Archery",
+    "model": "Bodnik 5\" Parabolic Barred Feathers",
+    "category": "vane",
+    "grains": 6.0,
+    "fits": null,
+    "verified": false,
+    "url": "https://lancasterarchery.com/products/bodnik-5-parabolic-barred-feathers"
+  },
+  {
+    "brand": "Bodnik Archery",
+    "model": "Bodnik 5\" Parabolic Feathers",
+    "category": "vane",
+    "grains": 6.0,
+    "fits": null,
+    "verified": false,
+    "url": "https://lancasterarchery.com/products/bodnik-5-parabolic-feathers"
+  },
+  {
+    "brand": "Bodnik Archery",
+    "model": "Bodnik 5\" Shield Barred Feathers",
+    "category": "vane",
+    "grains": 6.0,
+    "fits": null,
+    "verified": false,
+    "url": "https://lancasterarchery.com/products/bodnik-5-shield-barred-feathers"
+  },
+  {
+    "brand": "Bodnik Archery",
+    "model": "Bodnik 5\" Shield Feathers",
+    "category": "vane",
+    "grains": 6.0,
+    "fits": null,
+    "verified": false,
+    "url": "https://lancasterarchery.com/products/bodnik-5-shield-feathers"
   },
   {
     "brand": "Bohning",
