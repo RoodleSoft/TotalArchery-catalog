@@ -2563,7 +2563,7 @@
     "brand": "Xpedition",
     "year": 2023,
     "model": "Mako X",
-    "ataIn": null,
+    "ataIn": 33.3,
     "braceIn": null,
     "speedFps": null,
     "massWeightOz": null,
