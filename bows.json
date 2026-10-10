@@ -410,7 +410,7 @@
     "centerShotIn": null,
     "target": false,
     "tier": "flagship",
-    "verified": false,
+    "verified": true,
     "note": "women's/small-frame, max draw weight 55 lb -- rated speed is IBO-equivalent; actual is 314 fps at 60 lb/28\"",
     "msrpUsd": 1099,
     "url": null
