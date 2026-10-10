@@ -867,7 +867,7 @@
     "brand": "PSE",
     "year": 2025,
     "model": "Fortis",
-    "ataIn": null,
+    "ataIn": 33,
     "braceIn": null,
     "speedFps": null,
     "massWeightOz": null,
