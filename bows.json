@@ -2010,7 +2010,7 @@
     "centerShotIn": null,
     "target": false,
     "tier": "flagship",
-    "verified": false,
+    "verified": true,
     "note": null,
     "msrpUsd": null,
     "url": null
