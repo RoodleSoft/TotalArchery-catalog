@@ -2161,22 +2161,6 @@
   },
   {
     "brand": "Bear",
-    "year": 2022,
-    "model": "Refuge",
-    "ataIn": null,
-    "braceIn": null,
-    "speedFps": null,
-    "massWeightOz": null,
-    "centerShotIn": null,
-    "target": false,
-    "tier": "flagship",
-    "verified": false,
-    "note": null,
-    "msrpUsd": null,
-    "url": null
-  },
-  {
-    "brand": "Bear",
     "year": 2021,
     "model": "Cruzer G4",
     "ataIn": 29,
