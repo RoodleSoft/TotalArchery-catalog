@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T03:50:08.641730Z",
+  "updatedAt": "2026-10-11T03:50:10.106307Z",
   "bows": {
     "hoyt_2026_carbon_rx_10": {
       "system": "hoyt_xts",
@@ -87,7 +87,8 @@
     },
     "hoyt_2024_carbon_rx_8_ultra": {
       "system": "hoyt_hbx",
-      "source": "rule"
+      "source": "rule",
+      "checkedAt": "2026-10-11T03:50:10.106307Z"
     },
     "hoyt_2024_alpha_x_30": {
       "system": "hoyt_hbx",
@@ -361,10 +362,6 @@
       "evidence": "deadlock cam",
       "checkedAt": "2026-09-30T16:25:25.429880Z"
     },
-    "bowtech_2025_proven_30": {
-      "system": "bowtech_deadlock",
-      "source": "rule"
-    },
     "bowtech_2024_core_ss": {
       "system": "bowtech_deadlock",
       "source": "rule"
@@ -526,14 +523,6 @@
       "source": "rule",
       "checkedAt": "2026-09-30T16:25:25.429880Z"
     },
-    "prime_2025_form_32": {
-      "system": "prime_shims",
-      "source": "rule"
-    },
-    "prime_2025_form_36": {
-      "system": "prime_shims",
-      "source": "rule"
-    },
     "prime_2024_rvx_32": {
       "system": "prime_shims",
       "source": "rule"
@@ -622,10 +611,6 @@
       "source": "rule"
     },
     "bear_2022_kuma_30": {
-      "system": "bear_timing",
-      "source": "rule"
-    },
-    "bear_2022_refuge": {
       "system": "bear_timing",
       "source": "rule"
     },
