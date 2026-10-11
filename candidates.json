@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T13:04:54.997231Z",
+  "updatedAt": "2026-10-11T04:11:55.021814Z",
   "sights": [
     {
       "brand": "Axcel",
@@ -19,30 +19,6 @@
     },
     {
       "brand": "Axcel",
-      "model": "Driver Plus Slider Sight",
-      "url": "https://xspotarchery.com/products/axcel-driver-plus-slider-sight-standard-pro-bar-w-avx-41-scope-single-pin-010-green-fiber",
-      "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/1040329_1000x_8294718c-6b46-40fc-b62e-fd60653abeef.webp",
-      "priceUsd": 469.99,
-      "firstSeen": "2026-10-02"
-    },
-    {
-      "brand": "Axcel",
-      "model": "Driver Slider Sight",
-      "url": "https://xspotarchery.com/products/axcel-driver-slider-sight-picatinny-w-accustat-ii-scope-micro-3-pins-010-fiber-rh-black",
-      "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/1040331_stealth.jpg",
-      "priceUsd": 509.99,
-      "firstSeen": "2026-10-02"
-    },
-    {
-      "brand": "Axcel",
-      "model": "LANDSLYDE Carbon Pro Slider Sight",
-      "url": "https://xspotarchery.com/products/copy-of-axcel-landslyde-carbon-pro-slider-sight-with-accustat-ii-scope-micro-5-pins-019-fiber-black-sight",
-      "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/1406244_1_ba954267-d273-4fd1-aa87-9cb201105c5f.jpg",
-      "priceUsd": 549.99,
-      "firstSeen": "2026-10-02"
-    },
-    {
-      "brand": "Axcel",
       "model": "Landslyde",
       "url": "https://truball.com/products/landslyde-sight-bar-only-no-scope",
       "image": "https://cdn.shopify.com/s/files/1/2312/8661/files/ALND-P-BK_02.png",
@@ -55,14 +31,6 @@
       "url": "https://truball.com/products/rheotech-fixed-pin-sight",
       "image": "https://cdn.shopify.com/s/files/1/2312/8661/files/AXRT-P410-BK_01_1b4d8198-e193-45f5-9923-662172582fe5.png",
       "priceUsd": 352.74,
-      "firstSeen": "2026-10-02"
-    },
-    {
-      "brand": "Black Gold",
-      "model": "Competition 2A Sight (6\" Wing Truss Dovetail)",
-      "url": "https://xspotarchery.com/products/black-gold-competition-2a-sight-6-wing-truss-dovetail-left-hand",
-      "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/carousel-competition2A-01-1800_0e354453-77ea-4e67-bf35-09e6414b4108.jpg",
-      "priceUsd": 399.99,
       "firstSeen": "2026-10-02"
     },
     {
@@ -103,14 +71,6 @@
       "url": "https://www.burrisoptics.com",
       "image": null,
       "priceUsd": null,
-      "firstSeen": "2026-10-02"
-    },
-    {
-      "brand": "HHA",
-      "model": "NYTRX X3 Picatinny Sight .019",
-      "url": "https://xspotarchery.com/products/hha-nytrx-x3-picatinny-sight-rh-019-left-hand",
-      "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/1041180.jpg",
-      "priceUsd": 349.99,
       "firstSeen": "2026-10-02"
     },
     {
@@ -411,10 +371,10 @@
     },
     {
       "brand": "Trophy Ridge",
-      "model": "SWFT Duo .019",
-      "url": "https://xspotarchery.com/products/trophy-ridge-swft-duo-rh-019-black-sight",
-      "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/trophy-ridge-swft-duo-bow-sight_sight-nonreact__as430_1_1000x529_ea9dab59-0fe9-4207-b124-7aac54c15d8e.webp",
-      "priceUsd": 229.99,
+      "model": "SWFT Duo Bow Sight",
+      "url": "https://beararchery.com/products/trophy-ridge-swft-duo-bow-sight",
+      "image": "https://cdn.shopify.com/s/files/1/0488/5331/9840/files/AS430-1_V2_6ebcb8db-1588-49cc-9527-1516653b78d8.png",
+      "priceUsd": 239.99,
       "firstSeen": "2026-10-02"
     },
     {
@@ -472,14 +432,6 @@
       "image": "https://cdn.shopify.com/s/files/1/0087/4476/3450/files/uv-slider-2-windage-spacer-angled.webp",
       "priceUsd": null,
       "firstSeen": "2026-10-02"
-    },
-    {
-      "brand": "Ultraview",
-      "model": "Slider Bridgelock Sight",
-      "url": "https://xspotarchery.com/products/ultraview-uv-slider-bridgelock-sight",
-      "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/1035798.jpg",
-      "priceUsd": 375.0,
-      "firstSeen": "2026-10-02"
     }
   ],
   "targets": [
@@ -488,7 +440,7 @@
       "model": "Iron Man 30\" Personal Range Target",
       "url": "https://bigshottargets.com/products/iron-man-30-personal-range-target",
       "image": "https://cdn.shopify.com/s/files/1/0510/9458/5544/files/Iron_Man_30_Personal_Range_Target.jpg?v=1748443277",
-      "priceUsd": 229.99,
+      "priceUsd": 249.99,
       "firstSeen": "2026-10-02"
     },
     {
@@ -738,6 +690,624 @@
       "image": "https://cdn.shopify.com/s/files/1/1100/1512/products/136-02-15.jpg?v=1622824066",
       "priceUsd": 84.99,
       "firstSeen": "2026-10-02"
+    }
+  ],
+  "arrows": [
+    {
+      "brand": "Altra Arrows",
+      "model": "Altra .166 Phantom          , 12pk-350",
+      "url": "https://lancasterarchery.com/products/altra-166-phantom-premier-001-carbon-arrow-shafts-12pk-350-open-box-x1048149",
+      "image": "https://cdn.shopify.com/s/files/1/0550/8654/7130/files/1044591A_7a7e44b5-8197-4fc8-9867-a9fc2fa74cd3.jpg?v=1791230105",
+      "priceUsd": 220.99,
+      "firstSeen": "2026-10-11"
+    },
+    {
+      "brand": "Altra Arrows",
+      "model": "Altra Centrum 166     6pk    s-350",
+      "url": "https://lancasterarchery.com/products/altra-centrum-166-premier-001-6pk-fletched-arrows-350-open-box-x1047999",
+      "image": "https://cdn.shopify.com/s/files/1/0550/8654/7130/files/1035949A_9984240c-a627-4101-9609-49f77c8eedff.jpg?v=1790621048",
+      "priceUsd": 98.99,
+      "firstSeen": "2026-10-11"
+    },
+    {
+      "brand": "Altra Arrows",
+      "model": "Altra Centrum 204      s",
+      "url": "https://lancasterarchery.com/products/altra-centrum-204-premier-fletched-arrows",
+      "image": "https://cdn.shopify.com/s/files/1/0550/8654/7130/files/1039133A.jpg?v=1755539322",
+      "priceUsd": 93.49,
+      "firstSeen": "2026-10-11"
+    },
+    {
+      "brand": "Altra Arrows",
+      "model": "Altra Centrum 27",
+      "url": "https://lancasterarchery.com/products/altra-centrum-27-limited-003-carbon-arrow-shaft",
+      "image": "https://cdn.shopify.com/s/files/1/0550/8654/7130/files/1035945_label.jpg?v=1693323782",
+      "priceUsd": 169.99,
+      "firstSeen": "2026-10-11"
+    },
+    {
+      "brand": "Altra Arrows",
+      "model": "Altra Novum 246    s",
+      "url": "https://lancasterarchery.com/products/altra-novum-246-fletched-arrows",
+      "image": "https://cdn.shopify.com/s/files/1/0550/8654/7130/files/1039174A.jpg?v=1755538720",
+      "priceUsd": 64.99,
+      "firstSeen": "2026-10-11"
+    },
+    {
+      "brand": "Altra Arrows",
+      "model": "Altra Phantom 166",
+      "url": "https://lancasterarchery.com/products/altra-phantom-166-premier-arrow-shafts",
+      "image": "https://cdn.shopify.com/s/files/1/0550/8654/7130/files/1044591A.jpg?v=1773767778",
+      "priceUsd": 246.49,
+      "firstSeen": "2026-10-11"
+    },
+    {
+      "brand": "Altra Arrows",
+      "model": "Altra Phantom 166      s",
+      "url": "https://lancasterarchery.com/products/altra-phantom-166-premier-fletched-arrows",
+      "image": "https://cdn.shopify.com/s/files/1/0550/8654/7130/files/1044593A.jpg?v=1773768888",
+      "priceUsd": 159.99,
+      "firstSeen": "2026-10-11"
+    },
+    {
+      "brand": "Bearpaw",
+      "model": "Penthalon Traditional Extreme",
+      "url": "https://lancasterarchery.com/products/bearpaw-penthalon-traditional-extreme-arrow-shaft",
+      "image": "https://cdn.shopify.com/s/files/1/0550/8654/7130/files/6140105.jpg?v=1726086004",
+      "priceUsd": 179.99,
+      "firstSeen": "2026-10-11"
+    },
+    {
+      "brand": "Black Eagle",
+      "model": "FOCUS",
+      "url": "https://lancasterarchery.com/products/black-eagle-focus-carbon-arrow-shafts",
+      "image": "https://cdn.shopify.com/s/files/1/0550/8654/7130/files/1039278A.jpg?v=1756919571",
+      "priceUsd": 249.99,
+      "firstSeen": "2026-10-11"
+    },
+    {
+      "brand": "Black Eagle",
+      "model": "FOCUS      s",
+      "url": "https://lancasterarchery.com/products/black-eagle-focus-fletched-carbon-arrows",
+      "image": "https://cdn.shopify.com/s/files/1/0550/8654/7130/files/1039279A.jpg?v=1756846174",
+      "priceUsd": 139.99,
+      "firstSeen": "2026-10-11"
+    },
+    {
+      "brand": "Black Eagle",
+      "model": "Instinct Traditional Crested    s",
+      "url": "https://lancasterarchery.com/products/black-eagle-instinct-traditional-crested-fletched-arrows",
+      "image": "https://cdn.shopify.com/s/files/1/0550/8654/7130/files/8620090_green.jpg?v=1701809889",
+      "priceUsd": 85.99,
+      "firstSeen": "2026-10-11"
+    },
+    {
+      "brand": "Black Eagle",
+      "model": "PS26 Dan McCarthy Signature Series",
+      "url": "https://lancasterarchery.com/products/black-eagle-ps26-dan-mccarthy-signature-series-arrow-shaft",
+      "image": "https://cdn.shopify.com/s/files/1/0550/8654/7130/files/8620079A.jpg?v=1758565547",
+      "priceUsd": 196.99,
+      "firstSeen": "2026-10-11"
+    },
+    {
+      "brand": "Black Eagle",
+      "model": "Vintage Traditional Crested    s",
+      "url": "https://lancasterarchery.com/products/black-eagle-vintage-traditional-crested-fletched-arrows-61839",
+      "image": "https://cdn.shopify.com/s/files/1/0550/8654/7130/files/8620091A.jpg?v=1759169993",
+      "priceUsd": 92.99,
+      "firstSeen": "2026-10-11"
+    },
+    {
+      "brand": "Black Eagle",
+      "model": "Zombie Slayer",
+      "url": "https://lancasterarchery.com/products/black-eagle-zombie-slayer-fletched-arrow",
+      "image": "https://cdn.shopify.com/s/files/1/0550/8654/7130/files/8620026_arrowcrested.jpg?v=1701893768",
+      "priceUsd": 54.99,
+      "firstSeen": "2026-10-11"
+    },
+    {
+      "brand": "Carbon Express",
+      "model": "Express Adrenaline    s",
+      "url": "https://lancasterarchery.com/products/carbon-express-adrenaline-fletched-arrows",
+      "image": "https://cdn.shopify.com/s/files/1/0550/8654/7130/files/2250563A.jpg?v=1760987089",
+      "priceUsd": 42.99,
+      "firstSeen": "2026-10-11"
+    },
+    {
+      "brand": "Carbon Express",
+      "model": "Express Archers Edge",
+      "url": "https://lancasterarchery.com/products/carbon-express-archers-edge-fletched-arrow",
+      "image": "https://cdn.shopify.com/s/files/1/0550/8654/7130/products/2250640_label.jpg?v=1643224769",
+      "priceUsd": 5.83,
+      "firstSeen": "2026-10-11"
+    },
+    {
+      "brand": "Carbon Express",
+      "model": "Express Predator AIR    s",
+      "url": "https://lancasterarchery.com/products/carbon-express-predator-air-fletched-arrows",
+      "image": "https://cdn.shopify.com/s/files/1/0550/8654/7130/files/1037743A.jpg?v=1760982261",
+      "priceUsd": 39.99,
+      "firstSeen": "2026-10-11"
+    },
+    {
+      "brand": "Carbon Express",
+      "model": "Express Predator SD",
+      "url": "https://lancasterarchery.com/products/carbon-express-predator-sd-arrow-shaft",
+      "image": "https://cdn.shopify.com/s/files/1/0550/8654/7130/products/2250698_label.jpg?v=1643225446",
+      "priceUsd": 69.99,
+      "firstSeen": "2026-10-11"
+    },
+    {
+      "brand": "Carbon Express",
+      "model": "Express Sable RZ     (6-Pack)",
+      "url": "https://lancasterarchery.com/products/carbon-express-sable-rz-fletched-arrow-6-pack",
+      "image": "https://cdn.shopify.com/s/files/1/0550/8654/7130/files/1031303A.jpg?v=1760985923",
+      "priceUsd": 89.99,
+      "firstSeen": "2026-10-11"
+    },
+    {
+      "brand": "Carbon Express",
+      "model": "Express TANK 23D",
+      "url": "https://lancasterarchery.com/products/carbon-express-tank-23d-arrow-shaft",
+      "image": "https://cdn.shopify.com/s/files/1/0550/8654/7130/files/2250627A.jpg?v=1760978486",
+      "priceUsd": 179.99,
+      "firstSeen": "2026-10-11"
+    },
+    {
+      "brand": "Carbon Impact",
+      "model": "Impact Youth    s",
+      "url": "https://lancasterarchery.com/products/carbon-impact-carbon-youth-fletched-arrow",
+      "image": "https://cdn.shopify.com/s/files/1/0550/8654/7130/files/1720033_label.jpg?v=1726679804",
+      "priceUsd": 84.99,
+      "firstSeen": "2026-10-11"
+    },
+    {
+      "brand": "Carbon Tech",
+      "model": "TECH MCKINNEY II   -950 4.2 gpi (6PK)",
+      "url": "https://lancasterarchery.com/products/carbon-tech-mckinney-ii-shafts-950-4-2-gpi-6pk-open-box-x1047207",
+      "image": "https://cdn.shopify.com/s/files/1/0550/8654/7130/files/1750045_shaft_f6539292-8079-4309-9f6a-71c440338676.jpg?v=1784211341",
+      "priceUsd": 103.95,
+      "firstSeen": "2026-10-11"
+    },
+    {
+      "brand": "Carbon Tech",
+      "model": "Tech Cheetah",
+      "url": "https://lancasterarchery.com/products/carbon-tech-cheetah-arrow-shaft",
+      "image": "https://cdn.shopify.com/s/files/1/0550/8654/7130/products/1750024_500.jpg?v=1633749591",
+      "priceUsd": 129.99,
+      "firstSeen": "2026-10-11"
+    },
+    {
+      "brand": "Carbon Tech",
+      "model": "Tech Cheetah XP",
+      "url": "https://lancasterarchery.com/products/carbon-tech-cheetah-xp-arrow-shaft",
+      "image": "https://cdn.shopify.com/s/files/1/0550/8654/7130/files/1750019.jpg?v=1726088243",
+      "priceUsd": 154.0,
+      "firstSeen": "2026-10-11"
+    },
+    {
+      "brand": "Carbon Tech",
+      "model": "Tech McK Junior    s",
+      "url": "https://lancasterarchery.com/products/carbon-tech-mck-junior-fletched-arrow",
+      "image": "https://cdn.shopify.com/s/files/1/0550/8654/7130/files/1750056.jpg?v=1726679924",
+      "priceUsd": 49.99,
+      "firstSeen": "2026-10-11"
+    },
+    {
+      "brand": "Carbon Tech",
+      "model": "Tech McKinney II",
+      "url": "https://lancasterarchery.com/products/carbon-tech-mckinney-ii-arrow-shafts",
+      "image": "https://cdn.shopify.com/s/files/1/0550/8654/7130/files/1750045A.jpg?v=1788442854",
+      "priceUsd": 231.0,
+      "firstSeen": "2026-10-11"
+    },
+    {
+      "brand": "Carbon Tech",
+      "model": "Tech Whitetail",
+      "url": "https://lancasterarchery.com/products/carbon-tech-whitetail-arrow-shaft",
+      "image": "https://cdn.shopify.com/s/files/1/0550/8654/7130/products/1750010_400.jpg?v=1633749638",
+      "priceUsd": 119.99,
+      "firstSeen": "2026-10-11"
+    },
+    {
+      "brand": "Carbon Tech",
+      "model": "Tech Whitetail XP",
+      "url": "https://lancasterarchery.com/products/carbon-tech-whitetail-xp-arrow-shaft",
+      "image": "https://cdn.shopify.com/s/files/1/0550/8654/7130/products/1750009_400.jpg?v=1633749642",
+      "priceUsd": 129.99,
+      "firstSeen": "2026-10-11"
+    },
+    {
+      "brand": "Cross-X",
+      "model": "Ambition",
+      "url": "https://lancasterarchery.com/products/cross-x-ambition-arrow-shafts",
+      "image": "https://cdn.shopify.com/s/files/1/0550/8654/7130/files/1410188A.jpg?v=1763055656",
+      "priceUsd": 109.99,
+      "firstSeen": "2026-10-11"
+    },
+    {
+      "brand": "Cross-X",
+      "model": "Element    s",
+      "url": "https://lancasterarchery.com/products/cross-x-element-fletched-arrows",
+      "image": "https://cdn.shopify.com/s/files/1/0550/8654/7130/files/1410195A.jpg?v=1763059112",
+      "priceUsd": 6.67,
+      "firstSeen": "2026-10-11"
+    },
+    {
+      "brand": "Cross-X",
+      "model": "Fulmen XXL",
+      "url": "https://lancasterarchery.com/products/cross-x-fulmen-xxl-shafts",
+      "image": "https://cdn.shopify.com/s/files/1/0550/8654/7130/files/1042013A.jpg?v=1762974646",
+      "priceUsd": 119.99,
+      "firstSeen": "2026-10-11"
+    },
+    {
+      "brand": "Cross-X",
+      "model": "Hurricane Octagon    s",
+      "url": "https://lancasterarchery.com/products/cross-x-hurricane-octagon-arrows",
+      "image": "https://cdn.shopify.com/s/files/1/0550/8654/7130/files/1410201A.jpg?v=1763056089",
+      "priceUsd": 129.99,
+      "firstSeen": "2026-10-11"
+    },
+    {
+      "brand": "Cross-X",
+      "model": "Maior Cube",
+      "url": "https://lancasterarchery.com/products/crossx-maior-cube-arrow-shaft-with-nock-pin",
+      "image": "https://cdn.shopify.com/s/files/1/0550/8654/7130/files/1410204_label.jpg?v=1726170324",
+      "priceUsd": 69.99,
+      "firstSeen": "2026-10-11"
+    },
+    {
+      "brand": "Cross-X",
+      "model": "Pegasus Octagon",
+      "url": "https://lancasterarchery.com/products/cross-x-pegasus-octagon-arrow-shaft",
+      "image": "https://cdn.shopify.com/s/files/1/0550/8654/7130/files/1410237A.jpg?v=1763055501",
+      "priceUsd": 54.99,
+      "firstSeen": "2026-10-11"
+    },
+    {
+      "brand": "Dead Ringer",
+      "model": "Nutralyzer    s (6-Pack)",
+      "url": "https://lancasterarchery.com/products/dead-ringer-nutralyzer-fletched-arrows-6-pack",
+      "image": "https://cdn.shopify.com/s/files/1/0550/8654/7130/files/1031326_label.jpg?v=1692972031",
+      "priceUsd": 39.99,
+      "firstSeen": "2026-10-11"
+    },
+    {
+      "brand": "Diamond Archery",
+      "model": "Diamond Atomic 23\"    s",
+      "url": "https://lancasterarchery.com/products/diamond-atomic-23-fletched-arrows",
+      "image": "https://cdn.shopify.com/s/files/1/0550/8654/7130/files/1038582_label.jpg?v=1713208219",
+      "priceUsd": 34.99,
+      "firstSeen": "2026-10-11"
+    },
+    {
+      "brand": "Easton Archery",
+      "model": "Easton   Legacy",
+      "url": "https://lancasterarchery.com/products/easton-carbon-legacy-arrow-shaft",
+      "image": "https://cdn.shopify.com/s/files/1/0550/8654/7130/files/2070908A.jpg?v=1757964410",
+      "priceUsd": 115.99,
+      "firstSeen": "2026-10-11"
+    },
+    {
+      "brand": "Easton Archery",
+      "model": "Easton 5.0",
+      "url": "https://lancasterarchery.com/products/easton-5-0-5mm-fletched-arrows-w-halfouts",
+      "image": "https://cdn.shopify.com/s/files/1/0550/8654/7130/files/1040233A.jpg?v=1756232301",
+      "priceUsd": 111.99,
+      "firstSeen": "2026-10-11"
+    },
+    {
+      "brand": "Easton Archery",
+      "model": "Easton 6.5 Match Grade",
+      "url": "https://lancasterarchery.com/products/easton-6-5-match-grade-pro-series-shafts",
+      "image": "https://cdn.shopify.com/s/files/1/0550/8654/7130/files/1037456A.jpg?v=1756234388",
+      "priceUsd": 130.99,
+      "firstSeen": "2026-10-11"
+    },
+    {
+      "brand": "Easton Archery",
+      "model": "Easton A/C/E",
+      "url": "https://lancasterarchery.com/products/easton-a-c-e-arrow-shafts",
+      "image": "https://cdn.shopify.com/s/files/1/0550/8654/7130/files/2070082A.jpg?v=1757960464",
+      "priceUsd": 376.99,
+      "firstSeen": "2026-10-11"
+    },
+    {
+      "brand": "Easton Archery",
+      "model": "Easton Axis",
+      "url": "https://lancasterarchery.com/products/easton-axis-4mm-long-range-carbon-arrow-shafts-340-12pk-open-box-x1048164",
+      "image": "https://cdn.shopify.com/s/files/1/0550/8654/7130/files/2070906A_13c7be74-3c2a-4870-b8d0-610cfbe29344.jpg?v=1791393477",
+      "priceUsd": 176.39,
+      "firstSeen": "2026-10-11"
+    },
+    {
+      "brand": "Easton Archery",
+      "model": "Easton FMJ",
+      "url": "https://lancasterarchery.com/products/easton-fmj-5mm-fletched-arrows-w-half-outs",
+      "image": "https://cdn.shopify.com/s/files/1/0550/8654/7130/files/1036396A.jpg?v=1758572207",
+      "priceUsd": 111.99,
+      "firstSeen": "2026-10-11"
+    },
+    {
+      "brand": "Easton Archery",
+      "model": "Easton FMJ Max",
+      "url": "https://lancasterarchery.com/products/easton-fmj-max-5mm-fletched-arrows-w-halfouts",
+      "image": "https://cdn.shopify.com/s/files/1/0550/8654/7130/files/1040225A.jpg?v=1756231044",
+      "priceUsd": 115.99,
+      "firstSeen": "2026-10-11"
+    },
+    {
+      "brand": "Easton Archery",
+      "model": "Easton FMJ T-64",
+      "url": "https://lancasterarchery.com/products/easton-fmj-t-64-arrow-shaft",
+      "image": "https://cdn.shopify.com/s/files/1/0550/8654/7130/files/2070827A.jpg?v=1757961552",
+      "priceUsd": 299.99,
+      "firstSeen": "2026-10-11"
+    },
+    {
+      "brand": "Easton Archery",
+      "model": "Easton Jazz",
+      "url": "https://lancasterarchery.com/products/easton-jazz-aluminum-arrow-shaft-black",
+      "image": "https://cdn.shopify.com/s/files/1/0550/8654/7130/files/1030548A.jpg?v=1757964032",
+      "priceUsd": 47.99,
+      "firstSeen": "2026-10-11"
+    },
+    {
+      "brand": "Easton Archery",
+      "model": "Easton ProComp",
+      "url": "https://lancasterarchery.com/products/easton-procomp-arrow-shaft",
+      "image": "https://cdn.shopify.com/s/files/1/0550/8654/7130/files/2070824_label.jpg?v=1703178375",
+      "priceUsd": 249.99,
+      "firstSeen": "2026-10-11"
+    },
+    {
+      "brand": "Easton Archery",
+      "model": "Easton Sonic 6.0      \"",
+      "url": "https://lancasterarchery.com/products/easton-sonic-6-0-match-grade-shafts",
+      "image": "https://cdn.shopify.com/s/files/1/0550/8654/7130/products/1033306.jpg?v=1669413204",
+      "priceUsd": 152.99,
+      "firstSeen": "2026-10-11"
+    },
+    {
+      "brand": "Easton Archery",
+      "model": "Easton Sonic 6.0    s   \" ( )",
+      "url": "https://lancasterarchery.com/products/easton-sonic-6-0-match-grade-arrows-6-pack",
+      "image": "https://cdn.shopify.com/s/files/1/0550/8654/7130/products/1033307.jpg?v=1669413502",
+      "priceUsd": 79.99,
+      "firstSeen": "2026-10-11"
+    },
+    {
+      "brand": "Easton Archery",
+      "model": "Easton Sonic 6.0 Match Grade",
+      "url": "https://lancasterarchery.com/products/easton-sonic-6-0-match-grade-shafts-1",
+      "image": "https://cdn.shopify.com/s/files/1/0550/8654/7130/files/1037454A.jpg?v=1756234157",
+      "priceUsd": 163.99,
+      "firstSeen": "2026-10-11"
+    },
+    {
+      "brand": "Easton Archery",
+      "model": "Easton Sonic 6.0 Match Grade    s",
+      "url": "https://lancasterarchery.com/products/easton-sonic-6-0-match-grade-pro-fletched-arrows",
+      "image": "https://cdn.shopify.com/s/files/1/0550/8654/7130/files/1036406A.jpg?v=1756228963",
+      "priceUsd": 104.99,
+      "firstSeen": "2026-10-11"
+    },
+    {
+      "brand": "Easton Archery",
+      "model": "Easton SuperDrive 19",
+      "url": "https://lancasterarchery.com/products/easton-superdrive-19-arrow-shaft",
+      "image": "https://cdn.shopify.com/s/files/1/0550/8654/7130/products/2070865_label.jpg?v=1634667491",
+      "priceUsd": 149.99,
+      "firstSeen": "2026-10-11"
+    },
+    {
+      "brand": "Easton Archery",
+      "model": "Easton SuperDrive 27 Pro",
+      "url": "https://lancasterarchery.com/products/easton-superdrive-27-pro-arrow-shaft",
+      "image": "https://cdn.shopify.com/s/files/1/0550/8654/7130/files/2070808.jpg?v=1726501649",
+      "priceUsd": 199.99,
+      "firstSeen": "2026-10-11"
+    },
+    {
+      "brand": "Easton Archery",
+      "model": "Easton Superdrive Micro",
+      "url": "https://lancasterarchery.com/products/easton-superdrive-micro-shafts",
+      "image": "https://cdn.shopify.com/s/files/1/0550/8654/7130/files/1030767A.jpg?v=1757966208",
+      "priceUsd": 139.99,
+      "firstSeen": "2026-10-11"
+    },
+    {
+      "brand": "Easton Archery",
+      "model": "Easton Vector",
+      "url": "https://lancasterarchery.com/products/easton-vector-arrow-shafts",
+      "image": "https://cdn.shopify.com/s/files/1/0550/8654/7130/files/1033286A.jpg?v=1757964757",
+      "priceUsd": 70.99,
+      "firstSeen": "2026-10-11"
+    },
+    {
+      "brand": "Easton Archery",
+      "model": "Easton Vector    s",
+      "url": "https://lancasterarchery.com/products/easton-vector-fletched-arrow-2-3-vanes",
+      "image": "https://cdn.shopify.com/s/files/1/0550/8654/7130/files/1033289A.jpg?v=1758572658",
+      "priceUsd": 7.5,
+      "firstSeen": "2026-10-11"
+    },
+    {
+      "brand": "Easton Archery",
+      "model": "Easton X10   600-  (12PK)",
+      "url": "https://lancasterarchery.com/products/easton-x10-shafts-600-shaft-12pk-open-box-x1048163",
+      "image": "https://cdn.shopify.com/s/files/1/0550/8654/7130/files/2070069A_dfbcd4dc-57c6-41ac-8b2a-cb5efef54cb7.jpg?v=1791393446",
+      "priceUsd": 449.99,
+      "firstSeen": "2026-10-11"
+    },
+    {
+      "brand": "Easton Archery",
+      "model": "Easton X10™",
+      "url": "https://lancasterarchery.com/products/easton-x10™-3-2mm-parallel-pro-shafts",
+      "image": "https://cdn.shopify.com/s/files/1/0550/8654/7130/files/1043988A.jpg?v=1763392380",
+      "priceUsd": 409.99,
+      "firstSeen": "2026-10-11"
+    },
+    {
+      "brand": "Easton Archery",
+      "model": "Easton X10™ Parallel Pro",
+      "url": "https://lancasterarchery.com/products/easton-x10-parallel-pro-4mm-match-grade-fletched-arrows",
+      "image": "https://cdn.shopify.com/s/files/1/0550/8654/7130/files/1039448A.jpg?v=1756226002",
+      "priceUsd": 193.99,
+      "firstSeen": "2026-10-11"
+    },
+    {
+      "brand": "Easton Archery",
+      "model": "Easton X10™ ProTour",
+      "url": "https://lancasterarchery.com/products/easton-x10-protour-arrow-shafts",
+      "image": "https://cdn.shopify.com/s/files/1/0550/8654/7130/files/2070223A.jpg?v=1757960820",
+      "priceUsd": 449.99,
+      "firstSeen": "2026-10-11"
+    },
+    {
+      "brand": "Easton Archery",
+      "model": "Easton X23 Two-Tone",
+      "url": "https://lancasterarchery.com/products/easton-x23-two-tone-arrow-shaft",
+      "image": "https://cdn.shopify.com/s/files/1/0550/8654/7130/files/2070841A.jpg?v=1757962579",
+      "priceUsd": 155.99,
+      "firstSeen": "2026-10-11"
+    },
+    {
+      "brand": "Easton Archery",
+      "model": "Easton X7 Eclipse",
+      "url": "https://lancasterarchery.com/products/easton-x7-eclipse-black-arrow-shaft",
+      "image": "https://cdn.shopify.com/s/files/1/0550/8654/7130/files/2070134A.jpg?v=1757960639",
+      "priceUsd": 140.99,
+      "firstSeen": "2026-10-11"
+    },
+    {
+      "brand": "Easton Archery",
+      "model": "Easton XX75 Camo Hunter",
+      "url": "https://lancasterarchery.com/products/easton-xx75-camo-hunter-arrow-shaft",
+      "image": "https://cdn.shopify.com/s/files/1/0550/8654/7130/files/1046549A_1.jpg?v=1788441979",
+      "priceUsd": 69.99,
+      "firstSeen": "2026-10-11"
+    },
+    {
+      "brand": "Easton Archery",
+      "model": "Easton XX75 Gamegetter",
+      "url": "https://lancasterarchery.com/products/easton-xx75-gamegetter-arrow-shaft",
+      "image": "https://cdn.shopify.com/s/files/1/0550/8654/7130/files/2070230A.jpg?v=1757961015",
+      "priceUsd": 44.99,
+      "firstSeen": "2026-10-11"
+    },
+    {
+      "brand": "Easton Archery",
+      "model": "Easton XX75 Genesis",
+      "url": "https://lancasterarchery.com/products/easton-xx75-genesis-arrow-shaft",
+      "image": "https://cdn.shopify.com/s/files/1/0550/8654/7130/files/2070361A_green.jpg?v=1757961271",
+      "priceUsd": 50.99,
+      "firstSeen": "2026-10-11"
+    },
+    {
+      "brand": "Easton Archery",
+      "model": "Easton XX75 Platinum Plus",
+      "url": "https://lancasterarchery.com/products/easton-xx75-platinum-plus-arrow-shaft",
+      "image": "https://cdn.shopify.com/s/files/1/0550/8654/7130/files/2070029A.jpg?v=1757960104",
+      "priceUsd": 79.99,
+      "firstSeen": "2026-10-11"
+    },
+    {
+      "brand": "G5 Outdoors",
+      "model": "G5 Mark 244",
+      "url": "https://lancasterarchery.com/products/g5-mark-244-carbon-arrow-shaft",
+      "image": "https://cdn.shopify.com/s/files/1/0550/8654/7130/files/1034208_label.jpg?v=1726507408",
+      "priceUsd": 99.95,
+      "firstSeen": "2026-10-11"
+    },
+    {
+      "brand": "G5 Outdoors",
+      "model": "G5 Mark 244      s ( )",
+      "url": "https://lancasterarchery.com/products/g5-mark-244-fletched-carbon-arrows-6-pack",
+      "image": "https://cdn.shopify.com/s/files/1/0550/8654/7130/files/1034209_label.jpg?v=1726681704",
+      "priceUsd": 54.99,
+      "firstSeen": "2026-10-11"
+    },
+    {
+      "brand": "Gold Tip",
+      "model": "RTS",
+      "url": "https://lancasterarchery.com/products/gold-tip-rts-fletched-arrow",
+      "image": "https://cdn.shopify.com/s/files/1/0550/8654/7130/files/2320418.jpg?v=1726682879",
+      "priceUsd": 34.99,
+      "firstSeen": "2026-10-11"
+    },
+    {
+      "brand": "Gold Tip",
+      "model": "Ultralight",
+      "url": "https://lancasterarchery.com/products/gold-tip-ultralight-arrow-shaft-42965",
+      "image": "https://cdn.shopify.com/s/files/1/0550/8654/7130/products/2320268.jpg?v=1633756667",
+      "priceUsd": 79.99,
+      "firstSeen": "2026-10-11"
+    },
+    {
+      "brand": "Gold Tip",
+      "model": "Ultralight Entrada",
+      "url": "https://lancasterarchery.com/products/gold-tip-ultralight-entrada-arrow-shaft-42972",
+      "image": "https://cdn.shopify.com/s/files/1/0550/8654/7130/products/2320269.jpg?v=1633756686",
+      "priceUsd": 69.99,
+      "firstSeen": "2026-10-11"
+    },
+    {
+      "brand": "TAC Vanes",
+      "model": "TAC LRP 3    s ( )",
+      "url": "https://lancasterarchery.com/products/tac-lrp-3-fletched-arrows-6-pack",
+      "image": "https://cdn.shopify.com/s/files/1/0550/8654/7130/files/1034203_label_0e960dbf-2570-4835-8cec-38aa49d2dc33.jpg?v=1726668700",
+      "priceUsd": 219.99,
+      "firstSeen": "2026-10-11"
+    },
+    {
+      "brand": "UltraView Archery",
+      "model": "ULTRAVIEW UV 1K    s",
+      "url": "https://lancasterarchery.com/products/ultraview-uv-1k-fletched-arrows",
+      "image": "https://cdn.shopify.com/s/files/1/0550/8654/7130/files/1039247_arrow.jpg?v=1722025601",
+      "priceUsd": 169.99,
+      "firstSeen": "2026-10-11"
+    },
+    {
+      "brand": "UltraView Archery",
+      "model": "ULTRAVIEW UV 1K Hunting",
+      "url": "https://lancasterarchery.com/products/ultraview-uv-1k-hunting-shafts",
+      "image": "https://cdn.shopify.com/s/files/1/0550/8654/7130/files/1044616_822c80ff-fd37-4931-b79d-96af335212a6.jpg?v=1763753204",
+      "priceUsd": 249.99,
+      "firstSeen": "2026-10-11"
+    },
+    {
+      "brand": "Victory",
+      "model": "Ares / Venus Youth",
+      "url": "https://lancasterarchery.com/products/victory-ares-venus-youth-fletched-arrow",
+      "image": "https://cdn.shopify.com/s/files/1/0550/8654/7130/files/6180081A_ares-blue.jpg?v=1760455143",
+      "priceUsd": 9.17,
+      "firstSeen": "2026-10-11"
+    },
+    {
+      "brand": "Victory",
+      "model": "VF TKO Elite V1",
+      "url": "https://lancasterarchery.com/products/victory-vf-tko-elite-v1-arrow-shaft",
+      "image": "https://cdn.shopify.com/s/files/1/0550/8654/7130/files/6180213A.jpg?v=1759763579",
+      "priceUsd": 159.99,
+      "firstSeen": "2026-10-11"
+    },
+    {
+      "brand": "Victory",
+      "model": "VF TKO Gamer V3",
+      "url": "https://lancasterarchery.com/products/victory-vf-tko-gamer-v3-arrow-shaft",
+      "image": "https://cdn.shopify.com/s/files/1/0550/8654/7130/files/6180214A.jpg?v=1759763903",
+      "priceUsd": 134.99,
+      "firstSeen": "2026-10-11"
+    },
+    {
+      "brand": "Victory",
+      "model": "VF TKO Sport V6",
+      "url": "https://lancasterarchery.com/products/victory-vf-tko-sport-v6-arrow-shaft",
+      "image": "https://cdn.shopify.com/s/files/1/0550/8654/7130/files/6180215A.jpg?v=1759764226",
+      "priceUsd": 109.99,
+      "firstSeen": "2026-10-11"
     }
   ]
 }
