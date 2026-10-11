@@ -115,7 +115,7 @@
     "phone": "+16028818165",
     "email": "anchorpointarcheryaz@gmail.com",
     "website": "",
-    "programs": "",
+    "programs": "indoor range, outdoor field range, 3d range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:anchor point archery az|15836 w eddie albert way goodyear arizona 85338"
   },
@@ -240,6 +240,16 @@
     "externalRef": "nfaa:archery and bow club|3690 bramlett church road gray court south carolina 29645"
   },
   {
+    "name": "Arizona Archery Club, LLC",
+    "address": "1115 W. Deer Valley Road #1, Phoenix, Arizona, United States of America, 85027",
+    "phone": "+16232664647",
+    "email": "arizonaarcheryc@gmail.com",
+    "website": "http://www.azarcheryclub.com",
+    "programs": "Junior Olympic Archery Development (JOAD)",
+    "reviewStatus": "approved",
+    "externalRef": "usarchery:arizona archery club llc|1115 w deer valley road 1 phoenix arizona united states of america 85027"
+  },
+  {
     "name": "Arizona Christian University Archery",
     "address": "1115 W. Deer Valley Rd, Phoenix, Arizona, United States of America, 85027",
     "phone": "+16026942841",
@@ -295,9 +305,19 @@
     "phone": "+18066545919",
     "email": "kelvin856@gmail.com",
     "website": "",
-    "programs": "indoor range",
+    "programs": "indoor range, outdoor range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:armstrong county 4h shooting sports|901 hurley ave claude texas 79019"
+  },
+  {
+    "name": "Arrow Dynamic Archery",
+    "address": "1070 251st Street, Harbor City, California, United States of America, 90710",
+    "phone": "+14245334807",
+    "email": "ArrowDynamicArcheryClub@gmail.com",
+    "website": "http://www.arrowdynamicarchery.com",
+    "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program",
+    "reviewStatus": "approved",
+    "externalRef": "usarchery:arrow dynamic archery|1070 251st street harbor city california united states of america 90710"
   },
   {
     "name": "Arrow Minded Outdoors",
@@ -308,6 +328,16 @@
     "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program, 3D Archery, Field Archery",
     "reviewStatus": "approved",
     "externalRef": "usarchery:arrow minded outdoors|5835 fm1863 bulverde texas united states of america 78163"
+  },
+  {
+    "name": "ArrowDynamiq Archery",
+    "address": "Texas Archery Academy, 600 Accent Dr B, Plano, Texas, United States of America, 75075",
+    "phone": "+16175015597",
+    "email": "neil@flemingarchery.com",
+    "website": "http://flemingarchery.com",
+    "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program",
+    "reviewStatus": "approved",
+    "externalRef": "usarchery:arrowdynamiq archery|texas archery academy 600 accent dr b plano texas united states of america 75075"
   },
   {
     "name": "Arrowhead Archery",
@@ -328,16 +358,6 @@
     "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program, 3D Archery, Field Archery, Olympic Archery in the Schools",
     "reviewStatus": "approved",
     "externalRef": "usarchery:arrowhead archery academy|2201 oak hills trail carlton minnesota united states of america 55718"
-  },
-  {
-    "name": "Arrowstotle Archery",
-    "address": "Texas Archery Academy, 600 Accent Dr B, Plano, Texas, United States of America, 75075",
-    "phone": "6175015597",
-    "email": "neil@flemingarchery.com",
-    "website": "http://flemingarchery.com",
-    "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program",
-    "reviewStatus": "approved",
-    "externalRef": "usarchery:arrowstotle archery|texas archery academy 600 accent dr b plano texas united states of america 75075"
   },
   {
     "name": "Arts Archers",
@@ -451,13 +471,13 @@
   },
   {
     "name": "Average Joes JOAD",
-    "address": "1285 114th Ave NW, 100, Coon Rapids, Minnesota, United States of America, 55448",
-    "phone": "+1 763-208-5717",
+    "address": "1285 114th Ave NW, Coon Rapids, Minnesota, 55448",
+    "phone": "",
     "email": "averagejoesjoad@gmail.com",
-    "website": "http://www.averagejoesjoad.org",
-    "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program",
+    "website": "",
+    "programs": "indoor range",
     "reviewStatus": "approved",
-    "externalRef": "usarchery:average joes joad|1285 114th ave nw 100 coon rapids minnesota united states of america 55448"
+    "externalRef": "nfaa:average joes joad|1285 114th ave nw coon rapids minnesota 55448"
   },
   {
     "name": "Avery Superstore",
@@ -650,6 +670,16 @@
     "externalRef": "usarchery:bear creek xtreme|3350 s knox ct englewood colorado united states of america 80110"
   },
   {
+    "name": "Bear River Archers",
+    "address": "85th & Sandridge Road, Long Beach, Washington, 98631",
+    "phone": "+15733086952",
+    "email": "bearriverarcherslbwa@gmail.com",
+    "website": "",
+    "programs": "3d range, outdoor range, outdoor field range, 3d range",
+    "reviewStatus": "approved",
+    "externalRef": "nfaa:bear river archers|85th sandridge road long beach washington 98631"
+  },
+  {
     "name": "Bear State Bowhunters",
     "address": "23938 Del Amo Road, Ramona, California, 92065",
     "phone": "+18589678600",
@@ -684,7 +714,7 @@
     "address": "227 Rothart Dr., New Brighton, Pennsylvania, United States of America, 15066",
     "phone": "(412) 680-0007",
     "email": "bvajoad@gmail.com",
-    "website": "http://beavervalleyarchers.com",
+    "website": "",
     "programs": "Junior Olympic Archery Development (JOAD)",
     "reviewStatus": "approved",
     "externalRef": "usarchery:beaver valley archers|227 rothart dr new brighton pennsylvania united states of america 15066"
@@ -855,7 +885,7 @@
     "phone": "",
     "email": "",
     "website": "",
-    "programs": "outdoor field range",
+    "programs": "",
     "reviewStatus": "approved",
     "externalRef": "nfaa:black sheep bowmen|po box 6075 jber alaska 99506"
   },
@@ -1480,6 +1510,16 @@
     "externalRef": "nfaa:central florida archers|5990 hwy 17 south ft meade florida 00000"
   },
   {
+    "name": "Central Florida Archery",
+    "address": "7951 Sully Drive, Orlando, Florida, United States of America, 32818",
+    "phone": "+14074850498",
+    "email": "customer.service@centralfloridaarchery.net",
+    "website": "http://www.centralfloridaarchery.net",
+    "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program, 3D Archery, Field Archery",
+    "reviewStatus": "approved",
+    "externalRef": "usarchery:central florida archery|7951 sully drive orlando florida united states of america 32818"
+  },
+  {
     "name": "Central Kentucky JOAD",
     "address": "Georgetown, Georgetown, Kentucky, United States of America, 40324",
     "phone": "",
@@ -2095,7 +2135,7 @@
     "phone": "+15635056365",
     "email": "president@davenportvalleyarchers.com",
     "website": "http://davenportvalleyarchers.com",
-    "programs": "outdoor field range",
+    "programs": "",
     "reviewStatus": "approved",
     "externalRef": "nfaa:davenport valley archers|15535 270th street long grove iowa 52756"
   },
@@ -2401,13 +2441,13 @@
   },
   {
     "name": "El Dorado Hills Bowmen",
-    "address": "3321 El Dorado Hills Blvd, El Dorado Hills, California, United States of America, 95762",
+    "address": "3321 El Dorado Hills Blvd, El Dorado Hills, California, 95762",
     "phone": "+19258189915",
     "email": "president@eldoradohillsbowmen.com",
-    "website": "http://www.eldoradohillsbowmen.com/",
-    "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program, 3D Archery, Field Archery",
+    "website": "",
+    "programs": "outdoor field range, 3d range",
     "reviewStatus": "approved",
-    "externalRef": "usarchery:el dorado hills bowmen|3321 el dorado hills blvd el dorado hills california united states of america 95762"
+    "externalRef": "nfaa:el dorado hills bowmen|3321 el dorado hills blvd el dorado hills california 95762"
   },
   {
     "name": "Elite Archery Academy",
@@ -2518,6 +2558,16 @@
     "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program",
     "reviewStatus": "approved",
     "externalRef": "usarchery:every arrow counts archery|1100 walton mill rd madison georgia united states of america 30650"
+  },
+  {
+    "name": "Explore Archery - Appleton",
+    "address": "3009 N Birch, La Grande, Oregon, United States of America, 97850",
+    "phone": "+1 5419634671",
+    "email": "alpinearcheryllc@gmail.com",
+    "website": "",
+    "programs": "",
+    "reviewStatus": "approved",
+    "externalRef": "usarchery:explore archery appleton|3009 n birch la grande oregon united states of america 97850"
   },
   {
     "name": "Explore Archery - Nickson",
@@ -2915,7 +2965,7 @@
     "phone": "",
     "email": "",
     "website": "",
-    "programs": "indoor range",
+    "programs": "",
     "reviewStatus": "approved",
     "externalRef": "nfaa:golden arrow archery club inc|11212 n 72nd st omaha nebraska 68138"
   },
@@ -3210,16 +3260,6 @@
     "externalRef": "nfaa:hells canyon archers inc|5100 hells gate rd lewiston idaho 83501"
   },
   {
-    "name": "Herb N Chick Archery Club",
-    "address": "8613 Oglesby Avenue, Jacksonville, Florida, United States of America, 32220",
-    "phone": "+1 9044131514",
-    "email": "admin@herbnchick.com",
-    "website": "http://HerbNChick.com",
-    "programs": "",
-    "reviewStatus": "approved",
-    "externalRef": "usarchery:herb n chick archery club|8613 oglesby avenue jacksonville florida united states of america 32220"
-  },
-  {
     "name": "Heritage Archery Academy",
     "address": "1886 Melvin Hill Rd, Phelps, New York, 14532",
     "phone": "+13153180212",
@@ -3378,16 +3418,6 @@
     "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program",
     "reviewStatus": "approved",
     "externalRef": "usarchery:houston archery lessons joad|11522 katy fwy houston texas united states of america 77043"
-  },
-  {
-    "name": "How 'Bout Dat Archery",
-    "address": "400 South Vermont Ave, Oklahoma City, Oklahoma, United States of America, 73108",
-    "phone": "+1 405-642-4567",
-    "email": "hbdarchery@gmail.com",
-    "website": "",
-    "programs": "Junior Olympic Archery Development (JOAD)",
-    "reviewStatus": "approved",
-    "externalRef": "usarchery:how bout dat archery|400 south vermont ave oklahoma city oklahoma united states of america 73108"
   },
   {
     "name": "Huaco Bowmen Archery Club",
@@ -3630,6 +3660,16 @@
     "externalRef": "usarchery:jc archery|7 sherman ave floor 2 jersey city new jersey united states of america 07307"
   },
   {
+    "name": "James Madison University- Archery",
+    "address": "JMU Recreation, MSC 3901, Harrisonburg, Virginia, United States of America, 22807",
+    "phone": "+15403248490",
+    "email": "jmuarcheryclub@gmail.com",
+    "website": "http://www.jmuarchery.com",
+    "programs": "",
+    "reviewStatus": "approved",
+    "externalRef": "usarchery:james madison university archery|jmu recreation msc 3901 harrisonburg virginia united states of america 22807"
+  },
+  {
     "name": "Jay County  Bitteridge Archers",
     "address": "6243 S 325 W, PORTLAND, Indiana, 47371-",
     "phone": "+17652094260",
@@ -3678,6 +3718,16 @@
     "programs": "Junior Olympic Archery Development (JOAD)",
     "reviewStatus": "approved",
     "externalRef": "usarchery:k archery club|3450 bentwood dr cumming georgia united states of america 30041"
+  },
+  {
+    "name": "KBH Archers Inc",
+    "address": "3680 NE Old Belfair Hwy, Belfair, Washington, 98528",
+    "phone": "",
+    "email": "",
+    "website": "",
+    "programs": "outdoor field range, indoor range",
+    "reviewStatus": "approved",
+    "externalRef": "nfaa:kbh archers inc|3680 ne old belfair hwy belfair washington 98528"
   },
   {
     "name": "KSL Archery Academy",
@@ -3748,6 +3798,16 @@
     "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program, 3D Archery, Field Archery",
     "reviewStatus": "approved",
     "externalRef": "usarchery:kenosha bowmen|15211 75th street bristol wisconsin united states of america 53104"
+  },
+  {
+    "name": "Kentucky Christian University Archery",
+    "address": "100 Academic Parkway, Grayson, Kentucky, United States of America, 41143",
+    "phone": "+1 606 922 5562",
+    "email": "archery@kcu.edu",
+    "website": "https://www.kcuknights.com/sports/archery/index",
+    "programs": "",
+    "reviewStatus": "approved",
+    "externalRef": "usarchery:kentucky christian university archery|100 academic parkway grayson kentucky united states of america 41143"
   },
   {
     "name": "Kentucky Elite Archery Academy",
@@ -3868,6 +3928,16 @@
     "programs": "Junior Olympic Archery Development (JOAD)",
     "reviewStatus": "approved",
     "externalRef": "usarchery:leo s joad|55 bridge st west falls new york united states of america 14170"
+  },
+  {
+    "name": "LHYA-Arch City Archers",
+    "address": ", United States of America",
+    "phone": "+16363590771",
+    "email": "coachjess@lhyarchery.com",
+    "website": "http://www.lhyarchery.com",
+    "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program",
+    "reviewStatus": "approved",
+    "externalRef": "usarchery:lhya arch city archers|united states of america"
   },
   {
     "name": "La Salle Sportsman",
@@ -4620,16 +4690,6 @@
     "externalRef": "usarchery:midway university|575 st johns rd frankfort kentucky united states of america 40601"
   },
   {
-    "name": "Midwest Mavericks Archery",
-    "address": "551 W County Road 1100 North, Farmersburg, Indiana, United States of America, 47850",
-    "phone": "+1 8122499368",
-    "email": "jasonelambert2012@gmail.com",
-    "website": "",
-    "programs": "Junior Olympic Archery Development (JOAD)",
-    "reviewStatus": "approved",
-    "externalRef": "usarchery:midwest mavericks archery|551 w county road 1100 north farmersburg indiana united states of america 47850"
-  },
-  {
     "name": "Milbank Valley Archers",
     "address": "204 EAST RAILWAY AVE, MILBANK, South Dakota, 57252",
     "phone": "",
@@ -4990,16 +5050,6 @@
     "externalRef": "nfaa:next step archery|22313 70th ave w suite u1a mountlake terrace washington 98043"
   },
   {
-    "name": "Next Step Archery JOAD/AAP",
-    "address": "22313 70th Avenue W., Mountlake Terrace, Washington, United States of America, 98043",
-    "phone": "+1 4259772770",
-    "email": "coaches@nextsteparchery.org",
-    "website": "http://www.NextStepArchery.org",
-    "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program",
-    "reviewStatus": "approved",
-    "externalRef": "usarchery:next step archery joad aap|22313 70th avenue w mountlake terrace washington united states of america 98043"
-  },
-  {
     "name": "Nishu Bowmen",
     "address": "PO BOX 509, BISMARCK, North Dakota, 58502-0509",
     "phone": "",
@@ -5182,7 +5232,7 @@
   {
     "name": "Nova Archery Club",
     "address": "3505 Carlin Springs Rd, Falls Church, Virginia, United States of America, 22041",
-    "phone": "+1 571-239-7326",
+    "phone": "+15712397326",
     "email": "donna@novaarcheryclub.com",
     "website": "https://novafencingclub.com",
     "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program",
@@ -5198,16 +5248,6 @@
     "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program",
     "reviewStatus": "approved",
     "externalRef": "usarchery:oasis archery|2294 baldwin lane stockton california united states of america 95215"
-  },
-  {
-    "name": "OC Archers",
-    "address": "25782 Obrero Dr, Unit-B, Mission Viejo, California, United States of America, 92691",
-    "phone": "+1 949-916-6855",
-    "email": "info@ocarchery.com",
-    "website": "http://ocarchery.com",
-    "programs": "Adult Archery Program",
-    "reviewStatus": "approved",
-    "externalRef": "usarchery:oc archers|25782 obrero dr unit b mission viejo california united states of america 92691"
   },
   {
     "name": "OTOW Archery Club, Inc.",
@@ -5775,7 +5815,7 @@
     "phone": "",
     "email": "pinehillarchery@gmail.com",
     "website": "",
-    "programs": "outdoor field range, indoor range, outdoor range, 3d range",
+    "programs": "",
     "reviewStatus": "approved",
     "externalRef": "nfaa:pine hill archery club|167 cartersburg rd danville indiana 46122"
   },
@@ -5998,26 +6038,6 @@
     "programs": "",
     "reviewStatus": "approved",
     "externalRef": "usarchery:purdue archery|1545 s river rd west lafayette indiana united states of america 47906"
-  },
-  {
-    "name": "Quest Archery",
-    "address": "589 Park Ave, Unit 1&2, Worcester, Massachusetts, United States of America, 01603",
-    "phone": "+17744936090",
-    "email": "amanda@questarchery.club",
-    "website": "http://www.facebook.com/questarchery",
-    "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program",
-    "reviewStatus": "approved",
-    "externalRef": "usarchery:quest archery|589 park ave unit 1 2 worcester massachusetts united states of america 01603"
-  },
-  {
-    "name": "Quest archery LLC",
-    "address": "589 Park Avenue, Worcester, Massachusetts, 01603",
-    "phone": "7742721412",
-    "email": "amanda@questarchery.club",
-    "website": "",
-    "programs": "indoor range",
-    "reviewStatus": "approved",
-    "externalRef": "nfaa:quest archery llc|589 park avenue worcester massachusetts 01603"
   },
   {
     "name": "RIT Club Archery",
@@ -6565,7 +6585,7 @@
     "phone": "+12023296613",
     "email": "santiagoarchers@gmail.com",
     "website": "",
-    "programs": "3d range",
+    "programs": "outdoor field range, indoor range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:santiago park archers|2535 n main street santa ana california 92706"
   },
@@ -6672,7 +6692,7 @@
   {
     "name": "Shasta Mountain Archers",
     "address": "WA Barr Road, MOUNT SHASTA, California, 96067",
-    "phone": "+1530",
+    "phone": "",
     "email": "shastamountainarchers@gmail.com",
     "website": "",
     "programs": "3d range, 3d range",
@@ -6870,16 +6890,6 @@
     "externalRef": "nfaa:south bay archery lessons dba california indoor archers|1 south bay archery lessons 1 california indoor archers 1 1300 kingsdale ave 1 redondo beach california 1 90278"
   },
   {
-    "name": "South Florida Kyudo Club",
-    "address": "5150 NW 109th Ave, Suite 4, SUNRISE, Florida, United States of America, 33351",
-    "phone": "+1 7542493160",
-    "email": "jade.kyudo@gmail.com",
-    "website": "http://www.southflkyudo.org",
-    "programs": "Adult Archery Program",
-    "reviewStatus": "approved",
-    "externalRef": "usarchery:south florida kyudo club|5150 nw 109th ave suite 4 sunrise florida united states of america 33351"
-  },
-  {
     "name": "South Jersey Archery Explorers",
     "address": "203 Fairview Ave, Voorhees, New Jersey, United States of America, 08043",
     "phone": "856-630-8600",
@@ -6928,6 +6938,16 @@
     "programs": "Junior Olympic Archery Development (JOAD)",
     "reviewStatus": "approved",
     "externalRef": "usarchery:southern draw joad|660 beaver dam rd perkinston mississippi united states of america 39573"
+  },
+  {
+    "name": "Southern Illinois University Carbondale Archery Club",
+    "address": ", United States of America",
+    "phone": "+12176227727",
+    "email": "SIUCarcherycoach@hotmail.com",
+    "website": "",
+    "programs": "",
+    "reviewStatus": "approved",
+    "externalRef": "usarchery:southern illinois university carbondale archery club|united states of america"
   },
   {
     "name": "Southern Maryland Archers (SMA) Club",
@@ -7140,6 +7160,16 @@
     "externalRef": "nfaa:strictly archery|401 earl rd shorewood illinois 60404"
   },
   {
+    "name": "Strong and Courageous Adventures",
+    "address": ", United States of America",
+    "phone": "+1 3607013470",
+    "email": "joshua19adventures@gmail.com",
+    "website": "http://www.joshua19adventures.com",
+    "programs": "",
+    "reviewStatus": "approved",
+    "externalRef": "usarchery:strong and courageous adventures|united states of america"
+  },
+  {
     "name": "StudioX Archery",
     "address": "McClellan Ranch Preserve, Cupertino, California, United States of America, 95014",
     "phone": "(408) 4161130",
@@ -7158,6 +7188,16 @@
     "programs": "Junior Olympic Archery Development (JOAD)",
     "reviewStatus": "approved",
     "externalRef": "usarchery:suffolk archers|86 pidgeon hill road huntington station new york united states of america 11746"
+  },
+  {
+    "name": "Summit Archery",
+    "address": "1580 E 2800 S, Heber City, Utah, United States of America, 84032",
+    "phone": "+14356401713",
+    "email": "pyperarchery@yahoo.com",
+    "website": "",
+    "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program",
+    "reviewStatus": "approved",
+    "externalRef": "usarchery:summit archery|1580 e 2800 s heber city utah united states of america 84032"
   },
   {
     "name": "Sunbury Archery",
@@ -8174,7 +8214,7 @@
     "address": ", United States of America",
     "phone": "+16099024370",
     "email": "eloi@bygeorgegroup.com",
-    "website": "http://None",
+    "website": "",
     "programs": "Adult Archery Program",
     "reviewStatus": "approved",
     "externalRef": "usarchery:virgin islands archery federation|united states of america"
@@ -8208,16 +8248,6 @@
     "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program, 3D Archery, Field Archery",
     "reviewStatus": "approved",
     "externalRef": "usarchery:vista shooters archery|brown field sierra vista arizona united states of america 85635"
-  },
-  {
-    "name": "VuDu Archery NYC",
-    "address": "2311 Lacombe Ave, PH, Bronx, New York, United States of America, 10473",
-    "phone": "+1 917-704-9947",
-    "email": "VuDuArchery@hotmail.com",
-    "website": "",
-    "programs": "",
-    "reviewStatus": "approved",
-    "externalRef": "usarchery:vudu archery nyc|2311 lacombe ave ph bronx new york united states of america 10473"
   },
   {
     "name": "WA-Explorer",
@@ -8398,16 +8428,6 @@
     "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program",
     "reviewStatus": "approved",
     "externalRef": "usarchery:way of the sword archery|21 governor street ridgefield connecticut united states of america 06877"
-  },
-  {
-    "name": "Wellesley College - Archery",
-    "address": "21 Wellesley College Rd, Wellesley, Massachusetts, United States of America, 02481",
-    "phone": "+13479772654",
-    "email": "wellesley_archery@wellesley.edu",
-    "website": "",
-    "programs": "",
-    "reviewStatus": "approved",
-    "externalRef": "usarchery:wellesley college archery|21 wellesley college rd wellesley massachusetts united states of america 02481"
   },
   {
     "name": "West Allis Bowmen Inc",
@@ -8680,6 +8700,16 @@
     "externalRef": "nfaa:wolf ridge archery|4300 camp chestnut ridge rd efland north carolina 27243"
   },
   {
+    "name": "Wolf Ridge Archery Club",
+    "address": "4300 Camp Chestnut Ridge Road, Efland, North Carolina, United States of America, 27243",
+    "phone": "919-423-1061",
+    "email": "archerycoach@wolfridgearchery.org",
+    "website": "http://www.wolfridgearchery.org",
+    "programs": "Junior Olympic Archery Development (JOAD)",
+    "reviewStatus": "approved",
+    "externalRef": "usarchery:wolf ridge archery club|4300 camp chestnut ridge road efland north carolina united states of america 27243"
+  },
+  {
     "name": "Wolves Archery Academy",
     "address": "8310 Dorchester Road, North Charleston, South Carolina, United States of America, 29418",
     "phone": "+18435520624",
@@ -8838,6 +8868,16 @@
     "programs": "3d range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:yuba sutter bowhunters sutter ca|770 n walton avenue yuba city california 95993"
+  },
+  {
+    "name": "Yuba-Sutter Archery Assoc",
+    "address": "1919 B. Street, MJUSD, Marysville, California, United States of America, 95901",
+    "phone": "530-749-6196",
+    "email": "pbennett@mjusd.k12.ca.us",
+    "website": "",
+    "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program",
+    "reviewStatus": "approved",
+    "externalRef": "usarchery:yuba sutter archery assoc|1919 b street mjusd marysville california united states of america 95901"
   },
   {
     "name": "Yuba-Sutter Archery Association - Marysville, CA",
