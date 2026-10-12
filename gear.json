@@ -112,6 +112,17 @@
   {
     "category": "mount",
     "brand": "Bowtech",
+    "model": "CenterMass Back Bar Mount Intergrated",
+    "url": "https://xspotarchery.com/products/copy-of-bowtech-centermass-back-bar-mount-intergrated",
+    "priceUsd": 119.95,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/CenterMass-QuickDisconnect-Angle.jpg"
+  },
+  {
+    "category": "mount",
+    "brand": "Bowtech",
     "model": "CenterMass Quick Disconnect",
     "url": "https://bowtecharchery.com/accessories/centermass-quick-disconnect/",
     "priceUsd": 34.95,
@@ -141,6 +152,72 @@
     "tapeWidthIn": null,
     "weightG": null,
     "image": "https://cdn.shopify.com/s/files/1/0551/6482/9781/products/cbe_torx_quick-disconnect-standard.png"
+  },
+  {
+    "category": "mount",
+    "brand": "Conquest Archery",
+    "model": "Moab Rear Offset Braket Right V Lock",
+    "url": "https://xspotarchery.com/products/conquest-moab-rear-offset-braket-right-v-lock",
+    "priceUsd": 89.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/conquest-archery-moab-offset-right-handed-back-bracket-v-lock.jpg"
+  },
+  {
+    "category": "mount",
+    "brand": "Conquest Archery",
+    "model": "MOAB V-Bar Bracket V-Lock Rear",
+    "url": "https://xspotarchery.com/products/conquest-moab-v-bar-bracket-v-lock-rear",
+    "priceUsd": 162.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/MOAB_V-Bar_Bracket_V-Lock01__32258.jpg"
+  },
+  {
+    "category": "mount",
+    "brand": "Conquest Archery",
+    "model": "Quick Disconnect 10 Degree-.850in.",
+    "url": "https://xspotarchery.com/products/conquest-quick-disconnect-10-degree-850in",
+    "priceUsd": 24.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/Quick_Disconnect_Straight01__36508_51c6c6b9-adbe-4ae5-a041-3fc8f83963af.webp"
+  },
+  {
+    "category": "mount",
+    "brand": "Conquest Archery",
+    "model": "Quick Disconnect Straight",
+    "url": "https://xspotarchery.com/products/conquest-quick-disconnect-straight-850in",
+    "priceUsd": 25.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/Quick_Disconnect_Straight01__36508.webp"
+  },
+  {
+    "category": "mount",
+    "brand": "Elite",
+    "model": "Archery Sidekick Stabilizer Mount",
+    "url": "https://xspotarchery.com/products/elite-archery-sidekick-stabilizer-mount",
+    "priceUsd": 99.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/0051_AC-00059sidekickmount_768x768_8c184873-1977-4610-bef0-3cf6498d86aa.webp"
+  },
+  {
+    "category": "mount",
+    "brand": "Elite",
+    "model": "CARBON STABILIZER KIT 8/11 Mountain Tan",
+    "url": "https://xspotarchery.com/products/elite-carbon-stabilizer-kit-8-11-mountain-tan",
+    "priceUsd": 239.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/elite-carbon-stabilizer-kit-mountaintan_768x768_dd1e1f50-cd90-44eb-86a0-749e3977c557.webp"
   },
   {
     "category": "mount",
@@ -337,7 +414,7 @@
   },
   {
     "category": "peep",
-    "brand": "October Mountain Products",
+    "brand": "October Mountain",
     "model": "Peep",
     "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/string-accessories/ultraview-peep",
     "priceUsd": 6.49,
@@ -348,7 +425,7 @@
   },
   {
     "category": "peep",
-    "brand": "October Mountain Products",
+    "brand": "October Mountain",
     "model": "Peep Aligner Clip",
     "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/string-accessories/peep-aligner-clip",
     "priceUsd": 3.21,
@@ -359,7 +436,7 @@
   },
   {
     "category": "peep",
-    "brand": "October Mountain Products",
+    "brand": "October Mountain",
     "model": "TriView Peep",
     "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/string-accessories/triview-peep",
     "priceUsd": 5.99,
@@ -370,7 +447,7 @@
   },
   {
     "category": "peep",
-    "brand": "October Mountain Products",
+    "brand": "October Mountain",
     "model": "TruTurn Peep",
     "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/string-accessories/truturn-peep",
     "priceUsd": 6.69,
@@ -475,6 +552,28 @@
   {
     "category": "quiver",
     "brand": "Bear",
+    "model": "KODIAK QUICK DISCONNECT TRADITIONAL QUIVER Black",
+    "url": "https://xspotarchery.com/products/bear-kodiak-quick-disconnect-traditional-quiver",
+    "priceUsd": 99.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/1004322_1.jpg"
+  },
+  {
+    "category": "quiver",
+    "brand": "Bear",
+    "model": "Kodiak Quick Disconnect Traditional Quiver Brown",
+    "url": "https://xspotarchery.com/products/bear-kodiak-quick-disconnect-traditional-quiver-brown",
+    "priceUsd": 119.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/bear-archery-leather-kodiak-quiver_archeryaccessories__atq151q2_1_1000x777_bd451eab-29d8-45c8-8842-2aca6ce27de9.webp"
+  },
+  {
+    "category": "quiver",
+    "brand": "Bear",
     "model": "Leather Kodiak Quiver",
     "url": "https://beararchery.com/products/bear-archery-leather-kodiak-quiver",
     "priceUsd": 124.99,
@@ -515,6 +614,28 @@
     "tapeWidthIn": null,
     "weightG": null,
     "image": "https://cdn.shopify.com/s/files/1/1222/4500/files/PoisonDartQuiver1.jpg"
+  },
+  {
+    "category": "quiver",
+    "brand": "Bohning Company Ltd.",
+    "model": "Bohning Pocket Quiver Black",
+    "url": "https://xspotarchery.com/products/bohning-pocket-quiver-black",
+    "priceUsd": 22.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/1406308_1.jpg"
+  },
+  {
+    "category": "quiver",
+    "brand": "Bohning Company Ltd.",
+    "model": "Elevation Aero Pocket Quiver Black",
+    "url": "https://xspotarchery.com/products/elevation-aero-pocket-quiver-black",
+    "priceUsd": 37.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/1601058_1.jpg"
   },
   {
     "category": "quiver",
@@ -572,6 +693,39 @@
   },
   {
     "category": "quiver",
+    "brand": "Bowtech",
+    "model": "CenterMass 4 Arrow Quiver Black",
+    "url": "https://xspotarchery.com/products/bowtech-centermass-4-arrow-quiver-oblack",
+    "priceUsd": 199.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/CM-4arrowQuiver-Black-AngleLeft.jpg"
+  },
+  {
+    "category": "quiver",
+    "brand": "Bowtech",
+    "model": "CenterMass 4 Arrow Quiver Country DNA",
+    "url": "https://xspotarchery.com/products/bowtech-centermass-4-arrow-quiver-country-dna",
+    "priceUsd": 199.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/CM-4arrowQuiver-RealtreeEdge-Front.jpg"
+  },
+  {
+    "category": "quiver",
+    "brand": "Bowtech",
+    "model": "CenterMass 4 Arrow Quiver OD Green",
+    "url": "https://xspotarchery.com/products/bowtech-centermass-4-arrow-quiver-od-green",
+    "priceUsd": 199.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/1036378_green.jpg"
+  },
+  {
+    "category": "quiver",
     "brand": "CBE",
     "model": "Adapt Quiver",
     "url": "https://custombowequipment.com/products/adapt-quiver",
@@ -580,6 +734,17 @@
     "tapeWidthIn": null,
     "weightG": 269.32025,
     "image": "https://cdn.shopify.com/s/files/1/0551/6482/9781/products/CBE-Adapt-5arrow-Quiver.png"
+  },
+  {
+    "category": "quiver",
+    "brand": "CBE",
+    "model": "Custom Bow Equipment Adapt Quiver",
+    "url": "https://xspotarchery.com/products/custom-bow-equipment-adapt-quiver",
+    "priceUsd": 114.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": 269.32025,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/Adapt-quiver.webp"
   },
   {
     "category": "quiver",
@@ -602,6 +767,17 @@
     "tapeWidthIn": null,
     "weightG": null,
     "image": "https://cdn.shopify.com/s/files/1/0747/4046/5838/files/mzicZVjRNuxGzizPmBZG9dlOdZ09IKjjmpMOFwetNyQALzbIA4k9f7EjsjEgRmya__33034.jpg"
+  },
+  {
+    "category": "quiver",
+    "brand": "Conquest Archery",
+    "model": "Talon Quiver (Black)",
+    "url": "https://xspotarchery.com/products/conquest-talon-quiver-black",
+    "priceUsd": 99.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/3750155_front.jpg"
   },
   {
     "category": "quiver",
@@ -672,6 +848,17 @@
   {
     "category": "quiver",
     "brand": "Easton",
+    "model": "Elite Quiver Belt Carbon Blue",
+    "url": "https://xspotarchery.com/products/copy-of-easton-elite-quiver-belt-carbon-black",
+    "priceUsd": 24.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/01ef7562-6063-48dd-bace-ca00bd6991c2_1.b8831140f8f5b9ca828f44662b72314e.jpg"
+  },
+  {
+    "category": "quiver",
+    "brand": "Easton",
     "model": "Elite Takedown Hip Quiver w/ Belt",
     "url": "https://eastonarchery.com/shop/quivers/elite-takedown-hip-quiver/",
     "priceUsd": 215.99,
@@ -679,6 +866,17 @@
     "tapeWidthIn": null,
     "weightG": null,
     "image": "https://eastonarchery.com/wp-content/uploads/2018/12/Elite-Takedown-Quiver.webp"
+  },
+  {
+    "category": "quiver",
+    "brand": "Easton",
+    "model": "Flipside 2-TUBE Hip Quiver Realtree Edge /",
+    "url": "https://xspotarchery.com/products/easton-flipside-2-tube-hip-quiver-realtree-edge-rh-lh",
+    "priceUsd": 21.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/images_1_e7732622-80bf-4fb2-bd25-6ad6c7f41769.jpg"
   },
   {
     "category": "quiver",
@@ -748,6 +946,28 @@
   },
   {
     "category": "quiver",
+    "brand": "Elevation",
+    "model": "Core Release Pouch Ambush Green",
+    "url": "https://xspotarchery.com/products/elevation-core-release-pouch-ambush-green",
+    "priceUsd": 31.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/1601273_1.jpg"
+  },
+  {
+    "category": "quiver",
+    "brand": "Elevation",
+    "model": "Core Release Pouch Silver",
+    "url": "https://xspotarchery.com/products/elevation-core-release-pouch-silver",
+    "priceUsd": 31.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/13166_1.jpg"
+  },
+  {
+    "category": "quiver",
     "brand": "Elite Accessories",
     "model": "Elite 1-Piece Quiver (4 Arrow)",
     "url": "https://elitearchery.com/products/1-piece-4-arrow",
@@ -767,6 +987,17 @@
     "tapeWidthIn": null,
     "weightG": 328.400608,
     "image": "https://cdn.shopify.com/s/files/1/0656/8106/4148/products/0014_QR-000076arrowquiver.jpg"
+  },
+  {
+    "category": "quiver",
+    "brand": "Elite Arcvhery",
+    "model": "Elite Pro Hunting Quiver Gray",
+    "url": "https://xspotarchery.com/products/elite-pro-hunting-quiver-gray",
+    "priceUsd": 229.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/Quiver-ProductShot-NinjaBlack_257f2870-e5d2-419d-b16b-26818704e709.webp"
   },
   {
     "category": "quiver",
@@ -879,7 +1110,7 @@
   },
   {
     "category": "quiver",
-    "brand": "October Mountain Products",
+    "brand": "October Mountain",
     "model": "3 Tube Hip Quiver",
     "url": "https://www.octobermountainproducts.com/shop/uncategorized/3-tube-hip-quiver-2",
     "priceUsd": null,
@@ -889,7 +1120,7 @@
   },
   {
     "category": "quiver",
-    "brand": "October Mountain Products",
+    "brand": "October Mountain",
     "model": "No Spill Hip & Back Quiver",
     "url": "https://www.octobermountainproducts.com/shop/uncategorized/no-spill-hip-back-quiver-black",
     "priceUsd": null,
@@ -1031,6 +1262,17 @@
   },
   {
     "category": "quiver",
+    "brand": "Prime",
+    "model": "Sherpa lite Quiver Black",
+    "url": "https://xspotarchery.com/products/prime-sherpalite-quiver-black",
+    "priceUsd": 199.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/Untitled-design-20.webp"
+  },
+  {
+    "category": "quiver",
     "brand": "PSE",
     "model": "1-Piece and 2-Piece Quivers",
     "url": "https://psearchery.com/products/quivers",
@@ -1096,6 +1338,17 @@
   },
   {
     "category": "quiver",
+    "brand": "Tenpoint Crossbow Technologies",
+    "model": "Ten Point Tech 6 Arrow Quiver Black",
+    "url": "https://xspotarchery.com/products/ten-point-tech-6-arrow-quiver-black",
+    "priceUsd": 79.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/1002355_1.jpg"
+  },
+  {
+    "category": "quiver",
     "brand": "TightSpot",
     "model": "5-Arrow",
     "url": "https://tightspotquiver.com",
@@ -1139,6 +1392,61 @@
   {
     "category": "quiver",
     "brand": "TightSpot",
+    "model": "Air Lock Quiver Black",
+    "url": "https://xspotarchery.com/products/tight-spot-air-lock-quiver-black",
+    "priceUsd": 189.95,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": 248.058125,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/airlock-productpage_bd65b6b8-b7b8-43e8-a449-c14fa5a95490.jpg"
+  },
+  {
+    "category": "quiver",
+    "brand": "TightSpot",
+    "model": "Air Lock Quiver Mossy Oak Bottomland",
+    "url": "https://xspotarchery.com/products/tight-spot-air-lock-quiver-mossy-oak-bottomland",
+    "priceUsd": 189.95,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": 248.058125,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/5-Arrow-Quiver-Mossy-Oak-Bottomland-New.webp"
+  },
+  {
+    "category": "quiver",
+    "brand": "TightSpot",
+    "model": "Air Lock Quiver OD Green",
+    "url": "https://xspotarchery.com/products/tight-spot-air-lock-quiver-od-green",
+    "priceUsd": 189.95,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": 248.058125,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/Airlock-OD-Green-New.webp"
+  },
+  {
+    "category": "quiver",
+    "brand": "TightSpot",
+    "model": "Air Lock Quiver Realtree Edge",
+    "url": "https://xspotarchery.com/products/tight-spot-air-lock-quiver-realtree-edge",
+    "priceUsd": 189.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": 248.058125,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/Airlock-Raltree-Edge-New-BG_1.webp"
+  },
+  {
+    "category": "quiver",
+    "brand": "TightSpot",
+    "model": "Air Lock Quiver Saddle Tan",
+    "url": "https://xspotarchery.com/products/tight-spot-air-lock-quiver-od-green-copy",
+    "priceUsd": 189.95,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": 248.058125,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/TightSpot-Secondary-Airlock-Gripper-on-Airlock-1.jpg"
+  },
+  {
+    "category": "quiver",
+    "brand": "TightSpot",
     "model": "Airlock",
     "url": "https://tightspotquiver.com/quivers/airlock/",
     "priceUsd": 199.95,
@@ -1150,6 +1458,17 @@
   {
     "category": "quiver",
     "brand": "TightSpot",
+    "model": "Bowtech CenterMass 4 Arrow Quiver Smoke Gray",
+    "url": "https://xspotarchery.com/products/bowtech-centermass-4-arrow-quiver-smoke-gray",
+    "priceUsd": 199.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/CM-4arrowQuiver-Gunmetal-Front.jpg"
+  },
+  {
+    "category": "quiver",
+    "brand": "TightSpot",
     "model": "Pivot 2.5",
     "url": "https://tightspotquiver.com/quivers/pivot-2-5/",
     "priceUsd": 229.95,
@@ -1157,6 +1476,39 @@
     "tapeWidthIn": null,
     "weightG": null,
     "image": "https://tightspotquiver.com/wp-content/uploads/sites/12/2024/06/pdp-pivot-carousel1-1800x1800-1.jpg"
+  },
+  {
+    "category": "quiver",
+    "brand": "TightSpot",
+    "model": "Quiver Rise Lite 5 Arrow Black",
+    "url": "https://xspotarchery.com/products/tight-spot-quiver-rise-lite-5-arrow-black-left-hand",
+    "priceUsd": 169.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": 280.66005,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/5arrow-productpage-v1_64bf78b9-2223-406a-a01b-94ce371847b3.jpg"
+  },
+  {
+    "category": "quiver",
+    "brand": "TightSpot",
+    "model": "Quiver Rise Lite 5 Arrow Mossy Oak Dna",
+    "url": "https://xspotarchery.com/products/tight-spot-quiver-rise-lite-5-arrow-mossy-oak-dna-left-hand",
+    "priceUsd": 169.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": 280.66005,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/5arrow-productpage-v1_0ee738e2-fc38-4d2a-b9f9-5b3047acaced.jpg"
+  },
+  {
+    "category": "quiver",
+    "brand": "TightSpot",
+    "model": "Quiver Rise Lite 5 Arrow Saddle Tan",
+    "url": "https://xspotarchery.com/products/tight-spot-quiver-rise-lite-5-arrow-saddle-tan-left-hand",
+    "priceUsd": 169.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": 280.66005,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/5arrow-productpage-v1_6dd7e491-3584-4143-a0ab-50500e72d01e.jpg"
   },
   {
     "category": "quiver",
@@ -1478,6 +1830,17 @@
   {
     "category": "release",
     "brand": "Axcel",
+    "model": "Centerline Wrist Release Large",
+    "url": "https://xspotarchery.com/products/t-r-u-ball-centerline-wrist-release-large",
+    "priceUsd": 99.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/CenterlineMain_1024x1024_860ac8f1-3f15-464d-99b5-0466ea0aae4f.webp"
+  },
+  {
+    "category": "release",
+    "brand": "Axcel",
     "model": "Champ",
     "url": "https://truball.com/products/champ",
     "priceUsd": 124.49,
@@ -1694,6 +2057,39 @@
     "tapeWidthIn": null,
     "weightG": null,
     "image": "https://cdn.shopify.com/s/files/1/2312/8661/files/TNDB-BK-L_01.png"
+  },
+  {
+    "category": "release",
+    "brand": "Axcel",
+    "model": "Tru Ball Blade Pro Flex Release BLACK/ Quicksilver Large",
+    "url": "https://xspotarchery.com/products/tru-ball-blade-pro-flex-release-black-quicksilver-medium",
+    "priceUsd": 299.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/1202383_1.jpg"
+  },
+  {
+    "category": "release",
+    "brand": "Axcel",
+    "model": "Tru Ball Goat Release 3 Finger Black Medium",
+    "url": "https://xspotarchery.com/products/tru-ball-goat-release-3-finger-black-medium",
+    "priceUsd": 319.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/86955_1.jpg"
+  },
+  {
+    "category": "release",
+    "brand": "Axcel",
+    "model": "TRuball GOAT",
+    "url": "https://xspotarchery.com/products/truball-goat-3-finger-aluminum-brass-black-quicksilver-large",
+    "priceUsd": 319.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/TGOT-BKQS01.webp"
   },
   {
     "category": "release",
@@ -2458,6 +2854,28 @@
   },
   {
     "category": "release",
+    "brand": "Cobra",
+    "model": "Premier HB Select Release HOOK/STAINLESS Triple JOINT/A228 Buckle",
+    "url": "https://xspotarchery.com/products/hover-to-zoom-click-to-enlarge-cobra-premier-hb-select-release-hook-stainless-triple-joint-a228-buckle",
+    "priceUsd": 114.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/1405603_1.jpg"
+  },
+  {
+    "category": "release",
+    "brand": "Cobra",
+    "model": "Premier Moment Release HOOK/STAINLESS Triple JOINT/A228 Buckle",
+    "url": "https://xspotarchery.com/products/cobra-premier-moment-release-hook-stainless-triple-joint-a228-buckle",
+    "priceUsd": 99.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/1405602_1.jpg"
+  },
+  {
+    "category": "release",
     "brand": "Easton",
     "model": "Deluxe Release Pouch Black",
     "url": "https://eastonarchery.com/shop/quivers/deluxe-release-pouch-black/",
@@ -2488,6 +2906,17 @@
     "tapeWidthIn": null,
     "weightG": null,
     "image": "https://eastonarchery.com/wp-content/uploads/2026/07/f59c55d9-e909-4a1d-b2c2-02912487fc43.png"
+  },
+  {
+    "category": "release",
+    "brand": "Elevation",
+    "model": "Quick Release Bow Sling Olive/Tan",
+    "url": "https://xspotarchery.com/products/elevation-quick-release-bow-sling-olive-tan",
+    "priceUsd": 49.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/1601000_1.jpg"
   },
   {
     "category": "release",
@@ -2666,6 +3095,39 @@
   {
     "category": "release",
     "brand": "Scott",
+    "model": "Apex, Thumb Trigger Release, Large",
+    "url": "https://xspotarchery.com/products/scott-apex-thumb-trigger-release-large",
+    "priceUsd": 225.0,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/a_52498.jpg"
+  },
+  {
+    "category": "release",
+    "brand": "Scott",
+    "model": "Apex, Thumb Trigger Release, Medium",
+    "url": "https://xspotarchery.com/products/scott-apex-thumb-trigger-release-medium",
+    "priceUsd": 225.0,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/a_52498_9b455f46-6ac0-4bd9-9a7c-828c1eef9314.jpg"
+  },
+  {
+    "category": "release",
+    "brand": "Scott",
+    "model": "Archery QuickShot Jr. Release",
+    "url": "https://xspotarchery.com/products/scott-archery-quick-shot-jr-release",
+    "priceUsd": 44.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/cvrwwyxo8d1lmh5san1f_540x_a170faf2-8ee0-496d-bffe-6a1e92e9ea53.webp"
+  },
+  {
+    "category": "release",
+    "brand": "Scott",
     "model": "Aspen",
     "url": "https://scottarchery.com/products/aspen",
     "priceUsd": 59.99,
@@ -2684,6 +3146,17 @@
     "tapeWidthIn": null,
     "weightG": null,
     "image": "https://cdn.shopify.com/s/files/1/0626/3583/5614/files/Cypress-release-main.png"
+  },
+  {
+    "category": "release",
+    "brand": "Scott",
+    "model": "Cypress Release",
+    "url": "https://xspotarchery.com/products/scott-cypress-release",
+    "priceUsd": 59.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/Cypress-release-main.webp"
   },
   {
     "category": "release",
@@ -2765,6 +3238,72 @@
   {
     "category": "release",
     "brand": "Scott",
+    "model": "Scott Pursuit Release",
+    "url": "https://xspotarchery.com/products/scott-pursuit-release",
+    "priceUsd": 179.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/3910211.jpg"
+  },
+  {
+    "category": "release",
+    "brand": "Scott",
+    "model": "Scott Pursuit Thumb Release Rcs Buckle Camo",
+    "url": "https://xspotarchery.com/products/scott-pursuit-thumb-release-rcs-buckle-camo",
+    "priceUsd": 179.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/77776_1.jpg"
+  },
+  {
+    "category": "release",
+    "brand": "Scott",
+    "model": "Scott Select Back Tension Release Large",
+    "url": "https://xspotarchery.com/products/click-to-enlarge-scott-select-back-tension-release-large",
+    "priceUsd": 229.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/1601493_1.jpg"
+  },
+  {
+    "category": "release",
+    "brand": "Scott",
+    "model": "Scott Select Back Tension Release Medium",
+    "url": "https://xspotarchery.com/products/scott-select-back-tension-release-medium",
+    "priceUsd": 229.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/1601493_1_cecb0ce6-2b7e-4422-b131-51cee804b3f4.jpg"
+  },
+  {
+    "category": "release",
+    "brand": "Scott",
+    "model": "Scott STB-2 Thumb Release",
+    "url": "https://xspotarchery.com/products/cott-stb-2-thumb-release",
+    "priceUsd": 275.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/Scott-STB-Angle-72.webp"
+  },
+  {
+    "category": "release",
+    "brand": "Scott",
+    "model": "Scott Vibe Youth Release Red",
+    "url": "https://xspotarchery.com/products/scott-vibe-youth-release-red",
+    "priceUsd": 69.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/1041167_red_1000x_1bf314e0-338d-48a6-92e8-c42c98ebc8a9.webp"
+  },
+  {
+    "category": "release",
+    "brand": "Scott",
     "model": "Shark RTS",
     "url": "https://scottarchery.com/products/shark-rts",
     "priceUsd": 79.99,
@@ -2772,6 +3311,17 @@
     "tapeWidthIn": null,
     "weightG": null,
     "image": "https://cdn.shopify.com/s/files/1/0626/3583/5614/files/SharkRTS-72-Main.png"
+  },
+  {
+    "category": "release",
+    "brand": "Scott",
+    "model": "Solus Wrist Release w/Freedom Buckle",
+    "url": "https://xspotarchery.com/products/scott-archery-solus-wrist-release-w-freedom-buckle",
+    "priceUsd": 119.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/1037953.jpg"
   },
   {
     "category": "release",
@@ -2805,6 +3355,17 @@
     "tapeWidthIn": null,
     "weightG": null,
     "image": "https://cdn.shopify.com/s/files/1/0626/3583/5614/products/summit-mock.png"
+  },
+  {
+    "category": "release",
+    "brand": "Scott",
+    "model": "Verge Hybrid Hinge Release",
+    "url": "https://xspotarchery.com/products/scott-verge-hybrid-hinge-release",
+    "priceUsd": 139.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/verge.webp"
   },
   {
     "category": "release",
@@ -2850,6 +3411,17 @@
   {
     "category": "release",
     "brand": "Stan",
+    "model": "Axis Release",
+    "url": "https://xspotarchery.com/products/stan-axis-release",
+    "priceUsd": 199.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/1408644_1.jpg"
+  },
+  {
+    "category": "release",
+    "brand": "Stan",
     "model": "Element",
     "url": "https://www.stanarchery.com",
     "priceUsd": null,
@@ -2860,12 +3432,298 @@
   {
     "category": "release",
     "brand": "Stan",
+    "model": "Lynx Hinge Back Tension Release Black Large",
+    "url": "https://xspotarchery.com/products/stan-lynx-hinge-back-tension-release-black",
+    "priceUsd": 199.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/LYNX-Black-600x509.png"
+  },
+  {
+    "category": "release",
+    "brand": "Stan",
+    "model": "Lynx Hinge Back Tension Release Black Medium",
+    "url": "https://xspotarchery.com/products/stan-lynx-hinge-back-tension-release-black-medium",
+    "priceUsd": 199.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/LYNX-Black-600x509_3e32030d-a810-4d96-9b64-b8ab6e6e7464.png"
+  },
+  {
+    "category": "release",
+    "brand": "Stan",
+    "model": "Lynx Hinge Back Tension Release Black X Large",
+    "url": "https://xspotarchery.com/products/stan-lynx-hinge-back-tension-release-black-x-large",
+    "priceUsd": 199.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/LYNX-Black-600x509_f657f839-c9e9-40ad-9c42-de304ea9924f.png"
+  },
+  {
+    "category": "release",
+    "brand": "Stan",
     "model": "Onnex",
     "url": "https://www.stanarchery.com",
     "priceUsd": null,
     "verified": false,
     "tapeWidthIn": null,
     "weightG": null
+  },
+  {
+    "category": "release",
+    "brand": "Stan",
+    "model": "OnneX Clicker Thumb Sage",
+    "url": "https://xspotarchery.com/products/stan-onnex-clicker-thumb-sage-large",
+    "priceUsd": 329.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/20230616_102802_f85aebdb-0a22-4541-beda-8f5c6a5e58ef.jpg"
+  },
+  {
+    "category": "release",
+    "brand": "Stan",
+    "model": "OnneX Clicker Thumb Sage -Small",
+    "url": "https://xspotarchery.com/products/c-stan-onnex-clicker-thumb-sage-small",
+    "priceUsd": 329.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/20230616_102802_d2184605-56ca-4b84-81fe-c4acdb16c6ce.jpg"
+  },
+  {
+    "category": "release",
+    "brand": "Stan",
+    "model": "OnneX Handheld Hinge Back Tension Release Echo Gray Medium",
+    "url": "https://xspotarchery.com/products/stan-onnex-handheld-hinge-back-tension-release-medium",
+    "priceUsd": 309.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/sm.jpg"
+  },
+  {
+    "category": "release",
+    "brand": "Stan",
+    "model": "OnneX Handheld Hinge Back Tension Release Echo Gray X Large",
+    "url": "https://xspotarchery.com/products/stan-onnex-handheld-hinge-back-tension-release-echo-gray-large-1",
+    "priceUsd": 299.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/s123_d47f56da-f091-482d-90e7-71465a1d20ba.jpg"
+  },
+  {
+    "category": "release",
+    "brand": "Stan",
+    "model": "OnneX Handheld Hinge Back Tension Release Sage Large",
+    "url": "https://xspotarchery.com/products/copy-of-stan-onnex-thumb-heavy-metal-release-large",
+    "priceUsd": 309.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/sh.jpg"
+  },
+  {
+    "category": "release",
+    "brand": "Stan",
+    "model": "OnneX Handheld Hinge Back Tension Release Sage Small",
+    "url": "https://xspotarchery.com/products/stan-onnex-handheld-hinge-back-tension-release-sage-small",
+    "priceUsd": 309.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/sh_841a0844-cc5a-4a0b-965c-775d77703bbd.webp"
+  },
+  {
+    "category": "release",
+    "brand": "Stan",
+    "model": "OnneX Handheld Hinge Back Tension Release Sage X Large",
+    "url": "https://xspotarchery.com/products/stan-onnex-handheld-hinge-back-tension-release-sage-x-large",
+    "priceUsd": 299.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/sh_41b05f29-7ef4-410b-93ba-614834998876.jpg"
+  },
+  {
+    "category": "release",
+    "brand": "Stan",
+    "model": "OnneX Handheld Hinge Back Tension Release Sage XXLarge",
+    "url": "https://xspotarchery.com/products/stan-onnex-handheld-hinge-back-tension-release-sage-xxlarge",
+    "priceUsd": 309.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/sh_41b05f29-7ef4-410b-93ba-614834998876.webp"
+  },
+  {
+    "category": "release",
+    "brand": "Stan",
+    "model": "OnneX Hinge Heavy Metal",
+    "url": "https://xspotarchery.com/products/stan-n-onnex-hinge-heavy-metal-l",
+    "priceUsd": 329.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/20220331_172809.jpg"
+  },
+  {
+    "category": "release",
+    "brand": "Stan",
+    "model": "OnneX Hinge Stan OnneX Hinge Heavy Metal Back Tension Release Large",
+    "url": "https://xspotarchery.com/products/onnex-hinge-hstan-onnex-hinge-heavy-metal-back-tension-release-large",
+    "priceUsd": 329.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/1030949_l.jpg"
+  },
+  {
+    "category": "release",
+    "brand": "Stan",
+    "model": "OnneX Hinge Stan OnneX Hinge Heavy Metal Back Tension Release M",
+    "url": "https://xspotarchery.com/products/onnex-hinge-hstan-onnex-hinge-heavy-metal-back-tension-release-m",
+    "priceUsd": 329.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/1030949_l.jpg"
+  },
+  {
+    "category": "release",
+    "brand": "Stan",
+    "model": "OnneX Hinge Stan OnneX Hinge Heavy Metal Back Tension Release X Large",
+    "url": "https://xspotarchery.com/products/onnex-hinge-hstan-onnex-hinge-heavy-metal-back-tension-release-x-large",
+    "priceUsd": 329.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/1030949_l.jpg"
+  },
+  {
+    "category": "release",
+    "brand": "Stan",
+    "model": "OnneX Resistance Release)",
+    "url": "https://xspotarchery.com/products/stan-onnex-resistance-release",
+    "priceUsd": 309.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/1030946_gray.jpg"
+  },
+  {
+    "category": "release",
+    "brand": "Stan",
+    "model": "Onnex Thumb Heavy Metal Release XL",
+    "url": "https://xspotarchery.com/products/stan-onnex-thumb-heavy-metalrelease-meduim",
+    "priceUsd": 329.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/STAN00.jpg"
+  },
+  {
+    "category": "release",
+    "brand": "Stan",
+    "model": "Onnex Thumb Release Echo Gray Small",
+    "url": "https://xspotarchery.com/products/stan-onnex-thumb-release-echo-gray-small",
+    "priceUsd": 309.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/20220611_103932_5445eb54-a15d-4d82-a98c-6f9d4f001915_1.jpg"
+  },
+  {
+    "category": "release",
+    "brand": "Stan",
+    "model": "Onnex Thumb Release Large Echo Gray",
+    "url": "https://xspotarchery.com/products/f-stan-onnex-thumb-release-large-echo-gray",
+    "priceUsd": 309.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/20220611_103932_5445eb54-a15d-4d82-a98c-6f9d4f001915.jpg"
+  },
+  {
+    "category": "release",
+    "brand": "Stan",
+    "model": "Onnex Thumb Release Medium Echo Gray",
+    "url": "https://xspotarchery.com/products/stan-onnex-thumb-release-medium-echo-gray",
+    "priceUsd": 309.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/20220611_103932.jpg"
+  },
+  {
+    "category": "release",
+    "brand": "Stan",
+    "model": "Onnex Thumb Release Sage Large",
+    "url": "https://xspotarchery.com/products/stan-onnex-thumb-release-sage-large",
+    "priceUsd": 309.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/275472456_10159866385498839_7387420684521716948_n.jpg"
+  },
+  {
+    "category": "release",
+    "brand": "Stan",
+    "model": "Onnex Thumb Release Sage Meduim",
+    "url": "https://xspotarchery.com/products/stan-onnex-thumb-release-meduim",
+    "priceUsd": 309.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/275472456_10159866385498839_7387420684521716948_n_48943d71-2352-40be-8049-69ee4b13d26d.jpg"
+  },
+  {
+    "category": "release",
+    "brand": "Stan",
+    "model": "Onnex Thumb Release Sage X Large",
+    "url": "https://xspotarchery.com/products/stan-onnex-thumb-release-sage-x-large",
+    "priceUsd": 309.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/275472456_10159866385498839_7387420684521716948_n.jpg"
+  },
+  {
+    "category": "release",
+    "brand": "Stan",
+    "model": "Onnex Thumb Release Sage Xxlarge",
+    "url": "https://xspotarchery.com/products/stan-onnex-thumb-release-sage-xxlarge",
+    "priceUsd": 309.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/275472456_10159866385498839_7387420684521716948_n.webp"
+  },
+  {
+    "category": "release",
+    "brand": "Stan",
+    "model": "Onnex Thumb Release X Large Echo Gray",
+    "url": "https://xspotarchery.com/products/stan-onnex-thumb-release-x-large-echo-gray",
+    "priceUsd": 309.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/20220611_103932_5445eb54-a15d-4d82-a98c-6f9d4f001915.webp"
+  },
+  {
+    "category": "release",
+    "brand": "Stan",
+    "model": "Onnex Thumb Release Xxlarge Echo Gray",
+    "url": "https://xspotarchery.com/products/stan-onnex-thumb-release-xxlarge-echo-gray",
+    "priceUsd": 309.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/20220611_103932_5445eb54-a15d-4d82-a98c-6f9d4f001915.webp"
   },
   {
     "category": "release",
@@ -2890,12 +3748,78 @@
   {
     "category": "release",
     "brand": "Stan",
+    "model": "SoleX Clicker Release with Web/Buckle Strap",
+    "url": "https://xspotarchery.com/products/stan-solex-clicker-release-with-web-buckle-strap",
+    "priceUsd": 119.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/1041329.jpg"
+  },
+  {
+    "category": "release",
+    "brand": "Stan",
+    "model": "SoleX CM Release with Buckle Strap",
+    "url": "https://xspotarchery.com/products/stan-solex-cm-release-with-buckle-strap",
+    "priceUsd": 139.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/1408643_1.jpg"
+  },
+  {
+    "category": "release",
+    "brand": "Stan",
+    "model": "SoleX Release with Buckle Strap",
+    "url": "https://xspotarchery.com/products/stan-solex-release-with-buckle-strap",
+    "priceUsd": 119.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/s1_e221d544-656d-44a6-ad33-32aa4e21fb00.jpg"
+  },
+  {
+    "category": "release",
+    "brand": "Stan",
+    "model": "SX4 Aluminum Large Thumb Release",
+    "url": "https://xspotarchery.com/products/stan-sx4-aluminum-thumb-release",
+    "priceUsd": 309.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/1046179.jpg"
+  },
+  {
+    "category": "release",
+    "brand": "Stan",
+    "model": "SX4 Heavy Metal Large Thumb Release",
+    "url": "https://xspotarchery.com/products/stan-sx4-heavy-metal-large-thumb-release",
+    "priceUsd": 319.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/1046180_1000x1000_28e86a43-7dc6-4aa5-bb15-160d62ff39e3.webp"
+  },
+  {
+    "category": "release",
+    "brand": "Stan",
     "model": "Xtinction",
     "url": "https://www.stanarchery.com",
     "priceUsd": null,
     "verified": false,
     "tapeWidthIn": null,
     "weightG": null
+  },
+  {
+    "category": "release",
+    "brand": "Trophy Ridge",
+    "model": "3 Finger Precise Pro Black",
+    "url": "https://xspotarchery.com/products/trophy-ridge-3-finger-precise-pro-black",
+    "priceUsd": 119.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/1043787_4.jpg"
   },
   {
     "category": "release",
@@ -2929,6 +3853,17 @@
     "tapeWidthIn": null,
     "weightG": null,
     "image": "https://cdn.shopify.com/s/files/1/0488/5331/9840/files/batch-1-trophy-ridge-apprentice-youth-bow-release__afl26djcy_1.png"
+  },
+  {
+    "category": "release",
+    "brand": "Trophy Ridge",
+    "model": "Apprentice Release",
+    "url": "https://xspotarchery.com/products/trophy-ridge-arch-x-youth-release",
+    "priceUsd": 29.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/1043786.jpg"
   },
   {
     "category": "release",
@@ -3032,6 +3967,17 @@
   {
     "category": "release",
     "brand": "Trophy Ridge",
+    "model": "Precise T Handle Release Black",
+    "url": "https://xspotarchery.com/products/trophy-ridge-precise-t-handle-release-black",
+    "priceUsd": 69.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/1002120_1_1.jpg"
+  },
+  {
+    "category": "release",
+    "brand": "Trophy Ridge",
     "model": "Ring",
     "url": "https://beararchery.com/products/trophy-ridge-10-ring-caliper-release",
     "priceUsd": 69.99,
@@ -3050,6 +3996,17 @@
     "tapeWidthIn": null,
     "weightG": null,
     "image": "https://cdn.shopify.com/s/files/1/0488/5331/9840/files/trophy-ridge-spot-on-caliper-release_wriststraprelease__afl1153sc_1.png"
+  },
+  {
+    "category": "release",
+    "brand": "Trophy Ridge",
+    "model": "SPOT-ON Release Black",
+    "url": "https://xspotarchery.com/products/trophy-ridge-spot-on-release-black",
+    "priceUsd": 69.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/1002168_1.jpg"
   },
   {
     "category": "release",
@@ -3105,6 +4062,39 @@
   },
   {
     "category": "release",
+    "brand": "Truball",
+    "model": "Tru Bal Max Hunter Plus",
+    "url": "https://xspotarchery.com/products/tru-bal-max-hunter-plus-3-finger-thumb-release-with-lanyard-black",
+    "priceUsd": 104.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/black_100263030_main.avif"
+  },
+  {
+    "category": "release",
+    "brand": "Truball",
+    "model": "Tru Ball Blade Pro Flex",
+    "url": "https://xspotarchery.com/products/tru-ball-blade-pro-flex",
+    "priceUsd": 319.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/1202384_1.jpg"
+  },
+  {
+    "category": "release",
+    "brand": "Truball",
+    "model": "Tru Ball Sweet Spot Pro Flex Release Quicksilver",
+    "url": "https://xspotarchery.com/products/tru-ball-sweet-spot-pro-flex-release-quicksilver",
+    "priceUsd": 244.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/1202385_1.jpg"
+  },
+  {
+    "category": "release",
     "brand": "UltraView",
     "model": "Button",
     "url": "https://ultraviewarchery.com/products/uv-button",
@@ -3139,6 +4129,83 @@
   {
     "category": "release",
     "brand": "UltraView",
+    "model": "Button 2 3",
+    "url": "https://xspotarchery.com/products/ultraview-uv-button-3-finger-attachments",
+    "priceUsd": 39.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/1044822_51569188-b993-4c82-9931-7637939f8d68.jpg"
+  },
+  {
+    "category": "release",
+    "brand": "UltraView",
+    "model": "Button 2 4",
+    "url": "https://xspotarchery.com/products/ultraview-uv-button-2-3-finger-attachments-copy",
+    "priceUsd": 39.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/1044822_cd3369c6-c4e2-4456-871e-656623ec890b.jpg"
+  },
+  {
+    "category": "release",
+    "brand": "UltraView",
+    "model": "Button 2 Brass Standard",
+    "url": "https://xspotarchery.com/products/ultraview-uv-button-2-brass-standard",
+    "priceUsd": 349.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/1044822_brass.jpg"
+  },
+  {
+    "category": "release",
+    "brand": "UltraView",
+    "model": "Button 2 Matt Black Aluminum Standard",
+    "url": "https://xspotarchery.com/products/ultraview-uv-button-2-matt-black-aluminum-standard",
+    "priceUsd": 299.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/1044822.jpg"
+  },
+  {
+    "category": "release",
+    "brand": "UltraView",
+    "model": "Button Release Large Smoke Gray Aluminum",
+    "url": "https://xspotarchery.com/products/ultraview-uv-button-release-medium-smoke-gray-aluminum",
+    "priceUsd": 229.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/ButtonButton_8_2000x_9e951184-05b8-44a9-b30d-978c6949ed83.webp"
+  },
+  {
+    "category": "release",
+    "brand": "UltraView",
+    "model": "Button Release Medium Smoke Gray Aluminum",
+    "url": "https://xspotarchery.com/products/ultraview-uv-button-release-medium-smoke-gray-aluminum-1",
+    "priceUsd": 249.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/ButtonButton_8_2000x_41c5d197-9f67-494e-9f4c-29bfc4d5b92f.webp"
+  },
+  {
+    "category": "release",
+    "brand": "UltraView",
+    "model": "Button Release Medium Stainless Steel",
+    "url": "https://xspotarchery.com/products/ultraview-uv-button-release-medium-stainless-steel",
+    "priceUsd": 299.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/ButtonButton_9_2000x_5360d6e9-0ae8-4ae4-ba30-a7f2cddaedbc.webp"
+  },
+  {
+    "category": "release",
+    "brand": "UltraView",
     "model": "Hinge 3",
     "url": "https://ultraviewarchery.com/products/uv-hinge™-3",
     "priceUsd": 249.99,
@@ -3146,6 +4213,17 @@
     "tapeWidthIn": null,
     "weightG": null,
     "image": "https://cdn.shopify.com/s/files/1/0087/4476/3450/files/AluminumHero.png"
+  },
+  {
+    "category": "release",
+    "brand": "UltraView",
+    "model": "Hinge 3 Aluminum Standard Black",
+    "url": "https://xspotarchery.com/products/ultraview-uv-hinge-3-aluminum-standard-black",
+    "priceUsd": 249.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/1045868_al-standard_1000x1000_c2388d5b-fc0a-4c83-acdd-ac3627c5ce12.webp"
   },
   {
     "category": "release",
@@ -3168,6 +4246,28 @@
     "tapeWidthIn": null,
     "weightG": null,
     "image": "https://cdn.shopify.com/s/files/1/0087/4476/3450/files/hinge-2-aluminum-tilted.webp"
+  },
+  {
+    "category": "release",
+    "brand": "UltraView",
+    "model": "The Hinge 2 Back Tension Release (Matte Black) Aluminum",
+    "url": "https://xspotarchery.com/products/ultraview-the-hinge-medium-anodized-aluminum",
+    "priceUsd": 199.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/HEADERImageforTheHinge2_-M-AnodizedAluminum_720x_a9d22601-ca84-4346-98c0-2fb82ddb4b29.webp"
+  },
+  {
+    "category": "release",
+    "brand": "XSpot Archery",
+    "model": "Scott Archery Core Release",
+    "url": "https://xspotarchery.com/products/scott-archery-core-release",
+    "priceUsd": 249.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/20230302_104239.jpg"
   },
   {
     "category": "rest",
@@ -3290,6 +4390,17 @@
   },
   {
     "category": "rest",
+    "brand": "CBE",
+    "model": "Defy Micro Drop Away Rest",
+    "url": "https://xspotarchery.com/products/cbe-defy-micro-drop-away-rest-rh",
+    "priceUsd": 139.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/DEFYmicro_768x768_a3daa71b-e0e4-4de7-8f23-c7c057a65877.webp"
+  },
+  {
+    "category": "rest",
     "brand": "Elite Accessories",
     "model": "Elite QAD HDX Rest",
     "url": "https://elitearchery.com/products/elite-qad-hdx-rest-sniper-black",
@@ -3312,6 +4423,72 @@
   },
   {
     "category": "rest",
+    "brand": "Elite",
+    "model": "QAD Ultrarest Integrate MX2",
+    "url": "https://xspotarchery.com/products/elite-qad-ultrarest-integrate-mx2-left-hand",
+    "priceUsd": 299.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/Elite-QAD.webp"
+  },
+  {
+    "category": "rest",
+    "brand": "Hamskea Archery Solutions",
+    "model": "Hamskea Everest Rest with Universal Bracket",
+    "url": "https://xspotarchery.com/products/hamskea-everest-rest-with-universal-bracket-left-hand",
+    "priceUsd": 199.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/Everest-with-Universal-Bracket_440fa717-a605-40a7-9242-e2270f005048.png"
+  },
+  {
+    "category": "rest",
+    "brand": "Hamskea Archery Solutions",
+    "model": "Hamskea Hybrid Hunter Pro Rest Micro Tune Black",
+    "url": "https://xspotarchery.com/products/hamskea-hybrid-hunter-pro-rest-micro-tune-black-lh",
+    "priceUsd": 189.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/74361_1_0f4d5645-e0ff-4880-985c-f55e66ef3f51.jpg"
+  },
+  {
+    "category": "rest",
+    "brand": "Hamskea Archery Solutions",
+    "model": "Hamskea R7 Arrow Rest",
+    "url": "https://xspotarchery.com/products/hamskea-r7-arrow-rest-left-hand",
+    "priceUsd": 329.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/1044045-1_3cd9db40-0106-4b84-9635-95bbad14ab9f.jpg"
+  },
+  {
+    "category": "rest",
+    "brand": "Hamskea Archery Solutions",
+    "model": "Hamskea Rebound Dampener Black",
+    "url": "https://xspotarchery.com/products/hamskea-rebound-dampener-black",
+    "priceUsd": null,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/RUB008-Hamskea-Rebound-Dampener-600x1925.png"
+  },
+  {
+    "category": "rest",
+    "brand": "Hamskea",
+    "model": "Buffered Limb Spring",
+    "url": "https://xspotarchery.com/products/hamskea-buffered-limb-spring-kit",
+    "priceUsd": null,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/905000-100x100.png"
+  },
+  {
+    "category": "rest",
     "brand": "Hamskea",
     "model": "Epsilon",
     "url": "https://hamskea.com",
@@ -3329,6 +4506,17 @@
     "verified": false,
     "tapeWidthIn": null,
     "weightG": null
+  },
+  {
+    "category": "rest",
+    "brand": "Hamskea",
+    "model": "Primer Rest Black",
+    "url": "https://xspotarchery.com/products/copy-of-hamskea-primer-rest-black-rh",
+    "priceUsd": 144.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/1406068_1_e15a8008-f98a-41d0-a137-f7bec030b9dd.jpg"
   },
   {
     "category": "rest",
@@ -3405,6 +4593,17 @@
   },
   {
     "category": "rest",
+    "brand": "Limbdriver",
+    "model": "Vaportrail Limb Driver Pro Black",
+    "url": "https://xspotarchery.com/products/vapor-trail-limb-driver-pro-black-lh",
+    "priceUsd": 100.0,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/32284_1_589ff6af-9c74-40c0-8c93-d4643cbf20ef.jpg"
+  },
+  {
+    "category": "rest",
     "brand": "Mathews",
     "model": "UltraRest HDX",
     "url": "https://mathewsinc.com/products/ultrarest-hdx™",
@@ -3438,7 +4637,7 @@
   },
   {
     "category": "rest",
-    "brand": "October Mountain Products",
+    "brand": "October Mountain",
     "model": "Horse Hair Recurve/Longbow Rest",
     "url": "https://www.octobermountainproducts.com/shop/uncategorized/horse-hair-recurve-longbow-rest-2",
     "priceUsd": null,
@@ -3456,6 +4655,28 @@
     "tapeWidthIn": null,
     "weightG": null,
     "image": "https://cdn.shopify.com/s/files/1/1336/2251/files/WebsitePic-StandardBar2.jpg"
+  },
+  {
+    "category": "rest",
+    "brand": "Prime",
+    "model": "Archery Epsilon Riser Bracket",
+    "url": "https://xspotarchery.com/products/prime-hamskea-epsilon-rest-black-rh",
+    "priceUsd": 29.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/20250124_122215.jpg"
+  },
+  {
+    "category": "rest",
+    "brand": "QAD",
+    "model": "Bowtech Ultra Rest MX2 Rest",
+    "url": "https://xspotarchery.com/products/qad-bowtech-ultra-rest-mx2-rest-lh",
+    "priceUsd": 299.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/1005206_1.jpg"
   },
   {
     "category": "rest",
@@ -3490,12 +4711,34 @@
   {
     "category": "rest",
     "brand": "QAD",
+    "model": "Ultra Rest HDX (Optifade Subalpine)",
+    "url": "https://xspotarchery.com/products/qad-ultrarest-hdx-black-rh-copy",
+    "priceUsd": 184.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/3560048.jpg"
+  },
+  {
+    "category": "rest",
+    "brand": "QAD",
     "model": "Ultrarest HDX",
     "url": "https://www.qadinc.com",
     "priceUsd": null,
     "verified": false,
     "tapeWidthIn": null,
     "weightG": null
+  },
+  {
+    "category": "rest",
+    "brand": "QAD",
+    "model": "Ultrarest Hdx Black",
+    "url": "https://xspotarchery.com/products/qad-ultrarest-hdx-black-lh",
+    "priceUsd": 159.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/47331_1_80c200d5-4d20-4174-9639-9e4c9a2e5962.jpg"
   },
   {
     "category": "rest",
@@ -3516,6 +4759,39 @@
     "verified": false,
     "tapeWidthIn": null,
     "weightG": null
+  },
+  {
+    "category": "rest",
+    "brand": "QAD",
+    "model": "Ultrarest Integrate MX2 Rest Black",
+    "url": "https://xspotarchery.com/products/qad-ultrarest-integrate-mx2-rest-black-left",
+    "priceUsd": 289.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/1005204_1.jpg"
+  },
+  {
+    "category": "rest",
+    "brand": "QAD",
+    "model": "Ultrarest Integrate R2 Rest Black",
+    "url": "https://xspotarchery.com/products/qad-ultrarest-integrate-r2-rest-black-rh",
+    "priceUsd": 204.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/1004309_1.jpg"
+  },
+  {
+    "category": "rest",
+    "brand": "QAD",
+    "model": "Ultrarest Integrate Rest Bowtech",
+    "url": "https://xspotarchery.com/products/copy-of-qad-ultrarest-integrate-rest-bowtech-lh",
+    "priceUsd": 269.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/1004312_1_faa1f50f-9e26-4611-b355-4150dc60df1a.jpg"
   },
   {
     "category": "rest",
@@ -3549,6 +4825,39 @@
     "tapeWidthIn": null,
     "weightG": null,
     "image": "https://cdn.shopify.com/s/files/1/0551/9337/0800/files/qadr21.jpg"
+  },
+  {
+    "category": "rest",
+    "brand": "Ripchord",
+    "model": "Ripcord Arrow Rest Max IMS No-Micro Black",
+    "url": "https://xspotarchery.com/products/ripcord-arrow-rest-max-ims-no-micro-black-rh",
+    "priceUsd": 159.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/1004605_1.jpg"
+  },
+  {
+    "category": "rest",
+    "brand": "Ripchord",
+    "model": "Ripcord Code Red X Arrow Rest Black",
+    "url": "https://xspotarchery.com/products/ripcord-code-red-x-arrow-rest-black-left-hand",
+    "priceUsd": 99.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/1003295_1_ed6866b3-a88a-4629-af28-4a1471a7e85e.jpg"
+  },
+  {
+    "category": "rest",
+    "brand": "Ripchord",
+    "model": "Ripcord Max Arrow Rest Black",
+    "url": "https://xspotarchery.com/products/ripcord-max-arrow-rest-black-left-hand",
+    "priceUsd": 129.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/85381_1_53fdc1a9-978a-4d69-a5c0-34be45830d0f.jpg"
   },
   {
     "category": "rest",
@@ -3604,6 +4913,17 @@
   },
   {
     "category": "rest",
+    "brand": "Schaffer",
+    "model": "XV Performance Arrow Rest Schaffer Archery Universal",
+    "url": "https://xspotarchery.com/products/xv-performance-arrow-rest-schaffer-archery-lh-universal",
+    "priceUsd": 139.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/schaffer-schaffer-xv-rest-universal-lh_64327759-b3f8-4a86-8d46-4b64fe6d8a11.webp"
+  },
+  {
+    "category": "rest",
     "brand": "Shrewd",
     "model": "Remedy Arrow Rest",
     "url": "https://shrewdarchery.com/products/remedy-arrow-rest",
@@ -3612,6 +4932,28 @@
     "tapeWidthIn": null,
     "weightG": null,
     "image": "https://cdn.shopify.com/s/files/1/0257/0813/4455/products/Remedy-2.png"
+  },
+  {
+    "category": "rest",
+    "brand": "Specialty Archery",
+    "model": "Bodoodle LizardX Blade Wde .010",
+    "url": "https://xspotarchery.com/products/specialty-archery-bodoodle-lizardx-blade-wde-010",
+    "priceUsd": null,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/3373.png"
+  },
+  {
+    "category": "rest",
+    "brand": "Specialty Archery",
+    "model": "Bodoodle LizardX Bow Arrow Rest",
+    "url": "https://xspotarchery.com/products/specialty-archery-bodoodle-lizardx-bow-arrow-rest-lh",
+    "priceUsd": 199.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/LIZARD-TONGUE-RENDERING-WEBSITE-VIEW4-e1739235998378.png"
   },
   {
     "category": "rest",
@@ -3668,6 +5010,17 @@
   {
     "category": "rest",
     "brand": "Trophy Ridge",
+    "model": "Micro Tack Driver Rest Black",
+    "url": "https://xspotarchery.com/products/trophy-ridge-micro-tack-driver-rest-black-rh",
+    "priceUsd": 99.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/microtackdriver_arrowrest-dropaway__atr300r_1_1079x754_dd2855f7-93bc-47e2-9d58-a67739924971.webp"
+  },
+  {
+    "category": "rest",
+    "brand": "Trophy Ridge",
     "model": "Original Quick Shot Arrow Rest",
     "url": "https://beararchery.com/products/trophy-ridge-original-quick-shot-whisker-biscuit-arrow-rest",
     "priceUsd": 39.99,
@@ -3697,6 +5050,28 @@
     "tapeWidthIn": null,
     "weightG": null,
     "image": "https://cdn.shopify.com/s/files/1/0488/5331/9840/files/ARE302-1_V2.png"
+  },
+  {
+    "category": "rest",
+    "brand": "Trophy Ridge",
+    "model": "Propel IMS Limb Driven Rest Black",
+    "url": "https://xspotarchery.com/products/trophy-ridge-propel-ims-limb-driven-rest-rh-black",
+    "priceUsd": 89.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/1501835_1.jpg"
+  },
+  {
+    "category": "rest",
+    "brand": "Trophy Ridge",
+    "model": "Propel Limb Driven Rest Black",
+    "url": "https://xspotarchery.com/products/trophy-ridge-propel-limb-driven-rest-rh-rh-black",
+    "priceUsd": 89.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/trophy-ridge-propel-arrow-rest_arrowrest-dropaway__are302_1_1000x657_61a53bf5-6e5d-46db-911d-5aafa9949479.webp"
   },
   {
     "category": "rest",
@@ -3820,6 +5195,17 @@
   },
   {
     "category": "rest",
+    "brand": "Trophy Ridge",
+    "model": "Whisker Biscuit V Plus Arrow Rest Black /",
+    "url": "https://xspotarchery.com/products/trophy-ridge-whisker-biscuit-v-plus-arrow-rest-black-rh-lh",
+    "priceUsd": 59.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/1002148_1.jpg"
+  },
+  {
+    "category": "rest",
     "brand": "Trophy Taker",
     "model": "Smackdown Pro",
     "url": "https://www.trophytaker.com",
@@ -3857,6 +5243,39 @@
     "verified": false,
     "tapeWidthIn": null,
     "weightG": null
+  },
+  {
+    "category": "rest",
+    "brand": "Vapor Trail",
+    "model": "Gen Integr 8 Arrow Rest Black",
+    "url": "https://xspotarchery.com/products/vapor-trail-gen-integr8-arrow-rest-black-left-hand",
+    "priceUsd": 239.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/1004828_1_1_f72f90a1-ff76-4f8b-b383-4589f184750a.jpg"
+  },
+  {
+    "category": "rest",
+    "brand": "Vapor Trail",
+    "model": "GEN INTEGR 8 Bowtech Only ARROW REST BLACK",
+    "url": "https://xspotarchery.com/products/vapor-trail-gen-integr8-bowtech-only-arrow-rest-black-left-hand",
+    "priceUsd": 239.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/1004828_1_1_fce74eba-b76d-4d47-9328-9c5bbe8d263e.jpg"
+  },
+  {
+    "category": "rest",
+    "brand": "Vapor Trail",
+    "model": "GEN INTEGR8 Bowtech Only ARROW REST BLACK",
+    "url": "https://xspotarchery.com/products/vapor-trail-gen-integr8-bowtech-only-arrow-rest-black-rh",
+    "priceUsd": 239.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/1004828_1_1_b6fdac87-37b5-45a5-8c51-d98294651e26.jpg"
   },
   {
     "category": "rest",
@@ -4241,6 +5660,39 @@
   },
   {
     "category": "scope",
+    "brand": "Tenpoint Crossbow Technologies",
+    "model": "Ten Point Venom X Moss Green ACUslide Pro-View 400 Scope",
+    "url": "https://xspotarchery.com/products/ten-point-venom-x-moss-green-acuslide-pro-view-400-scope",
+    "priceUsd": 999.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/Venom-X-Moss-Green-Quartering-Away_95c7dd59-f2ba-4b1c-ab3b-32147371a059.webp"
+  },
+  {
+    "category": "scope",
+    "brand": "Tenpoint Crossbow Technologies",
+    "model": "TX Ultra 29.5 ACUslide MAXX EVO-X Elite Camo Scope",
+    "url": "https://xspotarchery.com/products/tx-ultra-29-5-acuslide-maxx-evo-x-elite-camo-scope",
+    "priceUsd": null,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/TX_Ultra_29.5_PDP_f9a14e7e-0766-4101-ba16-1da2864897ec.webp"
+  },
+  {
+    "category": "scope",
+    "brand": "Tenpoint Crossbow Technologies",
+    "model": "TX Ultra 29.5 ACUslide MAXX Moss Green EVO-X Elite Camo Scope",
+    "url": "https://xspotarchery.com/products/tx-ultra-29-5-acuslide-maxx-moss-green-evo-x-elite-camo-scope",
+    "priceUsd": null,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/TX_Ultra_29.5_PDP_0003.jpg"
+  },
+  {
+    "category": "scope",
     "brand": "UltraView",
     "model": "Hunting Scopes",
     "url": "https://ultraviewarchery.com/products/uv3xl-se-1",
@@ -4296,6 +5748,28 @@
   {
     "category": "sight",
     "brand": "Axcel",
+    "model": "Achieve XP Compound Sight Black 6 IN.",
+    "url": "https://xspotarchery.com/products/axcel-achieve-xp-compound-sight-black-9-in-let-ft-hand",
+    "priceUsd": 479.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/88179_1_1_23aa1dac-7d65-480b-b597-42e42df5136b.jpg"
+  },
+  {
+    "category": "sight",
+    "brand": "Axcel",
+    "model": "Achieve XP Compound Sight Black 9 IN.",
+    "url": "https://xspotarchery.com/products/axcel-achieve-xp-compound-sight-black-9-in-left-hand",
+    "priceUsd": 479.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/88179_1_1.jpg"
+  },
+  {
+    "category": "sight",
+    "brand": "Axcel",
     "model": "Achieve XP PRO",
     "url": "https://truball.com/products/achieve-xp-pro-recurve-diamond-weave-carbon-bar",
     "priceUsd": 586.18,
@@ -4307,6 +5781,17 @@
   {
     "category": "sight",
     "brand": "Axcel",
+    "model": "Achieve XP Pro 6\" Compound Target Sight",
+    "url": "https://xspotarchery.com/products/axcel-achieve-xp-pro-6-compound-target-sight-lh",
+    "priceUsd": 549.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/AchieveXPPro_6_look2_2048x_0cc6591b-1b96-44b4-afab-57f7bee6357d.webp"
+  },
+  {
+    "category": "sight",
+    "brand": "Axcel",
     "model": "Achieve XP PRO with Bridge-Lock Mount",
     "url": "https://truball.com/products/achieve-xp-pro-with-bridge-lock™-mount",
     "priceUsd": 614.99,
@@ -4314,6 +5799,61 @@
     "tapeWidthIn": null,
     "weightG": null,
     "image": "https://cdn.shopify.com/s/files/1/2312/8661/files/ACPR-B6R-BB01.png"
+  },
+  {
+    "category": "sight",
+    "brand": "Axcel",
+    "model": "AVX-31 Scope Black 41MM T Connector Stainless Steel #10-32 Rod",
+    "url": "https://xspotarchery.com/products/axcel-avx-41-scope-black-41mm-t-connector-stainless-steel-10-32-rod",
+    "priceUsd": 139.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/1408235_1.jpg"
+  },
+  {
+    "category": "sight",
+    "brand": "Axcel",
+    "model": "AVX-41 Fiber Optic Ring Pin .010 Green With Rheostat Cover",
+    "url": "https://xspotarchery.com/products/axcel-avx-41-fiber-optic-ring-pin-010-green-with-rheostat-cover",
+    "priceUsd": 74.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/1408275_1.jpg"
+  },
+  {
+    "category": "sight",
+    "brand": "Axcel",
+    "model": "AVX-41 Scope Black 41MM T Connector Stainless Steel #10-32 Rod",
+    "url": "https://xspotarchery.com/products/axcel-avx-41-scope-black-41mm-t-connector-stainless-steel-10-32-rod-1",
+    "priceUsd": 139.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/1408235_1_30b1b50c-ca73-4eed-a18f-45c2e3d9fa3c.jpg"
+  },
+  {
+    "category": "sight",
+    "brand": "Axcel",
+    "model": "AVX-41 Shade Kit Black Stepped Shade And Long Shade",
+    "url": "https://xspotarchery.com/products/axcel-avx-41-shade-kit-black-stepped-shade-and-long-shade",
+    "priceUsd": 59.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/1408280_1.jpg"
+  },
+  {
+    "category": "sight",
+    "brand": "Axcel",
+    "model": "Axcel",
+    "url": "https://xspotarchery.com/products/axcel-sight-tape-100-plus-three-sets",
+    "priceUsd": null,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/ATAPE-1_01.webp"
   },
   {
     "category": "sight",
@@ -4340,6 +5880,28 @@
   {
     "category": "sight",
     "brand": "Axcel",
+    "model": "Driver Plus Slider Sight",
+    "url": "https://xspotarchery.com/products/axcel-driver-plus-slider-sight-standard-pro-bar-w-avx-41-scope-single-pin-010-green-fiber",
+    "priceUsd": 469.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": 243.80569999999997,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/1040329_1000x_8294718c-6b46-40fc-b62e-fd60653abeef.webp"
+  },
+  {
+    "category": "sight",
+    "brand": "Axcel",
+    "model": "Driver Slider Sight",
+    "url": "https://xspotarchery.com/products/axcel-driver-slider-sight-picatinny-w-accustat-ii-scope-micro-3-pins-010-fiber-rh-black",
+    "priceUsd": 509.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": 243.80569999999997,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/1040331_stealth.jpg"
+  },
+  {
+    "category": "sight",
+    "brand": "Axcel",
     "model": "Landslyde",
     "url": "https://truball.com/products/landslyde-sight-bar-only-no-scope",
     "priceUsd": 363.11,
@@ -4347,6 +5909,17 @@
     "tapeWidthIn": null,
     "weightG": null,
     "image": "https://cdn.shopify.com/s/files/1/2312/8661/files/ALND-P-BK_02.png"
+  },
+  {
+    "category": "sight",
+    "brand": "Axcel",
+    "model": "LANDSLYDE Carbon Pro Slider Sight",
+    "url": "https://xspotarchery.com/products/copy-of-axcel-landslyde-carbon-pro-slider-sight-with-accustat-ii-scope-micro-5-pins-019-fiber-black-sight",
+    "priceUsd": 549.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/1406244_1_ba954267-d273-4fd1-aa87-9cb201105c5f.jpg"
   },
   {
     "category": "sight",
@@ -4582,6 +6155,39 @@
   {
     "category": "sight",
     "brand": "Black Gold",
+    "model": "Ascent Mountain Lite HD Dual Trac 2 Pin Verticle .019",
+    "url": "https://xspotarchery.com/products/black-gold-ascent-mountain-lite-hd-dual-trac-2-pin-verticle-left-hand",
+    "priceUsd": 339.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/carousel-dualtrac-mountainlite02-1800_33088444-ff56-4a07-87be-1487e3a9052f.jpg"
+  },
+  {
+    "category": "sight",
+    "brand": "Black Gold",
+    "model": "Ascent Mountain Lite HD Dual Trac 2 Pin Verticle Custom .010",
+    "url": "https://xspotarchery.com/products/black-gold-ascent-mountain-lite-hd-dual-trac-2-pin-verticle-rh-custom-010",
+    "priceUsd": 359.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/carousel-dualtrac-mountainlite02-1800_8c8a30ae-2f9a-4efc-9da8-5c4da5608df5.jpg"
+  },
+  {
+    "category": "sight",
+    "brand": "Black Gold",
+    "model": "Ascent Sight Tape Kit Black",
+    "url": "https://xspotarchery.com/products/black-gold-ascent-sight-tape-kit-black",
+    "priceUsd": null,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/card-accessory-sight-tapes.jpg"
+  },
+  {
+    "category": "sight",
+    "brand": "Black Gold",
     "model": "Ascent Verdict",
     "url": "https://blackgoldaccessories.com/bowsights/ascent-verdict/",
     "priceUsd": 279.95,
@@ -4604,6 +6210,39 @@
   {
     "category": "sight",
     "brand": "Black Gold",
+    "model": "Ascent Verdict Sight 1 Pin 4 in. Dovetail .019 Black",
+    "url": "https://xspotarchery.com/products/black-gold-ascent-verdict-sight-1-pin-4-in-dovetail-019-left-hand-black",
+    "priceUsd": 279.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/20230201_165234_61ab184f-b7a2-4b65-8b2b-be945e5f082f.jpg"
+  },
+  {
+    "category": "sight",
+    "brand": "Black Gold",
+    "model": "Ascent Verdict Whitetail 1 Pin",
+    "url": "https://xspotarchery.com/products/black-gold-ascent-whitetail-1-pin-rh",
+    "priceUsd": 209.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/Whitetail-1-pin_b02fa06c-b098-4d27-98ae-e2d807d50b90.jpg"
+  },
+  {
+    "category": "sight",
+    "brand": "Black Gold",
+    "model": "Ascent Verdit 5 Pin Dovetail",
+    "url": "https://xspotarchery.com/products/black-gold-ascent-verdict-sight-5-pin-4-in-dovetail-019-rh-black",
+    "priceUsd": 289.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/20230201_165234.jpg"
+  },
+  {
+    "category": "sight",
+    "brand": "Black Gold",
     "model": "Ascent Whitetail",
     "url": "https://blackgoldaccessories.com/bowsights/ascent-whitetail/",
     "priceUsd": 239.95,
@@ -4611,6 +6250,17 @@
     "tapeWidthIn": null,
     "weightG": null,
     "image": "https://blackgoldaccessories.com/wp-content/uploads/sites/29/2025/11/carousel-whitetail01B-1800.jpg"
+  },
+  {
+    "category": "sight",
+    "brand": "Black Gold",
+    "model": "Competition 2A Sight (6\" Wing Truss Dovetail)",
+    "url": "https://xspotarchery.com/products/black-gold-competition-2a-sight-6-wing-truss-dovetail-left-hand",
+    "priceUsd": 399.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/carousel-competition2A-01-1800_0e354453-77ea-4e67-bf35-09e6414b4108.jpg"
   },
   {
     "category": "sight",
@@ -4747,6 +6397,28 @@
   {
     "category": "sight",
     "brand": "Black Gold",
+    "model": "Quick Link Picatinny Mount AST",
+    "url": "https://xspotarchery.com/products/black-gold-quick-link-picatinny-mount-ast",
+    "priceUsd": 99.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/3200066_stnd.jpg"
+  },
+  {
+    "category": "sight",
+    "brand": "Black Gold",
+    "model": "Rechargeable Sight Light Kit",
+    "url": "https://xspotarchery.com/products/black-gold-rechargeable-sight-light-kit",
+    "priceUsd": 29.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/1042306.jpg"
+  },
+  {
+    "category": "sight",
+    "brand": "Black Gold",
     "model": "Revenge",
     "url": "https://blackgoldaccessories.com/bowsights/revenge/",
     "priceUsd": 289.95,
@@ -4769,6 +6441,17 @@
   {
     "category": "sight",
     "brand": "Black Gold",
+    "model": "Rush 5 Pin Black .019",
+    "url": "https://xspotarchery.com/products/black-gold-rush-5-pin-black-019-left-hand",
+    "priceUsd": 124.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/Black-Gold-Rush-Sight-2_5000x_cd211759-6b4f-4b05-85df-069bb6b8eb52.webp"
+  },
+  {
+    "category": "sight",
+    "brand": "Black Gold",
     "model": "Sight Light",
     "url": "https://blackgoldsights.com/accessories/sight-light/",
     "priceUsd": 34.95,
@@ -4776,6 +6459,28 @@
     "tapeWidthIn": null,
     "weightG": null,
     "image": "https://blackgoldsights.com/wp-content/uploads/sites/10/2022/02/sight-lamp-featured-image-v1.png"
+  },
+  {
+    "category": "sight",
+    "brand": "Black Gold",
+    "model": "Sight Light Kit",
+    "url": "https://xspotarchery.com/products/black-gold-sight-light-kit",
+    "priceUsd": 29.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/1042306_8083c882-8a7e-4a2a-94cc-194ebfce3d6a.jpg"
+  },
+  {
+    "category": "sight",
+    "brand": "Black Gold",
+    "model": "Single Pin Scope .010",
+    "url": "https://xspotarchery.com/products/black-gold-single-pin-scope-010-left-hand",
+    "priceUsd": 99.95,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/card-accessory-single-pin-scope_54d451ae-99bd-434c-a498-443e79a558e9.jpg"
   },
   {
     "category": "sight",
@@ -4802,6 +6507,28 @@
   {
     "category": "sight",
     "brand": "Bowtech",
+    "model": "2025 Bowtech Centermass Picatinny Rail Mount V2",
+    "url": "https://xspotarchery.com/products/2025-bowtech-centermass-picatinny-rail-mount-v2",
+    "priceUsd": 49.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/20250311_133019.jpg"
+  },
+  {
+    "category": "sight",
+    "brand": "Bowtech",
+    "model": "Black Gold Centermass Sight Bar With 3RD Axis Kit",
+    "url": "https://xspotarchery.com/products/black-gold-sight-centermass-bar-with-3rd-axis-kit",
+    "priceUsd": 79.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/c1_e026e4dd-a02b-4d07-8d4e-40169127cec1.jpg"
+  },
+  {
+    "category": "sight",
+    "brand": "Bowtech",
     "model": "CenterMass Dual Trac",
     "url": "https://bowtecharchery.com/sights-accessories/centermass-dual-trac/",
     "priceUsd": 389.95,
@@ -4813,6 +6540,28 @@
   {
     "category": "sight",
     "brand": "Bowtech",
+    "model": "CenterMass Dual Trac Sight 2 Pin",
+    "url": "https://xspotarchery.com/products/bowtech-centermass-dual-trac-sight",
+    "priceUsd": 319.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/CenterMass-DualTrac-02.jpg"
+  },
+  {
+    "category": "sight",
+    "brand": "Bowtech",
+    "model": "Centermass Picatinny Rail Mount V 1 Version 1",
+    "url": "https://xspotarchery.com/products/2025-bowtech-centermass-picatinny-rail-mount",
+    "priceUsd": 49.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/1039161.jpg"
+  },
+  {
+    "category": "sight",
+    "brand": "Bowtech",
     "model": "CenterMass Pro Hunter",
     "url": "https://bowtecharchery.com/accessories/centermass-pro-hunter/",
     "priceUsd": 339.95,
@@ -4820,6 +6569,50 @@
     "tapeWidthIn": null,
     "weightG": null,
     "image": "https://bowtecharchery.com/wp-content/uploads/2020/09/CenterMass2025-ProHunter2.jpg"
+  },
+  {
+    "category": "sight",
+    "brand": "Bowtech",
+    "model": "Centermass Pro Hunter 1 Pin V1",
+    "url": "https://xspotarchery.com/products/bowtech-centermass-dual-trac-sight-right-hand-1-pin",
+    "priceUsd": 319.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/CenterMass-DualTrac-02_3d9f87ef-0a68-4960-9373-87ae41e67afd.jpg"
+  },
+  {
+    "category": "sight",
+    "brand": "Bowtech",
+    "model": "Centermass Pro Hunter 3 Pin",
+    "url": "https://xspotarchery.com/products/bowtech-centermass-pro-hunter-3-pin-left-hand",
+    "priceUsd": 319.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/CenterMass-ProHunter-5pin-02_121c7084-df4d-4eda-a517-1c5829403735.jpg"
+  },
+  {
+    "category": "sight",
+    "brand": "Bowtech",
+    "model": "Centermass Pro Hunter 5 Pin",
+    "url": "https://xspotarchery.com/products/bowtech-centermass-pro-hunter-5-pin-rh",
+    "priceUsd": 339.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/CenterMass-ProHunter-5pin-02.jpg"
+  },
+  {
+    "category": "sight",
+    "brand": "Bowtech",
+    "model": "Centermass V2 Single Pin Pro Hunter Sight",
+    "url": "https://xspotarchery.com/products/bowtech-centermass-v2-single-pin-pro-hunter-sight-rh",
+    "priceUsd": 319.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": 255.1455,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/1040958.jpg"
   },
   {
     "category": "sight",
@@ -4855,6 +6648,17 @@
   {
     "category": "sight",
     "brand": "CBE",
+    "model": "Axis Compound Target Sight",
+    "url": "https://xspotarchery.com/products/cbe-axis-compound-target-sight-right-hand",
+    "priceUsd": 389.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": 287.747425,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/CBE-Axis-angled-RH-web_555cd032-2e63-4f0a-97aa-c9afee157fc8.webp"
+  },
+  {
+    "category": "sight",
+    "brand": "CBE",
     "model": "CX-5 Hunting Sight",
     "url": "https://custombowequipment.com/products/cx-5-hunting-sight",
     "priceUsd": 189.99,
@@ -4862,6 +6666,61 @@
     "tapeWidthIn": null,
     "weightG": null,
     "image": "https://cdn.shopify.com/s/files/1/0551/6482/9781/products/CX5-sight-green.png"
+  },
+  {
+    "category": "sight",
+    "brand": "CBE",
+    "model": "Flare rechargeable sight light",
+    "url": "https://xspotarchery.com/products/cbe-flare-rechargeable-sight-light",
+    "priceUsd": 24.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/flare-main1.webp"
+  },
+  {
+    "category": "sight",
+    "brand": "CBE",
+    "model": "Picatinny Mount Adapter (4817)",
+    "url": "https://xspotarchery.com/products/cbe-picatinny-mount-adapter-4817",
+    "priceUsd": 49.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/picatinny-5.webp"
+  },
+  {
+    "category": "sight",
+    "brand": "CBE",
+    "model": "Rheostat Light",
+    "url": "https://xspotarchery.com/products/cbe-rheostat-light",
+    "priceUsd": null,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/72459_1.jpg"
+  },
+  {
+    "category": "sight",
+    "brand": "CBE",
+    "model": "Scope Cover",
+    "url": "https://xspotarchery.com/products/cbe-scope-cover",
+    "priceUsd": null,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/CBE-scope-cover_768x512_2798b92f-37a9-40f1-84fa-35bac40a0b2b.webp"
+  },
+  {
+    "category": "sight",
+    "brand": "CBE",
+    "model": "Scope Sunshield Ring VTX 32 MM",
+    "url": "https://xspotarchery.com/products/cbe-scope-sunshield-ring-vtx-31-mm",
+    "priceUsd": 24.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/sunshield32mm-2019_large_d1066ff1-9da6-4ee1-81e6-54bdfe7ceea2.png"
   },
   {
     "category": "sight",
@@ -4888,6 +6747,17 @@
   {
     "category": "sight",
     "brand": "CBE",
+    "model": "Tactic Hybrid Sight 2 Pin",
+    "url": "https://xspotarchery.com/products/cbe-tactic-hybrid-sight-2-pin-rh",
+    "priceUsd": 139.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/1047151.jpg"
+  },
+  {
+    "category": "sight",
+    "brand": "CBE",
     "model": "Tactic Micro",
     "url": "https://custombowequipment.com/products/tactic-micro",
     "priceUsd": 94.99,
@@ -4910,6 +6780,50 @@
   {
     "category": "sight",
     "brand": "CBE",
+    "model": "Trek Direct Mount 1 Pin Hunting Sight .010",
+    "url": "https://xspotarchery.com/products/cbe-trek-direct-mount-1-pin-hunting-sight-010",
+    "priceUsd": 239.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/CBE_Trek_3pin_8c178925-f98d-4983-a991-83cafe0776bb.png"
+  },
+  {
+    "category": "sight",
+    "brand": "CBE",
+    "model": "Trek Direct Mount 3 Pin Hunting Sight .010",
+    "url": "https://xspotarchery.com/products/copy-of-cbe-trek-direct-mount-3-pin-hunting-sight-010",
+    "priceUsd": 249.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/CBE_Trek_3pin_5bd32b44-b611-42de-a340-31e61fbebe0d.png"
+  },
+  {
+    "category": "sight",
+    "brand": "CBE",
+    "model": "Trek Direct Mount 3 Pin Hunting Sight .019",
+    "url": "https://xspotarchery.com/products/cbe-trek-direct-mount-3-pin-hunting-sight",
+    "priceUsd": 249.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/CBE_Trek_3pin.png"
+  },
+  {
+    "category": "sight",
+    "brand": "CBE",
+    "model": "Trek Direct Mount 5 Pin Hunting Sight .010",
+    "url": "https://xspotarchery.com/products/cbe-trek-direct-mount-5-pin-hunting-sight-010",
+    "priceUsd": 259.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/CBE_Trek_3pin.webp"
+  },
+  {
+    "category": "sight",
+    "brand": "CBE",
     "model": "Trek Pro 2V",
     "url": "https://custombowequipment.com/products/trek-pro-2v",
     "priceUsd": 329.99,
@@ -4917,6 +6831,17 @@
     "tapeWidthIn": null,
     "weightG": 268.526464,
     "image": "https://cdn.shopify.com/s/files/1/0551/6482/9781/products/TrekPro2V_MainView.png"
+  },
+  {
+    "category": "sight",
+    "brand": "CBE",
+    "model": "Trek Pro 2x Vertical 0.010 Pin Archery Sight Black",
+    "url": "https://xspotarchery.com/products/trek-pro-2x-vertical-0-010-pin-right-hand-archery-sight-black",
+    "priceUsd": 329.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": 268.526464,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/TrekPro2V_MainView.webp"
   },
   {
     "category": "sight",
@@ -4943,6 +6868,39 @@
   {
     "category": "sight",
     "brand": "CBE",
+    "model": "Trek Pro Sight 1-PIN .010",
+    "url": "https://xspotarchery.com/products/cbe-trek-pro-sight-1-pin-010-rh-1",
+    "priceUsd": 319.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/CBE_TrekPro_5pin_HR_768x384_022341a2-0b2b-4580-8b1b-3865c6dce840.webp"
+  },
+  {
+    "category": "sight",
+    "brand": "CBE",
+    "model": "Trek Pro Sight 3-PIN .010",
+    "url": "https://xspotarchery.com/products/cbe-trek-pro-sight-3-pin-010-rh",
+    "priceUsd": 319.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/CBE_TrekPro_5pin_HR_768x384_0224f83d-ddac-437e-9b1c-ccf7e9dd4596.webp"
+  },
+  {
+    "category": "sight",
+    "brand": "CBE",
+    "model": "Trek Pro Sight 3-PIN .019",
+    "url": "https://xspotarchery.com/products/cbe-trek-pro-sight-3-pin-019-rh",
+    "priceUsd": 349.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/CBE_TrekPro_5pin_HR_768x384_c7223339-62a9-45ee-aa02-c5bb502c3a31.webp"
+  },
+  {
+    "category": "sight",
+    "brand": "CBE",
     "model": "Trek Sight",
     "url": "https://custombowequipment.com/products/trek-sight",
     "priceUsd": 259.99,
@@ -4950,6 +6908,17 @@
     "tapeWidthIn": null,
     "weightG": null,
     "image": "https://cdn.shopify.com/s/files/1/0551/6482/9781/files/Trek_3pin_web.png"
+  },
+  {
+    "category": "sight",
+    "brand": "Darton",
+    "model": "Universal Pic Rail Sight Mount",
+    "url": "https://xspotarchery.com/products/darton-universal-pic-rail-sight-mount",
+    "priceUsd": 51.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/Universal-Rail-Bracket-1__82549.jpg"
   },
   {
     "category": "sight",
@@ -5027,6 +6996,39 @@
   },
   {
     "category": "sight",
+    "brand": "E-tac",
+    "model": "Elvish Tac ELS4 Deluxe Sight Light Kit",
+    "url": "https://xspotarchery.com/products/e-tac-els4-deluxe-sight-light-kit",
+    "priceUsd": 189.0,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/50067339_328868667967701_2918074203368325120_o_720x_45eaa242-1953-4304-a899-d93dc4da8dd7.webp"
+  },
+  {
+    "category": "sight",
+    "brand": "G5 Outdoors",
+    "model": "G5 Meta Pro Peep Black Hunter 3/16 IN",
+    "url": "https://xspotarchery.com/products/g5-meta-pro-peep-black-hunter-3-16-in",
+    "priceUsd": null,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/76022_1.jpg"
+  },
+  {
+    "category": "sight",
+    "brand": "G5 Outdoors",
+    "model": "G5 Meta Pro Peep Black Hunter 5/16 IN",
+    "url": "https://xspotarchery.com/products/copy-of-g5-meta-pro-peep-black-hunter-3-16-in",
+    "priceUsd": null,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/76022_1_dedaa4f4-d953-47df-8517-1f4a473dbfc4.jpg"
+  },
+  {
+    "category": "sight",
     "brand": "Garmin",
     "model": "Xero A1i Pro",
     "url": "https://www.garmin.com",
@@ -5034,6 +7036,50 @@
     "verified": false,
     "tapeWidthIn": null,
     "weightG": null
+  },
+  {
+    "category": "sight",
+    "brand": "Hamskea Archery Solutions",
+    "model": "Hamskea DC Insight Deluxe Peep Sytem",
+    "url": "https://xspotarchery.com/products/hamskea-dc-insight-deluxe-peep-sytem",
+    "priceUsd": 249.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/1006287_1.jpg"
+  },
+  {
+    "category": "sight",
+    "brand": "Hamskea Archery Solutions",
+    "model": "Hamskea DC InSight Peep Housing",
+    "url": "https://xspotarchery.com/products/hamskea-dc-insight-peep-housing",
+    "priceUsd": 39.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/74529_1.jpg"
+  },
+  {
+    "category": "sight",
+    "brand": "Hamskea Archery Solutions",
+    "model": "Hamskea DC InSight Standard Peep System Kit",
+    "url": "https://xspotarchery.com/products/hamskea-dc-insight-standard-peep-system-kit",
+    "priceUsd": 129.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/1041141_1000x_328a33b1-7df2-4092-a335-79bd4a4d5a87.webp"
+  },
+  {
+    "category": "sight",
+    "brand": "Hamskea Archery Solutions",
+    "model": "Hamskea Easy Third Axis Level Black",
+    "url": "https://xspotarchery.com/products/hamskea-easy-third-axis-level-black",
+    "priceUsd": 59.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/74381_1.jpg"
   },
   {
     "category": "sight",
@@ -5048,12 +7094,144 @@
   {
     "category": "sight",
     "brand": "HHA",
+    "model": "LYT Rechargeable Sight Light",
+    "url": "https://xspotarchery.com/products/hha-lyt-rechargeable-sight-light",
+    "priceUsd": 29.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/1038676.webp"
+  },
+  {
+    "category": "sight",
+    "brand": "HHA",
+    "model": "NYTRX NYTRX PRO RYZ and Long Distance Tetra Tapes",
+    "url": "https://xspotarchery.com/products/nytrx-nytrx-pro-ryz-and-long-distance-tetra-tapes",
+    "priceUsd": null,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/1032403.jpg"
+  },
+  {
+    "category": "sight",
+    "brand": "HHA",
+    "model": "NYTRX Pro X2 Dovetail Sight",
+    "url": "https://xspotarchery.com/products/hha-nytrx-pro-x2-dovetail-sight-left-hand",
+    "priceUsd": 499.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/1041188.jpg"
+  },
+  {
+    "category": "sight",
+    "brand": "HHA",
+    "model": "NYTRX X1 SINGLE PIN 4in.-5in. DOVETAIL .019",
+    "url": "https://xspotarchery.com/products/hha-nytrx-x1-single-pin-4in-5in-dovetail-019-left-hand",
+    "priceUsd": 359.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/1041174.jpg"
+  },
+  {
+    "category": "sight",
+    "brand": "HHA",
+    "model": "Nytrx X1 Single Pin Side Mount .019",
+    "url": "https://xspotarchery.com/products/hha-nytrx-x1-single-pin-side-mount-019-left-hand",
+    "priceUsd": 309.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/Z-X1_Short_Bar-_Side_View_black__65775.1735916688.1280.1280-1024x1024__99601.1737404328.1280.1280.png"
+  },
+  {
+    "category": "sight",
+    "brand": "HHA",
+    "model": "NYTRX X3 Dovetail Sight .019",
+    "url": "https://xspotarchery.com/products/hha-nytrx-x3-dovetail-sight-019-left-hand",
+    "priceUsd": 399.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/Z-X1_Short_Bar-_Side_View_black__65775.1735916688.1280.1280-1024x1024__99601.1737404328.1280.1280_8e94527f-2ea1-4270-93c7-57bfec4e7421.png"
+  },
+  {
+    "category": "sight",
+    "brand": "HHA",
+    "model": "NYTRX X3 Picatinny Sight .019",
+    "url": "https://xspotarchery.com/products/hha-nytrx-x3-picatinny-sight-rh-019-left-hand",
+    "priceUsd": 349.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/1041180.jpg"
+  },
+  {
+    "category": "sight",
+    "brand": "HHA",
+    "model": "Nytrx XV3 3 Pin Unviersal Dovetail Also Bridgelock Compatible .010",
+    "url": "https://xspotarchery.com/products/nytrx-xv3-vertical-and-micro-adjustable-3-pin-unviersal-dovetail-also-bridgelock-compatible-010-rh",
+    "priceUsd": 419.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/1044516.jpg"
+  },
+  {
+    "category": "sight",
+    "brand": "HHA",
+    "model": "Nytrx XV3 3 Pin Unviersal Dovetail Also Bridgelock Compatible .019",
+    "url": "https://xspotarchery.com/products/nytrx-xv3-3-pin-unviersal-dovetail-also-bridgelock-compatible-019-rh",
+    "priceUsd": 399.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/1044516.jpg"
+  },
+  {
+    "category": "sight",
+    "brand": "HHA",
+    "model": "Nytrx XV3 Vertical And Micro Adjustable 3 Pin Pic Mount .010",
+    "url": "https://xspotarchery.com/products/nytrx-xv3-vertical-and-micro-adjustable-3-pin-pic-mount-010-rh",
+    "priceUsd": 349.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/2397_source_1763479123_png.webp"
+  },
+  {
+    "category": "sight",
+    "brand": "HHA",
+    "model": "Nytrx XV3 Vertical And Micro Adjustable 3 Pin Pic Mount .019",
+    "url": "https://xspotarchery.com/products/nytrx-xv3-vertical-and-micro-adjustable-3-pin-pic-mount-019-rh",
+    "priceUsd": 349.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/2397_source_1763479123_png.webp"
+  },
+  {
+    "category": "sight",
+    "brand": "HHA",
     "model": "Optimizer Lite",
     "url": "https://www.hhasports.com",
     "priceUsd": null,
     "verified": false,
     "tapeWidthIn": null,
     "weightG": null
+  },
+  {
+    "category": "sight",
+    "brand": "HHA",
+    "model": "Optimizer Lite X Sight 5019 .019",
+    "url": "https://xspotarchery.com/products/hha-optimizer-lite-x-sight-5019-019-left-hand",
+    "priceUsd": 149.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/1004204_1_45c79a79-0532-421b-8458-86aa090b5de8.jpg"
   },
   {
     "category": "sight",
@@ -5074,6 +7252,28 @@
     "verified": false,
     "tapeWidthIn": null,
     "weightG": null
+  },
+  {
+    "category": "sight",
+    "brand": "HHA",
+    "model": "Tetra RYZ 2510 Sight 2 Pin Green & Yellow",
+    "url": "https://xspotarchery.com/products/hha-tetra-ryz-2510-sight-2-pin-green-yellow",
+    "priceUsd": 269.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/tetra-ryz-sight-scaled_1dce5345-07a9-482f-b5d6-b6e4ecc623a5.jpg"
+  },
+  {
+    "category": "sight",
+    "brand": "HHA",
+    "model": "Tetra RYZ 2519 Sight 2 Pin Green & Yellow",
+    "url": "https://xspotarchery.com/products/hha-tetra-ryz-2519-sight-2-pin-green-yellow",
+    "priceUsd": 269.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/tetra-ryz-sight-scaled.jpg"
   },
   {
     "category": "sight",
@@ -5153,7 +7353,7 @@
   },
   {
     "category": "sight",
-    "brand": "October Mountain Products",
+    "brand": "October Mountain",
     "model": "2 Hole Rest",
     "url": "https://www.octobermountainproducts.com/shop/accessories/traditional-accessories/rests-vibration-reducers-sights/2-hole-rest",
     "priceUsd": null,
@@ -5164,7 +7364,7 @@
   },
   {
     "category": "sight",
-    "brand": "October Mountain Products",
+    "brand": "October Mountain",
     "model": "Adventure Recurve Sight",
     "url": "https://www.octobermountainproducts.com/shop/accessories/traditional-accessories/rests-vibration-reducers-sights/adventure-recurve-sight",
     "priceUsd": 21.99,
@@ -5175,7 +7375,7 @@
   },
   {
     "category": "sight",
-    "brand": "October Mountain Products",
+    "brand": "October Mountain",
     "model": "Blackberry String Silencer",
     "url": "https://www.octobermountainproducts.com/shop/accessories/traditional-accessories/rests-vibration-reducers-sights/blackberry-string-silencer",
     "priceUsd": null,
@@ -5186,7 +7386,7 @@
   },
   {
     "category": "sight",
-    "brand": "October Mountain Products",
+    "brand": "October Mountain",
     "model": "Hunter Rest",
     "url": "https://www.octobermountainproducts.com/shop/accessories/traditional-accessories/rests-vibration-reducers-sights/hunter-rest",
     "priceUsd": null,
@@ -5197,7 +7397,7 @@
   },
   {
     "category": "sight",
-    "brand": "October Mountain Products",
+    "brand": "October Mountain",
     "model": "In-Line Peep Sight",
     "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/string-accessories/in-line-peep",
     "priceUsd": null,
@@ -5208,7 +7408,7 @@
   },
   {
     "category": "sight",
-    "brand": "October Mountain Products",
+    "brand": "October Mountain",
     "model": "Recurve Rug Rest",
     "url": "https://www.octobermountainproducts.com/shop/accessories/traditional-accessories/rests-vibration-reducers-sights/recurve-rug-rest",
     "priceUsd": null,
@@ -5219,7 +7419,7 @@
   },
   {
     "category": "sight",
-    "brand": "October Mountain Products",
+    "brand": "October Mountain",
     "model": "Remedy Vibration Reducer",
     "url": "https://www.octobermountainproducts.com/shop/accessories/traditional-accessories/rests-vibration-reducers-sights/remedy-vibration-reducer",
     "priceUsd": null,
@@ -5230,7 +7430,7 @@
   },
   {
     "category": "sight",
-    "brand": "October Mountain Products",
+    "brand": "October Mountain",
     "model": "Retna Peep Sight",
     "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/string-accessories/retna-peep-sight",
     "priceUsd": null,
@@ -5241,7 +7441,7 @@
   },
   {
     "category": "sight",
-    "brand": "October Mountain Products",
+    "brand": "October Mountain",
     "model": "String Silencer",
     "url": "https://www.octobermountainproducts.com/shop/accessories/traditional-accessories/rests-vibration-reducers-sights/string-silencer",
     "priceUsd": null,
@@ -5252,7 +7452,7 @@
   },
   {
     "category": "sight",
-    "brand": "October Mountain Products",
+    "brand": "October Mountain",
     "model": "VIBE Silencers",
     "url": "https://www.octobermountainproducts.com/shop/accessories/traditional-accessories/rests-vibration-reducers-sights/vibe-silencers",
     "priceUsd": null,
@@ -5260,6 +7460,17 @@
     "tapeWidthIn": null,
     "weightG": null,
     "image": "https://www.octobermountainproducts.com/wp-content/uploads/2016/03/60968.jpg"
+  },
+  {
+    "category": "sight",
+    "brand": "Omp",
+    "model": "Elevation Pinnacle Scope Cover Black",
+    "url": "https://xspotarchery.com/products/elevation-pinnacle-scope-cover-black",
+    "priceUsd": null,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/81065_1.jpg"
   },
   {
     "category": "sight",
@@ -5659,6 +7870,292 @@
   },
   {
     "category": "sight",
+    "brand": "Specialty Archery",
+    "model": "Clarifier 1/8 IN. NO. 3",
+    "url": "https://xspotarchery.com/products/specialty-archery-clarifier-1-8-in-no-3",
+    "priceUsd": 32.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/1950_1_ca137a02-7408-4d26-b1a2-b83223fcd727.jpg"
+  },
+  {
+    "category": "sight",
+    "brand": "Specialty Archery",
+    "model": "Pxs Target Peep Aperture 1/16 IN.",
+    "url": "https://xspotarchery.com/products/specialty-archery-pxs-target-peep-aperture-1-16-in",
+    "priceUsd": null,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/1406160_1_85baa73a-4b4d-47c1-94e5-698cffa8ad69.jpg"
+  },
+  {
+    "category": "sight",
+    "brand": "Specialty Archery",
+    "model": "Pxs Target Peep Aperture 1/32 IN.",
+    "url": "https://xspotarchery.com/products/specialty-archery-pxs-target-peep-aperture-1-32-in",
+    "priceUsd": null,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/1406160_1.jpg"
+  },
+  {
+    "category": "sight",
+    "brand": "Specialty Archery",
+    "model": "Pxs Target Peep Aperture 1/8 IN.",
+    "url": "https://xspotarchery.com/products/specialty-archery-pxs-target-peep-aperture-1-8-in",
+    "priceUsd": null,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/1406160_1_37870189-e485-4a19-a986-552e4f97ab11.jpg"
+  },
+  {
+    "category": "sight",
+    "brand": "Specialty Archery",
+    "model": "Pxs Target Peep Aperture 3-32 IN.",
+    "url": "https://xspotarchery.com/products/specialty-archery-pxs-target-peep-aperture-3-32-in",
+    "priceUsd": null,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/1406160_1_66690827-84f0-4eb3-aa84-011f51b005ca.jpg"
+  },
+  {
+    "category": "sight",
+    "brand": "Specialty Archery",
+    "model": "Pxs Target Peep Aperture 3/64 IN.",
+    "url": "https://xspotarchery.com/products/copy-of-specialty-archery-pxs-target-peep-aperture-3-64-in",
+    "priceUsd": null,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/1406160_1_b8a6eed2-7cfc-447c-aa56-143da9c84a0a.jpg"
+  },
+  {
+    "category": "sight",
+    "brand": "Specialty Archery",
+    "model": "PXS Target Peep Aperture Kit",
+    "url": "https://xspotarchery.com/products/pxs-target-peep-aperture-kit",
+    "priceUsd": 45.0,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/s-l1600_a2fdd7f2-e088-42f9-aee3-4ab8bc23739c.jpg"
+  },
+  {
+    "category": "sight",
+    "brand": "Specialty Archery",
+    "model": "Pxs Target Peep Black",
+    "url": "https://xspotarchery.com/products/specialty-archery-pxs-target-peep-black",
+    "priceUsd": 39.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/1406154_1.jpg"
+  },
+  {
+    "category": "sight",
+    "brand": "Specialty Archery",
+    "model": "Pxs Target Peep Blue",
+    "url": "https://xspotarchery.com/products/specialty-archery-pxs-target-peep-blue",
+    "priceUsd": 42.0,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/1406155_1.jpg"
+  },
+  {
+    "category": "sight",
+    "brand": "Specialty Archery",
+    "model": "Pxs Target Peep Clarifier #.2.0 Green",
+    "url": "https://xspotarchery.com/products/specialty-archery-pxs-target-peep-clarifier-05-gold-1",
+    "priceUsd": 43.0,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/1406169_1.jpg"
+  },
+  {
+    "category": "sight",
+    "brand": "Specialty Archery",
+    "model": "Pxs Target Peep Clarifier #0.5 Gold",
+    "url": "https://xspotarchery.com/products/specialty-archery-pxs-target-peep-clarifier-05-gold",
+    "priceUsd": 43.0,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/1406166_1.jpg"
+  },
+  {
+    "category": "sight",
+    "brand": "Specialty Archery",
+    "model": "Pxs Target Peep Clarifier #1.0 Ice Blue",
+    "url": "https://xspotarchery.com/products/specialty-archery-pxs-target-peep-clarifier-1-0-ice-blue",
+    "priceUsd": 43.0,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/1406168_1.jpg"
+  },
+  {
+    "category": "sight",
+    "brand": "Specialty Archery",
+    "model": "Pxs Target Peep Clarifier #1.0 Yellow",
+    "url": "https://xspotarchery.com/products/specialty-archery-pxs-target-peep-clarifier-1-0-yellow",
+    "priceUsd": 43.0,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/1406167_1.jpg"
+  },
+  {
+    "category": "sight",
+    "brand": "Specialty Archery",
+    "model": "Pxs Target Peep Clarifier #3.0 Red",
+    "url": "https://xspotarchery.com/products/specialty-archery-pxs-target-peep-clarifier-3-0-red",
+    "priceUsd": 43.0,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/1406170_1.jpg"
+  },
+  {
+    "category": "sight",
+    "brand": "Specialty Archery",
+    "model": "Pxs Target Peep Clarifier #4.0 Silver",
+    "url": "https://xspotarchery.com/products/specialty-archery-pxs-target-peep-clarifier-4-0-silver",
+    "priceUsd": 41.0,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/1406172_1.jpg"
+  },
+  {
+    "category": "sight",
+    "brand": "Specialty Archery",
+    "model": "Pxs Target Peep Clarifier #5.0 Purple",
+    "url": "https://xspotarchery.com/products/specialty-archery-pxs-target-peep-clarifier-5-0-purple",
+    "priceUsd": 41.0,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/1406173_1.jpg"
+  },
+  {
+    "category": "sight",
+    "brand": "Specialty Archery",
+    "model": "Pxs Target Peep Clarifier #6.0 Pink",
+    "url": "https://xspotarchery.com/products/specialty-archery-pxs-target-peep-clarifier-6-0-pink",
+    "priceUsd": 41.0,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/1406174_1.jpg"
+  },
+  {
+    "category": "sight",
+    "brand": "Specialty Archery",
+    "model": "Pxs Target Peep Clarifier #7.0 Blue",
+    "url": "https://xspotarchery.com/products/specialty-archery-pxs-target-peep-clarifier-7-0-blue",
+    "priceUsd": 41.0,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/1406175_1.jpg"
+  },
+  {
+    "category": "sight",
+    "brand": "Specialty Archery",
+    "model": "Pxs Target Peep Clarifier #8.0 White",
+    "url": "https://xspotarchery.com/products/specialty-archery-pxs-target-peep-clarifier-8-0-white-1",
+    "priceUsd": 41.0,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/SA20Podium20Clarifiieres-1-600x600-2752756184.jpg"
+  },
+  {
+    "category": "sight",
+    "brand": "Specialty Archery",
+    "model": "Pxs Target Peep Clarifier #9.0 Orange",
+    "url": "https://xspotarchery.com/products/copy-of-specialty-archery-pxs-target-peep-clarifier-9-0",
+    "priceUsd": 41.0,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/1406177_1.jpg"
+  },
+  {
+    "category": "sight",
+    "brand": "Specialty Archery",
+    "model": "Pxs Target Peep Purple",
+    "url": "https://xspotarchery.com/products/copy-of-specialty-archery-pxs-target-peep-purple",
+    "priceUsd": 42.0,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/1406157_1.jpg"
+  },
+  {
+    "category": "sight",
+    "brand": "Specialty Archery",
+    "model": "Pxs Target Peep Red",
+    "url": "https://xspotarchery.com/products/specialty-archery-pxs-target-peep-red",
+    "priceUsd": 42.0,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/1406158_1.jpg"
+  },
+  {
+    "category": "sight",
+    "brand": "Specialty Archery",
+    "model": "Specialty PXS Target Peep Deluxe Kit",
+    "url": "https://xspotarchery.com/products/specialty-pxs-target-peep-deluxe-kit",
+    "priceUsd": 199.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/4080254.jpg"
+  },
+  {
+    "category": "sight",
+    "brand": "Specialty Archery",
+    "model": "Stack It Peep Black",
+    "url": "https://xspotarchery.com/products/specialty-archery-stack-it-peep-black",
+    "priceUsd": 39.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/1045034_3.jpg"
+  },
+  {
+    "category": "sight",
+    "brand": "Specialty Archery",
+    "model": "Stack It Peep Deluxe Kit",
+    "url": "https://xspotarchery.com/products/specialty-archery-stack-it-peep-deluxe-kit",
+    "priceUsd": 349.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/1045034_3.jpg"
+  },
+  {
+    "category": "sight",
+    "brand": "Specialty Archery",
+    "model": "Vibra-Tite VC3 Threadmate Non-Traditional Threadlocker",
+    "url": "https://xspotarchery.com/products/specialty-archery-vibra-tite-vc3-threadmate-non-traditional-threadlocker",
+    "priceUsd": null,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/3567_1.webp"
+  },
+  {
+    "category": "sight",
     "brand": "Spot Hogg",
     "model": "Boonie",
     "url": "https://www.spot-hogg.com",
@@ -5686,6 +8183,28 @@
     "verified": false,
     "tapeWidthIn": null,
     "weightG": null
+  },
+  {
+    "category": "sight",
+    "brand": "Spot Hogg",
+    "model": "Fast Eddie XL Mrt Sight Double Pin .010",
+    "url": "https://xspotarchery.com/products/spot-hogg-fast-eddie-xl-mrt-sight-double-pin",
+    "priceUsd": 299.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/90017_1.jpg"
+  },
+  {
+    "category": "sight",
+    "brand": "Spot Hogg",
+    "model": "Fast Eddie XL Triple Stack Mrt Sight 3 Pin .010",
+    "url": "https://xspotarchery.com/products/spot-hogg-fast-eddie-xl-triple-stack-mrt-sight-3-pin-010-lh-1",
+    "priceUsd": 349.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/1207250_1_da6b7819-8d8f-4a7c-9fcb-6da5d4abf5e7.jpg"
   },
   {
     "category": "sight",
@@ -5748,6 +8267,39 @@
     "tapeWidthIn": null,
     "weightG": null,
     "image": "https://cdn.shopify.com/s/files/1/0488/5331/9840/files/trophy-ridge-attack-pro-bow-sight_sight-nonreact__as425_1.png"
+  },
+  {
+    "category": "sight",
+    "brand": "Trophy Ridge",
+    "model": "Attack Pro 1 Pin .019 .019 Black",
+    "url": "https://xspotarchery.com/products/trophy-ridge-attack-pro-1-pin-rh-019-rh-019-black",
+    "priceUsd": 124.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/1501831_1.jpg"
+  },
+  {
+    "category": "sight",
+    "brand": "Trophy Ridge",
+    "model": "Digital React 1 pin .10 Black",
+    "url": "https://xspotarchery.com/products/rophy-ridge-digital-react-1-pin-rh-10-rh-black",
+    "priceUsd": 359.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/digitalreactonepin_sight-react__as701dr10_01_1800x1800_4829c02b-f24f-4a19-a196-d13b2c81c26a.png"
+  },
+  {
+    "category": "sight",
+    "brand": "Trophy Ridge",
+    "model": "Digital React 1 pin .19 Black",
+    "url": "https://xspotarchery.com/products/trophy-ridge-digital-react-1-pin-lh-10-rh-black",
+    "priceUsd": 359.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/digitalreactonepin_sight-react__as701dr10_01_1800x1800_121f0999-572a-456a-af34-863b47f99bf9.png"
   },
   {
     "category": "sight",
@@ -5949,6 +8501,28 @@
   {
     "category": "sight",
     "brand": "Trophy Ridge",
+    "model": "Picatinny Rail Front Mount Bracket",
+    "url": "https://xspotarchery.com/products/trophy-ridge-picatinny-rail-front-mount-bracket",
+    "priceUsd": 39.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/trophy-ridge-pic-rail-front-mount-bracket_archeryaccessoriesreplacementparts__ashbfm_3_924x1000_5ef83de7-d834-403b-8ab8-38ffce973718.webp"
+  },
+  {
+    "category": "sight",
+    "brand": "Trophy Ridge",
+    "model": "Picatinny Rail Top Mount Bracket",
+    "url": "https://xspotarchery.com/products/trophy-ridge-picatinny-rail-top-mount-bracket",
+    "priceUsd": 39.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/trophy-ridge-pic-rail-top-mount-bracket_archeryaccessoriesreplacementparts__ashbtm_1_1000x837_225601d2-7e36-4d7a-a2a0-b043854df0b6.webp"
+  },
+  {
+    "category": "sight",
+    "brand": "Trophy Ridge",
     "model": "React 5 Max Bow Sight",
     "url": "https://beararchery.com/products/trophy-ridge-react-5-max-bow-sight",
     "priceUsd": 299.99,
@@ -6080,6 +8654,50 @@
   {
     "category": "sight",
     "brand": "Trophy Ridge",
+    "model": "React Pro Sight Picatinny Mount",
+    "url": "https://xspotarchery.com/products/trophy-ridge-react-pro-sight-picatinny-mount",
+    "priceUsd": 299.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/1036187.jpg"
+  },
+  {
+    "category": "sight",
+    "brand": "Trophy Ridge",
+    "model": "React Retaliate Bow Sight H5",
+    "url": "https://xspotarchery.com/products/trophy-ridge-react-retaliate-bow-sight-rh-019",
+    "priceUsd": 179.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/s-l500_1bfd9aa5-d820-4cd4-a276-dbf77e995141.jpg"
+  },
+  {
+    "category": "sight",
+    "brand": "Trophy Ridge",
+    "model": "React Sight Front Mounted BRIDGE-LOCK Bracket",
+    "url": "https://xspotarchery.com/products/react-sight-front-mounted-bridge-lock-bracket",
+    "priceUsd": 39.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/reactsightfrontmountedbridgelockbracket_archeryaccessoriesreplacementparts__asblfm_01_1800x1543_9ffe4213-fe12-4e94-9519-8ee255e84007.webp"
+  },
+  {
+    "category": "sight",
+    "brand": "Trophy Ridge",
+    "model": "React Sight Top Mounted BRIDGE-LOCK Bracket",
+    "url": "https://xspotarchery.com/products/react-sight-top-mounted-bridge-lock-bracket",
+    "priceUsd": 39.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/reactsighttopmountedbridgelockbracket_archeryaccessoriesreplacementparts__asbltm_02_1800x1178_a7965a59-d05d-401a-bc64-7538225b9384.webp"
+  },
+  {
+    "category": "sight",
+    "brand": "Trophy Ridge",
     "model": "React Trio Pro",
     "url": "https://www.trophyridge.com",
     "priceUsd": null,
@@ -6097,6 +8715,17 @@
     "tapeWidthIn": null,
     "weightG": null,
     "image": "https://cdn.shopify.com/s/files/1/0488/5331/9840/files/trophy-ridge-react-trio-pro-bow-sight_sight-react__as713r19_1.png"
+  },
+  {
+    "category": "sight",
+    "brand": "Trophy Ridge",
+    "model": "Rechargeable Sight Light",
+    "url": "https://xspotarchery.com/products/trophy-ridge-rechargeable-sight-light",
+    "priceUsd": 34.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/1039888.jpg"
   },
   {
     "category": "sight",
@@ -6123,6 +8752,17 @@
   {
     "category": "sight",
     "brand": "Trophy Ridge",
+    "model": "Sight React HS 5 Pin Bow Sight Black W/ Sight AS855",
+    "url": "https://xspotarchery.com/products/copy-of-trophy-ridge-sight-react-hs-5-pin-bow-sight-black-w-sight-right-hand-as855",
+    "priceUsd": 179.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/79058_1.jpg"
+  },
+  {
+    "category": "sight",
+    "brand": "Trophy Ridge",
     "model": "Stacked 5-Pin Sight",
     "url": "https://beararchery.com/products/trophy-ridge-stacked-5-pin-bow-sight",
     "priceUsd": 169.99,
@@ -6130,6 +8770,17 @@
     "tapeWidthIn": null,
     "weightG": null,
     "image": "https://cdn.shopify.com/s/files/1/0488/5331/9840/files/trophy-ridge-stacked-5-pin-bow-sight_sight-nonreact__as905stk_1.png"
+  },
+  {
+    "category": "sight",
+    "brand": "Trophy Ridge",
+    "model": "SWFT Duo .019 Black Sight",
+    "url": "https://xspotarchery.com/products/trophy-ridge-swft-duo-rh-019-black-sight",
+    "priceUsd": 229.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/trophy-ridge-swft-duo-bow-sight_sight-nonreact__as430_1_1000x529_ea9dab59-0fe9-4207-b124-7aac54c15d8e.webp"
   },
   {
     "category": "sight",
@@ -6188,6 +8839,39 @@
   },
   {
     "category": "sight",
+    "brand": "Trophy Ridge",
+    "model": "Vertical Peak 5-pin Sight",
+    "url": "https://xspotarchery.com/products/trophy-ridge-vertical-peak-5-pin-sight",
+    "priceUsd": 99.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/p2.webp"
+  },
+  {
+    "category": "sight",
+    "brand": "UltraView",
+    "model": "Scope Rod .433",
+    "url": "https://xspotarchery.com/products/ultraview-uv-scope-rod-490-copy",
+    "priceUsd": 29.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/1032274.webp"
+  },
+  {
+    "category": "sight",
+    "brand": "UltraView",
+    "model": "Scope Rod .490",
+    "url": "https://xspotarchery.com/products/ultraview-uv-scope-rod-490",
+    "priceUsd": 29.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/1032274.webp"
+  },
+  {
+    "category": "sight",
     "brand": "UltraView",
     "model": "Slider 2",
     "url": "https://ultraviewarchery.com/products/uv-slider-2",
@@ -6196,6 +8880,17 @@
     "tapeWidthIn": null,
     "weightG": null,
     "image": "https://cdn.shopify.com/s/files/1/0087/4476/3450/files/uv-slider-2-direct-mount.webp"
+  },
+  {
+    "category": "sight",
+    "brand": "UltraView",
+    "model": "Slider 2 Direct Mount Sight Verticle 1 Pin",
+    "url": "https://xspotarchery.com/products/ultraview-uv-slider-2-direct-mount-sight-rh-verticle-1-pin",
+    "priceUsd": 499.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": 267.61928,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/Frame43372.webp"
   },
   {
     "category": "sight",
@@ -6229,6 +8924,28 @@
     "tapeWidthIn": null,
     "weightG": null,
     "image": "https://cdn.shopify.com/s/files/1/0087/4476/3450/files/uv-slider-2-metal-sight-tapes-1-5.webp"
+  },
+  {
+    "category": "sight",
+    "brand": "UltraView",
+    "model": "Slider 2 Picatinny Sight 1 Pin",
+    "url": "https://xspotarchery.com/products/ultraview-uv-slider-2-direct-mount-sight-rh-verticle-1-pin-copy",
+    "priceUsd": 549.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": 267.61928,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/1043113_h3side.jpg"
+  },
+  {
+    "category": "sight",
+    "brand": "UltraView",
+    "model": "Slider 2 Picatinny Sight 3 Pin",
+    "url": "https://xspotarchery.com/products/ultraview-uv-slider-2-picatinny-sight-rh-3-pin",
+    "priceUsd": 549.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": 267.61928,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/1043113_h3side.jpg"
   },
   {
     "category": "sight",
@@ -6321,6 +9038,17 @@
   {
     "category": "sight",
     "brand": "UltraView",
+    "model": "Slider Bridgelock Sight",
+    "url": "https://xspotarchery.com/products/ultraview-uv-slider-bridgelock-sight",
+    "priceUsd": 375.0,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/1035798.jpg"
+  },
+  {
+    "category": "sight",
+    "brand": "UltraView",
     "model": "Slider Metal Spare Sight Tape Plates",
     "url": "https://ultraviewarchery.com/products/uv-slider-metal-sight-tapes",
     "priceUsd": 24.99,
@@ -6332,6 +9060,17 @@
   {
     "category": "sight",
     "brand": "UltraView",
+    "model": "Slider Side Mount Sight",
+    "url": "https://xspotarchery.com/products/ultraview-uv-slider-side-mount-sight",
+    "priceUsd": 399.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/1035798.jpg"
+  },
+  {
+    "category": "sight",
+    "brand": "UltraView",
     "model": "Slider Spare Hardware",
     "url": "https://ultraviewarchery.com/products/uv-slider-spare-hardware",
     "priceUsd": 29.99,
@@ -6339,6 +9078,72 @@
     "tapeWidthIn": null,
     "weightG": null,
     "image": "https://cdn.shopify.com/s/files/1/0087/4476/3450/files/1000004504.jpg"
+  },
+  {
+    "category": "sight",
+    "brand": "UltraView",
+    "model": "UV3 SE Hunting Scope 2 Pin .010",
+    "url": "https://xspotarchery.com/products/ultraview-uv3-se-hunting-scope-2-pin-010",
+    "priceUsd": 249.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/UV3SEHUNTINGHEROSingle019_2000x_fd6f0dbe-3a2e-41aa-9e02-cf4020d7328b.webp"
+  },
+  {
+    "category": "sight",
+    "brand": "UltraView",
+    "model": "UV3 SE Hunting Scope 2 Pin .019",
+    "url": "https://xspotarchery.com/products/ultraview-uv3-se-hunting-scope-2-pin-019",
+    "priceUsd": 249.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/UV3SEHUNTINGHEROSingle019_2000x_25bd5ec6-ba58-4147-af69-4f8273e59302.webp"
+  },
+  {
+    "category": "sight",
+    "brand": "UltraView",
+    "model": "UV3XL SE Hunting Scope 3 Pin .015 Adjustable",
+    "url": "https://xspotarchery.com/products/ultraview-uv3xl-se-hunting-scope-2-pin-010",
+    "priceUsd": 249.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/UV3XLSEHero_2000x_b681b34d-804b-4df3-af06-de21153e03d9.webp"
+  },
+  {
+    "category": "sight",
+    "brand": "XSpot Archery",
+    "model": "Trophy Ridge React Pro Sight (.019\")",
+    "url": "https://xspotarchery.com/products/trophy-ridge-react-pro-sight-019",
+    "priceUsd": 299.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": 269.32025,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/4510110.jpg"
+  },
+  {
+    "category": "sight",
+    "brand": "Zebros",
+    "model": "Zbros Evolution Plus 2.0 Light Dock",
+    "url": "https://xspotarchery.com/products/zbros-evolution-plus-2-0-light-dock",
+    "priceUsd": null,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/1043619.jpg"
+  },
+  {
+    "category": "sight",
+    "brand": "Zebros",
+    "model": "Zbros Evolution Plus 2.0 Sight Light",
+    "url": "https://xspotarchery.com/products/zbros-evolution-plus-2-0-sight-light",
+    "priceUsd": 169.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/1043615.jpg"
   },
   {
     "category": "stabilizer",
@@ -6452,6 +9257,28 @@
   },
   {
     "category": "stabilizer",
+    "brand": "Bee Stinger Llc",
+    "model": "SPORT HUNTER EXTREMEM 10\" & 8\" Break Up Country",
+    "url": "https://xspotarchery.com/products/bee-stinger-sport-hunter-extremem-10-8-break-up-country",
+    "priceUsd": 259.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/BS_Sport_Hunter_Extreme_Kit_MO_10.jpg"
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Bee Stinger",
+    "model": "Competitor",
+    "url": "https://xspotarchery.com/products/bee-stinger-competitor-v-bar-12-in-black-no-weights",
+    "priceUsd": 59.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/BS_Competitor_Vbar_10in_Blackout_768d73b0-1787-4a4a-9b68-96ee0b752569.jpg"
+  },
+  {
+    "category": "stabilizer",
     "brand": "Bee Stinger",
     "model": "Competitor Stabilizer",
     "url": "https://beestinger.com/products/competitor-stabilizer",
@@ -6460,6 +9287,28 @@
     "tapeWidthIn": null,
     "weightG": null,
     "image": "https://cdn.shopify.com/s/files/1/0692/0192/0161/files/competitor-stabilizer__comp220_1.png"
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Bee Stinger",
+    "model": "Competitor Stabilizer (30\") Black",
+    "url": "https://xspotarchery.com/products/bee-stinger-competitor-stabilizer-30-black",
+    "priceUsd": 139.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/BS_Competitor_20in_Windbar_Blackout_c34bfa20-112c-4800-8012-c7cfbaf45e0a.jpg"
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Bee Stinger",
+    "model": "Competitor Stabilizer Black 20In.",
+    "url": "https://xspotarchery.com/products/bee-stinger-competitor-stabilizer-black-20in",
+    "priceUsd": 119.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": 133.52614499999999,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/1202474_1.jpg"
   },
   {
     "category": "stabilizer",
@@ -6581,6 +9430,39 @@
   },
   {
     "category": "stabilizer",
+    "brand": "Bowtech",
+    "model": "CenterMass Stabilizer 10-INCH",
+    "url": "https://xspotarchery.com/products/acc-stab-centermass-stabilizer-10-inch",
+    "priceUsd": 129.95,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/stabilizer-10.jpg"
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Bowtech",
+    "model": "CenterMass Stabilizer 6-INCH",
+    "url": "https://xspotarchery.com/products/bowtech-centermass-stabilizer-6-inch",
+    "priceUsd": 109.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/stabilizer-10_58138272-24e6-4337-bdc5-6b5a298a310f.jpg"
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Bowtech",
+    "model": "CenterMass Stabilizer 8-INCH",
+    "url": "https://xspotarchery.com/products/bowtech-centermass-stabilizer-8-inch",
+    "priceUsd": 119.95,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/stabilizer-10_58138272-24e6-4337-bdc5-6b5a298a310f.jpg"
+  },
+  {
+    "category": "stabilizer",
     "brand": "CBE",
     "model": "Affect Hunting Stabilizer",
     "url": "https://custombowequipment.com/products/affect-hunting-stabilizer",
@@ -6637,6 +9519,17 @@
   {
     "category": "stabilizer",
     "brand": "CBE",
+    "model": "Torx Micro Stabilizer Kit 8/10\"",
+    "url": "https://xspotarchery.com/products/cbe-torx-micro-stabilizer-kit-8-10",
+    "priceUsd": 209.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/torxmicro-8_10-kit-stabilizer_768x192_186675d4-f65d-496d-a197-0fe5c7a9724e.webp"
+  },
+  {
+    "category": "stabilizer",
+    "brand": "CBE",
     "model": "TorX Spyder Stabilizer",
     "url": "https://custombowequipment.com/products/torx-spyder-stabilizer",
     "priceUsd": 154.99,
@@ -6659,12 +9552,243 @@
   {
     "category": "stabilizer",
     "brand": "Conquest Archery",
+    "model": ".750 Complete Hunter -10F-8B Tan",
+    "url": "https://xspotarchery.com/products/conquest-750-complete-hunter-10f-8b-tan",
+    "priceUsd": 159.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": 85.04849999999999,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/20230203_103937_d3e62b3b-dbb4-428e-b7a3-44b17c9ce984.jpg"
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Conquest Archery",
+    "model": ".750 Complete Hunter -8F-6B Matte Black",
+    "url": "https://xspotarchery.com/products/conquest-750-complete-hunter-8f-6b-matte-black",
+    "priceUsd": 195.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": 85.04849999999999,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/20230203_103937_a1e22181-eaf5-484e-b662-74d56436370f.jpg"
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Conquest Archery",
+    "model": ".750 Complete Hunter -8F-6B Tan",
+    "url": "https://xspotarchery.com/products/conquest-750-complete-hunter-8f-6b-tan",
+    "priceUsd": 149.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": 85.04849999999999,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/20230203_103937_b1437375-3a12-4140-af61-bba0d31aae29.jpg"
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Conquest Archery",
+    "model": ".750 Featherlite FB-27 in. Stabilizer",
+    "url": "https://xspotarchery.com/products/conquest-750-featherlite-fb-27-in-stabilizer",
+    "priceUsd": 139.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/750_Featherlite_FB01__08169.jpg"
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Conquest Archery",
+    "model": ".750 Featherlite FB-30 in. Stabilizer",
+    "url": "https://xspotarchery.com/products/conquest-750-featherlite-fb-30-in-stabilizer",
+    "priceUsd": 139.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/750_Featherlite_FB01__08169_0b90fa13-d8df-414b-bbdf-ce362f424168.jpg"
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Conquest Archery",
+    "model": ".750 Featherlite SB",
+    "url": "https://xspotarchery.com/products/conquest-750-featherlite-sb-10-in",
+    "priceUsd": 69.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/Smacdown_.747_Front_Bar01__29201_ea66765d-aa43-4203-a9eb-3b5632590606.jpg"
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Conquest Archery",
+    "model": "3K Carbon Hunting Stabilizer 10 In.",
+    "url": "https://xspotarchery.com/products/conquest-3k-carbon-hunting-stabilizer-10-in",
+    "priceUsd": 99.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": 113.398,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/1044709_6.jpg"
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Conquest Archery",
+    "model": "3K Carbon Hunting Stabilizer 12 In.",
+    "url": "https://xspotarchery.com/products/conquest-3k-carbon-hunting-stabilizer-12-in",
+    "priceUsd": 104.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": 113.398,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/1044709_6.jpg"
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Conquest Archery",
+    "model": "3K Carbon Hunting Stabilizer 8 In.",
+    "url": "https://xspotarchery.com/products/conquest-3k-carbon-hunting-stabilizer-8-in",
+    "priceUsd": 94.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": 113.398,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/1044709_6.jpg"
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Conquest Archery",
+    "model": "Copy of Conquest .750 Featherlite SB",
+    "url": "https://xspotarchery.com/products/copy-of-conquest-750-featherlite-sb-15in",
+    "priceUsd": 139.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/Smacdown_.747_Front_Bar01__29201_dd92f761-7aed-4718-9451-b85e693ae634.jpg"
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Conquest Archery",
+    "model": "Darton Conquest LVS Lower Vibe Stopper",
+    "url": "https://xspotarchery.com/products/conquest-lvs-lower-vibe-stopper",
+    "priceUsd": 29.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/l1.jpg"
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Conquest Archery",
     "model": "Smacdown .500",
     "url": "https://www.conquestarchery.com",
     "priceUsd": null,
     "verified": false,
     "tapeWidthIn": null,
     "weightG": null
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Conquest Archery",
+    "model": "Smacdown .625 Complete Hunter-10F-8B Tan",
+    "url": "https://xspotarchery.com/products/conquest-smacdown-625-complete-hunter-10f-8b-tan",
+    "priceUsd": 249.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": 85.04849999999999,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/20230203_100902.jpg"
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Conquest Archery",
+    "model": "Smacdown .625 Complete Hunter-12F-10B Black",
+    "url": "https://xspotarchery.com/products/conquest-smacdown-625-complete-hunter-12f-10b-black",
+    "priceUsd": 259.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": 85.04849999999999,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/20230207_122354.jpg"
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Conquest Archery",
+    "model": "Smacdown .625 Complete Hunter-12F-10B Drab Green",
+    "url": "https://xspotarchery.com/products/conquest-smacdown-625-complete-hunter-12f-10b-drab-green",
+    "priceUsd": 259.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": 85.04849999999999,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/20230203_101136.jpg"
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Conquest Archery",
+    "model": "Smacdown .625 Complete Hunter-12F-10B Tan",
+    "url": "https://xspotarchery.com/products/conquest-smacdown-625-complete-hunter-12f-10b-tan",
+    "priceUsd": 259.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": 85.04849999999999,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/20230203_101126.jpg"
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Conquest Archery",
+    "model": "Smacdown .625 Complete Hunter-6F-8B Drab Green",
+    "url": "https://xspotarchery.com/products/conquest-smacdown-625-complete-hunter-6f-8b-drab-green",
+    "priceUsd": 239.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": 85.04849999999999,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/20230203_102353_b182423e-9b4b-47b0-92d9-cd5819b7b575.jpg"
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Conquest Archery",
+    "model": "Smacdown .625 Complete Hunter-6F-8B Tan",
+    "url": "https://xspotarchery.com/products/conquest-smacdown-625-complete-hunter-6f-8b-tan",
+    "priceUsd": 239.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": 85.04849999999999,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/20230203_102353_81d970b3-a335-43ee-a3ab-cfab12efd590.jpg"
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Conquest Archery",
+    "model": "Smacdown .625 Complete Hunter-8F-6B Black",
+    "url": "https://xspotarchery.com/products/conquest-smacdown-625-complete-hunter-15f-6b-tan",
+    "priceUsd": 239.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": 85.04849999999999,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/20230203_102353.jpg"
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Conquest Archery",
+    "model": "Smacdown .625 Front Bar",
+    "url": "https://xspotarchery.com/products/copy-of-conquest-smacdown-625-front-bar-30in",
+    "priceUsd": 281.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/Smacdown_.747_Front_Bar01__29201_1a3ebb9a-7250-4614-9af8-163065e1e519.jpg"
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Conquest Archery",
+    "model": "Smacdown .747 Front Bar",
+    "url": "https://xspotarchery.com/products/conquest-smacdown-747-front-bar-27-in",
+    "priceUsd": 329.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/Smacdown_.747_Front_Bar01__29201_64bf2bb1-3e99-4536-bc9b-4ad1582ef1dc.jpg"
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Conquest Archery",
+    "model": "Smacdown .747 Side Bar",
+    "url": "https://xspotarchery.com/products/conquest-smacdown-747-side-bar-10-in",
+    "priceUsd": 149.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/Smacdown_.747_Front_Bar01__29201_95cbc8af-b27a-41fe-a366-aef7c016e5f2.jpg"
   },
   {
     "category": "stabilizer",
@@ -6972,6 +10096,28 @@
     "tapeWidthIn": null,
     "weightG": null,
     "image": "https://cdn.shopify.com/s/files/1/0656/8106/4148/products/0003_Elite-Micro-carbonstabilizers-8-black.jpg"
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Elite",
+    "model": "Carbon Stabilizer Kit 8/11 Black",
+    "url": "https://xspotarchery.com/products/elite-carbon-stabilizer-kit-8-11-black",
+    "priceUsd": 239.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/elite-carbon-stabilizer-kit-black_768x768_bd8b2a5b-fdca-4694-967c-fdba30c47011.webp"
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Elite",
+    "model": "Carbon Stabilizer Kit 8/11\" OD Green",
+    "url": "https://xspotarchery.com/products/elite-carbon-stabilizer-kit-8-11",
+    "priceUsd": 239.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/0003_elite-carbon-stabilizer-kit-green_720x_eae1b4c6-0959-4bfd-9981-868fbd1a8781.webp"
   },
   {
     "category": "stabilizer",
@@ -7303,6 +10449,17 @@
   },
   {
     "category": "stabilizer",
+    "brand": "Sims",
+    "model": "LimbSaver Stabilizer Enhancer",
+    "url": "https://xspotarchery.com/products/sims-limbsaver-stabilizer-enhancer",
+    "priceUsd": 16.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/3013Black1024x1024_1024x1024_d6081c38-a0a6-4848-aaf7-a5a34bd528f0.webp"
+  },
+  {
+    "category": "stabilizer",
     "brand": "Stokerized",
     "model": "SS1",
     "url": "https://www.stokerized.com",
@@ -7353,6 +10510,17 @@
     "tapeWidthIn": null,
     "weightG": null,
     "image": "https://cdn.shopify.com/s/files/1/0488/5331/9840/files/batch-1-trophy-ridge-bottomland-hitman-bow-stabilizer__as1908ca_1.png"
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Trophy Ridge",
+    "model": "Hitman 2.0 8in. Olive",
+    "url": "https://xspotarchery.com/products/trophy-ridge-hitman-2-0-8in-olive",
+    "priceUsd": 79.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/hitman2.0_stabilizer__as1908og_01_1800x951_bebd6e52-beca-4ff4-845e-125ae0a67536.webp"
   },
   {
     "category": "stabilizer",
@@ -7445,6 +10613,17 @@
   {
     "category": "stabilizer",
     "brand": "Trophy Ridge",
+    "model": "Stabilizer Shock Stop 8in. Black",
+    "url": "https://xspotarchery.com/products/trophy-ridge-stabilizer-shock-stop-8in-black",
+    "priceUsd": 69.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/shockstop_stabilizer__as1708_01_1800x1800_1fb43fc4-2ff5-4ed7-8022-3f9948d99301.png"
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Trophy Ridge",
     "model": "Static",
     "url": "https://www.trophyridge.com",
     "priceUsd": null,
@@ -7462,6 +10641,17 @@
     "tapeWidthIn": null,
     "weightG": null,
     "image": "https://cdn.shopify.com/s/files/1/0488/5331/9840/files/trophy-ridge-static-stabilizer_stabilizer__as1306b_1.png"
+  },
+  {
+    "category": "stabilizer",
+    "brand": "Trophy Ridge",
+    "model": "Static Stabilizer 6in. Black AS1306B Black",
+    "url": "https://xspotarchery.com/products/trophy-ridge-static-stabilizer-6in-black-as1306b-black",
+    "priceUsd": 34.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/trophy-ridge-static-stabilizer_stabilizer__as1306b_4_600x_68050e5a-57cc-4beb-8a16-c2db06ab9d11.webp"
   },
   {
     "category": "stabilizer",
@@ -8016,7 +11206,7 @@
   },
   {
     "category": "string",
-    "brand": "October Mountain Products",
+    "brand": "October Mountain",
     "model": "B-50 Recurve String",
     "url": "https://www.octobermountainproducts.com/shop/accessories/traditional-accessories/recurve-longbow-strings/b-50-recurve-string",
     "priceUsd": null,
@@ -8027,7 +11217,7 @@
   },
   {
     "category": "string",
-    "brand": "October Mountain Products",
+    "brand": "October Mountain",
     "model": "C-Clips 100 pk.",
     "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/string-accessories/c-clips-100-pk",
     "priceUsd": 23.99,
@@ -8038,7 +11228,7 @@
   },
   {
     "category": "string",
-    "brand": "October Mountain Products",
+    "brand": "October Mountain",
     "model": "Fall Away Pad w/Arrow Holder",
     "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/string-accessories/fall-away-pad-warrow-holder",
     "priceUsd": null,
@@ -8049,7 +11239,7 @@
   },
   {
     "category": "string",
-    "brand": "October Mountain Products",
+    "brand": "October Mountain",
     "model": "Flemish Twist String",
     "url": "https://www.octobermountainproducts.com/shop/uncategorized/flemish-twist-string-2",
     "priceUsd": null,
@@ -8059,7 +11249,7 @@
   },
   {
     "category": "string",
-    "brand": "October Mountain Products",
+    "brand": "October Mountain",
     "model": "Football Clip",
     "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/string-accessories/football-clip",
     "priceUsd": null,
@@ -8070,7 +11260,7 @@
   },
   {
     "category": "string",
-    "brand": "October Mountain Products",
+    "brand": "October Mountain",
     "model": "No Cable Available",
     "url": "https://www.octobermountainproducts.com/shop/uncategorized/no-cable-available-2",
     "priceUsd": null,
@@ -8080,7 +11270,7 @@
   },
   {
     "category": "string",
-    "brand": "October Mountain Products",
+    "brand": "October Mountain",
     "model": "Nock Sets",
     "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/string-accessories/nock-sets",
     "priceUsd": null,
@@ -8091,7 +11281,7 @@
   },
   {
     "category": "string",
-    "brand": "October Mountain Products",
+    "brand": "October Mountain",
     "model": "Pin Point Kisser Button",
     "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/string-accessories/pin-point-kisser-button",
     "priceUsd": null,
@@ -8102,7 +11292,7 @@
   },
   {
     "category": "string",
-    "brand": "October Mountain Products",
+    "brand": "October Mountain",
     "model": "Premium Loop Rope",
     "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/string-accessories/premium-loop-rope",
     "priceUsd": 49.99,
@@ -8113,7 +11303,7 @@
   },
   {
     "category": "string",
-    "brand": "October Mountain Products",
+    "brand": "October Mountain",
     "model": "Quick Crimp Kisser Button",
     "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/string-accessories/quick-crimp-kisser-button",
     "priceUsd": null,
@@ -8124,7 +11314,18 @@
   },
   {
     "category": "string",
-    "brand": "October Mountain Products",
+    "brand": "October Mountain",
+    "model": "Recurve String B50 60 IN. Amo 16 Strand",
+    "url": "https://xspotarchery.com/products/october-mountain-recurve-string-b50-60-in-amo-16-strand",
+    "priceUsd": null,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/7405_1_f622a1e7-b3f5-46dc-8d64-3fd1a821e11f.jpg"
+  },
+  {
+    "category": "string",
+    "brand": "October Mountain",
     "model": "Slotted Kisser",
     "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/string-accessories/slotted-kisser",
     "priceUsd": null,
@@ -8135,7 +11336,7 @@
   },
   {
     "category": "string",
-    "brand": "October Mountain Products",
+    "brand": "October Mountain",
     "model": "Speed Slide S2",
     "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/string-accessories/speed-slide-s2",
     "priceUsd": null,
@@ -8146,7 +11347,7 @@
   },
   {
     "category": "string",
-    "brand": "October Mountain Products",
+    "brand": "October Mountain",
     "model": "String Love 2.0 Kisser Button",
     "url": "https://www.octobermountainproducts.com/shop/uncategorized/string-love-2-0-kisser-button-2",
     "priceUsd": null,
@@ -8156,7 +11357,7 @@
   },
   {
     "category": "string",
-    "brand": "October Mountain Products",
+    "brand": "October Mountain",
     "model": "Turbo Button 2.0",
     "url": "https://www.octobermountainproducts.com/shop/accessories/archery-accessories/string-accessories/turbo-button-2-0",
     "priceUsd": null,
@@ -8229,6 +11430,17 @@
     "tapeWidthIn": null,
     "weightG": null,
     "image": "https://cdn.shopify.com/s/files/1/0961/4890/files/IMG_4981.png"
+  },
+  {
+    "category": "string",
+    "brand": "PSE",
+    "model": "Pse Orange Cable Guard Damper",
+    "url": "https://xspotarchery.com/products/pse-orange-cable-guard-damper",
+    "priceUsd": null,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/bba787e5-6bbb-43c6-915d-2895ccec8877_1.8d0b6420cf37cfa33c60c22c255394b3.jpg"
   },
   {
     "category": "string",
@@ -8360,6 +11572,17 @@
     "verified": false,
     "tapeWidthIn": null,
     "weightG": null
+  },
+  {
+    "category": "string",
+    "brand": "Trophy Ridge",
+    "model": "Bear Archery Roller Cable Slide",
+    "url": "https://xspotarchery.com/products/trophy-ridge-bear-archery-roller-cable-slide",
+    "priceUsd": 27.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/trophy-ridge-roller-cable-slide_archeryaccessoriesreplacementparts__acrs24_1_1000x1000_c5be2bd3-a466-47ad-abd3-c78929e4e2f4.webp"
   },
   {
     "category": "string",
