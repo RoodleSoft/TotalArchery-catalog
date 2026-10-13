@@ -2892,9 +2892,9 @@
   {
     "name": "Gillman Academy",
     "address": "132 N 2 Mile Rd, Fort Gibson, Oklahoma, United States of America, 74434",
-    "phone": "+1 256 735 8788",
+    "phone": "+12567358788",
     "email": "gillmanacademy@gmail.com",
-    "website": "",
+    "website": "https://gillmanacademy.usarchery.org",
     "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program",
     "reviewStatus": "approved",
     "externalRef": "usarchery:gillman academy|132 n 2 mile rd fort gibson oklahoma united states of america 74434"
@@ -5623,8 +5623,8 @@
     "name": "PWR ARCHERY",
     "address": "26 Johnson Ave, Hackensack, Hackensack, New Jersey, United States of America, 07601",
     "phone": "+13476580808",
-    "email": "jslee1597@gmail.com",
-    "website": "",
+    "email": "PWRarchery@gmail.com",
+    "website": "https://www.pwrarchery.com",
     "programs": "",
     "reviewStatus": "approved",
     "externalRef": "usarchery:pwr archery|26 johnson ave hackensack hackensack new jersey united states of america 07601"
@@ -7948,16 +7948,6 @@
     "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program",
     "reviewStatus": "approved",
     "externalRef": "usarchery:two rivers archery of monmouth county|33 east end ave shrewsbury new jersey united states of america 07702"
-  },
-  {
-    "name": "UCLA Archery",
-    "address": "2131 John Wooden Center, Suite 2388, Los Angeles, California, United States of America, 90095",
-    "phone": "+13102675416",
-    "email": "uclaclubarchery@gmail.com",
-    "website": "https://www.uclaarchery.com/",
-    "programs": "",
-    "reviewStatus": "approved",
-    "externalRef": "usarchery:ucla archery|2131 john wooden center suite 2388 los angeles california united states of america 90095"
   },
   {
     "name": "UCSB Archery",

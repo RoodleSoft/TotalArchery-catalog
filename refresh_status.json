@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-12T03:29:50Z",
+  "checkedAt": "2026-10-13T03:24:31Z",
   "files": {
     "bows": {
       "rows": 171,
@@ -10,7 +10,7 @@
       "curated": false
     },
     "components": {
-      "rows": 1457,
+      "rows": 272,
       "curated": false
     },
     "targets": {
@@ -26,11 +26,11 @@
       "curated": true
     },
     "gear": {
-      "rows": 1066,
+      "rows": 322,
       "curated": false
     },
     "images": {
-      "rows": 173,
+      "rows": 0,
       "curated": false
     },
     "sources": {
