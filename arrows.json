@@ -883,7 +883,7 @@
     "brand": "Carbon Express",
     "model": "Predator AIR 6mm",
     "category": "hunting",
-    "diameterIn": 0,
+    "diameterIn": 0.293,
     "gpiBySpine": {
       "300": 8.6,
       "350": 8.1,
