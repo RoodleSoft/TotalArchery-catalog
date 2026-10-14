@@ -1,16 +1,5 @@
 [
   {
-    "category": "mount",
-    "brand": "Bowtech",
-    "model": "CenterMass Quick Disconnect",
-    "url": "https://bowtecharchery.com/accessories/centermass-quick-disconnect/",
-    "priceUsd": 34.95,
-    "verified": true,
-    "tapeWidthIn": null,
-    "weightG": null,
-    "image": "https://bowtecharchery.com/wp-content/uploads/2023/10/CenterMass-QuickDisconnect-Angle-1.jpg"
-  },
-  {
     "category": "peep",
     "brand": "G5",
     "model": "Meta Peep",
@@ -173,50 +162,6 @@
     "verified": false,
     "tapeWidthIn": null,
     "weightG": null
-  },
-  {
-    "category": "quiver",
-    "brand": "Bowtech",
-    "model": "5 Arrow Quiver Gripper",
-    "url": "https://bowtecharchery.com/accessories/5-arrow-quiver-gripper/",
-    "priceUsd": 22.95,
-    "verified": true,
-    "tapeWidthIn": null,
-    "weightG": null,
-    "image": "https://bowtecharchery.com/wp-content/uploads/2020/11/accessory-quiver-gripper.jpg"
-  },
-  {
-    "category": "quiver",
-    "brand": "Bowtech",
-    "model": "5 Arrow Whitetail Quiver",
-    "url": "https://bowtecharchery.com/accessories/5-arrow-whitetail-quiver/",
-    "priceUsd": 177.95,
-    "verified": true,
-    "tapeWidthIn": null,
-    "weightG": 309.00955,
-    "image": "https://bowtecharchery.com/wp-content/uploads/2020/11/accessory-quiver-short.jpg"
-  },
-  {
-    "category": "quiver",
-    "brand": "Bowtech",
-    "model": "5 Arrow XL Quiver",
-    "url": "https://bowtecharchery.com/accessories/5-arrow-xl-quiver/",
-    "priceUsd": 167.95,
-    "verified": true,
-    "tapeWidthIn": null,
-    "weightG": 294.8348,
-    "image": "https://bowtecharchery.com/wp-content/uploads/2020/11/accessory-quiver-long.jpg"
-  },
-  {
-    "category": "quiver",
-    "brand": "Bowtech",
-    "model": "CenterMass 4 Arrow",
-    "url": "https://bowtecharchery.com/accessories/centermass-4-arrow/",
-    "priceUsd": 219.95,
-    "verified": true,
-    "tapeWidthIn": null,
-    "weightG": null,
-    "image": "https://bowtecharchery.com/wp-content/uploads/2023/10/CM-4arrowQuiver-Black-Front.jpg"
   },
   {
     "category": "quiver",
@@ -414,17 +359,6 @@
   {
     "category": "quiver",
     "brand": "TightSpot",
-    "model": "5-Arrow Quiver",
-    "url": "https://tightspotquiver.com/quivers/5-arrow-quiver/",
-    "priceUsd": 179.95,
-    "verified": true,
-    "tapeWidthIn": null,
-    "weightG": null,
-    "image": "https://tightspotquiver.com/wp-content/uploads/sites/12/2024/06/pdp-5arrow-carousel1-1800x1800-1.jpg"
-  },
-  {
-    "category": "quiver",
-    "brand": "TightSpot",
     "model": "7-Arrow",
     "url": "https://tightspotquiver.com",
     "priceUsd": null,
@@ -435,35 +369,12 @@
   {
     "category": "quiver",
     "brand": "TightSpot",
-    "model": "7-Arrow Quiver",
-    "url": "https://tightspotquiver.com/quivers/7-arrow-quiver/",
-    "priceUsd": 189.95,
-    "verified": true,
-    "tapeWidthIn": null,
-    "weightG": null,
-    "image": "https://tightspotquiver.com/wp-content/uploads/sites/12/2024/06/pdp-7arrow-carousel1-1800x1800-1.jpg"
-  },
-  {
-    "category": "quiver",
-    "brand": "TightSpot",
     "model": "Airlock",
-    "url": "https://tightspotquiver.com/quivers/airlock/",
-    "priceUsd": 199.95,
-    "verified": true,
+    "url": "https://tightspotquiver.com",
+    "priceUsd": null,
+    "verified": false,
     "tapeWidthIn": null,
-    "weightG": null,
-    "image": "https://tightspotquiver.com/wp-content/uploads/sites/12/2024/06/pdp-airlock-carousel1-1800x1800-1.jpg"
-  },
-  {
-    "category": "quiver",
-    "brand": "TightSpot",
-    "model": "Pivot 2.5",
-    "url": "https://tightspotquiver.com/quivers/pivot-2-5/",
-    "priceUsd": 229.95,
-    "verified": true,
-    "tapeWidthIn": null,
-    "weightG": null,
-    "image": "https://tightspotquiver.com/wp-content/uploads/sites/12/2024/06/pdp-pivot-carousel1-1800x1800-1.jpg"
+    "weightG": null
   },
   {
     "category": "quiver",
@@ -474,28 +385,6 @@
     "verified": false,
     "tapeWidthIn": null,
     "weightG": null
-  },
-  {
-    "category": "quiver",
-    "brand": "TightSpot",
-    "model": "Rise Arrow Quiver",
-    "url": "https://tightspotquiver.com/quivers/rise-arrow-quiver/",
-    "priceUsd": 189.95,
-    "verified": true,
-    "tapeWidthIn": null,
-    "weightG": null,
-    "image": "https://tightspotquiver.com/wp-content/uploads/sites/12/2024/06/pdp-rise-carousel1-1800x1800-1.jpg"
-  },
-  {
-    "category": "quiver",
-    "brand": "TightSpot",
-    "model": "Shiftlock",
-    "url": "https://tightspotquiver.com/quivers/shiftlock/",
-    "priceUsd": 219.95,
-    "verified": true,
-    "tapeWidthIn": null,
-    "weightG": null,
-    "image": "https://tightspotquiver.com/wp-content/uploads/sites/12/2024/06/pdp-shiftlock-carousel1-1800x1800-1.jpg"
   },
   {
     "category": "quiver",
@@ -1442,17 +1331,6 @@
   },
   {
     "category": "rest",
-    "brand": "Bowtech",
-    "model": "CenterMass Ratchet Limb Driven Rest",
-    "url": "https://bowtecharchery.com/accessories/centermass-ratchet-limb-driven-rest/",
-    "priceUsd": 299.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "weightG": null,
-    "image": "https://bowtecharchery.com/wp-content/uploads/2022/10/Bowtech-Ratchet-LimbDriven-2.jpg"
-  },
-  {
-    "category": "rest",
     "brand": "Hamskea",
     "model": "Epsilon",
     "url": "https://hamskea.com",
@@ -1780,17 +1658,6 @@
   {
     "category": "scope",
     "brand": "Black Gold",
-    "model": "Single Pin Scope",
-    "url": "https://blackgoldsights.com/accessories/single-pin-scope/",
-    "priceUsd": 99.95,
-    "verified": true,
-    "tapeWidthIn": null,
-    "weightG": null,
-    "image": "https://blackgoldsights.com/wp-content/uploads/sites/10/2022/01/card-accessory-single-pin-scope.jpg"
-  },
-  {
-    "category": "scope",
-    "brand": "Black Gold",
     "model": "Verdict Scope",
     "url": "https://blackgoldaccessories.com",
     "priceUsd": null,
@@ -2025,248 +1892,6 @@
     "tapeWidthIn": null,
     "weightG": null,
     "image": "https://b3archery.com/wp-content/uploads/2026/02/LinX-ii-6-web.jpg"
-  },
-  {
-    "category": "sight",
-    "brand": "Black Gold",
-    "model": "Ascent Verdict",
-    "url": "https://blackgoldaccessories.com/bowsights/ascent-verdict/",
-    "priceUsd": 279.95,
-    "verified": true,
-    "tapeWidthIn": null,
-    "weightG": null,
-    "image": "https://blackgoldaccessories.com/wp-content/uploads/sites/29/2025/11/carousel-ascent-verdict-01B-1800.jpg"
-  },
-  {
-    "category": "sight",
-    "brand": "Black Gold",
-    "model": "Ascent Verdict Assault",
-    "url": "https://blackgoldaccessories.com/bowsights/ascent-verdict-assault/",
-    "priceUsd": 339.95,
-    "verified": true,
-    "tapeWidthIn": null,
-    "weightG": null,
-    "image": "https://blackgoldaccessories.com/wp-content/uploads/sites/29/2025/11/carousel-ascent-verdict-assault01-1800.jpg"
-  },
-  {
-    "category": "sight",
-    "brand": "Black Gold",
-    "model": "Ascent Whitetail",
-    "url": "https://blackgoldaccessories.com/bowsights/ascent-whitetail/",
-    "priceUsd": 239.95,
-    "verified": true,
-    "tapeWidthIn": null,
-    "weightG": null,
-    "image": "https://blackgoldaccessories.com/wp-content/uploads/sites/29/2025/11/carousel-whitetail01B-1800.jpg"
-  },
-  {
-    "category": "sight",
-    "brand": "Black Gold",
-    "model": "Dovetail Bases",
-    "url": "https://blackgoldaccessories.com/sight-accessories/dovetail-bases/",
-    "priceUsd": 89.95,
-    "verified": true,
-    "tapeWidthIn": null,
-    "weightG": null,
-    "image": "https://blackgoldaccessories.com/wp-content/uploads/sites/29/2025/11/card-accessory-truss-rods2.jpg"
-  },
-  {
-    "category": "sight",
-    "brand": "Black Gold",
-    "model": "Dovetail Quiver Adapter",
-    "url": "https://blackgoldaccessories.com/sight-accessories/dovetail-quiver-adapter/",
-    "priceUsd": 21.95,
-    "verified": true,
-    "tapeWidthIn": null,
-    "weightG": null,
-    "image": "https://blackgoldaccessories.com/wp-content/uploads/sites/29/2025/11/card-accessory-quiver-adaptor.jpg"
-  },
-  {
-    "category": "sight",
-    "brand": "Black Gold",
-    "model": "Dual Indicator System",
-    "url": "https://blackgoldaccessories.com/sight-accessories/dual-indicator-system/",
-    "priceUsd": 24.95,
-    "verified": true,
-    "tapeWidthIn": null,
-    "weightG": null,
-    "image": "https://blackgoldaccessories.com/wp-content/uploads/sites/29/2025/11/10A0001crop_1024x1024@2x.jpg"
-  },
-  {
-    "category": "sight",
-    "brand": "Black Gold",
-    "model": "Dual Trac",
-    "url": "https://blackgoldaccessories.com/bowsights/dual-trac/",
-    "priceUsd": 379.95,
-    "verified": true,
-    "tapeWidthIn": null,
-    "weightG": null,
-    "image": "https://blackgoldaccessories.com/wp-content/uploads/sites/29/2025/11/carousel-dualtrac02-1800.jpg"
-  },
-  {
-    "category": "sight",
-    "brand": "Black Gold",
-    "model": "MODD",
-    "url": "https://blackgoldaccessories.com/bowsights/modd/",
-    "priceUsd": 629.95,
-    "verified": true,
-    "tapeWidthIn": null,
-    "weightG": null,
-    "image": "https://blackgoldaccessories.com/wp-content/uploads/sites/29/2023/12/Modd-Carousel-3Pin-Vert-PicRail-2.jpg"
-  },
-  {
-    "category": "sight",
-    "brand": "Black Gold",
-    "model": "Pro FX",
-    "url": "https://blackgoldaccessories.com/bowsights/pro-fx/",
-    "priceUsd": 349.95,
-    "verified": true,
-    "tapeWidthIn": null,
-    "weightG": null,
-    "image": "https://blackgoldaccessories.com/wp-content/uploads/sites/29/2025/11/carousel-profx01-1800.jpg"
-  },
-  {
-    "category": "sight",
-    "brand": "Black Gold",
-    "model": "Pro Hunter HD",
-    "url": "https://blackgoldaccessories.com/bowsights/pro-hunter-hd/",
-    "priceUsd": 319.95,
-    "verified": true,
-    "tapeWidthIn": null,
-    "weightG": null,
-    "image": "https://blackgoldaccessories.com/wp-content/uploads/sites/29/2025/11/carousel-prohunterhd01B-1800.jpg"
-  },
-  {
-    "category": "sight",
-    "brand": "Black Gold",
-    "model": "Pro Hunter HD Dovetail",
-    "url": "https://blackgoldaccessories.com/bowsights/pro-hunter-hd-dovetail/",
-    "priceUsd": 359.95,
-    "verified": true,
-    "tapeWidthIn": null,
-    "weightG": null,
-    "image": "https://blackgoldaccessories.com/wp-content/uploads/sites/29/2025/11/carousel-ProHunterHD-Dovetail01-1800.jpg"
-  },
-  {
-    "category": "sight",
-    "brand": "Black Gold",
-    "model": "Pro Hunter HD Quick Link",
-    "url": "https://blackgoldaccessories.com/bowsights/pro-hunter-hd-quick-link/",
-    "priceUsd": 359.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "weightG": null,
-    "image": "https://blackgoldaccessories.com/wp-content/uploads/sites/29/2025/11/carousel-ProHunterHD-Quicklink01-1800.jpg"
-  },
-  {
-    "category": "sight",
-    "brand": "Black Gold",
-    "model": "Pro Sight",
-    "url": "https://blackgoldaccessories.com/bowsights/pro-sight/",
-    "priceUsd": 369.95,
-    "verified": true,
-    "tapeWidthIn": null,
-    "weightG": null,
-    "image": "https://blackgoldaccessories.com/wp-content/uploads/sites/29/2025/11/carousel-pro01-1800.jpg"
-  },
-  {
-    "category": "sight",
-    "brand": "Black Gold",
-    "model": "Pro Sight (Copy)",
-    "url": "https://blackgoldsights.com/main/pro-sight-copy/",
-    "priceUsd": 349.95,
-    "verified": true,
-    "tapeWidthIn": null,
-    "weightG": null,
-    "image": "https://blackgoldsights.com/wp-content/uploads/sites/10/2022/01/carousel-pro01-1800.jpg"
-  },
-  {
-    "category": "sight",
-    "brand": "Black Gold",
-    "model": "Quick Link",
-    "url": "https://blackgoldaccessories.com/sight-accessories/quick-link/",
-    "priceUsd": 124.95,
-    "verified": true,
-    "tapeWidthIn": null,
-    "weightG": null,
-    "image": "https://blackgoldaccessories.com/wp-content/uploads/sites/29/2026/01/3-QuickLinks-v2.jpg"
-  },
-  {
-    "category": "sight",
-    "brand": "Black Gold",
-    "model": "Revenge",
-    "url": "https://blackgoldaccessories.com/bowsights/revenge/",
-    "priceUsd": 289.95,
-    "verified": true,
-    "tapeWidthIn": null,
-    "weightG": null,
-    "image": "https://blackgoldaccessories.com/wp-content/uploads/sites/29/2025/11/carousel-revenge01-1800.jpg"
-  },
-  {
-    "category": "sight",
-    "brand": "Black Gold",
-    "model": "Rush",
-    "url": "https://blackgoldaccessories.com/bowsights/rush/",
-    "priceUsd": 119.95,
-    "verified": true,
-    "tapeWidthIn": null,
-    "weightG": null,
-    "image": "https://blackgoldaccessories.com/wp-content/uploads/sites/29/2025/11/carousel-rush01B-1800.jpg"
-  },
-  {
-    "category": "sight",
-    "brand": "Black Gold",
-    "model": "Sight Light",
-    "url": "https://blackgoldsights.com/accessories/sight-light/",
-    "priceUsd": 34.95,
-    "verified": true,
-    "tapeWidthIn": null,
-    "weightG": null,
-    "image": "https://blackgoldsights.com/wp-content/uploads/sites/10/2022/02/sight-lamp-featured-image-v1.png"
-  },
-  {
-    "category": "sight",
-    "brand": "Black Gold",
-    "model": "Widow Maker",
-    "url": "https://blackgoldaccessories.com/bowsights/widow-maker/",
-    "priceUsd": 189.95,
-    "verified": true,
-    "tapeWidthIn": null,
-    "weightG": null,
-    "image": "https://blackgoldaccessories.com/wp-content/uploads/sites/29/2025/11/carousel-widowmaker01B-1800.jpg"
-  },
-  {
-    "category": "sight",
-    "brand": "Black Gold",
-    "model": "Wing Truss Bars",
-    "url": "https://blackgoldaccessories.com/sight-accessories/wing-truss-bars/",
-    "priceUsd": 135.95,
-    "verified": true,
-    "tapeWidthIn": null,
-    "weightG": null,
-    "image": "https://blackgoldaccessories.com/wp-content/uploads/sites/29/2024/07/card-accessory-wing-truss-bars.jpg"
-  },
-  {
-    "category": "sight",
-    "brand": "Bowtech",
-    "model": "CenterMass Dual Trac",
-    "url": "https://bowtecharchery.com/sights-accessories/centermass-dual-trac/",
-    "priceUsd": 389.95,
-    "verified": true,
-    "tapeWidthIn": null,
-    "weightG": null,
-    "image": "https://bowtecharchery.com/wp-content/uploads/2020/09/CenterMass2025-DualTrac2.jpg"
-  },
-  {
-    "category": "sight",
-    "brand": "Bowtech",
-    "model": "CenterMass Pro Hunter",
-    "url": "https://bowtecharchery.com/accessories/centermass-pro-hunter/",
-    "priceUsd": 339.95,
-    "verified": true,
-    "tapeWidthIn": null,
-    "weightG": null,
-    "image": "https://bowtecharchery.com/wp-content/uploads/2020/09/CenterMass2025-ProHunter2.jpg"
   },
   {
     "category": "sight",
@@ -2628,17 +2253,6 @@
     "verified": false,
     "tapeWidthIn": null,
     "weightG": null
-  },
-  {
-    "category": "stabilizer",
-    "brand": "Bowtech",
-    "model": "CenterMass Stabilizer",
-    "url": "https://bowtecharchery.com/accessories/centermass-stabilizer/",
-    "priceUsd": 119.95,
-    "verified": true,
-    "tapeWidthIn": null,
-    "weightG": null,
-    "image": "https://bowtecharchery.com/wp-content/uploads/2023/10/CenterMass-Stabilizer12-angle.jpg"
   },
   {
     "category": "stabilizer",
@@ -3052,6 +2666,17 @@
     "tapeWidthIn": null,
     "weightG": null,
     "image": "https://gasbowstrings.com/wp-content/uploads/2026/10/IMG_2363-scaled.jpg"
+  },
+  {
+    "category": "string",
+    "brand": "GAS Bowstrings",
+    "model": "Mathews Lift 29.5 / Lift X 29.5",
+    "url": "https://gasbowstrings.com/product/mathews-lift-29-5-lift-x-29-5-systmx-string-only/",
+    "priceUsd": 80.0,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://gasbowstrings.com/wp-content/uploads/2026/10/IMG_2562-scaled.jpg"
   },
   {
     "category": "string",

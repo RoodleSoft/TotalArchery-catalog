@@ -875,7 +875,7 @@
     "phone": "",
     "email": "blackmountainbowmen@gmail.com",
     "website": "",
-    "programs": "indoor range",
+    "programs": "",
     "reviewStatus": "approved",
     "externalRef": "nfaa:black mountain bowmen|black mountain bowmen bmb avenida espana san jose california 95139"
   },
@@ -885,7 +885,7 @@
     "phone": "",
     "email": "",
     "website": "",
-    "programs": "",
+    "programs": "3d range, outdoor range, outdoor field range, 3d range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:black sheep bowmen|po box 6075 jber alaska 99506"
   },
@@ -1330,6 +1330,16 @@
     "externalRef": "usarchery:california indoor archers|1300 kingsdale avenue redondo beach california united states of america 90278"
   },
   {
+    "name": "California State University, Northridge (CSUN)",
+    "address": "18111 Nordhoff St, Northridge, California, United States of America, 91330",
+    "phone": "+18186777678",
+    "email": "archery@csunas.org",
+    "website": "https://www.csun.edu/as/departments/sport-clubs/available-sports/archery-club",
+    "programs": "",
+    "reviewStatus": "approved",
+    "externalRef": "usarchery:california state university northridge csun|18111 nordhoff st northridge california united states of america 91330"
+  },
+  {
     "name": "California State University,Fullerton- Archery",
     "address": "800 N State College Blvd, TSU 247, Fullerton, California, United States of America, 92834",
     "phone": "",
@@ -1398,16 +1408,6 @@
     "programs": "indoor range, outdoor field range, 3d range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:capitol city bowmen|14318 littlerock rd sw rochester washington 98579"
-  },
-  {
-    "name": "Carolina Bullseyes",
-    "address": "7711 Welborn St, Unit 109, Raleigh, North Carolina, United States of America, 27615",
-    "phone": "919-272-2635",
-    "email": "john@lifetimearchery.com",
-    "website": "http://www.lifetimearchery.com",
-    "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program",
-    "reviewStatus": "approved",
-    "externalRef": "usarchery:carolina bullseyes|7711 welborn st unit 109 raleigh north carolina united states of america 27615"
   },
   {
     "name": "Carson Newman University Eagle Archers",
@@ -2125,7 +2125,7 @@
     "phone": "+15635056365",
     "email": "president@davenportvalleyarchers.com",
     "website": "http://davenportvalleyarchers.com",
-    "programs": "",
+    "programs": "3d range, outdoor range, outdoor field range, 3d range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:davenport valley archers|15535 270th street long grove iowa 52756"
   },
@@ -2722,7 +2722,7 @@
   {
     "name": "Fremont Archery Inc.",
     "address": "447 1/2 Main St., Fremont, Nebraska, United States of America, 68025",
-    "phone": "402-317-7639",
+    "phone": "+14023177639",
     "email": "fremontarchery@gmail.com",
     "website": "http://www.fremontarchery.com",
     "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program, 3D Archery",
@@ -3008,6 +3008,16 @@
     "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program, 3D Archery",
     "reviewStatus": "approved",
     "externalRef": "usarchery:gotham archery baton rouge|gotham archery baton rouge 14455 greenwell springs road suite f central louisiana united states of america 70739"
+  },
+  {
+    "name": "Granby Bow & Gun Club Inc",
+    "address": "19 Oakridge Circle, Ware, Massachusetts, 01082",
+    "phone": "",
+    "email": "",
+    "website": "",
+    "programs": "outdoor field range, indoor range",
+    "reviewStatus": "approved",
+    "externalRef": "nfaa:granby bow gun club inc|19 oakridge circle ware massachusetts 01082"
   },
   {
     "name": "Grand County Archers Association",
@@ -4090,16 +4100,6 @@
     "externalRef": "usarchery:legacy archery joad|3733 n beach st ft worth texas united states of america 76137"
   },
   {
-    "name": "Lenape Archers",
-    "address": "25 Sullivan Ave, Liberty, New York, 12754",
-    "phone": "",
-    "email": "",
-    "website": "",
-    "programs": "indoor range",
-    "reviewStatus": "approved",
-    "externalRef": "nfaa:lenape archers|25 sullivan ave liberty new york 12754"
-  },
-  {
     "name": "Leo's Field Archers",
     "address": "2211 Jamison Rd, East Aurora, New York, 14052",
     "phone": "",
@@ -4828,16 +4828,6 @@
     "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program, 3D Archery, Field Archery, Olympic Archery in the Schools",
     "reviewStatus": "approved",
     "externalRef": "usarchery:music city archers|1113 murfreesboro rd suite 205 franklin tennessee united states of america 37064"
-  },
-  {
-    "name": "Muskegon Bowman",
-    "address": "2380 Central Road, Muskegon, Michigan, United States of America, 49445",
-    "phone": "6168900841",
-    "email": "jaschultes@yahoo.com",
-    "website": "http://Muskegonbowmwn.com",
-    "programs": "",
-    "reviewStatus": "approved",
-    "externalRef": "usarchery:muskegon bowman|2380 central road muskegon michigan united states of america 49445"
   },
   {
     "name": "Muskegon Bowmen Inc",
@@ -5805,7 +5795,7 @@
     "phone": "",
     "email": "pinehillarchery@gmail.com",
     "website": "",
-    "programs": "",
+    "programs": "outdoor field range, indoor range, outdoor range, 3d range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:pine hill archery club|167 cartersburg rd danville indiana 46122"
   },
@@ -6028,6 +6018,16 @@
     "programs": "",
     "reviewStatus": "approved",
     "externalRef": "usarchery:purdue archery|1545 s river rd west lafayette indiana united states of america 47906"
+  },
+  {
+    "name": "Quest archery LLC",
+    "address": "589 Park Avenue, Worcester, Massachusetts, 01603",
+    "phone": "7742721412",
+    "email": "amanda@questarchery.club",
+    "website": "",
+    "programs": "indoor range",
+    "reviewStatus": "approved",
+    "externalRef": "nfaa:quest archery llc|589 park avenue worcester massachusetts 01603"
   },
   {
     "name": "RIT Club Archery",
@@ -7640,6 +7640,16 @@
     "externalRef": "nfaa:the villages archery club|1300 paradise lady lake florida 32159"
   },
   {
+    "name": "Third City Archers Inc",
+    "address": "317 North Elm Street, GRAND ISLAND, Nebraska, 68802",
+    "phone": "",
+    "email": "",
+    "website": "https://thirdcityarchers.wildapricot.org/",
+    "programs": "outdoor field range, indoor range",
+    "reviewStatus": "approved",
+    "externalRef": "nfaa:third city archers inc|317 north elm street grand island nebraska 68802"
+  },
+  {
     "name": "Thomas More University Archery",
     "address": "333 Thomas More parkway, Crestview Hills, Kentucky, United States of America, 41015",
     "phone": "+18593443532",
@@ -7775,7 +7785,7 @@
     "phone": "",
     "email": "",
     "website": "",
-    "programs": "indoor range",
+    "programs": "outdoor field range, indoor range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:tri cities bowmen|2 rockwell road vestal new york 13850"
   },
@@ -8625,7 +8635,7 @@
     "phone": "",
     "email": "",
     "website": "",
-    "programs": "indoor range",
+    "programs": "",
     "reviewStatus": "approved",
     "externalRef": "nfaa:winnemucca archers|4910 w commander dr winnemucca nevada 89445"
   },

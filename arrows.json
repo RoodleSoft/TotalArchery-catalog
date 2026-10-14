@@ -1756,6 +1756,29 @@
     "url": "https://eastonarchery.com/arrows_/x10-protour/"
   },
   {
+    "brand": "Easton",
+    "model": "X4 Podium Grade Standard Grade",
+    "category": "hunting",
+    "diameterIn": 0.22,
+    "gpiBySpine": {
+      "340": 8.3,
+      "400": 7.6,
+      "450": 7.2,
+      "500": 6.7,
+      "550": 6.3,
+      "600": 6.3,
+      "650": 6.0,
+      "700": 5.5,
+      "750": 5.4,
+      "800": 5.1,
+      "850": 5.1,
+      "900": 5.0
+    },
+    "verified": true,
+    "msrpUsd": null,
+    "url": "https://eastonarchery.com/arrows_/x4-podium-grade-standard-grade/"
+  },
+  {
     "brand": "Fivics",
     "model": "Five-X",
     "category": "target",
