@@ -412,7 +412,7 @@
     "pins": null,
     "pinSizes": "LED aiming point",
     "dovetail": false,
-    "weightOz": 20.0,
+    "weightOz": 20,
     "axisAdjust": true,
     "url": "https://www.burrisoptics.com/bow-sights/oracle-2-rangefinding-bow-sight",
     "verified": false,
@@ -524,7 +524,7 @@
     "pins": 3,
     "pinSizes": ".010/.019",
     "dovetail": true,
-    "weightOz": 11.0,
+    "weightOz": 11,
     "axisAdjust": true,
     "url": "https://custombowequipment.com/products/trek-pro-sight",
     "verified": true,
@@ -650,7 +650,7 @@
     "pins": null,
     "pinSizes": "LED single/multi",
     "dovetail": false,
-    "weightOz": 18.0,
+    "weightOz": 18,
     "axisAdjust": true,
     "url": "https://www.garmin.com/en-US/p/597981",
     "verified": false,
@@ -1314,5 +1314,14 @@
     "verified": true,
     "tapeWidthIn": null,
     "tapeLengthIn": null
+  },
+  {
+    "brand": "Trophy Ridge",
+    "model": "Fatal 3",
+    "type": "fixed multi-pin",
+    "pins": 3,
+    "pinSizes": ".019",
+    "url": "https://beararchery.com/products/trophy-ridge-fatal-bow-sight",
+    "verified": false
   }
 ]
