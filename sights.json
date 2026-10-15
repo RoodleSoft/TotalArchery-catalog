@@ -1381,5 +1381,16 @@
     "axisAdjust": true,
     "url": "https://beararchery.com/products/trophy-ridge-swft-duo-bow-sight",
     "verified": false
+  },
+  {
+    "brand": "Trophy Ridge",
+    "model": "Attack",
+    "type": "single-pin slider",
+    "pins": 1,
+    "pinSizes": ".019",
+    "dovetail": false,
+    "axisAdjust": true,
+    "url": "https://beararchery.com/products/trophy-ridge-attack-bow-sight",
+    "verified": false
   }
 ]
