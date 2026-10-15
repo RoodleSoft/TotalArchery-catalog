@@ -1494,5 +1494,15 @@
     "axisAdjust": true,
     "url": "https://beararchery.com/products/trophy-ridge-swft-bow-sight",
     "verified": false
+  },
+  {
+    "brand": "Trophy Ridge",
+    "model": "Trilogy",
+    "type": "fixed multi-pin",
+    "pins": 3,
+    "pinSizes": ".019",
+    "dovetail": false,
+    "url": "https://beararchery.com/products/trophy-ridge-trilogy-3-pin-bow-sight",
+    "verified": false
   }
 ]
