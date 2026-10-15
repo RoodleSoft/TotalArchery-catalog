@@ -1525,5 +1525,16 @@
     "axisAdjust": true,
     "url": "https://www.hhasports.com/products/tetra-series/",
     "verified": false
+  },
+  {
+    "brand": "Spot Hogg",
+    "model": "Hunter Hogg-It",
+    "type": "fixed multi-pin",
+    "pins": 5,
+    "pinSizes": ".010/.019",
+    "dovetail": true,
+    "axisAdjust": true,
+    "url": "https://spot-hogg.com/sights/",
+    "verified": false
   }
 ]
