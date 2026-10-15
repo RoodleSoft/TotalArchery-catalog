@@ -1323,5 +1323,14 @@
     "pinSizes": ".019",
     "url": "https://beararchery.com/products/trophy-ridge-fatal-bow-sight",
     "verified": false
+  },
+  {
+    "brand": "Trophy Ridge",
+    "model": "Gem",
+    "type": "fixed multi-pin",
+    "pins": 3,
+    "pinSizes": ".019",
+    "url": "https://beararchery.com/products/trophy-ridge-gem-bow-sight",
+    "verified": false
   }
 ]
