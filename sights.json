@@ -1515,5 +1515,15 @@
     "axisAdjust": true,
     "url": "https://www.hhasports.com/products/tetra-series/",
     "verified": false
+  },
+  {
+    "brand": "HHA",
+    "model": "Tetra",
+    "type": "single-pin slider",
+    "pins": 1,
+    "pinSizes": ".010/.019",
+    "axisAdjust": true,
+    "url": "https://www.hhasports.com/products/tetra-series/",
+    "verified": false
   }
 ]
