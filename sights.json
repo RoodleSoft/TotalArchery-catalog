@@ -1484,5 +1484,15 @@
     "axisAdjust": true,
     "url": "https://beararchery.com/products/trophy-ridge-swft-trio-bow-sight",
     "verified": false
+  },
+  {
+    "brand": "Trophy Ridge",
+    "model": "SWFT",
+    "type": "single-pin slider",
+    "pins": 1,
+    "dovetail": false,
+    "axisAdjust": true,
+    "url": "https://beararchery.com/products/trophy-ridge-swft-bow-sight",
+    "verified": false
   }
 ]
