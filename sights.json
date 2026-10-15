@@ -1432,5 +1432,16 @@
     "dovetail": false,
     "url": "https://beararchery.com/products/trophy-ridge-peak-bow-sight",
     "verified": false
+  },
+  {
+    "brand": "Trophy Ridge",
+    "model": "React 5 Max",
+    "type": "fixed multi-pin",
+    "pins": 5,
+    "pinSizes": ".010/.019",
+    "dovetail": false,
+    "axisAdjust": true,
+    "url": "https://beararchery.com/products/trophy-ridge-react-5-max-bow-sight",
+    "verified": false
   }
 ]
