@@ -1350,5 +1350,15 @@
     "pinSizes": ".019",
     "url": "https://beararchery.com/products/trophy-ridge-ridgeline-bow-sight",
     "verified": false
+  },
+  {
+    "brand": "Trophy Ridge",
+    "model": "Hotwire",
+    "type": "multi-pin slider",
+    "pins": 3,
+    "pinSizes": ".019",
+    "axisAdjust": true,
+    "url": "https://beararchery.com/products/trophy-ridge-hotwire-bow-sight",
+    "verified": false
   }
 ]
