@@ -1369,5 +1369,17 @@
     "pinSizes": ".019",
     "url": "https://beararchery.com/products/trophy-ridge-retaliate-5-pin-bow-sight",
     "verified": false
+  },
+  {
+    "brand": "Trophy Ridge",
+    "model": "SWFT Duo",
+    "type": "multi-pin slider",
+    "pins": 2,
+    "pinSizes": ".019",
+    "dovetail": false,
+    "weightOz": 13,
+    "axisAdjust": true,
+    "url": "https://beararchery.com/products/trophy-ridge-swft-duo-bow-sight",
+    "verified": false
   }
 ]
