@@ -1453,5 +1453,15 @@
     "axisAdjust": true,
     "url": "https://www.beararchery.com/products/trophy-ridge-react-h4-bow-sight",
     "verified": false
+  },
+  {
+    "brand": "Trophy Ridge",
+    "model": "React H4X",
+    "type": "fixed multi-pin",
+    "pins": 4,
+    "pinSizes": ".019",
+    "axisAdjust": true,
+    "url": "https://beararchery.com/products/trophy-ridge-h4x-bow-sight",
+    "verified": false
   }
 ]
