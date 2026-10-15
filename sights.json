@@ -1412,5 +1412,15 @@
     "dovetail": false,
     "url": "https://beararchery.com/products/trophy-ridge-dimension-5-pin-sight",
     "verified": false
+  },
+  {
+    "brand": "Trophy Ridge",
+    "model": "Drive",
+    "type": "single-pin slider",
+    "pins": 1,
+    "pinSizes": ".029",
+    "dovetail": false,
+    "url": "https://beararchery.com/products/trophy-ridge-drive-slider-bow-sight",
+    "verified": false
   }
 ]
