@@ -1473,5 +1473,16 @@
     "dovetail": true,
     "url": "https://beararchery.com/products/trophy-ridge-h5x-bow-sight",
     "verified": false
+  },
+  {
+    "brand": "Trophy Ridge",
+    "model": "SWFT Trio",
+    "type": "multi-pin slider",
+    "pins": 3,
+    "pinSizes": ".019",
+    "dovetail": false,
+    "axisAdjust": true,
+    "url": "https://beararchery.com/products/trophy-ridge-swft-trio-bow-sight",
+    "verified": false
   }
 ]
