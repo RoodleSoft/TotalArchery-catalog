@@ -1332,5 +1332,14 @@
     "pinSizes": ".019",
     "url": "https://beararchery.com/products/trophy-ridge-gem-bow-sight",
     "verified": false
+  },
+  {
+    "brand": "Trophy Ridge",
+    "model": "Mist",
+    "type": "fixed multi-pin",
+    "pins": 3,
+    "pinSizes": ".019",
+    "url": "https://beararchery.com/products/trophy-ridge-mist-bow-sight",
+    "verified": false
   }
 ]
