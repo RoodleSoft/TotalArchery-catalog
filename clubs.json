@@ -2920,16 +2920,6 @@
     "externalRef": "nfaa:gold coast archers club inc|10875 w atlantic ave delray beach florida 33436"
   },
   {
-    "name": "Gold-N-Grain Archery",
-    "address": "75 McCullough Rd, Sharpsville, Pennsylvania, United States of America, 16150",
-    "phone": "724-962-3620",
-    "email": "goldngrain@hotmail.com",
-    "website": "http://www.goldngrain.com",
-    "programs": "Junior Olympic Archery Development (JOAD), 3D Archery",
-    "reviewStatus": "approved",
-    "externalRef": "usarchery:gold n grain archery|75 mccullough rd sharpsville pennsylvania united states of america 16150"
-  },
-  {
     "name": "Golden Archers Academy JOAD",
     "address": "15130 Marsh Lane #1076, Addison, Texas, United States of America, 75001",
     "phone": "+1 580-335-4509",
@@ -3840,16 +3830,6 @@
     "externalRef": "usarchery:kestrel archery|80 pleasant st 2nd floor dracut massachusetts united states of america 01826"
   },
   {
-    "name": "Khan Archery Club",
-    "address": "16801 Euclid St, Fountain Valley, California, United States of America, 92708-3005",
-    "phone": "+13108493658",
-    "email": "crvman77@icloud.com",
-    "website": "",
-    "programs": "Junior Olympic Archery Development (JOAD)",
-    "reviewStatus": "approved",
-    "externalRef": "usarchery:khan archery club|16801 euclid st fountain valley california united states of america 92708 3005"
-  },
-  {
     "name": "Kings Mountain Archers, Inc",
     "address": "1100 Kings Mountain Rd, Brown County Parks Gate # H11, Woodside, California, 94062",
     "phone": "",
@@ -4651,13 +4631,13 @@
   },
   {
     "name": "Midlands Archery Center",
-    "address": "366 Ebenezer Rd., Leesville, South Carolina, United States of America, 29070",
+    "address": "376 Ebenezer Rd., Leesville, South Carolina, United States of America, 29070",
     "phone": "+1 803-807-8740",
     "email": "coachindy@hotmail.com",
     "website": "http://www.midlandsarcherycenter.com",
     "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program, 3D Archery",
     "reviewStatus": "approved",
-    "externalRef": "usarchery:midlands archery center|366 ebenezer rd leesville south carolina united states of america 29070"
+    "externalRef": "usarchery:midlands archery center|376 ebenezer rd leesville south carolina united states of america 29070"
   },
   {
     "name": "Midlands Archery Center - Dogwood Point Archery Range",
@@ -4842,8 +4822,8 @@
   {
     "name": "Muskingum University",
     "address": "10 College Drive, New Concord, Ohio, United States of America, 43762",
-    "phone": "+17408266191",
-    "email": "craigh@muskingum.edu",
+    "phone": "+17406076077",
+    "email": "wesleye@muskingum.edu",
     "website": "http://Muskingum.edu",
     "programs": "",
     "reviewStatus": "approved",
@@ -6018,6 +5998,16 @@
     "programs": "",
     "reviewStatus": "approved",
     "externalRef": "usarchery:purdue archery|1545 s river rd west lafayette indiana united states of america 47906"
+  },
+  {
+    "name": "Quest Archery",
+    "address": "589 Park Ave, Unit 1&2, Worcester, Massachusetts, United States of America, 01603",
+    "phone": "+17744936090",
+    "email": "amanda@questarchery.club",
+    "website": "http://www.facebook.com/questarchery",
+    "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program",
+    "reviewStatus": "approved",
+    "externalRef": "usarchery:quest archery|589 park ave unit 1 2 worcester massachusetts united states of america 01603"
   },
   {
     "name": "Quest archery LLC",
