@@ -1360,5 +1360,14 @@
     "axisAdjust": true,
     "url": "https://beararchery.com/products/trophy-ridge-hotwire-bow-sight",
     "verified": false
+  },
+  {
+    "brand": "Trophy Ridge",
+    "model": "Retaliate",
+    "type": "fixed multi-pin",
+    "pins": 5,
+    "pinSizes": ".019",
+    "url": "https://beararchery.com/products/trophy-ridge-retaliate-5-pin-bow-sight",
+    "verified": false
   }
 ]
