@@ -1422,5 +1422,15 @@
     "dovetail": false,
     "url": "https://beararchery.com/products/trophy-ridge-drive-slider-bow-sight",
     "verified": false
+  },
+  {
+    "brand": "Trophy Ridge",
+    "model": "Peak",
+    "type": "fixed multi-pin",
+    "pins": 5,
+    "pinSizes": ".019",
+    "dovetail": false,
+    "url": "https://beararchery.com/products/trophy-ridge-peak-bow-sight",
+    "verified": false
   }
 ]
