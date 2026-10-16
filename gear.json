@@ -5554,12 +5554,12 @@
     "category": "scope",
     "brand": "Shrewd",
     "model": "Optum Ring System",
-    "url": "https://shrewdarchery.com/products/optum-ring-system-dual-fiber-pin",
-    "priceUsd": 85.0,
+    "url": "https://shrewdarchery.com/products/optum-ring-system",
+    "priceUsd": 35.0,
     "verified": true,
     "tapeWidthIn": null,
     "weightG": null,
-    "image": "https://cdn.shopify.com/s/files/1/0257/0813/4455/files/29mm_Optum_Dual_Fiber_Pin_010.png"
+    "image": "https://cdn.shopify.com/s/files/1/0257/0813/4455/products/OptumORSAssem-2.png"
   },
   {
     "category": "scope",
@@ -8589,17 +8589,6 @@
   {
     "category": "sight",
     "brand": "Trophy Ridge",
-    "model": "React H4 Sight 4 Pin .019",
-    "url": "https://xspotarchery.com/products/trophy-ridge-react-h4-sight-4-pin-019-lh",
-    "priceUsd": 99.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "weightG": null,
-    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/download_f3414921-2c5d-4729-810f-14c4dad4d86f.png"
-  },
-  {
-    "category": "sight",
-    "brand": "Trophy Ridge",
     "model": "React H4X Bow Sight",
     "url": "https://beararchery.com/products/trophy-ridge-h4x-bow-sight",
     "priceUsd": 109.99,
@@ -8847,17 +8836,6 @@
     "tapeWidthIn": null,
     "weightG": null,
     "image": "https://cdn.shopify.com/s/files/1/0488/5331/9840/files/trophy-ridge-swft-bow-sight_sight-nonreact__as421_5.png"
-  },
-  {
-    "category": "sight",
-    "brand": "Trophy Ridge",
-    "model": "Trilogy 3 Pin Bow Sight",
-    "url": "https://xspotarchery.com/products/trophy-ridge-trilogy-bow-sight",
-    "priceUsd": 139.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "weightG": null,
-    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/as903da_trilogy_1424.png"
   },
   {
     "category": "sight",
