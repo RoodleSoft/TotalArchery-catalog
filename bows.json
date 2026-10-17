@@ -1292,7 +1292,7 @@
     "tier": "flagship",
     "verified": true,
     "note": null,
-    "msrpUsd": null,
+    "msrpUsd": 1299,
     "url": "https://lancasterarchery.com/products/bowtech-ss34-compound-hunting-bow"
   },
   {
@@ -2652,7 +2652,7 @@
     "tier": "budget",
     "verified": true,
     "note": "5-55 lb / 18-30in draw; since replaced by the Radian",
-    "msrpUsd": null,
+    "msrpUsd": 349,
     "url": null
   },
   {
