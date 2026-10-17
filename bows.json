@@ -1030,7 +1030,7 @@
     "ataIn": 33,
     "braceIn": 6.75,
     "speedFps": 338,
-    "massWeightOz": null,
+    "massWeightOz": 57.6,
     "centerShotIn": null,
     "target": false,
     "tier": "flagship",
@@ -1110,13 +1110,13 @@
     "ataIn": 30.5,
     "braceIn": 6.44,
     "speedFps": 338,
-    "massWeightOz": null,
+    "massWeightOz": 65.44,
     "centerShotIn": null,
     "target": false,
     "tier": "flagship",
     "verified": true,
     "note": null,
-    "msrpUsd": null,
+    "msrpUsd": 1499,
     "url": "https://bowtecharchery.com/bows/alliance/"
   },
   {
@@ -1190,13 +1190,13 @@
     "ataIn": 34,
     "braceIn": 7,
     "speedFps": 331,
-    "massWeightOz": null,
+    "massWeightOz": 75.2,
     "centerShotIn": null,
     "target": false,
     "tier": "flagship",
     "verified": true,
     "note": null,
-    "msrpUsd": null,
+    "msrpUsd": 1449,
     "url": "https://bowtecharchery.com/bows/proven-34/"
   },
   {
@@ -1206,13 +1206,13 @@
     "ataIn": 34,
     "braceIn": 6.625,
     "speedFps": 336,
-    "massWeightOz": null,
+    "massWeightOz": 75.2,
     "centerShotIn": null,
     "target": false,
     "tier": "flagship",
     "verified": true,
     "note": null,
-    "msrpUsd": null,
+    "msrpUsd": 1449,
     "url": "https://bowtecharchery.com/bows/proven-34/"
   },
   {
@@ -1228,7 +1228,7 @@
     "tier": "flagship",
     "verified": true,
     "note": null,
-    "msrpUsd": null,
+    "msrpUsd": 1399,
     "url": null
   },
   {
@@ -1254,13 +1254,13 @@
     "ataIn": 28,
     "braceIn": 6.125,
     "speedFps": 326,
-    "massWeightOz": null,
+    "massWeightOz": 62.4,
     "centerShotIn": null,
     "target": false,
     "tier": "flagship",
     "verified": true,
     "note": "short draw",
-    "msrpUsd": null,
+    "msrpUsd": 1299,
     "url": "https://bowtecharchery.com/bows/eva-gen3/"
   },
   {
@@ -1324,7 +1324,7 @@
     "tier": "flagship",
     "verified": true,
     "note": null,
-    "msrpUsd": null,
+    "msrpUsd": 1199,
     "url": null
   },
   {
@@ -1340,7 +1340,7 @@
     "tier": "flagship",
     "verified": true,
     "note": "corrected: this row had 33 in / 6.5 in, but the Lancaster Archery product page (maker specs) lists 30 in ATA, 7 in brace, 323 fps IBO",
-    "msrpUsd": null,
+    "msrpUsd": 1199.99,
     "url": null
   },
   {
@@ -1932,7 +1932,7 @@
     "tier": "flagship",
     "verified": true,
     "note": null,
-    "msrpUsd": null,
+    "msrpUsd": 659.99,
     "url": "https://www.beararchery.com/products/bear-archery-alaskan-pro-compound-bow"
   },
   {
@@ -2060,7 +2060,7 @@
     "tier": "budget",
     "verified": true,
     "note": null,
-    "msrpUsd": 429.99,
+    "msrpUsd": 459.99,
     "url": "https://lancasterarchery.com/products/bear-legend-xr-compound-hunting-bow"
   },
   {
@@ -2166,13 +2166,13 @@
     "ataIn": 31,
     "braceIn": 6.375,
     "speedFps": 335,
-    "massWeightOz": null,
+    "massWeightOz": 72,
     "centerShotIn": null,
     "target": false,
     "tier": "enthusiast",
     "verified": true,
     "note": null,
-    "msrpUsd": null,
+    "msrpUsd": 1349.99,
     "url": "https://dartonarchery.com/tritech-31/"
   },
   {
@@ -2198,13 +2198,13 @@
     "ataIn": 35,
     "braceIn": 6.375,
     "speedFps": 332,
-    "massWeightOz": null,
+    "massWeightOz": 76,
     "centerShotIn": null,
     "target": false,
     "tier": "enthusiast",
     "verified": true,
     "note": null,
-    "msrpUsd": null,
+    "msrpUsd": 1349.99,
     "url": "https://dartonarchery.com/tritech-35/"
   },
   {
@@ -2300,8 +2300,8 @@
     "tier": "enthusiast",
     "verified": true,
     "note": "newer ST2-generation cam, distinct from the older 2022 Sequel 31; actual speed at tested draw weight, not IBO",
-    "msrpUsd": null,
-    "url": null
+    "msrpUsd": 1249.99,
+    "url": "https://lancasterarchery.com/products/darton-sequel-31-st2-compound-hunting-bow"
   },
   {
     "brand": "Darton",
@@ -2316,8 +2316,8 @@
     "tier": "enthusiast",
     "verified": true,
     "note": "actual speed at tested draw weight, not IBO",
-    "msrpUsd": null,
-    "url": null
+    "msrpUsd": 1299.99,
+    "url": "https://farmsteadoutdoors.com/product/darton-archery-sequel-35-st2-compound-hunting-bow/"
   },
   {
     "brand": "Darton",
