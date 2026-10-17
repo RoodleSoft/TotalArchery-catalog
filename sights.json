@@ -1536,5 +1536,16 @@
     "axisAdjust": true,
     "url": "https://spot-hogg.com/sights/",
     "verified": false
+  },
+  {
+    "brand": "Trophy Ridge",
+    "model": "Fix 3",
+    "type": "fixed multi-pin",
+    "pins": 3,
+    "pinSizes": ".019",
+    "dovetail": true,
+    "axisAdjust": true,
+    "url": "https://www.beararchery.com/products/trophy-ridge-fix-bow-sight",
+    "verified": false
   }
 ]
