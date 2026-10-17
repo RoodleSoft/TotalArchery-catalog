@@ -182,14 +182,14 @@
     "ataIn": 33.5,
     "braceIn": 6.375,
     "speedFps": 340,
-    "massWeightOz": null,
+    "massWeightOz": 68.8,
     "centerShotIn": null,
     "target": false,
     "tier": "flagship",
     "verified": true,
     "note": null,
-    "msrpUsd": null,
-    "url": null
+    "msrpUsd": 2149,
+    "url": "https://mountain-archery.com/products/hoyt-archery-carbon-rx-9-ultra"
   },
   {
     "brand": "Hoyt",
@@ -1293,7 +1293,7 @@
     "verified": true,
     "note": null,
     "msrpUsd": null,
-    "url": null
+    "url": "https://lancasterarchery.com/products/bowtech-ss34-compound-hunting-bow"
   },
   {
     "brand": "Bowtech",
@@ -2012,7 +2012,7 @@
     "tier": "flagship",
     "verified": true,
     "note": null,
-    "msrpUsd": null,
+    "msrpUsd": 1249.99,
     "url": "https://www.brothersoutdoors.us/bear-archery-bow-persist.html"
   },
   {
