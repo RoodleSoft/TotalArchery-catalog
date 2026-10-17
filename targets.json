@@ -2413,5 +2413,14 @@
     "replaceableCore": false,
     "url": "https://bigshottargets.com/products/real-wild-3d-ball",
     "verified": false
+  },
+  {
+    "brand": "BIGshot",
+    "model": "Real Wild 3D Stump Target",
+    "animal": "tree stump",
+    "sizeClass": "Real Wild",
+    "replaceableCore": false,
+    "url": "https://bigshottargets.com/products/real-wild-foam-stump",
+    "verified": false
   }
 ]
