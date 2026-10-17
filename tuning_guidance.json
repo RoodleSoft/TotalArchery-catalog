@@ -1,0 +1,930 @@
+{
+ "updatedAt": "2026-10-17T16:15:04.788340Z",
+ "note": "Generated from lib/features/tools/bow_tuning_systems.dart by tool/export_tuning_guidance.dart. Read-only copy.",
+ "systems": [
+  {
+   "id": "mathews_lst",
+   "name": "Limb Shift Technology (LST)",
+   "brand": "Mathews",
+   "since": "2025 Lift X, Title 34",
+   "summary": "A screw in each limb pocket shifts the limb tip sideways, so the cam moves with no press.",
+   "how": "A hex key drives a threaded adjuster on one side of each limb pocket; a gauge window on the pocket shows where the limb sits, and the housing is engraved R and L. Adjust with the bow at rest, top and bottom by the same amount.",
+   "steps": [
+    "Set the rest to centre shot first (Mathews designs to 13/16 in, plus or minus 1/16 in) and confirm nock height. Tune with LST, not the rest.",
+    "With the bow at rest (never at full draw), remove the cover screw over the adjuster on the limb you are moving. Keep the screws paired -- the longer one goes on the limb-shift side -- and only snug them.",
+    "Turn the hex key toward the R or L engraving that matches the direction you want the cams to go, a small amount at a time, watching the gauge window.",
+    "Do the same amount on the top and bottom limb so the cams stay in line, replace the cover screws, and re-shoot.",
+    "Repeat in small steps until the tear reads clean."
+   ],
+   "tools": "5/32 in hex key",
+   "range": "Large -- shops report up to a few inches of paper tear. One turn is about 0.020 in of limb-tip movement (a shop's figure, not a Mathews spec).",
+   "cautions": [
+    "Adjust at rest only. A grinding noise while turning is normal.",
+    "Do not over-tighten the cover screws -- it can cause bearing trouble."
+   ],
+   "open": [
+    "Which way to turn the screw (clockwise vs counter-clockwise) is not published, and two shops describe it differently -- follow the R/L engraving on your own bow, not a rotation direction.",
+    "Mathews publishes no LST tuning document; the hardware detail here comes from shop videos. Only the Lift X and Title 34 are confirmed to have LST."
+   ],
+   "confidence": "Partly from the maker, partly shop practice",
+   "pressNeeded": false,
+   "restFirst": false,
+   "centerShotIn": 0.8125,
+   "centerShotNote": "Mathews' own FAQ: \"Mathews bows are designed to have a 13/16 center shot plus or minus 1/16.\"",
+   "timing": null,
+   "limbBolts": null,
+   "horizontal": {
+    "nockLeft": "Shift the limb tips toward the L engraving (chase the tear), a little at a time, top and bottom equally, at rest, then re-shoot.",
+    "nockRight": "Shift the limb tips toward the R engraving, a little at a time, top and bottom equally, at rest, then re-shoot."
+   },
+   "vertical": null,
+   "timingFix": {
+    "topFirst": "Mathews publishes no owner-adjustable timing procedure. Have a shop check the timing marks and correct it in a limb-tip press rather than twisting cables by hand. (LST moves the limb tips sideways -- it does not change timing.)",
+    "bottomFirst": "Mathews publishes no owner-adjustable timing procedure. Have a shop check the timing marks and correct it in a limb-tip press rather than twisting cables by hand. (LST moves the limb tips sideways -- it does not change timing.)"
+   },
+   "sources": [
+    {
+     "label": "Mathews Lift X product page",
+     "url": "https://mathewsinc.com/pages/lift-x",
+     "official": true
+    },
+    {
+     "label": "Mathews FAQ",
+     "url": "https://mathewsinc.com/pages/faq",
+     "official": true
+    },
+    {
+     "label": "Shop video: LST walkthrough",
+     "url": "https://www.youtube.com/watch?v=panheo6uZYQ",
+     "official": false
+    }
+   ]
+  },
+  {
+   "id": "mathews_tophat",
+   "name": "Top Hat spacers",
+   "brand": "Mathews",
+   "since": "Halon through Phase4, V3, Vertix, Lift",
+   "summary": "Cam position on the axle is set by the Top Hat spacer size on each side of the cam; changing it needs a press.",
+   "how": "Top Hats are spacer pairs either side of the cam. Swapping sizes moves the cam sideways. Mathews sends this to an authorized dealer with a limb-tip press -- portable presses should not be used.",
+   "steps": [
+    "Set centre shot (13/16 in, plus or minus 1/16 in) and nock height, and check cam timing, before touching the spacers.",
+    "Shoot a paper tune and read the tear. Start with the top cam.",
+    "Have a shop with a limb-tip press swap the Top Hats: for a left tear use the thicker hat on the right side of the cam (cam moves left); for a right tear use the thicker hat on the left (cam moves right).",
+    "Keep the combined pair thickness within the limit (about 0.175 in per shop guidance) so the cam still sits properly.",
+    "Re-shoot. If the tear is not gone, adjust the bottom cam the same way."
+   ],
+   "tools": "",
+   "range": null,
+   "cautions": [
+    "Never use a roller or portable press on a Mathews."
+   ],
+   "open": [
+    "Mathews publishes no Top Hat sizing or direction table; the direction and the 0.175 in limit are from a hunting-media how-to, not a Mathews document."
+   ],
+   "confidence": "Partly from the maker, partly shop practice",
+   "pressNeeded": true,
+   "restFirst": true,
+   "centerShotIn": 0.8125,
+   "centerShotNote": "Mathews' own FAQ: \"Mathews bows are designed to have a 13/16 center shot plus or minus 1/16.\"",
+   "timing": null,
+   "limbBolts": "Each turn is about 2-4 lb; ask your Mathews dealer for the maximum turns for your model. Turn both bolts equally.",
+   "horizontal": {
+    "nockLeft": "Move the cams LEFT: thicker Top Hat on the right side of the cam, thinner on the left (top cam first, then bottom).",
+    "nockRight": "Move the cams RIGHT: thicker Top Hat on the left side of the cam, thinner on the right."
+   },
+   "vertical": null,
+   "timingFix": {
+    "topFirst": "Mathews publishes no owner-adjustable timing procedure. Have an authorized dealer check and correct it in a limb-tip press rather than twisting cables by hand.",
+    "bottomFirst": "Mathews publishes no owner-adjustable timing procedure. Have an authorized dealer check and correct it in a limb-tip press rather than twisting cables by hand."
+   },
+   "sources": [
+    {
+     "label": "Mathews FAQ",
+     "url": "https://mathewsinc.com/pages/faq",
+     "official": true
+    },
+    {
+     "label": "GoHunt: tuning a Mathews with Top Hats",
+     "url": "https://www.gohunt.com/browse/tips-and-tricks/archery/how-to-tune-a-mathews-bow-with-top-hat-shims",
+     "official": false
+    }
+   ]
+  },
+  {
+   "id": "mission_shims",
+   "name": "Axle shims",
+   "brand": "Mission",
+   "since": "all models",
+   "summary": "Mission bows position the cam with axle shims; FastFit modules change draw length only.",
+   "how": "Cam position on the axle is set by shims; swap sizes side to side in a press. Mission's FastFit cam covers draw length only, not horizontal cam-lean tuning.",
+   "steps": [
+    "Set centre shot to about 13/16 in and check nock height and timing first.",
+    "Move the rest a hair toward the tear to see whether it helps.",
+    "If the cam itself needs to move, have a shop shim the cams in the direction of the tear in a press, top cam first."
+   ],
+   "tools": "",
+   "range": null,
+   "cautions": [],
+   "open": [
+    "Mission publishes no shim table or tear-direction rule; this is standard shop practice."
+   ],
+   "confidence": "Standard shop practice -- the maker publishes no procedure",
+   "pressNeeded": true,
+   "restFirst": true,
+   "centerShotIn": 0.8125,
+   "centerShotNote": "Mission Archery's own FAQ: \"We recommend measuring off the side of the riser at the attachment hole to the center of the arrow shaft approximately 13/16 of an inch.\"",
+   "timing": null,
+   "limbBolts": null,
+   "horizontal": {
+    "nockLeft": "Shim both cams LEFT.",
+    "nockRight": "Shim both cams RIGHT."
+   },
+   "vertical": null,
+   "timingFix": null,
+   "sources": [
+    {
+     "label": "Mathews FAQ (Mission mirrored)",
+     "url": "https://mathewsinc.com/pages/faq",
+     "official": true
+    }
+   ]
+  },
+  {
+   "id": "bowtech_deadlock",
+   "name": "DeadLock cam system",
+   "brand": "Bowtech",
+   "since": "2020 Revolt",
+   "summary": "A tuning screw in each cam's axle housing slides the cam sideways -- no press for horizontal tuning.",
+   "how": "Loosen the Tuning Lock Screw, turn the Tuning Screw, hand-tighten the lock screw. On a right-handed bow, clockwise moves the cam LEFT and counter-clockwise moves it RIGHT; left-handed bows are reversed. Move top and bottom cams equally.",
+   "steps": [
+    "Set the rest to centre shot and leave it there -- Bowtech tunes horizontal tears with the cams, not the rest.",
+    "Loosen the Tuning Lock Screw counter-clockwise (2026 Alliance: both lock screws).",
+    "Turn the Tuning Screw in small turns: clockwise moves the cam left, counter-clockwise moves it right (right-handed bow).",
+    "Hand-tighten the lock screw(s) clockwise. Move the top and bottom cams the same amount.",
+    "Shoot and re-read the tear. Vertical tears are fixed with the rest: point high, rest down; point low, rest up.",
+    "To return to zero: back the tuning screw counter-clockwise until the cam stops on the right, then two full turns clockwise (2026 Alliance: line the axle tip up with the longest hashmark in the indexing window)."
+   ],
+   "tools": "3/32 in hex (older bows) or 7/64 in hex (2026 Alliance) for the lock screw(s)",
+   "range": "Bowtech's own words: small turns give small, precise movements. Changing draw length on a DeadLock bow may still need a press.",
+   "cautions": [
+    "Left-handed bows are the reverse of the directions above.",
+    "Do not back the limb bolt past flush with the limb bolt barrel nut / pocket lockdown screw."
+   ],
+   "open": [
+    "Bowtech publishes no table saying which tear needs which turn, and no turn increment. A quarter to half turn as a starting step is a forum suggestion, not a Bowtech spec.",
+    "Whether cam lean needs the two cams moved in opposite directions (versus the same) is not in any Bowtech document."
+   ],
+   "confidence": "Partly from the maker, partly shop practice",
+   "pressNeeded": false,
+   "restFirst": false,
+   "centerShotIn": null,
+   "centerShotNote": "Bowtech gives a method, no number: measure from the back and front of the riser to the arrow until the two are equal. Bowtech notes not every bow tunes at exact centre.",
+   "timing": "Cam timing marks: small indentations (\"timing dots\") near the cam edge. Viewed from the side opposite the module, the cable should sit about centred between the dots. Correcting timing needs a press. 2025+ Proven 34 also has TimeLock: loosen the 5/64 in lock screw a half turn and turn the adjustment screw -- each hashmark is about one full cable twist, no press.",
+   "limbBolts": "Loosen the 5/32 in Pocket Lockdown Screw, then turn the 7/32 in limb bolt equally top and bottom; about one turn per pound, ten pounds maximum drop. Never back out past flush with the barrel nut.",
+   "horizontal": {
+    "nockLeft": "Move both cams LEFT: loosen the lock screw(s), turn each tuning screw CLOCKWISE (right-handed bow) a small amount, hand-tighten. Bowtech publishes no tear-to-turn table -- if the tear gets worse, go the other way.",
+    "nockRight": "Move both cams RIGHT: turn each tuning screw COUNTER-CLOCKWISE a small amount, hand-tighten, re-shoot."
+   },
+   "vertical": {
+    "nockHigh": "Nock HIGH (the point is low): move the rest UP -- Bowtech's own rule is that a low point means the rest goes up. Check the rest is level through the burger holes first.",
+    "nockLow": "Nock LOW (the point is high): move the rest DOWN -- Bowtech's own rule is that a high point means the rest goes down."
+   },
+   "timingFix": {
+    "topFirst": "Bowtech checks timing by the marks on the cams, not by twisting cables: viewed from the side opposite the module, the cable should sit about centred between the timing dots. A cam that is out needs a shop with a limb-tip press -- or, on a 2025+ Proven 34, TimeLock: loosen the 5/64 in lock screw half a turn and turn the adjustment screw (each hashmark is about one cable twist), no press. Don't use the DeadLock screws for this -- they move the cam sideways, not its timing.",
+    "bottomFirst": "Bowtech checks timing by the marks on the cams, not by twisting cables: viewed from the side opposite the module, the cable should sit about centred between the timing dots. A cam that is out needs a shop with a limb-tip press -- or, on a 2025+ Proven 34, TimeLock: loosen the 5/64 in lock screw half a turn and turn the adjustment screw (each hashmark is about one cable twist), no press. Don't use the DeadLock screws for this -- they move the cam sideways, not its timing."
+   },
+   "sources": [
+    {
+     "label": "Bowtech Alliance owner's manual (2026)",
+     "url": "https://bowtecharchery.com/wp-content/uploads/2026/01/Alliance-Bow-Owners-Manual.pdf",
+     "official": true
+    },
+    {
+     "label": "Bowtech Proven 34 owner's manual (2025)",
+     "url": "https://bowtecharchery.com/wp-content/uploads/2020/09/Proven-34-Owner-Manual_2025-Final.pdf",
+     "official": true
+    },
+    {
+     "label": "Bowtech DeadLock technology page",
+     "url": "https://bowtecharchery.com/bowtech-deadlock-technology/",
+     "official": true
+    }
+   ]
+  },
+  {
+   "id": "bowtech_legacy",
+   "name": "Timing dots and cable twists",
+   "brand": "Bowtech",
+   "since": "pre-DeadLock bows",
+   "summary": "Older Bowtechs are tuned with the rest and nock point, cam timing dots and yoke/cable twists.",
+   "how": "No DeadLock screw on these. Cam timing is checked against the small dots near each cam edge; changes to cable/yoke twists need a press.",
+   "steps": [
+    "Set centre shot by measuring back and front of the riser to the arrow until equal, then check nock height.",
+    "Check cam timing: the cable should sit about centred between the timing dots, viewed from the side opposite the module.",
+    "Tune with the rest first for horizontal tears; move it toward the tear a hair at a time.",
+    "Any cam timing or yoke work goes to a shop with a limb-tip press."
+   ],
+   "tools": "",
+   "range": null,
+   "cautions": [],
+   "open": [
+    "Bowtech's pre-2020 owner's manuals (Carbon Overdrive era) were not reviewed for a tear procedure; this is the general method."
+   ],
+   "confidence": "Standard shop practice -- the maker publishes no procedure",
+   "pressNeeded": true,
+   "restFirst": true,
+   "centerShotIn": null,
+   "centerShotNote": null,
+   "timing": null,
+   "limbBolts": null,
+   "horizontal": {
+    "nockLeft": "Move the rest a hair toward the LEFT, or have a shop adjust cam lean.",
+    "nockRight": "Move the rest a hair toward the RIGHT, or have a shop adjust cam lean."
+   },
+   "vertical": null,
+   "timingFix": {
+    "topFirst": "Check the timing dots: viewed from the side opposite the module, the cable should sit about centred between the dots. Correcting it means cable or yoke work in a press -- a shop job, not something to twist at home.",
+    "bottomFirst": "Check the timing dots: viewed from the side opposite the module, the cable should sit about centred between the dots. Correcting it means cable or yoke work in a press -- a shop job, not something to twist at home."
+   },
+   "sources": [
+    {
+     "label": "Bowtech owner's manuals",
+     "url": "https://bowtecharchery.com/wp-content/uploads/2020/08/Revolt-Owner-Manual.pdf",
+     "official": true
+    }
+   ]
+  },
+  {
+   "id": "diamond_modules",
+   "name": "String post and timing dots",
+   "brand": "Diamond",
+   "since": "Infinite Edge Pro",
+   "summary": "Diamond (Bowtech's value brand) has no DeadLock: tune with the rest, check the timing dots, and use a shop for cam work.",
+   "how": "Timing marks sit on the module side and are used only in the \"A\" string-post setting; the B and C settings have none. Centre shot is measured until the two riser-to-arrow distances are equal.",
+   "steps": [
+    "Set centre shot: measure riser to arrow on both sides until equal.",
+    "Check cam timing (A setting only): the cable should sit about centred between the marks.",
+    "Correct horizontal tears with the rest; go to a shop for anything involving the cams."
+   ],
+   "tools": "",
+   "range": null,
+   "cautions": [],
+   "open": [],
+   "confidence": "From the maker's own manual",
+   "pressNeeded": true,
+   "restFirst": true,
+   "centerShotIn": null,
+   "centerShotNote": null,
+   "timing": null,
+   "limbBolts": "3/16 in hex, no more than 3 turns at a time, alternating top and bottom; never back past the limb bolt reference hole on the riser. B and C string-post settings need a press for weight changes.",
+   "horizontal": {
+    "nockLeft": "Move the rest a hair LEFT and re-shoot.",
+    "nockRight": "Move the rest a hair RIGHT and re-shoot."
+   },
+   "vertical": null,
+   "timingFix": {
+    "topFirst": "Timing marks are only used in the \"A\" string-post setting (B and C have none): the cable should sit about centred between the marks on the module side. Correcting it is a dealer job in a press.",
+    "bottomFirst": "Timing marks are only used in the \"A\" string-post setting (B and C have none): the cable should sit about centred between the marks on the module side. Correcting it is a dealer job in a press."
+   },
+   "sources": [
+    {
+     "label": "Diamond Infinite Edge Pro manual (2025)",
+     "url": "https://diamondarchery.com/wp-content/uploads/sites/9/2021/01/Infinite-Edge-Pro-Owners-Manual-2025_Update.pdf",
+     "official": true
+    }
+   ]
+  },
+  {
+   "id": "hoyt_xts",
+   "name": "XTS (Xact Tuning System)",
+   "brand": "Hoyt",
+   "since": "2026 RX-10, Alpha AX-3, AX-90",
+   "summary": "Four tuning bolts in the limb pockets change how deep each limb seats, which moves the tear without a press.",
+   "how": "Four tuning bolts (top-left, top-right, bottom-left, bottom-right) are reached through holes in the pocket face. Turning one side clockwise and the other counter-clockwise by the same amount moves the tear while keeping draw weight the same.",
+   "steps": [
+    "Get the macro tune right first: centre shot 13/16 in to start (3/4 to 7/8 in is fine), nock point, cam timing and vane clearance.",
+    "Loosen the shuttle block locking screws on top of the top pocket slightly.",
+    "Tail-right tear: turn the top-right and bottom-right tuning bolts clockwise, and the two left bolts counter-clockwise by the same amount. Tail-left: the mirror image.",
+    "Start with a half turn on each bolt, re-tighten the shuttle screws, and shoot again.",
+    "Tail-high: take turns out of both top-pocket bolts and add the same to both bottom bolts. Tail-low: the opposite. Fix left/right before up/down.",
+    "If you get lost, return all four bolts to the centre-line indicator."
+   ],
+   "tools": "3/32 in hex key",
+   "range": "Up to 3 turns each way from the factory position; corrects up to about 1 in of tear. Bigger tears need a spacer swap or the rest first.",
+   "cautions": [
+    "Turning all four bolts clockwise together adds a couple of pounds of draw weight and some speed.",
+    "XTS is for small corrections -- use cam spacers for anything over an inch."
+   ],
+   "open": [],
+   "confidence": "From the maker's own manual",
+   "pressNeeded": false,
+   "restFirst": true,
+   "centerShotIn": 0.8125,
+   "centerShotNote": "Hoyt's XTS guidance: start centre shot at 13/16 in; 3/4 to 7/8 in is acceptable.",
+   "timing": null,
+   "limbBolts": "RX-10: 4 turns gives a 10 lb reduction and Hoyt says not to shoot beyond 4. AX-3: 3 turns. Turn top and bottom equally; never loosen more than 8 turns on any Hoyt.",
+   "horizontal": {
+    "nockLeft": "Tail-LEFT tear: turn the two LEFT tuning bolts clockwise and the two RIGHT bolts counter-clockwise by the same amount (start half a turn).",
+    "nockRight": "Tail-RIGHT tear: turn the two RIGHT tuning bolts clockwise and the two LEFT bolts counter-clockwise by the same amount (start half a turn)."
+   },
+   "vertical": {
+    "nockHigh": "Tail-HIGH: take turns out of both TOP-pocket bolts and add the same to both BOTTOM bolts. Check nock height and timing first.",
+    "nockLow": "Tail-LOW: add turns to both TOP-pocket bolts and take the same out of both BOTTOM bolts."
+   },
+   "timingFix": {
+    "topFirst": "Top cam stop first: take the control cable off the module-side peg of the TOP cam and add a twist, then re-check (repeat as needed). Needs a press. Fix timing before using the XTS bolts.",
+    "bottomFirst": "Bottom cam stop first: take the control cable off the module-side peg of the BOTTOM cam and add a twist, then re-check (repeat as needed). Needs a press. Fix timing before using the XTS bolts."
+   },
+   "sources": [
+    {
+     "label": "Hoyt XTS tuning system",
+     "url": "https://hoyt.com/pages/xts-tuning-system",
+     "official": true
+    },
+    {
+     "label": "Hoyt 2026 hunting whitepaper",
+     "url": "https://s3.hoyt.com/uploads/2025/2026zHoytHuntingBowWhitepaper.pdf",
+     "official": true
+    },
+    {
+     "label": "Hoyt XTS video",
+     "url": "https://www.youtube.com/watch?v=FcZnJI_-eBQ",
+     "official": true
+    }
+   ]
+  },
+  {
+   "id": "hoyt_hbx",
+   "name": "HBX cam spacers",
+   "brand": "Hoyt",
+   "since": "2021 HBX cams",
+   "summary": "Cam position is set by colour-coded spacer pairs either side of the cam. Yoke tuning is gone on these bows -- Hoyt says so.",
+   "how": "Left and right are defined looking from the rear (string side) of the bow, and apply to right- and left-handed bows. Adjust one cam at a time, top cam first if needed.",
+   "steps": [
+    "Set centre shot 3/4 to 7/8 in and use the rest for micro moves; use spacers for the macro (over about 1 in) tear.",
+    "Read the tail direction. Tail-LEFT: move the cam LEFT -- a thicker spacer on the RIGHT side of the cam, thinner on the LEFT. Tail-RIGHT: the opposite.",
+    "Use a matched pair on each cam: thick + thin of the SAME colour (grey or black -- Gen 4 adds red). Never mix colours on one cam.",
+    "Have a shop with a limb-tip press swap the spacers with the Hoyt spacer tool. Top and bottom cams do not have to match.",
+    "Watch for cable rub at the extremes of the chart."
+   ],
+   "tools": "Hoyt spacer tool, T10 driver, limb-tip press",
+   "range": null,
+   "cautions": [
+    "1/4 in axle, T10 bolts to 15 lb-in; e-clips must be fully seated. Press required."
+   ],
+   "open": [
+    "Series-specific differences for Ventum, Defiant and Torrxon have not been confirmed against Hoyt documents."
+   ],
+   "confidence": "From the maker's own manual",
+   "pressNeeded": true,
+   "restFirst": true,
+   "centerShotIn": 0.8125,
+   "centerShotNote": "Hoyt's HBX guidance: centre shot 3/4 to 7/8 in; 13/16 in is the starting point.",
+   "timing": "To synchronise cams at full draw: if the bottom cam stop touches first, remove the control cable from the module-side peg of the bottom cam and add a twist (top cam likewise). Press required.",
+   "limbBolts": "Top and bottom equally; never loosen more than 8 turns. Best performance not backed out more than 4 turns.",
+   "horizontal": {
+    "nockLeft": "Tail-LEFT: move the cam LEFT -- thicker spacer on the RIGHT of the cam, thinner on the LEFT (viewed from the string side). Same colour pair.",
+    "nockRight": "Tail-RIGHT: move the cam RIGHT -- thicker spacer on the LEFT of the cam, thinner on the RIGHT (viewed from the string side). Same colour pair."
+   },
+   "vertical": null,
+   "timingFix": {
+    "topFirst": "Top cam stop first: take the control cable off the module-side peg of the TOP cam and add a twist, then re-check (repeat as needed). Needs a press.",
+    "bottomFirst": "Bottom cam stop first: take the control cable off the module-side peg of the BOTTOM cam and add a twist, then re-check (repeat as needed). Needs a press."
+   },
+   "sources": [
+    {
+     "label": "Hoyt HBX tune table",
+     "url": "https://s3.hoyt.com/uploads/2019/60be39db9a32c773605844.pdf",
+     "official": true
+    },
+    {
+     "label": "Hoyt cam spacer tool tutorial",
+     "url": "https://www.youtube.com/watch?v=pupmlfr071o",
+     "official": true
+    },
+    {
+     "label": "Hoyt tune charts",
+     "url": "https://hoyt.com/pages/tune-charts",
+     "official": true
+    }
+   ]
+  },
+  {
+   "id": "hoyt_yoke",
+   "name": "Yoke tuning (ZT Hyper era)",
+   "brand": "Hoyt",
+   "since": "up to about 2020",
+   "summary": "Older Hoyts correct cam lean by twisting the top-cam yoke. Only the top cam, never the bottom split yoke.",
+   "how": "Per Hoyt's 2018 technical bulletin: the top cam is nominally vertical. Lean the bottom of the top cam toward the roller mount to reduce a LEFT tear; stand it straighter to reduce a RIGHT tear. Use only the main body buss cable yoke.",
+   "steps": [
+    "Centre shot 7/8 in from the shelf, plus or minus 3/16 in. Check that an arrow held on the string side of the top cam runs parallel to the string.",
+    "Twist the yoke legs evenly, a half or one twist at a time, on the TOP cam only. Never use the bottom split yoke.",
+    "Timing: dead even, or the top cam up to 1/16 in ahead.",
+    "Re-shoot after each change."
+   ],
+   "tools": "",
+   "range": null,
+   "cautions": [
+    "Never use the bottom split yoke.",
+    "The cable-side yoke should not be stood up past vertical.",
+    "Removing control-cable twists lowers maximum draw weight."
+   ],
+   "open": [],
+   "confidence": "From the maker's own manual",
+   "pressNeeded": true,
+   "restFirst": true,
+   "centerShotIn": 0.875,
+   "centerShotNote": "Hoyt's 2018 technical bulletin: 7/8 in +/- 3/16 in from the shelf.",
+   "timing": null,
+   "limbBolts": null,
+   "horizontal": {
+    "nockLeft": "Lean the bottom of the TOP cam toward the roller mount by twisting the top-cam yoke legs evenly, half a twist at a time (Hoyt 2018 bulletin).",
+    "nockRight": "Stand the TOP cam up straighter with half twists on the top-cam yoke legs. Never use the bottom split yoke."
+   },
+   "vertical": null,
+   "timingFix": {
+    "topFirst": "Hoyt wants the cams dead even, or the top cam up to 1/16 in ahead. Adjust with the top buss yokes or the control cable, a half or one twist at a time, evenly on both top yoke legs. Removing control-cable twists lowers maximum draw weight.",
+    "bottomFirst": "Hoyt wants the cams dead even, or the top cam up to 1/16 in ahead. Adjust with the top buss yokes or the control cable, a half or one twist at a time, evenly on both top yoke legs. Removing control-cable twists lowers maximum draw weight."
+   },
+   "sources": [
+    {
+     "label": "Hoyt 2018 technical bulletin",
+     "url": "https://s3.hoyt.com/uploads/2019/59f0e950d494b119638337.pdf",
+     "official": true
+    }
+   ]
+  },
+  {
+   "id": "pse_ez220",
+   "name": "EZ.220 snap spacers",
+   "brand": "PSE",
+   "since": "2023 (Mach, Fortis, Omen and others)",
+   "summary": "Snap-on spacers either side of the cam always add to 0.220 in, so moving the cam changes the split in 0.020 in steps.",
+   "how": "Any two spacers that add up to 0.220 in go on the two sides of the cam. Swapping to a different pair moves the cam 0.020 in at a time. The bow must be pressed to remove them.",
+   "steps": [
+    "Set the rest and nock point first and read the tear on paper.",
+    "Have a shop press the bow just enough to unload the axle, and swap to a pair that shifts the cam toward the tear (a thinner spacer on the side you are moving toward).",
+    "Keep the total at 0.220 in on each cam.",
+    "Unpress, shoot, and repeat one 0.020 in step at a time."
+   ],
+   "tools": "PSE spacer removal tool, limb-tip press",
+   "range": "Steps of 0.020 in, total always 0.220 in. Spacers cannot fly off once installed.",
+   "cautions": [
+    "Unlike LST or DeadLock, this still needs a press."
+   ],
+   "open": [
+    "PSE's own product page was not reachable when checked; the 0.020 in step and 0.220 in total come from a retailer and its video.",
+    "The exact spacer thickness list, and PSE's own statement of which way to move for which tear, are unconfirmed. \"Shim toward the tear\" is community practice.",
+    "Which models have EZ.220 is approximate: Dominator Duo, Shootdown Pro, 2023 Mach and Carbon Levitate, NockOn Unite, Fortis, Omen and some Evolve DS. Check your bow."
+   ],
+   "confidence": "Partly from the maker, partly shop practice",
+   "pressNeeded": true,
+   "restFirst": true,
+   "centerShotIn": null,
+   "centerShotNote": null,
+   "timing": null,
+   "limbBolts": null,
+   "horizontal": {
+    "nockLeft": "Shift the cams LEFT one 0.020 in step: thinner spacer on the left of each cam, thicker on the right (total stays 0.220 in). Community practice -- PSE publishes no direction rule.",
+    "nockRight": "Shift the cams RIGHT one 0.020 in step: thicker spacer on the left, thinner on the right."
+   },
+   "vertical": null,
+   "timingFix": null,
+   "sources": [
+    {
+     "label": "Lancaster Archery: EZ.220 system",
+     "url": "https://lancasterarchery.com/products/pse-ez-220-snap-spacer-system",
+     "official": false
+    },
+    {
+     "label": "Lancaster Archery: EZ.220 video",
+     "url": "https://www.youtube.com/watch?v=OxsL78uh-Pw",
+     "official": false
+    },
+    {
+     "label": "PSE tune charts",
+     "url": "https://psearchery.com/pages/pse-compound-bow-tune-charts",
+     "official": true
+    }
+   ]
+  },
+  {
+   "id": "pse_classic",
+   "name": "Cam shims, limb bolts and pressing",
+   "brand": "PSE",
+   "since": "models without EZ.220",
+   "summary": "PSE's user guide covers limb bolts, pressing, nocking point and rest alignment, but no paper-tear procedure.",
+   "how": "PSE's guide has no tear procedure and no centre-shot figure. Line the arrow up with the alignment mark on the shelf, then tune with the rest; cam or shim work goes to a shop.",
+   "steps": [
+    "Set rest and nock point: arrow parallel to the shelf alignment mark; release shooters put the arrow through the centre of the rest hole. PSE says the tuning marks are for reference only.",
+    "Move the rest a hair toward the tear and re-shoot.",
+    "If a cam itself must move, have a shop shim it toward the tear in a press."
+   ],
+   "tools": "",
+   "range": null,
+   "cautions": [
+    "Limb bolts: turn them all the way in first, then out, never more than the turns on the hang tag, and each limb exactly the same. On some models a locking or support screw must be loosened first."
+   ],
+   "open": [
+    "PSE's current user guide could not be read, so the tear direction, spacer sizes and centre shot for your model are unconfirmed. PSE publishes tune charts by year and model on its site."
+   ],
+   "confidence": "Standard shop practice -- the maker publishes no procedure",
+   "pressNeeded": true,
+   "restFirst": true,
+   "centerShotIn": null,
+   "centerShotNote": null,
+   "timing": null,
+   "limbBolts": null,
+   "horizontal": {
+    "nockLeft": "Move the rest a hair LEFT, or have a shop shim the cams LEFT.",
+    "nockRight": "Move the rest a hair RIGHT, or have a shop shim the cams RIGHT."
+   },
+   "vertical": null,
+   "timingFix": null,
+   "sources": [
+    {
+     "label": "PSE tune charts",
+     "url": "https://psearchery.com/pages/pse-compound-bow-tune-charts",
+     "official": true
+    }
+   ]
+  },
+  {
+   "id": "elite_set",
+   "name": "S.E.T. (Simplified Exact Tuning)",
+   "brand": "Elite",
+   "since": "2020 (select models)",
+   "summary": "A screw at each limb pocket tilts the pocket on its pivot, moving cam lean and centre shot together, with no press.",
+   "how": "One lockdown screw on the shooter side of the riser and one adjustment screw per pocket. Turn clockwise for a tail (nock) right tear and counter-clockwise for a tail (nock) left tear, top and bottom evenly.",
+   "steps": [
+    "Observe the tear, then loosen the lockdown screw.",
+    "Turn the adjustment screw clockwise for a tail-RIGHT tear, counter-clockwise for a tail-LEFT tear. Start with a quarter turn.",
+    "Do the top and bottom pockets evenly, then tighten the lockdown screw.",
+    "Re-centre the rest. A tail-right correction moves the string slightly left on a right-handed bow, so the rest follows it left.",
+    "Check the cams are level with the string: an arrow laid against each cam should be straight to slightly out or in."
+   ],
+   "tools": "5/32 in hex key",
+   "range": "Plus or minus 3 degrees, which is 1.5 revolutions of the screw each way from neutral (shipped in the middle).",
+   "cautions": [
+    "Do not go past 1.5 revolutions each way. Shimming the cams is only a fallback in the rare case S.E.T. maxes out."
+   ],
+   "open": [
+    "Elite has not published which current models carry S.E.T. in one place; the 2020 manual and product pages name the Kure, Rezult, Ritual and Revol XL era and the EnVision."
+   ],
+   "confidence": "From the maker's own manual",
+   "pressNeeded": false,
+   "restFirst": true,
+   "centerShotIn": 0.8125,
+   "centerShotNote": "Elite's Tuning & Setup Guide: rest mounted with arrow height at the burger holes and centre shot \"approximately 13/16 in from the inside of the riser\". On S.E.T. bows Elite says to keep a nocked arrow parallel to the riser rather than chase a number.",
+   "timing": "Cable position: the Linear Tunable Roller adds tension for a right nock tear (leaning the cam away from the riser) and removes it for a left nock tear (leaning toward the riser). Factory preset is neutral.",
+   "limbBolts": "Loosen the four pocket screws about one full turn first. Maximum turns out: Kure, Rezult, Revol XL and Ritual 3 turns; Ember 8 turns. Three turns is a full ten pounds.",
+   "horizontal": {
+    "nockLeft": "Loosen the lockdown screw and turn the S.E.T. screws COUNTER-CLOCKWISE a quarter turn, top and bottom evenly, re-lock and re-centre the rest (Elite's wording: tail/nock LEFT).",
+    "nockRight": "Loosen the lockdown screw and turn the S.E.T. screws CLOCKWISE a quarter turn, top and bottom evenly, re-lock and re-centre the rest (tail/nock RIGHT)."
+   },
+   "vertical": {
+    "nockHigh": "Nock HIGH: lower the nock point / raise the rest (Elite's fine-tuning graphic).",
+    "nockLow": "Nock LOW: raise the nock point / lower the rest."
+   },
+   "timingFix": null,
+   "sources": [
+    {
+     "label": "Elite S.E.T. technology",
+     "url": "https://elitearchery.com/pages/s-e-t-technology",
+     "official": true
+    },
+    {
+     "label": "Elite: tuning made easy with S.E.T.",
+     "url": "https://elitearchery.com/blogs/technical-tools/tuning-made-easy-with-s-e-t-technology",
+     "official": true
+    },
+    {
+     "label": "Elite 2020 technical manual",
+     "url": "https://elite-website.s3.amazonaws.com/documents/tech-manuals/ELITE+COMPLETE+Tech+Manual+2020+WEB.pdf",
+     "official": true
+    }
+   ]
+  },
+  {
+   "id": "elite_legacy",
+   "name": "Linear Tunable Roller and rest tuning",
+   "brand": "Elite",
+   "since": "before S.E.T.",
+   "summary": "Elites without S.E.T. tune with the rest, nock point and the Linear Tunable Roller cable position.",
+   "how": "The Linear Tunable Roller changes cable position: more tension corrects a right nock tear and leans the cam away from the riser; less corrects a left nock tear and leans the cam toward it.",
+   "steps": [
+    "Set centre shot and nock height.",
+    "Correct small tears with the rest; use the roller position for cam lean.",
+    "Never exceed the maximum limb-bolt turns for your model (3 for Kure/Rezult/Revol XL/Ritual, 8 for Ember)."
+   ],
+   "tools": "",
+   "range": null,
+   "cautions": [],
+   "open": [
+    "Elite's own graphic and Xpedition's chart disagree on rest direction and draw weight for the same \"right/left tear\" wording, so the app states this system's advice only in Elite's terms."
+   ],
+   "confidence": "From the maker's own manual",
+   "pressNeeded": false,
+   "restFirst": true,
+   "centerShotIn": 0.8125,
+   "centerShotNote": "Elite's guide: approximately 13/16 in from the inside of the riser.",
+   "timing": null,
+   "limbBolts": null,
+   "horizontal": {
+    "nockLeft": "Nock LEFT: less roller/cable tension (cam leans toward the riser); Elite's graphic also moves the rest to the right and adds draw weight.",
+    "nockRight": "Nock RIGHT: more roller/cable tension (cam leans away from the riser); Elite's graphic also moves the rest to the left and lowers draw weight."
+   },
+   "vertical": null,
+   "timingFix": null,
+   "sources": [
+    {
+     "label": "Elite 2020 technical manual",
+     "url": "https://elite-website.s3.amazonaws.com/documents/tech-manuals/ELITE+COMPLETE+Tech+Manual+2020+WEB.pdf",
+     "official": true
+    }
+   ]
+  },
+  {
+   "id": "prime_shims",
+   "name": "Parallel cam shims (3-dot / 1-dot)",
+   "brand": "Prime",
+   "since": "Divide chart, 2025-26",
+   "summary": "Spacer shims marked with dots go either side of each cam; the pair always adds to four dots.",
+   "how": "From Prime's Divide tuning chart: nock-RIGHT tear, shim the cams RIGHT with a 3-dot shim on the LEFT and a 1-dot on the RIGHT; nock-LEFT tear, 1-dot on the left and 3-dot on the right. For a minor tear, move the rest's centre shot instead (15/16 in for right, 13/16 in for left).",
+   "steps": [
+    "Centre shot 7/8 in from the riser shelf to the arrow centre, nock height 7/8 in above the shelf, D-loop square and level (all plus or minus 1/16 in). Prime says the chart is a starting point.",
+    "Check cam timing at full draw: cam stops should hit the cables together.",
+    "Read the tear. Minor: move the rest. Larger: have a shop shim the cams in a press, keeping the dots total at four.",
+    "Nock HIGH: check timing, then advance the bottom cam so it hits up to 1/8 in earlier than the top; raise the rest up to 1/8 in. Nock LOW: advance the top cam up to 1/8 in; lower the rest up to 1/8 in."
+   ],
+   "tools": "",
+   "range": null,
+   "cautions": [],
+   "open": [
+    "Prime's 2026 Divide owner's manual could not be read, and no official yoke-tuning procedure was found for older Prime models."
+   ],
+   "confidence": "From the maker's own manual",
+   "pressNeeded": true,
+   "restFirst": true,
+   "centerShotIn": 0.875,
+   "centerShotNote": "Prime's Divide tuning chart: \"CENTER SHOT - 7/8 in FROM RISER SHELF\", plus or minus 1/16 in.",
+   "timing": "Top stop hits first: add a twist to the top take-up cable or remove one from the bottom let-out cable. Bottom stop first: the reverse. At brace, both inside dots lower than the outside dots: add twists to both cables; both higher: add twists to the main string.",
+   "limbBolts": null,
+   "horizontal": {
+    "nockLeft": "Nock LEFT: shim the cams LEFT -- 1-dot shim on the left, 3-dot on the right. For a minor tear, move the rest to 13/16 in centre shot.",
+    "nockRight": "Nock RIGHT: shim the cams RIGHT -- 3-dot shim on the left, 1-dot on the right. For a minor tear, move the rest to 15/16 in centre shot."
+   },
+   "vertical": {
+    "nockHigh": "Nock HIGH: check timing, then advance the BOTTOM cam so it hits up to 1/8 in before the top; raise the rest up to 1/8 in.",
+    "nockLow": "Nock LOW: advance the TOP cam up to 1/8 in; lower the rest up to 1/8 in."
+   },
+   "timingFix": {
+    "topFirst": "Prime's Divide chart: top stop first -- add a twist to the top take-up cable, or remove one from the bottom let-out cable.",
+    "bottomFirst": "Prime's Divide chart: bottom stop first -- add a twist to the bottom take-up cable, or remove one from the top let-out cable."
+   },
+   "sources": [
+    {
+     "label": "Prime Divide tuning chart",
+     "url": "https://www.g5prime.com/wp-content/uploads/2025/11/Divide-Tuning-Chart.pdf",
+     "official": true
+    }
+   ]
+  },
+  {
+   "id": "quest_shims",
+   "name": "Axle shims",
+   "brand": "Quest",
+   "since": "all models",
+   "summary": "Quest's manual covers set-up and timing but no tear procedure; cam shims are standard shop practice.",
+   "how": "Cam position on the axle is set by shims/spacers; swap sizes side to side in a press.",
+   "steps": [
+    "Centre shot: start at 13/16 in from the riser to the centre of the arrow.",
+    "Timing: both limb stops should end in the same position; shorten (twist) the cable of the cam that hits first.",
+    "Tune horizontal tears with the rest; use shims in a press only if the rest cannot fix it."
+   ],
+   "tools": "",
+   "range": null,
+   "cautions": [],
+   "open": [
+    "Quest publishes no tear-tuning procedure."
+   ],
+   "confidence": "Standard shop practice -- the maker publishes no procedure",
+   "pressNeeded": true,
+   "restFirst": true,
+   "centerShotIn": 0.8125,
+   "centerShotNote": "Quest's owner's manual: \"we recommend starting with 13/16\" from the riser to the center of the arrow shaft.\"",
+   "timing": null,
+   "limbBolts": "Loosen the pocket lock screws (5/32 in), limb bolts are 3/16 in; each turn is 3-4 lb; never back out more than 4 turns from maximum.",
+   "horizontal": {
+    "nockLeft": "Shim both cams LEFT.",
+    "nockRight": "Shim both cams RIGHT."
+   },
+   "vertical": null,
+   "timingFix": null,
+   "sources": [
+    {
+     "label": "Quest 2018 owner's manual",
+     "url": "http://www.questbowhunting.com/wp-content/uploads/2020/02/2018-Quest-Owners-Manual-web.pdf",
+     "official": true
+    }
+   ]
+  },
+  {
+   "id": "bear_timing",
+   "name": "Cable twists and rest tuning",
+   "brand": "Bear",
+   "since": "all models",
+   "summary": "Bear's manual has no paper-tear or shim procedure; what it does document is centre-shot method, timing twists and limb-bolt limits.",
+   "how": "Hold an arrow against the inside of the riser next to the rest: a nocked arrow should sit parallel along its length (centre shot). EKO and Hybrid cams are timed with cable twists.",
+   "steps": [
+    "Centre shot: nocked arrow parallel to the riser; nock height with the arrow 90 degrees to the string.",
+    "Timing: if the top stop hits before the bottom, add twists to the up cable; if the bottom hits first, add twists to the down cable (or remove them from the opposite cable).",
+    "Tune tears with the rest. Check timing and tune again after the first 250 shots."
+   ],
+   "tools": "",
+   "range": null,
+   "cautions": [
+    "EKO cams must be set exactly to the specified settings or the bow can lock up -- do not free them by hand.",
+    "Press only in an approved limb-tip press."
+   ],
+   "open": [
+    "No Bear tuning system by any other name was found. Bear publishes no paper-tear procedure."
+   ],
+   "confidence": "Standard shop practice -- the maker publishes no procedure",
+   "pressNeeded": false,
+   "restFirst": true,
+   "centerShotIn": null,
+   "centerShotNote": null,
+   "timing": null,
+   "limbBolts": "Back-out maximum, per Bear's 2024 table: 6 turns for most models (Persist, Execute, Refine, Redemption, Whitetail, Alaskan, Paradigm, Resurgence, Species, Prowess and others), 10 for Legend XR and Legit, 12 for Cruzer G2/G3 and Royale, 4 for Limitless. Adjust both bolts equally.",
+   "horizontal": {
+    "nockLeft": "Move the rest a hair LEFT and re-shoot.",
+    "nockRight": "Move the rest a hair RIGHT and re-shoot."
+   },
+   "vertical": null,
+   "timingFix": {
+    "topFirst": "Bear's manual (EKO and Hybrid cams): if the top stop hits before the bottom, add twists to the UP cable (or take them out of the opposite cable). Re-check after the first 250 shots.",
+    "bottomFirst": "Bear's manual (EKO and Hybrid cams): if the bottom stop hits first, add twists to the DOWN cable (or take them out of the opposite cable). Re-check after the first 250 shots."
+   },
+   "sources": [
+    {
+     "label": "Bear 2024 owner's manual",
+     "url": "https://media.tractorsupply.com/is/content/TractorSupplyCompany/tsc/product/2/31/95/96/2319596_Man1.pdf",
+     "official": true
+    },
+    {
+     "label": "Bear 2018 owner's manual",
+     "url": "https://beararchery.com/manuals/manual-2018.pdf",
+     "official": true
+    }
+   ]
+  },
+  {
+   "id": "xpedition_twist",
+   "name": "Control cable twists and rest",
+   "brand": "Xpedition",
+   "since": "Xlite and earlier",
+   "summary": "Xpedition's own paper-tuning chart uses rest, nock point, control-cable twists and (last resort) cam shims.",
+   "how": "Nock high: rest up, nock point down, take twists out of the control cable at the top cam and add twists at the bottom. Nock low is the reverse. Nock right: rest OUT, weaker spine, more peak weight, shim cams right (last resort). Nock left: rest IN, stiffer spine, less peak weight, shim cams left (last resort).",
+   "steps": [
+    "Centre shot 13/16 in (inside of the sight window to the arrow centre); arrow centre at the Berger holes; arrow 90 degrees to the string at brace.",
+    "Shoot through paper and use the chart above: rest and spine first, then peak weight, then cam shims as a last resort.",
+    "Timing: each cam has two reference lines and the control cables must lie between them; cable stops must hit together. Adjustments need a limb-tip press."
+   ],
+   "tools": "",
+   "range": null,
+   "cautions": [],
+   "open": [
+    "Xpedition and Elite give opposite rest and draw-weight advice for the same \"right/left tear\" wording, so this app states each maker's own chart, never a cross-brand rule."
+   ],
+   "confidence": "From the maker's own manual",
+   "pressNeeded": true,
+   "restFirst": true,
+   "centerShotIn": 0.8125,
+   "centerShotNote": "Xpedition's Xlite manual: centre shot 13/16 in.",
+   "timing": null,
+   "limbBolts": "9/64 in pocket clamping screw, 3/16 in limb bolt, never more than 4 turns out (2.5 lb per turn), equal top and bottom.",
+   "horizontal": {
+    "nockLeft": "Nock LEFT: move the rest IN (toward the riser), stiffer spine, DECREASE peak weight; shim the cams LEFT only as a last resort.",
+    "nockRight": "Nock RIGHT: move the rest OUT (away from the riser), weaker spine, INCREASE peak weight; shim the cams RIGHT only as a last resort."
+   },
+   "vertical": {
+    "nockHigh": "Nock HIGH: rest up, nock point down, take twists out of the control cable at the TOP cam and add them at the BOTTOM cam.",
+    "nockLow": "Nock LOW: rest down, nock point up, add twists at the TOP cam and take them out at the BOTTOM cam."
+   },
+   "timingFix": {
+    "topFirst": "Xpedition: each cam has two reference lines and the control cables must lie between them, with the cable stops hitting together in a draw board. Adjusting them needs a limb-tip press.",
+    "bottomFirst": "Xpedition: each cam has two reference lines and the control cables must lie between them, with the cable stops hitting together in a draw board. Adjusting them needs a limb-tip press."
+   },
+   "sources": [
+    {
+     "label": "Xpedition Xlite 29/35 manual",
+     "url": "https://cdn.shopify.com/s/files/1/0569/4662/2507/files/Xlite29-35_Manual_Proof_FNL_022824.pdf?v=1742846107",
+     "official": true
+    },
+    {
+     "label": "Xpedition user manuals",
+     "url": "https://www.xpeditionarchery.com/pages/user-manuals",
+     "official": true
+    }
+   ]
+  },
+  {
+   "id": "xpedition_nexlite",
+   "name": "XLOK Tip Shift spacers",
+   "brand": "Xpedition",
+   "since": "2026 NexLite",
+   "summary": "NexLite cams are shifted with Tip Shift spacer pieces against the bearings, changed with two flat-head screws.",
+   "how": "Loosen the axle containment screws up to 1.5 turns each side, remove the two #8-32 flat-head screws and the current Tip Shift pieces, fit the new spacer pieces (washers against the bearings), tighten one side then the other, then repeat on the other cam.",
+   "steps": [
+    "Read the tear and decide which way the cam must move.",
+    "Follow the NexLite manual's Tip Shift procedure (there is a quick-response video with it).",
+    "Re-shoot; if the tear changes the wrong way, reverse the spacer pairing."
+   ],
+   "tools": "",
+   "range": null,
+   "cautions": [],
+   "open": [
+    "Which Tip Shift pairing moves the cam which way is not stated in the manual text that could be read; check the QR video in the manual."
+   ],
+   "confidence": "Partly from the maker, partly shop practice",
+   "pressNeeded": false,
+   "restFirst": true,
+   "centerShotIn": null,
+   "centerShotNote": null,
+   "timing": null,
+   "limbBolts": null,
+   "horizontal": {
+    "nockLeft": "Move the cams LEFT with the Tip Shift pieces (see the NexLite manual's pairing table); rest IN and less peak weight are the first steps.",
+    "nockRight": "Move the cams RIGHT with the Tip Shift pieces; rest OUT and more peak weight are the first steps."
+   },
+   "vertical": null,
+   "timingFix": null,
+   "sources": [
+    {
+     "label": "Xpedition NexLite user manual (2026)",
+     "url": "https://cdn.shopify.com/s/files/1/0259/5186/2836/files/NexLite_User_Manual-op.pdf?v=1780324837",
+     "official": true
+    }
+   ]
+  },
+  {
+   "id": "darton_perfect_tune",
+   "name": "Perfect Tune pocket screw and roller guard",
+   "brand": "Darton",
+   "since": "current models",
+   "summary": "A pocket screw, a micro-adjust roller guard and the Perfect Timing yoke hanger tune Darton bows without a press.",
+   "how": "Perfect Tune: an adjustment screw in each limb pocket can sit over the top of either the right or left limb and is screwed in until it bottoms, changing cam lean and the tear. Follow your tear: a left tear, put the screw on the left side.",
+   "steps": [
+    "Centre shot 13/16 in from the inside of the shelf to the arrow centre.",
+    "Roller guard: loosen the L-nut with a 1/8 in hex and move the rollers in or out. Left tear: move the guard LEFT; right tear: RIGHT (opposite for left-handed bows).",
+    "Perfect Tune pocket screws: move the screw to the side you want the cam to lean toward and thread it in, top and bottom. Two twists at most.",
+    "Perfect Timing yoke hanger: with the bow at rest, loosen the 3/32 in set screw half a turn, twist the cable anchor by hand any amount, retighten, then check axle-to-axle stays within 1/16 in.",
+    "Cam spacing (BBS and SD cams): baseline for a right-handed bow from the shooter's view is two 0.030 in red spacers on the left of cam 2, and one 0.090 in black plus one 0.030 in red on the right of cam 1. That is only for a shop working with the string and cables off."
+   ],
+   "tools": "3/32 in hex (yoke hanger), 1/8 in hex (roller guard)",
+   "range": "Tightening the upper and lower pocket screws moves the tear about 3/4 in either way, 1.5 in total.",
+   "cautions": [
+    "Timing marks: power cables must lie between the \"Tuning Lines\" on the top cam. BBS cams have H (hunting) and T (target) marks -- Departure and Exodus use T, other hunting bows H."
+   ],
+   "open": [
+    "The screw's pitch (movement per turn) is not published.",
+    "Darton's FAQ and current manual disagree on the maximum limb-bolt turns."
+   ],
+   "confidence": "From the maker's own manual",
+   "pressNeeded": false,
+   "restFirst": true,
+   "centerShotIn": 0.8125,
+   "centerShotNote": "Darton's 2025-26 manual: 13/16 in from the inside of the shelf to the arrow centre.",
+   "timing": "Power cables should lie between the Tuning Lines on the top cam. Perfect Timing changes are made at rest, then check axle-to-axle within 1/16 in.",
+   "limbBolts": "Loosen the pocket-tang locking screw half a turn and count turns. Darton's FAQ says a maximum of 4 turns; the 2025-26 manual says 7 from tightened and 4 from maximum before pressing. Use your model's manual; default to 4 when pressing.",
+   "horizontal": {
+    "nockLeft": "Left tear: move the pocket screws to the LEFT limbs (thread in, two twists at most) and/or slide the roller guard LEFT.",
+    "nockRight": "Right tear: move the pocket screws to the RIGHT limbs and/or slide the roller guard RIGHT."
+   },
+   "vertical": null,
+   "timingFix": {
+    "topFirst": "Darton: the power cables should lie between the Tuning Lines on the top cam (H for hunting bows, T for the Departure and Exodus). Fix it with the Perfect Timing yoke hanger, no press: bow at rest, loosen the 3/32 in set screw half a turn, twist the cable anchor by hand any amount, retighten, then check axle-to-axle is within 1/16 in.",
+    "bottomFirst": "Darton: the power cables should lie between the Tuning Lines on the top cam (H for hunting bows, T for the Departure and Exodus). Fix it with the Perfect Timing yoke hanger, no press: bow at rest, loosen the 3/32 in set screw half a turn, twist the cable anchor by hand any amount, retighten, then check axle-to-axle is within 1/16 in."
+   },
+   "sources": [
+    {
+     "label": "Darton 2025-26 owner's manual",
+     "url": "https://store-6ztydpftbt.mybigcommerce.com/content/2025-26-Darton-Manual.pdf",
+     "official": true
+    },
+    {
+     "label": "Darton tuning video",
+     "url": "https://www.youtube.com/watch?v=qlEdsWUM-9E",
+     "official": true
+    },
+    {
+     "label": "Darton FAQ",
+     "url": "https://dartonarchery.com/faq/",
+     "official": true
+    }
+   ]
+  }
+ ]
+}
