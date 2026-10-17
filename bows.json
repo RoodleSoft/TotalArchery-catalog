@@ -22,7 +22,7 @@
     "ataIn": 33.5,
     "braceIn": 6.4,
     "speedFps": 342,
-    "massWeightOz": null,
+    "massWeightOz": 72,
     "centerShotIn": null,
     "target": false,
     "tier": "flagship",
@@ -38,13 +38,13 @@
     "ataIn": 33.5,
     "braceIn": 6.4,
     "speedFps": 342,
-    "massWeightOz": null,
+    "massWeightOz": 73.6,
     "centerShotIn": null,
     "target": false,
     "tier": "flagship",
     "verified": true,
     "note": null,
-    "msrpUsd": null,
+    "msrpUsd": 2199,
     "url": "https://hoyt.com/products/carbon-rx-10-ultra-ld-hunting-compound-bow"
   },
   {
@@ -1180,7 +1180,7 @@
     "tier": "flagship",
     "verified": true,
     "note": "women's; 7 in brace per current retailer listings (2015 launch release said 6.75 in)",
-    "msrpUsd": null,
+    "msrpUsd": 749,
     "url": null
   },
   {
@@ -1532,7 +1532,7 @@
     "tier": "flagship",
     "verified": true,
     "note": "Exalt 35: 337 fps with smooth mods, 344 fps with performance mods",
-    "msrpUsd": null,
+    "msrpUsd": 1399.99,
     "url": null
   },
   {
@@ -2348,7 +2348,7 @@
     "tier": "enthusiast",
     "verified": true,
     "note": null,
-    "msrpUsd": null,
+    "msrpUsd": 1049.99,
     "url": null
   },
   {
@@ -2364,7 +2364,7 @@
     "tier": "enthusiast",
     "verified": true,
     "note": "advertised speed, not IBO",
-    "msrpUsd": null,
+    "msrpUsd": 1199.99,
     "url": null
   },
   {
@@ -2550,7 +2550,7 @@
     "ataIn": 31,
     "braceIn": 6.75,
     "speedFps": 300,
-    "massWeightOz": null,
+    "massWeightOz": 59.2,
     "centerShotIn": null,
     "target": false,
     "tier": "budget",
