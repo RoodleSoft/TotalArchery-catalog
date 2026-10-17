@@ -2542,5 +2542,15 @@
     "iboRings": false,
     "url": "https://morrelltargets.com/products/m48-commercial-range-archery-target-black-target",
     "verified": false
+  },
+  {
+    "brand": "Morrell",
+    "model": "NASP Eternity School Target",
+    "animal": "none (range block)",
+    "sizeClass": "Range target",
+    "asaRings": false,
+    "iboRings": false,
+    "url": "https://morrelltargets.com/products/nasp-eternity-school-target",
+    "verified": false
   }
 ]
