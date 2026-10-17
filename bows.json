@@ -333,7 +333,7 @@
     "verified": true,
     "note": null,
     "msrpUsd": null,
-    "url": null
+    "url": "https://lancasterarchery.com/products/hoyt-vtm-34-compound-hunting-bow"
   },
   {
     "brand": "Hoyt",
@@ -1548,7 +1548,7 @@
     "tier": "flagship",
     "verified": true,
     "note": null,
-    "msrpUsd": null,
+    "msrpUsd": 1299.99,
     "url": null
   },
   {
@@ -1596,8 +1596,8 @@
     "tier": "flagship",
     "verified": true,
     "note": null,
-    "msrpUsd": null,
-    "url": null
+    "msrpUsd": 1199.99,
+    "url": "https://rmsgear.com/products/elite-omnia"
   },
   {
     "brand": "Elite",
