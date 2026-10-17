@@ -198,14 +198,14 @@
     "ataIn": 30.5,
     "braceIn": 6.25,
     "speedFps": 340,
-    "massWeightOz": null,
+    "massWeightOz": 62.4,
     "centerShotIn": null,
     "target": false,
     "tier": "flagship",
     "verified": true,
     "note": null,
     "msrpUsd": null,
-    "url": null
+    "url": "https://lancasterarchery.com/products/hoyt-carbon-rx-9-sd-compound-hunting-bow"
   },
   {
     "brand": "Hoyt",
@@ -342,13 +342,13 @@
     "ataIn": 30,
     "braceIn": 6.25,
     "speedFps": 342,
-    "massWeightOz": null,
+    "massWeightOz": 62.4,
     "centerShotIn": null,
     "target": false,
     "tier": "flagship",
     "verified": true,
     "note": null,
-    "msrpUsd": null,
+    "msrpUsd": 1849,
     "url": null
   },
   {
@@ -1334,7 +1334,7 @@
     "ataIn": 30,
     "braceIn": 7,
     "speedFps": 323,
-    "massWeightOz": null,
+    "massWeightOz": 62.4,
     "centerShotIn": null,
     "target": false,
     "tier": "flagship",
@@ -1990,14 +1990,14 @@
     "ataIn": 33,
     "braceIn": 6.25,
     "speedFps": 335,
-    "massWeightOz": null,
+    "massWeightOz": 56,
     "centerShotIn": null,
     "target": false,
     "tier": "flagship",
     "verified": true,
     "note": null,
-    "msrpUsd": null,
-    "url": null
+    "msrpUsd": 579.99,
+    "url": "https://www.beararchery.com/products/bear-archery-alaskan-xt-compound-bow"
   },
   {
     "brand": "Bear",
