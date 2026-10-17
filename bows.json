@@ -310,14 +310,14 @@
     "ataIn": 30.6,
     "braceIn": 6,
     "speedFps": 342,
-    "massWeightOz": null,
+    "massWeightOz": 73.6,
     "centerShotIn": null,
     "target": false,
     "tier": "flagship",
     "verified": true,
     "note": null,
-    "msrpUsd": null,
-    "url": null
+    "msrpUsd": 1349,
+    "url": "https://lancasterarchery.com/products/hoyt-vtm-31-compound-hunting-bow"
   },
   {
     "brand": "Hoyt",
@@ -662,14 +662,14 @@
     "ataIn": 29,
     "braceIn": 6,
     "speedFps": 340,
-    "massWeightOz": null,
+    "massWeightOz": 71.52,
     "centerShotIn": null,
     "target": false,
     "tier": "flagship",
     "verified": true,
     "note": null,
-    "msrpUsd": null,
-    "url": null
+    "msrpUsd": 1199,
+    "url": "https://lancasterarchery.com/products/2022-mathews-v3x-29-compound-hunting-bow"
   },
   {
     "brand": "Mathews",
@@ -678,14 +678,14 @@
     "ataIn": 33,
     "braceIn": 6.5,
     "speedFps": 336,
-    "massWeightOz": null,
+    "massWeightOz": 74.72,
     "centerShotIn": null,
     "target": false,
     "tier": "flagship",
     "verified": true,
     "note": null,
-    "msrpUsd": null,
-    "url": null
+    "msrpUsd": 1299,
+    "url": "https://lancasterarchery.com/products/2022-mathews-v3x-33-compound-hunting-bow"
   },
   {
     "brand": "Mathews",
@@ -1302,14 +1302,14 @@
     "ataIn": 33,
     "braceIn": 6,
     "speedFps": 350,
-    "massWeightOz": null,
+    "massWeightOz": 70.4,
     "centerShotIn": null,
     "target": false,
     "tier": "flagship",
     "verified": true,
     "note": null,
-    "msrpUsd": null,
-    "url": null
+    "msrpUsd": 1299,
+    "url": "https://www.presleysoutdoors.com/bowtech-sr350-compound-bow-70lb-right-hand-smoke-grey/"
   },
   {
     "brand": "Bowtech",
@@ -1638,14 +1638,14 @@
     "ataIn": 31,
     "braceIn": 6.875,
     "speedFps": 334,
-    "massWeightOz": null,
+    "massWeightOz": 71.2,
     "centerShotIn": null,
     "target": false,
     "tier": "flagship",
     "verified": true,
     "note": null,
-    "msrpUsd": null,
-    "url": null
+    "msrpUsd": 1199,
+    "url": "https://elitearchery.com/products/envision"
   },
   {
     "brand": "Prime",
