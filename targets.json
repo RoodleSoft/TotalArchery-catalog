@@ -2402,5 +2402,16 @@
     "sizeClass": "Real Wild",
     "url": "https://bigshottargets.com/products/real-wild-3d-boss-rat",
     "verified": false
+  },
+  {
+    "brand": "BIGshot",
+    "model": "Real Wild 3D Ball Archery Target",
+    "animal": "ball (simulates a rabbit)",
+    "sizeClass": "Real Wild",
+    "lengthIn": 10,
+    "heightIn": 10,
+    "replaceableCore": false,
+    "url": "https://bigshottargets.com/products/real-wild-3d-ball",
+    "verified": false
   }
 ]
