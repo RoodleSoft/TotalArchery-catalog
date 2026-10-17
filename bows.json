@@ -380,8 +380,8 @@
     "tier": "flagship",
     "verified": true,
     "note": null,
-    "msrpUsd": null,
-    "url": null
+    "msrpUsd": 1249,
+    "url": "https://lancasterarchery.com/products/hoyt-ventum-pro-30-compound-hunting-bow"
   },
   {
     "brand": "Hoyt",
@@ -2092,8 +2092,8 @@
     "tier": "flagship",
     "verified": true,
     "note": null,
-    "msrpUsd": null,
-    "url": null
+    "msrpUsd": 999.99,
+    "url": "https://www.beararchery.com/blogs/base-camp-archery-blog/refine-eko-best-new-hunting-bows-for-2022-huntstand-media"
   },
   {
     "brand": "Bear",
@@ -2284,8 +2284,8 @@
     "tier": "enthusiast",
     "verified": true,
     "note": "advertised speed (343 fps with the speed cam), not IBO",
-    "msrpUsd": null,
-    "url": null
+    "msrpUsd": 1249.99,
+    "url": "https://lancasterarchery.com/products/darton-sequel-33-st2-compound-hunting-bow"
   },
   {
     "brand": "Darton",
