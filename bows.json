@@ -876,7 +876,7 @@
     "tier": "flagship",
     "verified": true,
     "note": "Fortis 33 with the E2 cam (Lancaster Archery); the EC2 cam is 6.625 in brace / 332 fps",
-    "msrpUsd": null,
+    "msrpUsd": 1199,
     "url": null
   },
   {
@@ -972,7 +972,7 @@
     "tier": "flagship",
     "verified": true,
     "note": null,
-    "msrpUsd": null,
+    "msrpUsd": 1799,
     "url": null
   },
   {
@@ -1900,7 +1900,7 @@
     "tier": "flagship",
     "verified": true,
     "note": null,
-    "msrpUsd": null,
+    "msrpUsd": 1249,
     "url": null
   },
   {
@@ -1980,8 +1980,8 @@
     "tier": "budget",
     "verified": true,
     "note": null,
-    "msrpUsd": null,
-    "url": null
+    "msrpUsd": 649.99,
+    "url": "https://www.beararchery.com/products/bear-archery-whitetail-int-compound-bow"
   },
   {
     "brand": "Bear",
@@ -2460,7 +2460,7 @@
     "tier": "enthusiast",
     "verified": true,
     "note": null,
-    "msrpUsd": null,
+    "msrpUsd": 1399,
     "url": null
   },
   {
@@ -2476,7 +2476,7 @@
     "tier": "enthusiast",
     "verified": true,
     "note": null,
-    "msrpUsd": null,
+    "msrpUsd": 1399,
     "url": null
   },
   {
@@ -2492,7 +2492,7 @@
     "tier": "enthusiast",
     "verified": true,
     "note": null,
-    "msrpUsd": null,
+    "msrpUsd": 1499,
     "url": null
   },
   {
@@ -2524,7 +2524,7 @@
     "tier": "enthusiast",
     "verified": true,
     "note": "advertised 370 fps ATA speed; fixed draw-length hybrid cam (Field & Stream 2022 flagship test measured 324 fps at 60 lb / 28 in)",
-    "msrpUsd": null,
+    "msrpUsd": 1199.99,
     "url": null
   },
   {
