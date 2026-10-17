@@ -2562,5 +2562,15 @@
     "iboRings": false,
     "url": "https://morrelltargets.com/products/yellow-jacket-yj-350-dual-threat",
     "verified": false
+  },
+  {
+    "brand": "Morrell",
+    "model": "Yellow Jacket YJ-400 Super Duper Target",
+    "animal": "none (range block)",
+    "sizeClass": "Range target",
+    "asaRings": false,
+    "iboRings": false,
+    "url": "https://morrelltargets.com/products/yj400-yellow-jacket-super-duper-target",
+    "verified": false
   }
 ]
