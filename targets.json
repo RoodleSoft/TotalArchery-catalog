@@ -2422,5 +2422,15 @@
     "replaceableCore": false,
     "url": "https://bigshottargets.com/products/real-wild-foam-stump",
     "verified": false
+  },
+  {
+    "brand": "BIGshot",
+    "model": "Iron Man 30\" Personal Range Target",
+    "animal": "none (range block)",
+    "sizeClass": "Range target",
+    "asaRings": false,
+    "iboRings": false,
+    "url": "https://bigshottargets.com/products/iron-man-30-personal-range-target",
+    "verified": false
   }
 ]
