@@ -1734,14 +1734,14 @@
     "ataIn": 34,
     "braceIn": 6.25,
     "speedFps": 336,
-    "massWeightOz": null,
+    "massWeightOz": 65.6,
     "centerShotIn": null,
     "target": false,
     "tier": "flagship",
     "verified": true,
     "note": null,
-    "msrpUsd": null,
-    "url": null
+    "msrpUsd": 1595,
+    "url": "https://www.rossoutdoors.com/products/prime-form-bow"
   },
   {
     "brand": "Prime",
@@ -1798,14 +1798,14 @@
     "ataIn": 36,
     "braceIn": 6.75,
     "speedFps": 332,
-    "massWeightOz": null,
+    "massWeightOz": 73.6,
     "centerShotIn": null,
     "target": false,
     "tier": "flagship",
     "verified": true,
     "note": null,
     "msrpUsd": null,
-    "url": null
+    "url": "https://www.rossoutdoors.com/products/prime-rvx-36"
   },
   {
     "brand": "Prime",
@@ -1814,13 +1814,13 @@
     "ataIn": 32,
     "braceIn": 6.25,
     "speedFps": 338,
-    "massWeightOz": null,
+    "massWeightOz": 72,
     "centerShotIn": null,
     "target": false,
     "tier": "flagship",
     "verified": true,
     "note": null,
-    "msrpUsd": null,
+    "msrpUsd": 1299,
     "url": null
   },
   {
@@ -1830,14 +1830,14 @@
     "ataIn": 34,
     "braceIn": 6.25,
     "speedFps": 340,
-    "massWeightOz": null,
+    "massWeightOz": 73.6,
     "centerShotIn": null,
     "target": false,
     "tier": "flagship",
     "verified": true,
     "note": null,
-    "msrpUsd": null,
-    "url": null
+    "msrpUsd": 1299,
+    "url": "https://lancasterarchery.com/products/prime-revex-4-compound-hunting-bow"
   },
   {
     "brand": "Prime",
@@ -1846,14 +1846,14 @@
     "ataIn": 36,
     "braceIn": 6.75,
     "speedFps": 330,
-    "massWeightOz": null,
+    "massWeightOz": 75.2,
     "centerShotIn": null,
     "target": false,
     "tier": "flagship",
     "verified": true,
     "note": null,
-    "msrpUsd": null,
-    "url": null
+    "msrpUsd": 1399,
+    "url": "https://lancasterarchery.com/products/prime-revex-6-compound-hunting-bow"
   },
   {
     "brand": "Prime",
@@ -1878,14 +1878,14 @@
     "ataIn": 33,
     "braceIn": 6.5,
     "speedFps": 337,
-    "massWeightOz": null,
+    "massWeightOz": 70.4,
     "centerShotIn": null,
     "target": false,
     "tier": "flagship",
     "verified": true,
     "note": null,
-    "msrpUsd": null,
-    "url": null
+    "msrpUsd": 1199,
+    "url": "https://lancasterarchery.com/products/prime-inline-3-compound-hunting-bow"
   },
   {
     "brand": "Prime",
