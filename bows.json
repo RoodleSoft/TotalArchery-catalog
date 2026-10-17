@@ -1964,8 +1964,8 @@
     "tier": "flagship",
     "verified": true,
     "note": null,
-    "msrpUsd": null,
-    "url": null
+    "msrpUsd": 529.99,
+    "url": "https://lancasterarchery.com/products/bear-legend-30-compound-hunting-bow"
   },
   {
     "brand": "Bear",
@@ -2013,7 +2013,7 @@
     "verified": true,
     "note": null,
     "msrpUsd": null,
-    "url": null
+    "url": "https://www.brothersoutdoors.us/bear-archery-bow-persist.html"
   },
   {
     "brand": "Bear",
@@ -2028,8 +2028,8 @@
     "tier": "flagship",
     "verified": true,
     "note": null,
-    "msrpUsd": null,
-    "url": null
+    "msrpUsd": 1199.99,
+    "url": "https://lancasterarchery.com/products/bear-execute-30-compound-hunting-bow"
   },
   {
     "brand": "Bear",
@@ -2045,7 +2045,7 @@
     "verified": true,
     "note": null,
     "msrpUsd": null,
-    "url": null
+    "url": "https://borkholderarchery.com/shop/bear-execute-compound-bow/"
   },
   {
     "brand": "Bear",
@@ -2060,8 +2060,8 @@
     "tier": "budget",
     "verified": true,
     "note": null,
-    "msrpUsd": null,
-    "url": null
+    "msrpUsd": 429.99,
+    "url": "https://lancasterarchery.com/products/bear-legend-xr-compound-hunting-bow"
   },
   {
     "brand": "Bear",
@@ -2070,7 +2070,7 @@
     "ataIn": 32,
     "braceIn": 6.875,
     "speedFps": 330,
-    "massWeightOz": null,
+    "massWeightOz": 70.4,
     "centerShotIn": null,
     "target": false,
     "tier": "flagship",
