@@ -1547,5 +1547,16 @@
     "axisAdjust": true,
     "url": "https://www.beararchery.com/products/trophy-ridge-fix-bow-sight",
     "verified": false
+  },
+  {
+    "brand": "Trophy Ridge",
+    "model": "Fix 5",
+    "type": "fixed multi-pin",
+    "pins": 5,
+    "pinSizes": ".019",
+    "dovetail": true,
+    "axisAdjust": true,
+    "url": "https://www.beararchery.com/products/trophy-ridge-fix-bow-sight",
+    "verified": false
   }
 ]
