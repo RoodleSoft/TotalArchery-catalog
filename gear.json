@@ -3934,6 +3934,17 @@
   {
     "category": "release",
     "brand": "Trophy Ridge",
+    "model": "Judge Release",
+    "url": "https://xspotarchery.com/products/trophy-ridge-judge-release",
+    "priceUsd": 69.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/1043784_1000x1000_5cf8b0fc-fab8-4a8c-a493-e7055c9b1f71.webp"
+  },
+  {
+    "category": "release",
+    "brand": "Trophy Ridge",
     "model": "Mecca Bow Release",
     "url": "https://beararchery.com/products/trophy-ridge-mecca-bow-release",
     "priceUsd": 99.99,
@@ -5559,18 +5570,18 @@
     "verified": true,
     "tapeWidthIn": null,
     "weightG": null,
-    "image": "https://cdn.shopify.com/s/files/1/0257/0813/4455/products/OptumORSAssem-2.png"
+    "image": "https://cdn.shopify.com/s/files/1/0257/0813/4455/files/MULTI-PIN_ORS_Render_Project_-_20.png"
   },
   {
     "category": "scope",
     "brand": "Shrewd",
     "model": "Optum Scope",
-    "url": "https://shrewdarchery.com/products/optum-scope-dune-29mm-rh",
-    "priceUsd": 155.0,
+    "url": "https://shrewdarchery.com/products/black-optum-scope-40-35mm",
+    "priceUsd": 170.0,
     "verified": true,
     "tapeWidthIn": null,
     "weightG": null,
-    "image": "https://cdn.shopify.com/s/files/1/0257/0813/4455/files/Optum29mmScope-Dune-1.jpg"
+    "image": "https://cdn.shopify.com/s/files/1/0257/0813/4455/products/BlackOptum-BlackORS.png"
   },
   {
     "category": "scope",
@@ -8525,7 +8536,7 @@
     "brand": "Trophy Ridge",
     "model": "Picatinny Rail Front Mount Bracket",
     "url": "https://xspotarchery.com/products/trophy-ridge-picatinny-rail-front-mount-bracket",
-    "priceUsd": 39.99,
+    "priceUsd": 44.99,
     "verified": true,
     "tapeWidthIn": null,
     "weightG": null,
@@ -11053,6 +11064,17 @@
     "tapeWidthIn": null,
     "weightG": null,
     "image": "https://gasbowstrings.com/wp-content/uploads/2026/07/IMG_7357-scaled.jpg"
+  },
+  {
+    "category": "string",
+    "brand": "GAS Bowstrings",
+    "model": "Flemish",
+    "url": "https://gasbowstrings.com/product/flemish-string-only-od-green-black-twist-with-black-serve/",
+    "priceUsd": 60.0,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://gasbowstrings.com/wp-content/uploads/2026/10/IMG_2569-scaled.jpg"
   },
   {
     "category": "string",

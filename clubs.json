@@ -390,6 +390,16 @@
     "externalRef": "usarchery:ascension archery|13592 lake chabot rd san leandro california united states of america 94577"
   },
   {
+    "name": "Ascent Archery",
+    "address": "Greeley Recreation Center, 651 10th Ave, Greeley, Colorado, United States of America, 80631",
+    "phone": "970-576-8960",
+    "email": "jdblflores@hotmail.com",
+    "website": "",
+    "programs": "Junior Olympic Archery Development (JOAD)",
+    "reviewStatus": "approved",
+    "externalRef": "usarchery:ascent archery|greeley recreation center 651 10th ave greeley colorado united states of america 80631"
+  },
+  {
     "name": "Asheville Archery Training Center",
     "address": "1426 Brevard Rd, Asheville, North Carolina, United States of America, 28806",
     "phone": "+1 828 333 0606",
@@ -895,7 +905,7 @@
     "phone": "",
     "email": "blackmountainbowmen@gmail.com",
     "website": "",
-    "programs": "",
+    "programs": "indoor range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:black mountain bowmen|black mountain bowmen bmb avenida espana san jose california 95139"
   },
@@ -905,7 +915,7 @@
     "phone": "",
     "email": "",
     "website": "",
-    "programs": "3d range, outdoor range, outdoor field range, 3d range",
+    "programs": "",
     "reviewStatus": "approved",
     "externalRef": "nfaa:black sheep bowmen|po box 6075 jber alaska 99506"
   },
@@ -1730,16 +1740,6 @@
     "externalRef": "usarchery:cincinnati jr olympians|5327 bethany rd mason ohio united states of america 45040"
   },
   {
-    "name": "Cinnamon Creek Ranch",
-    "address": "13794 Old Denton Rd, Roanoke, Texas, 76262",
-    "phone": "+18174398998",
-    "email": "nola@cinnamoncreekranch.com",
-    "website": "",
-    "programs": "indoor range",
-    "reviewStatus": "approved",
-    "externalRef": "nfaa:cinnamon creek ranch|13794 old denton rd roanoke texas 76262"
-  },
-  {
     "name": "Cinnamon Creek Ranch Archery",
     "address": "Cinnamon Creek Ranch, 13794 Old Denton Rd., Roanoke, Texas, United States of America, 76262",
     "phone": "+18174398998",
@@ -2165,7 +2165,7 @@
     "phone": "+15635056365",
     "email": "president@davenportvalleyarchers.com",
     "website": "http://davenportvalleyarchers.com",
-    "programs": "3d range, outdoor range, outdoor field range, 3d range",
+    "programs": "",
     "reviewStatus": "approved",
     "externalRef": "nfaa:davenport valley archers|15535 270th street long grove iowa 52756"
   },
@@ -2648,16 +2648,6 @@
     "programs": "",
     "reviewStatus": "approved",
     "externalRef": "usarchery:faith assembly archery|7101 bayshore road north fort myers florida united states of america 33917"
-  },
-  {
-    "name": "Falcon Archers Joad",
-    "address": "47 Papp Road, Canonsburg, Pennsylvania, United States of America, 15317",
-    "phone": "",
-    "email": "falcon.joad@gmail.com",
-    "website": "http://falconjoad.org",
-    "programs": "Junior Olympic Archery Development (JOAD)",
-    "reviewStatus": "approved",
-    "externalRef": "usarchery:falcon archers joad|47 papp road canonsburg pennsylvania united states of america 15317"
   },
   {
     "name": "Fallon Bowmen",
@@ -4180,16 +4170,6 @@
     "externalRef": "nfaa:lewis clark archers mt|3654 us 12 helena montana 59601"
   },
   {
-    "name": "Lewis & Clark Bowmen - WA",
-    "address": "9345 Barnes Dr, Castle Rock, Washington, 98611",
-    "phone": "+13604317447",
-    "email": "lewisnclarkbowmen@yahoo.com",
-    "website": "",
-    "programs": "indoor range",
-    "reviewStatus": "approved",
-    "externalRef": "nfaa:lewis clark bowmen wa|9345 barnes dr castle rock washington 98611"
-  },
-  {
     "name": "Lewistown Bowhunters Association",
     "address": "PO BOX 189, LEWISTOWN, Montana, 59457-0189",
     "phone": "",
@@ -4960,16 +4940,6 @@
     "externalRef": "nfaa:narragansett bowhunters|1531 ten rod rd north kingstown rhode island 02852"
   },
   {
-    "name": "Navajo Technical University Archery",
-    "address": ", New Mexico, United States of America",
-    "phone": "+15054090739",
-    "email": "mperry@navajotech.edu",
-    "website": "",
-    "programs": "",
-    "reviewStatus": "approved",
-    "externalRef": "usarchery:navajo technical university archery|new mexico united states of america"
-  },
-  {
     "name": "Navigators Adaptive Sports Club",
     "address": "136 Oak Ridge Rd, Clark, New Jersey, United States of America, 07066",
     "phone": "+1 908-325-5052",
@@ -4995,7 +4965,7 @@
     "phone": "",
     "email": "abbe17@icloud.com",
     "website": "",
-    "programs": "indoor range",
+    "programs": "3d range, indoor range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:nenameseck sportsmens club|150 bacon road p o box 284 palmer massachusetts 01069"
   },
@@ -5280,6 +5250,16 @@
     "externalRef": "usarchery:oasis archery|2294 baldwin lane stockton california united states of america 95215"
   },
   {
+    "name": "OC Archers",
+    "address": "25782 Obrero Dr, Unit-B, Mission Viejo, California, United States of America, 92691",
+    "phone": "+1 949-916-6855",
+    "email": "info@ocarchery.com",
+    "website": "http://ocarchery.com",
+    "programs": "Adult Archery Program",
+    "reviewStatus": "approved",
+    "externalRef": "usarchery:oc archers|25782 obrero dr unit b mission viejo california united states of america 92691"
+  },
+  {
     "name": "OTOW Archery Club, Inc.",
     "address": "9665 SW 98th Street, Ocala, Florida, 34481",
     "phone": "+14072579668",
@@ -5480,6 +5460,16 @@
     "externalRef": "usarchery:oklahoma storm joad|h h shooting sports 400 vermont ave indoor trosper archery park outdoor oklahoma city oklahoma united states of america 73108"
   },
   {
+    "name": "Olde English Outfitters Archery Center",
+    "address": "480 Ginghamsburg Rd, Tipp City, Ohio, 45371",
+    "phone": "+19376673315",
+    "email": "",
+    "website": "http://www.oeoutfitters.com",
+    "programs": "indoor range",
+    "reviewStatus": "approved",
+    "externalRef": "nfaa:olde english outfitters archery center|480 ginghamsburg rd tipp city ohio 45371"
+  },
+  {
     "name": "Omro Bowhunters",
     "address": "1230 E Main St, Omro, Wisconsin, 54963",
     "phone": "+19206856869",
@@ -5568,6 +5558,16 @@
     "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program, 3D Archery, Field Archery",
     "reviewStatus": "approved",
     "externalRef": "usarchery:oranco jr bowmen joad|united states of america"
+  },
+  {
+    "name": "Orange County Archery JOAD",
+    "address": "25782 “B” Obrero Drive, Mission Viejo, California, United States of America, 92691",
+    "phone": "+1 949-916-6855",
+    "email": "info@ocarchery.com",
+    "website": "http://ocarchery.com",
+    "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program",
+    "reviewStatus": "approved",
+    "externalRef": "usarchery:orange county archery joad|25782 b obrero drive mission viejo california united states of america 92691"
   },
   {
     "name": "Oregon State University Archery",
@@ -5845,7 +5845,7 @@
     "phone": "",
     "email": "pinehillarchery@gmail.com",
     "website": "",
-    "programs": "outdoor field range, indoor range, outdoor range, 3d range",
+    "programs": "",
     "reviewStatus": "approved",
     "externalRef": "nfaa:pine hill archery club|167 cartersburg rd danville indiana 46122"
   },
@@ -6858,16 +6858,6 @@
     "programs": "outdoor field range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:skookum archers|11209 shaw road east puyallup washington 98373"
-  },
-  {
-    "name": "Sky Valley Archery Academy",
-    "address": "Sky Valley Archery Academy, Attn: Michael Wichser, 19829 168th St. SE, Monroe, Washington, United States of America, 98272",
-    "phone": "+1 2068561190",
-    "email": "mwichser@frontier.com",
-    "website": "",
-    "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program",
-    "reviewStatus": "approved",
-    "externalRef": "usarchery:sky valley archery academy|sky valley archery academy attn michael wichser 19829 168th st se monroe washington united states of america 98272"
   },
   {
     "name": "Slingin Arrows JOAD",
@@ -8735,7 +8725,7 @@
     "phone": "",
     "email": "",
     "website": "",
-    "programs": "",
+    "programs": "indoor range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:winnemucca archers|4910 w commander dr winnemucca nevada 89445"
   },
@@ -8758,6 +8748,16 @@
     "programs": "Junior Olympic Archery Development (JOAD), 3D Archery, Field Archery",
     "reviewStatus": "approved",
     "externalRef": "usarchery:wisconsin archery learning center|4336 milton ave suite 110 janesville wisconsin united states of america 53546"
+  },
+  {
+    "name": "Wo-Pe-Na Archers",
+    "address": "39 Harding Ave, Clifton, New Jersey, United States of America, 07011",
+    "phone": "973-365-2590",
+    "email": "archers@wopena.net",
+    "website": "https://www.wopena.net",
+    "programs": "Adult Archery Program",
+    "reviewStatus": "approved",
+    "externalRef": "usarchery:wo pe na archers|39 harding ave clifton new jersey united states of america 07011"
   },
   {
     "name": "Wolf Pack Archers",
