@@ -892,7 +892,7 @@
     "tier": "flagship",
     "verified": true,
     "note": null,
-    "msrpUsd": null,
+    "msrpUsd": 1799,
     "url": null
   },
   {
@@ -2422,13 +2422,13 @@
     "ataIn": 33,
     "braceIn": 6.375,
     "speedFps": 330,
-    "massWeightOz": null,
+    "massWeightOz": 60,
     "centerShotIn": null,
     "target": false,
     "tier": "enthusiast",
     "verified": true,
     "note": null,
-    "msrpUsd": null,
+    "msrpUsd": 1599.99,
     "url": "https://www.xpeditionarchery.com/products/nexlite%E2%84%A2-33"
   },
   {
@@ -2438,7 +2438,7 @@
     "ataIn": 32,
     "braceIn": 6,
     "speedFps": 342,
-    "massWeightOz": null,
+    "massWeightOz": 60.8,
     "centerShotIn": null,
     "target": false,
     "tier": "enthusiast",
