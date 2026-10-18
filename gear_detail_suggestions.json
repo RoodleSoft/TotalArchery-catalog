@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-17T16:56:27Z",
+ "updatedAt": "2026-10-18T04:45:53Z",
  "note": "Suggestions from retailer feeds: unconfirmed. The admin assistant checks each on its source page before applying.",
  "suggestions": {
   "bows:Hoyt|Carbon RX-10": {
@@ -12,7 +12,6 @@
   },
   "bows:Hoyt|Carbon RX-10 Ultra": {
    "fields": {
-    "massWeightOz": 72.0,
     "msrpUsd": 2099.0
    },
    "source": "https://lancasterarchery.com/products/hoyt-carbon-rx-10-ultra-compound-hunting-bow",
@@ -283,14 +282,6 @@
    "retailer": "archerycountry.com",
    "title": "Bowtech Alliance 33"
   },
-  "bows:Bowtech|Carbon Rose": {
-   "fields": {
-    "msrpUsd": 749.0
-   },
-   "source": "https://archerycountry.com/products/bowtech-carbon-rose",
-   "retailer": "archerycountry.com",
-   "title": "Bowtech Carbon Rose"
-  },
   "bows:Bowtech|Amplify": {
    "fields": {
     "msrpUsd": 599.0
@@ -338,14 +329,6 @@
    "source": "https://lancasterarchery.com/products/elite-artus-compound-hunting-bow",
    "retailer": "lancasterarchery.com",
    "title": "Elite Artus Compound Hunting Bow"
-  },
-  "bows:Elite|Exalt": {
-   "fields": {
-    "msrpUsd": 1399.99
-   },
-   "source": "https://lancasterarchery.com/products/elite-exalt-35-compound-bow",
-   "retailer": "lancasterarchery.com",
-   "title": "Elite Exalt 35 Compound Bow (Hunting Colors)"
   },
   "bows:Elite|Allure": {
    "fields": {
@@ -427,14 +410,6 @@
    "retailer": "lancasterarchery.com",
    "title": "Bear Redeem Compound Hunting Bow"
   },
-  "bows:Bear|Whitetail INT": {
-   "fields": {
-    "msrpUsd": 519.99
-   },
-   "source": "https://lancasterarchery.com/products/bear-whitetail-int-compound-hunting-bow",
-   "retailer": "lancasterarchery.com",
-   "title": "Bear Whitetail INT Compound Hunting Bow"
-  },
   "bows:Bear|Royale": {
    "fields": {
     "msrpUsd": 359.99
@@ -459,30 +434,6 @@
    "retailer": "lancasterarchery.com",
    "title": "Darton Departure Pro Compound Target Bow"
   },
-  "bows:Darton|Veracity 35": {
-   "fields": {
-    "msrpUsd": 949.99
-   },
-   "source": "https://lancasterarchery.com/products/darton-veracity-35-compound-bow",
-   "retailer": "lancasterarchery.com",
-   "title": "Darton Veracity 35 Compound Bow"
-  },
-  "bows:Darton|Sequel 31": {
-   "fields": {
-    "msrpUsd": 799.99
-   },
-   "source": "https://lancasterarchery.com/products/darton-sequel-31-compound-hunting-bow",
-   "retailer": "lancasterarchery.com",
-   "title": "Darton Sequel 31 Compound Hunting Bow"
-  },
-  "bows:Darton|Sequel 33": {
-   "fields": {
-    "msrpUsd": 1149.99
-   },
-   "source": "https://lancasterarchery.com/products/darton-sequel-33-compound-hunting-bow",
-   "retailer": "lancasterarchery.com",
-   "title": "Darton Sequel 33 Compound Hunting Bow"
-  },
   "bows:Xpedition|NexLite 30": {
    "fields": {
     "msrpUsd": 1499.99
@@ -502,7 +453,6 @@
   },
   "bows:Diamond|Edge XT": {
    "fields": {
-    "massWeightOz": 59.2,
     "msrpUsd": 419.0
    },
    "source": "https://archerycountry.com/products/diamond-edge-xt",
@@ -516,14 +466,6 @@
    "source": "https://lancasterarchery.com/products/diamond-edge-max-compound-bow",
    "retailer": "lancasterarchery.com",
    "title": "Diamond Edge Max Compound Bow"
-  },
-  "bows:Diamond|Infinite Edge Pro Legacy": {
-   "fields": {
-    "msrpUsd": 329.99
-   },
-   "source": "https://lancasterarchery.com/products/diamond-infinite-edge-pro-legacy-compound-bow",
-   "retailer": "lancasterarchery.com",
-   "title": "Diamond Infinite Edge Pro Legacy Compound Bow"
   },
   "bows:Mission|Range": {
    "fields": {
@@ -998,6 +940,62 @@
    "source": "https://lancasterarchery.com/products/b-50-dacron-recurve-bowstring-amo-bow-string-strd-lgth-14-black-50",
    "retailer": "lancasterarchery.com",
    "title": "B-55 Dacron Recurve BowString AMO Bow String Strd/Lgth-14-Blk-50"
+  },
+  "bows:Bowtech|Carbon Rose": {
+   "fields": {
+    "msrpUsd": 749.0
+   },
+   "source": "https://archerycountry.com/products/bowtech-carbon-rose",
+   "retailer": "archerycountry.com",
+   "title": "Bowtech Carbon Rose"
+  },
+  "bows:Elite|Exalt": {
+   "fields": {
+    "msrpUsd": 1399.99
+   },
+   "source": "https://lancasterarchery.com/products/elite-exalt-35-compound-bow",
+   "retailer": "lancasterarchery.com",
+   "title": "Elite Exalt 35 Compound Bow (Hunting Colors)"
+  },
+  "bows:Bear|Whitetail INT": {
+   "fields": {
+    "msrpUsd": 519.99
+   },
+   "source": "https://lancasterarchery.com/products/bear-whitetail-int-compound-hunting-bow",
+   "retailer": "lancasterarchery.com",
+   "title": "Bear Whitetail INT Compound Hunting Bow"
+  },
+  "bows:Darton|Veracity 35": {
+   "fields": {
+    "msrpUsd": 949.99
+   },
+   "source": "https://lancasterarchery.com/products/darton-veracity-35-compound-bow",
+   "retailer": "lancasterarchery.com",
+   "title": "Darton Veracity 35 Compound Bow"
+  },
+  "bows:Darton|Sequel 31": {
+   "fields": {
+    "msrpUsd": 799.99
+   },
+   "source": "https://lancasterarchery.com/products/darton-sequel-31-compound-hunting-bow",
+   "retailer": "lancasterarchery.com",
+   "title": "Darton Sequel 31 Compound Hunting Bow"
+  },
+  "bows:Darton|Sequel 33": {
+   "fields": {
+    "msrpUsd": 1149.99
+   },
+   "source": "https://lancasterarchery.com/products/darton-sequel-33-compound-hunting-bow",
+   "retailer": "lancasterarchery.com",
+   "title": "Darton Sequel 33 Compound Hunting Bow"
+  },
+  "bows:Diamond|Infinite Edge Pro Legacy": {
+   "fields": {
+    "msrpUsd": 329.99
+   },
+   "source": "https://lancasterarchery.com/products/diamond-infinite-edge-pro-legacy-compound-bow",
+   "retailer": "lancasterarchery.com",
+   "title": "Diamond Infinite Edge Pro Legacy Compound Bow"
   }
  }
 }
