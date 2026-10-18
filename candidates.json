@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T04:11:55.021814Z",
+  "updatedAt": "2026-10-18T04:11:58.976435Z",
   "sights": [
     {
       "brand": "Axcel",
@@ -19,6 +19,30 @@
     },
     {
       "brand": "Axcel",
+      "model": "Driver Plus Slider Sight",
+      "url": "https://xspotarchery.com/products/axcel-driver-plus-slider-sight-standard-pro-bar-w-avx-41-scope-single-pin-010-green-fiber",
+      "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/1040329_1000x_8294718c-6b46-40fc-b62e-fd60653abeef.webp",
+      "priceUsd": 469.99,
+      "firstSeen": "2026-10-18"
+    },
+    {
+      "brand": "Axcel",
+      "model": "Driver Slider Sight",
+      "url": "https://xspotarchery.com/products/axcel-driver-slider-sight-picatinny-w-accustat-ii-scope-micro-3-pins-010-fiber-rh-black",
+      "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/1040331_stealth.jpg",
+      "priceUsd": 509.99,
+      "firstSeen": "2026-10-18"
+    },
+    {
+      "brand": "Axcel",
+      "model": "LANDSLYDE Carbon Pro Slider Sight",
+      "url": "https://xspotarchery.com/products/copy-of-axcel-landslyde-carbon-pro-slider-sight-with-accustat-ii-scope-micro-5-pins-019-fiber-black-sight",
+      "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/1406244_1_ba954267-d273-4fd1-aa87-9cb201105c5f.jpg",
+      "priceUsd": 549.99,
+      "firstSeen": "2026-10-18"
+    },
+    {
+      "brand": "Axcel",
       "model": "Landslyde",
       "url": "https://truball.com/products/landslyde-sight-bar-only-no-scope",
       "image": "https://cdn.shopify.com/s/files/1/2312/8661/files/ALND-P-BK_02.png",
@@ -32,6 +56,14 @@
       "image": "https://cdn.shopify.com/s/files/1/2312/8661/files/AXRT-P410-BK_01_1b4d8198-e193-45f5-9923-662172582fe5.png",
       "priceUsd": 352.74,
       "firstSeen": "2026-10-02"
+    },
+    {
+      "brand": "Black Gold",
+      "model": "Competition 2A Sight (6\" Wing Truss Dovetail)",
+      "url": "https://xspotarchery.com/products/black-gold-competition-2a-sight-6-wing-truss-dovetail-left-hand",
+      "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/carousel-competition2A-01-1800_0e354453-77ea-4e67-bf35-09e6414b4108.jpg",
+      "priceUsd": 399.99,
+      "firstSeen": "2026-10-18"
     },
     {
       "brand": "Black Gold",
@@ -75,27 +107,11 @@
     },
     {
       "brand": "HHA",
-      "model": "Tetra",
-      "url": "https://www.hhasports.com",
-      "image": null,
-      "priceUsd": null,
-      "firstSeen": "2026-10-02"
-    },
-    {
-      "brand": "HHA",
-      "model": "Tetra Max",
-      "url": "https://www.hhasports.com",
-      "image": null,
-      "priceUsd": null,
-      "firstSeen": "2026-10-02"
-    },
-    {
-      "brand": "HHA",
-      "model": "Tetra Tournament",
-      "url": "https://www.hhasports.com",
-      "image": null,
-      "priceUsd": null,
-      "firstSeen": "2026-10-02"
+      "model": "NYTRX X3 Picatinny Sight .019",
+      "url": "https://xspotarchery.com/products/hha-nytrx-x3-picatinny-sight-rh-019-left-hand",
+      "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/1041180.jpg",
+      "priceUsd": 349.99,
+      "firstSeen": "2026-10-18"
     },
     {
       "brand": "Option Archery",
@@ -203,90 +219,10 @@
     },
     {
       "brand": "Spot Hogg",
-      "model": "Hunter Hogg-It",
-      "url": "https://www.spot-hogg.com",
-      "image": null,
-      "priceUsd": null,
-      "firstSeen": "2026-10-02"
-    },
-    {
-      "brand": "Spot Hogg",
       "model": "Tommy Hogg",
       "url": "https://www.spot-hogg.com",
       "image": null,
       "priceUsd": null,
-      "firstSeen": "2026-10-02"
-    },
-    {
-      "brand": "Trophy Ridge",
-      "model": "Attack",
-      "url": "https://beararchery.com/products/trophy-ridge-attack-bow-sight",
-      "image": "https://cdn.shopify.com/s/files/1/0488/5331/9840/files/trophy-ridge-attack-bow-sight_sight-nonreact__as410_1.png",
-      "priceUsd": 119.99,
-      "firstSeen": "2026-10-02"
-    },
-    {
-      "brand": "Trophy Ridge",
-      "model": "Attack Pro",
-      "url": "https://beararchery.com/products/trophy-ridge-attack-pro-bow-sight",
-      "image": "https://cdn.shopify.com/s/files/1/0488/5331/9840/files/trophy-ridge-attack-pro-bow-sight_sight-nonreact__as425_1.png",
-      "priceUsd": 139.99,
-      "firstSeen": "2026-10-02"
-    },
-    {
-      "brand": "Trophy Ridge",
-      "model": "Dimension",
-      "url": "https://beararchery.com/products/trophy-ridge-dimension-5-pin-sight",
-      "image": "https://cdn.shopify.com/s/files/1/0488/5331/9840/files/batch-1-trophy-ridge-dimension-5-pin-sight__as85_1.png",
-      "priceUsd": 79.99,
-      "firstSeen": "2026-10-02"
-    },
-    {
-      "brand": "Trophy Ridge",
-      "model": "Drive Bow Sight",
-      "url": "https://beararchery.com/products/trophy-ridge-drive-slider-bow-sight",
-      "image": "https://cdn.shopify.com/s/files/1/0488/5331/9840/files/batch-1-trophy-ridge-drive-slider-bow-sight__as301_1.png",
-      "priceUsd": 84.99,
-      "firstSeen": "2026-10-02"
-    },
-    {
-      "brand": "Trophy Ridge",
-      "model": "Fatal 3",
-      "url": "https://beararchery.com/products/trophy-ridge-fatal-bow-sight",
-      "image": "https://cdn.shopify.com/s/files/1/0488/5331/9840/files/trophy-ridge-fatal-bow-sight_sight-nonreact__as63_1.png",
-      "priceUsd": 39.99,
-      "firstSeen": "2026-10-02"
-    },
-    {
-      "brand": "Trophy Ridge",
-      "model": "Fix",
-      "url": "https://www.trophyridge.com",
-      "image": null,
-      "priceUsd": null,
-      "firstSeen": "2026-10-02"
-    },
-    {
-      "brand": "Trophy Ridge",
-      "model": "Gem",
-      "url": "https://beararchery.com/products/trophy-ridge-gem-bow-sight",
-      "image": "https://cdn.shopify.com/s/files/1/0488/5331/9840/files/trophy-ridge-gem-bow-sight_sight-nonreact__as53_5.png",
-      "priceUsd": 29.99,
-      "firstSeen": "2026-10-02"
-    },
-    {
-      "brand": "Trophy Ridge",
-      "model": "Hotwire",
-      "url": "https://beararchery.com/products/trophy-ridge-hotwire-bow-sight",
-      "image": "https://cdn.shopify.com/s/files/1/0488/5331/9840/files/trophy-ridge-hotwire-bow-sight_sight-nonreact__as325r_1.png",
-      "priceUsd": 179.99,
-      "firstSeen": "2026-10-02"
-    },
-    {
-      "brand": "Trophy Ridge",
-      "model": "Mist Bow Sight",
-      "url": "https://beararchery.com/products/trophy-ridge-mist-bow-sight",
-      "image": "https://cdn.shopify.com/s/files/1/0488/5331/9840/files/trophy-ridge-mist-bow-sight_sight-nonreact__as106_1.png",
-      "priceUsd": 24.99,
       "firstSeen": "2026-10-02"
     },
     {
@@ -315,90 +251,10 @@
     },
     {
       "brand": "Trophy Ridge",
-      "model": "Peak",
-      "url": "https://beararchery.com/products/trophy-ridge-peak-bow-sight",
-      "image": "https://cdn.shopify.com/s/files/1/0488/5331/9840/files/batch-1-trophy-ridge-peak-bow-sight__as315_1.png",
-      "priceUsd": 109.99,
-      "firstSeen": "2026-10-02"
-    },
-    {
-      "brand": "Trophy Ridge",
-      "model": "React 5 Max Bow Sight",
-      "url": "https://beararchery.com/products/trophy-ridge-react-5-max-bow-sight",
-      "image": "https://cdn.shopify.com/s/files/1/0488/5331/9840/files/AS26R5MR_React5Max_Standard_Black_1_V2_4f75636c-c20b-4d0e-8a25-69b71747a6b7.png",
-      "priceUsd": 299.99,
-      "firstSeen": "2026-10-02"
-    },
-    {
-      "brand": "Trophy Ridge",
-      "model": "React H4 Bow Sight",
-      "url": "https://beararchery.com/products/trophy-ridge-react-h4-bow-sight",
-      "image": "https://cdn.shopify.com/s/files/1/0488/5331/9840/products/react_C2_AEh4_E2_84_A2_sight-react__aats0014r19_01.png",
-      "priceUsd": 109.99,
-      "firstSeen": "2026-10-02"
-    },
-    {
-      "brand": "Trophy Ridge",
-      "model": "React H4X Bow Sight",
-      "url": "https://beararchery.com/products/trophy-ridge-h4x-bow-sight",
-      "image": "https://cdn.shopify.com/s/files/1/0488/5331/9840/files/batch-2-trophy-ridge-h4x-bow-sight__as27h4xl_1.png",
-      "priceUsd": 109.99,
-      "firstSeen": "2026-10-02"
-    },
-    {
-      "brand": "Trophy Ridge",
-      "model": "React H5X Bow Sight",
-      "url": "https://beararchery.com/products/trophy-ridge-h5x-bow-sight",
-      "image": "https://cdn.shopify.com/s/files/1/0488/5331/9840/files/batch-2-trophy-ridge-h5x-bow-sight__as27h5xl_1.png",
-      "priceUsd": 189.99,
-      "firstSeen": "2026-10-02"
-    },
-    {
-      "brand": "Trophy Ridge",
-      "model": "Retaliate",
-      "url": "https://beararchery.com/products/trophy-ridge-retaliate-5-pin-bow-sight",
-      "image": "https://cdn.shopify.com/s/files/1/0488/5331/9840/files/trophy-ridge-retaliate-5-pin-bow-sight_sight-react__as855d_1.png",
-      "priceUsd": 179.99,
-      "firstSeen": "2026-10-02"
-    },
-    {
-      "brand": "Trophy Ridge",
-      "model": "Ridgeline Bow Sight",
-      "url": "https://beararchery.com/products/trophy-ridge-ridgeline-bow-sight",
-      "image": "https://cdn.shopify.com/s/files/1/0488/5331/9840/files/trophy-ridge-ridgeline-bow-sight_sight-nonreact__as70_4.png",
-      "priceUsd": 59.99,
-      "firstSeen": "2026-10-02"
-    },
-    {
-      "brand": "Trophy Ridge",
-      "model": "SWFT Duo Bow Sight",
-      "url": "https://beararchery.com/products/trophy-ridge-swft-duo-bow-sight",
-      "image": "https://cdn.shopify.com/s/files/1/0488/5331/9840/files/AS430-1_V2_6ebcb8db-1588-49cc-9527-1516653b78d8.png",
-      "priceUsd": 239.99,
-      "firstSeen": "2026-10-02"
-    },
-    {
-      "brand": "Trophy Ridge",
-      "model": "SWFT Trio Bow Sight",
-      "url": "https://beararchery.com/products/trophy-ridge-swft-trio-bow-sight",
-      "image": "https://cdn.shopify.com/s/files/1/0488/5331/9840/files/trophy-ridge-swft-trio-bow-sight_sight-nonreact__as423_1.png",
-      "priceUsd": 249.99,
-      "firstSeen": "2026-10-02"
-    },
-    {
-      "brand": "Trophy Ridge",
       "model": "SWTF Bow Sight",
       "url": "https://beararchery.com/products/trophy-ridge-swft-bow-sight",
       "image": "https://cdn.shopify.com/s/files/1/0488/5331/9840/files/trophy-ridge-swft-bow-sight_sight-nonreact__as421_5.png",
       "priceUsd": 229.99,
-      "firstSeen": "2026-10-02"
-    },
-    {
-      "brand": "Trophy Ridge",
-      "model": "Trilogy Bow Sight",
-      "url": "https://beararchery.com/products/trophy-ridge-trilogy-3-pin-bow-sight",
-      "image": "https://cdn.shopify.com/s/files/1/0488/5331/9840/files/trophy-ridge-trilogy-3-pin-bow-sight_sight-nonreact__as903da_1.png",
-      "priceUsd": 59.99,
       "firstSeen": "2026-10-02"
     },
     {
@@ -432,88 +288,24 @@
       "image": "https://cdn.shopify.com/s/files/1/0087/4476/3450/files/uv-slider-2-windage-spacer-angled.webp",
       "priceUsd": null,
       "firstSeen": "2026-10-02"
+    },
+    {
+      "brand": "Ultraview",
+      "model": "Slider Bridgelock Sight",
+      "url": "https://xspotarchery.com/products/ultraview-uv-slider-bridgelock-sight",
+      "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/1035798.jpg",
+      "priceUsd": 375.0,
+      "firstSeen": "2026-10-18"
     }
   ],
   "targets": [
     {
       "brand": "BIGshot",
-      "model": "Pro Hunter Armadillo Archery Target with EZ Pull Foam",
-      "url": "https://bigshottargets.com/products/ez-pull-pro-hunter-armadillo",
-      "image": "https://cdn.shopify.com/s/files/1/0510/9458/5544/files/Pro_Hunter_Armadillo_Archery_Target_with_EZ_Pull_Foam.jpg?v=1748441253",
-      "priceUsd": 89.99,
-      "firstSeen": "2026-10-02"
-    },
-    {
-      "brand": "BIGshot",
-      "model": "Pro Hunter Coyote Archery Target",
-      "url": "https://bigshottargets.com/products/bigshot-pro-hunter-coyote-archery-target",
-      "image": "https://cdn.shopify.com/s/files/1/0510/9458/5544/files/ProHunterCoyoteFront.jpg?v=1767809238",
-      "priceUsd": 169.99,
-      "firstSeen": "2026-10-02"
-    },
-    {
-      "brand": "BIGshot",
-      "model": "Pro Hunter Double Duty Doe Archery Target with EZ Pull Foam",
-      "url": "https://bigshottargets.com/products/copy-of-browsing-replaceable-vital-deer-1",
-      "image": "https://cdn.shopify.com/s/files/1/0510/9458/5544/files/Pro_Hunter_Alert_Doe_Archery_Target_with_EZ_Pull_Foam.jpg?v=1748449107",
-      "priceUsd": 269.99,
-      "firstSeen": "2026-10-02"
-    },
-    {
-      "brand": "BIGshot",
-      "model": "Pro Hunter EZ Pull Raccoon Archery Target",
-      "url": "https://bigshottargets.com/products/prohunter-ez-pull-raccoon",
-      "image": "https://cdn.shopify.com/s/files/1/0510/9458/5544/files/Pro_Hunter_EZ_Pull_Raccoon_Archery_Target.jpg?v=1748447845",
-      "priceUsd": 99.99,
-      "firstSeen": "2026-10-02"
-    },
-    {
-      "brand": "BIGshot",
-      "model": "Pro Hunter Skunk Archery Target with EZ Pull Foam",
-      "url": "https://bigshottargets.com/products/ez-pull-pro-hunter-skunk",
-      "image": "https://cdn.shopify.com/s/files/1/0510/9458/5544/files/Pro_Hunter_Skunk_Archery_Target_with_EZ_Pull_Foam.jpg?v=1748361318",
-      "priceUsd": 139.99,
-      "firstSeen": "2026-10-02"
-    },
-    {
-      "brand": "BIGshot",
-      "model": "Real Wild 3D Backyard BIGFoot Archery Target with EZ Pull Foam",
-      "url": "https://bigshottargets.com/products/big-foot",
-      "image": "https://cdn.shopify.com/s/files/1/0510/9458/5544/files/Real_Wild_3D_Backyard_BIGFoot_Archery_Target_with_EZ_Pull_Foam_0ab406a3-178f-4a6a-b5c6-d643bbcb7f6f.jpg?v=1748441974",
-      "priceUsd": 299.99,
-      "firstSeen": "2026-10-02"
-    },
-    {
-      "brand": "BIGshot",
-      "model": "Real Wild 3D Backyard Yeti Archery Target with EZ Pull Foam",
-      "url": "https://bigshottargets.com/products/real-wild-3d-backyard-yeti-with-ez-pull-foam",
-      "image": "https://cdn.shopify.com/s/files/1/0510/9458/5544/files/Real_Wild_3D_Backyard_Yeti_Archery_Target_with_EZ_Pull_Foam_0d7cec14-36ec-4acb-a13c-7ebde2f4a1b3.jpg?v=1748359722",
-      "priceUsd": 299.99,
-      "firstSeen": "2026-10-02"
-    },
-    {
-      "brand": "BIGshot",
-      "model": "Real Wild 3D Ball Archery Target",
-      "url": "https://bigshottargets.com/products/real-wild-3d-ball",
-      "image": "https://cdn.shopify.com/s/files/1/0510/9458/5544/files/Real_Wild_3D_Ball_Archery_Target.jpg?v=1748359150",
-      "priceUsd": 69.99,
-      "firstSeen": "2026-10-02"
-    },
-    {
-      "brand": "BIGshot",
-      "model": "Real Wild 3D Boss Rat Archery Target with EZ Pull Foam",
-      "url": "https://bigshottargets.com/products/real-wild-3d-boss-rat",
-      "image": "https://cdn.shopify.com/s/files/1/0510/9458/5544/files/Real_Wild_3D_Boss_Rat_Archery_Target_with_EZ_Pull_Foam.jpg?v=1748442172",
-      "priceUsd": 109.99,
-      "firstSeen": "2026-10-02"
-    },
-    {
-      "brand": "BIGshot",
-      "model": "Real Wild 3D Stump Target",
-      "url": "https://bigshottargets.com/products/real-wild-foam-stump",
-      "image": "https://cdn.shopify.com/s/files/1/0510/9458/5544/files/RealWildFoamStump1.jpg?v=1752155117",
-      "priceUsd": 149.99,
-      "firstSeen": "2026-10-02"
+      "model": "Glow Series Deer Target",
+      "url": "https://bigshottargets.com/products/glow-deer-target",
+      "image": "https://cdn.shopify.com/s/files/1/0510/9458/5544/files/Deer_Glowsm.png?v=1791861254",
+      "priceUsd": 349.99,
+      "firstSeen": "2026-10-18"
     },
     {
       "brand": "BIGshot",
@@ -522,6 +314,120 @@
       "image": "https://cdn.shopify.com/s/files/1/0510/9458/5544/files/Sneak_Replaceable_Vital_Deer.jpg?v=1748355814",
       "priceUsd": 279.99,
       "firstSeen": "2026-10-02"
+    }
+  ],
+  "rangeTargets": [
+    {
+      "brand": "BIGshot",
+      "model": "Interactive Axe Throwing System",
+      "url": "https://bigshottargets.com/products/axe-video-wall",
+      "image": "https://cdn.shopify.com/s/files/1/0510/9458/5544/files/Interactive_Axe_Throwing_System.jpg?v=1748446246",
+      "priceUsd": 5999.99,
+      "firstSeen": "2026-10-18"
+    },
+    {
+      "brand": "BIGshot",
+      "model": "Outdoor Range Bag Target",
+      "url": "https://bigshottargets.com/products/outdoor-range-bag-target",
+      "image": "https://cdn.shopify.com/s/files/1/0510/9458/5544/files/Outdoor_Range_Bag_Target.jpg?v=1748370685",
+      "priceUsd": 149.99,
+      "firstSeen": "2026-10-18"
+    },
+    {
+      "brand": "BIGshot",
+      "model": "Rutting Bucks Shooting Set",
+      "url": "https://bigshottargets.com/products/deer-craze-video",
+      "image": "https://cdn.shopify.com/s/files/1/0510/9458/5544/products/mq2_66c1514f-464b-4f9c-93a6-f20cc3e2014b.jpg?v=1605221096",
+      "priceUsd": 79.99,
+      "firstSeen": "2026-10-18"
+    },
+    {
+      "brand": "BIGshot",
+      "model": "Youth 36\" NASP Range",
+      "url": "https://bigshottargets.com/products/youth-36-nasp-range",
+      "image": "https://cdn.shopify.com/s/files/1/0510/9458/5544/files/Youth_36_NASP_Range.jpg?v=1748371083",
+      "priceUsd": 114.99,
+      "firstSeen": "2026-10-18"
+    },
+    {
+      "brand": "Morrell",
+      "model": "Center Punch 24\" w/o High Roller",
+      "url": "https://morrelltargets.com/products/center-punch-24",
+      "image": "https://cdn.shopify.com/s/files/1/1100/1512/files/Centerpunch_24_01.jpg?v=1694443153",
+      "priceUsd": 139.99,
+      "firstSeen": "2026-10-18"
+    },
+    {
+      "brand": "Morrell",
+      "model": "Center Punch 24\" with High Roller",
+      "url": "https://morrelltargets.com/products/center-punch-24-with-high-roller",
+      "image": "https://cdn.shopify.com/s/files/1/1100/1512/files/127_Center_Punch_24_wHighRoller.jpg?v=1772817351",
+      "priceUsd": 249.99,
+      "firstSeen": "2026-10-18"
+    },
+    {
+      "brand": "Morrell",
+      "model": "Center Punch V36\" with High Roller",
+      "url": "https://morrelltargets.com/products/center-punch-v36-with-high-roller",
+      "image": "https://cdn.shopify.com/s/files/1/1100/1512/files/130_Center_Punch_v36_wHighroller_2000px.jpg?v=1772825250",
+      "priceUsd": 349.99,
+      "firstSeen": "2026-10-18"
+    },
+    {
+      "brand": "Morrell",
+      "model": "Center Punch V36\" without High Roller",
+      "url": "https://morrelltargets.com/products/center-punch-v36-with-high-roller-copy",
+      "image": "https://cdn.shopify.com/s/files/1/1100/1512/files/337_Center_Punch_v36_RingOnly.jpg?v=1772825250",
+      "priceUsd": 264.99,
+      "firstSeen": "2026-10-18"
+    },
+    {
+      "brand": "Morrell",
+      "model": "Center Punch™  35\" without High Roller",
+      "url": "https://morrelltargets.com/products/center-punch-35-without-high-roller",
+      "image": "https://cdn.shopify.com/s/files/1/1100/1512/files/129_centerpunch_35_no_HR_3000x3000_cmyk_300dpi.jpg?v=1772810653",
+      "priceUsd": 319.99,
+      "firstSeen": "2026-10-18"
+    },
+    {
+      "brand": "Morrell",
+      "model": "Keep Hammering Outdoor Range Bag Target",
+      "url": "https://morrelltargets.com/products/keep-hammering-outdoor-range",
+      "image": "https://cdn.shopify.com/s/files/1/1100/1512/products/172-01-13.jpg?v=1622823371",
+      "priceUsd": 159.99,
+      "firstSeen": "2026-10-18"
+    },
+    {
+      "brand": "Morrell",
+      "model": "Yellow Jacket® MOD Pro 25 Series-  Darts Wrap",
+      "url": "https://morrelltargets.com/products/yellow-jacket-mod-pro-25-series-darts-wrap",
+      "image": "https://cdn.shopify.com/s/files/1/1100/1512/files/Mod_Pro_25_DARTS.png?v=1735928259",
+      "priceUsd": 23.99,
+      "firstSeen": "2026-10-18"
+    },
+    {
+      "brand": "Morrell",
+      "model": "Yellow Jacket® MOD Pro 25 Series-  NFAA 40 + 60 CM Wrap",
+      "url": "https://morrelltargets.com/products/yellow-jacket-mod-pro-25-series-nfaa-40-60-cm-wrap",
+      "image": "https://cdn.shopify.com/s/files/1/1100/1512/files/Mod_Pro_25_NFAA_40_60CM.png?v=1735928455",
+      "priceUsd": 23.99,
+      "firstSeen": "2026-10-18"
+    },
+    {
+      "brand": "Morrell",
+      "model": "Yellow Jacket® MOD Pro 25 Series-  Redding NFAA Bullseyes Wrap",
+      "url": "https://morrelltargets.com/products/yellow-jacket-mod-pro-25-series-redding-nfaa-bullseyes-wrap",
+      "image": "https://cdn.shopify.com/s/files/1/1100/1512/files/Mod_Pro_25_NFAA_REDDING.png?v=1735928527",
+      "priceUsd": 23.99,
+      "firstSeen": "2026-10-18"
+    },
+    {
+      "brand": "Morrell",
+      "model": "Yellow Jacket® MOD Pro Series-  Games Wrap",
+      "url": "https://morrelltargets.com/products/yellow-jacket-mod-pro-series-games-wrap",
+      "image": "https://cdn.shopify.com/s/files/1/1100/1512/files/Mod_Pro_games_target_face-mock_c09511d2-f856-46e9-8334-6873b38cd2c7.jpg?v=1712002647",
+      "priceUsd": 24.99,
+      "firstSeen": "2026-10-18"
     }
   ],
   "arrows": [
@@ -848,9 +754,9 @@
     {
       "brand": "Easton Archery",
       "model": "Easton Axis",
-      "url": "https://lancasterarchery.com/products/easton-axis-4mm-long-range-carbon-arrow-shafts-340-12pk-open-box-x1048164",
-      "image": "https://cdn.shopify.com/s/files/1/0550/8654/7130/files/2070906A_13c7be74-3c2a-4870-b8d0-610cfbe29344.jpg?v=1791393477",
-      "priceUsd": 176.39,
+      "url": "https://lancasterarchery.com/products/easton-axis-5mm-fletched-arrows-w-half-outs",
+      "image": "https://cdn.shopify.com/s/files/1/0550/8654/7130/files/1036405A_2aeb2605-7c37-4621-b04d-9fc9b4c93e63.jpg?v=1759428220",
+      "priceUsd": 99.99,
       "firstSeen": "2026-10-11"
     },
     {
@@ -963,14 +869,6 @@
       "url": "https://lancasterarchery.com/products/easton-vector-fletched-arrow-2-3-vanes",
       "image": "https://cdn.shopify.com/s/files/1/0550/8654/7130/files/1033289A.jpg?v=1758572658",
       "priceUsd": 7.5,
-      "firstSeen": "2026-10-11"
-    },
-    {
-      "brand": "Easton Archery",
-      "model": "Easton X10   600-  (12PK)",
-      "url": "https://lancasterarchery.com/products/easton-x10-shafts-600-shaft-12pk-open-box-x1048163",
-      "image": "https://cdn.shopify.com/s/files/1/0550/8654/7130/files/2070069A_dfbcd4dc-57c6-41ac-8b2a-cb5efef54cb7.jpg?v=1791393446",
-      "priceUsd": 449.99,
       "firstSeen": "2026-10-11"
     },
     {
@@ -1140,176 +1038,6 @@
       "image": "https://cdn.shopify.com/s/files/1/0550/8654/7130/files/6180215A.jpg?v=1759764226",
       "priceUsd": 109.99,
       "firstSeen": "2026-10-11"
-    }
-  ],
-  "rangeTargets": [
-    {
-      "brand": "BIGshot",
-      "model": "Iron Man 30\" Personal Range Target",
-      "url": "https://bigshottargets.com/products/iron-man-30-personal-range-target",
-      "image": "https://cdn.shopify.com/s/files/1/0510/9458/5544/files/Iron_Man_30_Personal_Range_Target.jpg?v=1748443277",
-      "priceUsd": 249.99,
-      "firstSeen": "2026-10-02"
-    },
-    {
-      "brand": "BIGshot",
-      "model": "Pro Heavy Duty Axe/Knife Throwing Target",
-      "url": "https://bigshottargets.com/products/heavy-duty-axe-knife-throwing-target",
-      "image": "https://cdn.shopify.com/s/files/1/0510/9458/5544/files/Pro_Heavy_Duty_Axe_Knife_Throwing_Target.jpg?v=1748441043",
-      "priceUsd": 119.99,
-      "firstSeen": "2026-10-02"
-    },
-    {
-      "brand": "BIGshot",
-      "model": "Pro Hunter 18\" Archery Target",
-      "url": "https://bigshottargets.com/products/pro-hunter-18-target",
-      "image": "https://cdn.shopify.com/s/files/1/0510/9458/5544/files/Pro_Hunter_18_Archery_Target.jpg?v=1748372107",
-      "priceUsd": 179.99,
-      "firstSeen": "2026-10-02"
-    },
-    {
-      "brand": "BIGshot",
-      "model": "Texas Deer Shooting Set - *Requires Live Hunt Player",
-      "url": "https://bigshottargets.com/products/texas-deer-shooting-set-requires-live-hunt-player",
-      "image": "https://cdn.shopify.com/s/files/1/0510/9458/5544/products/mq2.jpg?v=1605221062",
-      "priceUsd": 79.99,
-      "firstSeen": "2026-10-02"
-    },
-    {
-      "brand": "BIGshot",
-      "model": "Titan 13 Easy Pull N-Fused Foam Archery Target",
-      "url": "https://bigshottargets.com/products/bigshot-titan-33-easy-pull-n-fused-foam-archery-target-1",
-      "image": "https://cdn.shopify.com/s/files/1/0510/9458/5544/files/13SidesLemonYellowsilo_3fac9418-601a-410b-8b72-e00bf70b4224.jpg?v=1767625281",
-      "priceUsd": 119.99,
-      "firstSeen": "2026-10-02"
-    },
-    {
-      "brand": "BIGshot",
-      "model": "Titan 33 Long Range Easy Pull N-Fused Foam Archery Target",
-      "url": "https://bigshottargets.com/products/blemished-titan-33-long-range-easy-pull-n-fused-foam-archery-target-copy",
-      "image": "https://cdn.shopify.com/s/files/1/0510/9458/5544/files/Titan_Lemon_Yellow_36_Front_silo.jpg?v=1767623288",
-      "priceUsd": 399.99,
-      "firstSeen": "2026-10-02"
-    },
-    {
-      "brand": "BIGshot",
-      "model": "Vegas 600 4x4 Range Target w/Reversible Butt*",
-      "url": "https://bigshottargets.com/products/vegas-600-4x4-range-target-w-reversible-butt",
-      "image": "https://cdn.shopify.com/s/files/1/0510/9458/5544/files/Vegas_600_4x4_Range_Target_w_Reversible_Butt.jpg?v=1748443093",
-      "priceUsd": 899.99,
-      "firstSeen": "2026-10-02"
-    },
-    {
-      "brand": "BIGshot",
-      "model": "Vegas 900 4x5 Range Target W/ Reversible Butt",
-      "url": "https://bigshottargets.com/products/bigshot-vegas-900",
-      "image": "https://cdn.shopify.com/s/files/1/0510/9458/5544/products/110-900.jpg?v=1748435202",
-      "priceUsd": 999.99,
-      "firstSeen": "2026-10-02"
-    },
-    {
-      "brand": "BIGshot",
-      "model": "Wooden Axe Throwing Target with Bottle Opener",
-      "url": "https://bigshottargets.com/products/wooden-axe-throwing-target-with-bottle-opener",
-      "image": "https://cdn.shopify.com/s/files/1/0510/9458/5544/files/Wooden_Axe_Throwing_Target_with_Bottle_Opener.jpg?v=1748444961",
-      "priceUsd": 99.99,
-      "firstSeen": "2026-10-02"
-    },
-    {
-      "brand": "BIGshot",
-      "model": "Wooden Knife & Star Throwing Target – Cabinet Grade Plywood",
-      "url": "https://bigshottargets.com/products/wooden-knife-target",
-      "image": "https://cdn.shopify.com/s/files/1/0510/9458/5544/files/71T1lNJIkOL._AC_SL1500.jpg?v=1767800000",
-      "priceUsd": 89.99,
-      "firstSeen": "2026-10-02"
-    },
-    {
-      "brand": "Morrell",
-      "model": "BIG High Roller Foam Target",
-      "url": "https://morrelltargets.com/products/big-high-roller",
-      "image": "https://cdn.shopify.com/s/files/1/1100/1512/products/342_main01.png?v=1622820434",
-      "priceUsd": 219.99,
-      "firstSeen": "2026-10-02"
-    },
-    {
-      "brand": "Morrell",
-      "model": "BOA™ Compression 48\" Archery Target",
-      "url": "https://morrelltargets.com/products/boa-compression-48-archery-target",
-      "image": "https://cdn.shopify.com/s/files/1/1100/1512/files/48_Boa_48in_2000px-01.jpg?v=1769452420",
-      "priceUsd": 1299.99,
-      "firstSeen": "2026-10-02"
-    },
-    {
-      "brand": "Morrell",
-      "model": "High Roller Foam Target",
-      "url": "https://morrelltargets.com/products/high-holler-21-combo-target",
-      "image": "https://cdn.shopify.com/s/files/1/1100/1512/products/341-HighRoller.jpg?v=1662673869",
-      "priceUsd": 139.99,
-      "firstSeen": "2026-10-02"
-    },
-    {
-      "brand": "Morrell",
-      "model": "High Roller Foam™ Target Squared",
-      "url": "https://morrelltargets.com/products/high-roller-foam-target-squared",
-      "image": "https://cdn.shopify.com/s/files/1/1100/1512/files/340_HighRollerMain_aed7a376-216a-4d62-bf80-648671826565.png?v=1734972659",
-      "priceUsd": 139.99,
-      "firstSeen": "2026-10-02"
-    },
-    {
-      "brand": "Morrell",
-      "model": "Indoor Range Cube Archery Target",
-      "url": "https://morrelltargets.com/products/indoor-range-cube",
-      "image": "https://cdn.shopify.com/s/files/1/1100/1512/products/Item_106_Primary.png?v=1488477628",
-      "priceUsd": 169.99,
-      "firstSeen": "2026-10-02"
-    },
-    {
-      "brand": "Morrell",
-      "model": "M48 Commercial Range Archery Target (",
-      "url": "https://morrelltargets.com/products/m48-commercial-range-archery-target-black-target",
-      "image": "https://cdn.shopify.com/s/files/1/1100/1512/files/107BL_M48_Indoor_Range_Field_Point_2000PX.jpg?v=1769450915",
-      "priceUsd": 1199.99,
-      "firstSeen": "2026-10-02"
-    },
-    {
-      "brand": "Morrell",
-      "model": "NASP Eternity School Target",
-      "url": "https://morrelltargets.com/products/nasp-eternity-school-target",
-      "image": "https://cdn.shopify.com/s/files/1/1100/1512/products/108_NASPEternitySchoolTargetRightTurn.png?v=1583767756",
-      "priceUsd": 274.99,
-      "firstSeen": "2026-10-02"
-    },
-    {
-      "brand": "Morrell",
-      "model": "YJ-400 Yellow Jacket® Super Duper Target",
-      "url": "https://morrelltargets.com/products/yj400-yellow-jacket-super-duper-target",
-      "image": "https://cdn.shopify.com/s/files/1/1100/1512/products/173-01.jpg?v=1622824493",
-      "priceUsd": 84.99,
-      "firstSeen": "2026-10-02"
-    },
-    {
-      "brand": "Morrell",
-      "model": "Yellow Jacket® MOD Pro 25 Series-  Buck + Turkey Wrap",
-      "url": "https://morrelltargets.com/products/yellow-jacket-mod-pro-25-series-buck-turkey-wrap",
-      "image": "https://cdn.shopify.com/s/files/1/1100/1512/files/Mod_Pro_25_BUCK_TURKEY.png?v=1735928174",
-      "priceUsd": 23.99,
-      "firstSeen": "2026-10-02"
-    },
-    {
-      "brand": "Morrell",
-      "model": "Yellow Jacket® YJ-350 Dual Threat Foam Target",
-      "url": "https://morrelltargets.com/products/yellow-jacket-yj-350-dual-threat",
-      "image": "https://cdn.shopify.com/s/files/1/1100/1512/products/205-02-11.jpg?v=1662673308",
-      "priceUsd": 79.99,
-      "firstSeen": "2026-10-02"
-    },
-    {
-      "brand": "Morrell",
-      "model": "Yellow Jacket® YJ-450 Plus Archery Target",
-      "url": "https://morrelltargets.com/products/yj-450-plus-field-point",
-      "image": "https://cdn.shopify.com/s/files/1/1100/1512/products/136-02-15.jpg?v=1622824066",
-      "priceUsd": 84.99,
-      "firstSeen": "2026-10-02"
     }
   ]
 }
