@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T03:50:10.106307Z",
+  "updatedAt": "2026-10-18T03:50:09.162753Z",
   "bows": {
     "hoyt_2026_carbon_rx_10": {
       "system": "hoyt_xts",
@@ -67,11 +67,15 @@
     },
     "hoyt_2025_carbon_rx_9_ultra": {
       "system": "hoyt_hbx",
-      "source": "rule"
+      "source": "listing",
+      "evidence": "hbx cam",
+      "checkedAt": "2026-10-18T03:50:09.162753Z"
     },
     "hoyt_2025_carbon_rx_9_sd": {
       "system": "hoyt_hbx",
-      "source": "rule"
+      "source": "listing",
+      "evidence": "hbx cam",
+      "checkedAt": "2026-10-18T03:50:09.162753Z"
     },
     "hoyt_2025_alpha_ax_2_29": {
       "system": "hoyt_hbx",
@@ -100,11 +104,15 @@
     },
     "hoyt_2023_vtm_31": {
       "system": "hoyt_hbx",
-      "source": "rule"
+      "source": "listing",
+      "evidence": "hbx",
+      "checkedAt": "2026-10-18T03:50:09.162753Z"
     },
     "hoyt_2023_vtm_34": {
       "system": "hoyt_hbx",
-      "source": "rule"
+      "source": "listing",
+      "evidence": "hbx",
+      "checkedAt": "2026-10-18T03:50:09.162753Z"
     },
     "hoyt_2022_carbon_rx_7": {
       "system": "hoyt_hbx",
@@ -112,15 +120,21 @@
     },
     "hoyt_2022_carbon_rx_7_ultra": {
       "system": "hoyt_hbx",
-      "source": "rule"
+      "source": "listing",
+      "evidence": "hbx",
+      "checkedAt": "2026-10-18T03:50:09.162753Z"
     },
     "hoyt_2022_ventum_pro_30": {
       "system": "hoyt_hbx",
-      "source": "rule"
+      "source": "listing",
+      "evidence": "hbx",
+      "checkedAt": "2026-10-18T03:50:09.162753Z"
     },
     "hoyt_2022_ventum_pro_33": {
       "system": "hoyt_hbx",
-      "source": "rule"
+      "source": "listing",
+      "evidence": "hbx",
+      "checkedAt": "2026-10-18T03:50:09.162753Z"
     },
     "hoyt_2024_eclipse": {
       "system": "hoyt_hbx",
@@ -178,11 +192,13 @@
     },
     "mathews_2024_lift_29_5": {
       "system": "mathews_tophat",
-      "source": "rule"
+      "source": "rule",
+      "checkedAt": "2026-10-18T03:50:09.162753Z"
     },
     "mathews_2024_lift_33": {
       "system": "mathews_tophat",
-      "source": "rule"
+      "source": "rule",
+      "checkedAt": "2026-10-18T03:50:09.162753Z"
     },
     "mathews_2023_phase4_29": {
       "system": "mathews_tophat",
@@ -198,11 +214,13 @@
     },
     "mathews_2022_v3x_29": {
       "system": "mathews_tophat",
-      "source": "rule"
+      "source": "rule",
+      "checkedAt": "2026-10-18T03:50:09.162753Z"
     },
     "mathews_2022_v3x_33": {
       "system": "mathews_tophat",
-      "source": "rule"
+      "source": "rule",
+      "checkedAt": "2026-10-18T03:50:09.162753Z"
     },
     "mathews_2022_title_36": {
       "system": "mathews_tophat",
@@ -216,11 +234,13 @@
     },
     "mathews_2022_trx_36": {
       "system": "mathews_tophat",
-      "source": "rule"
+      "source": "rule",
+      "checkedAt": "2026-10-18T03:50:09.162753Z"
     },
     "mathews_2022_trx_38": {
       "system": "mathews_tophat",
-      "source": "rule"
+      "source": "rule",
+      "checkedAt": "2026-10-18T03:50:09.162753Z"
     },
     "mathews_2022_trx_40": {
       "system": "mathews_tophat",
@@ -269,8 +289,10 @@
       "source": "rule"
     },
     "pse_2024_nock_on_evo_30_es": {
-      "system": "pse_classic",
-      "source": "rule"
+      "system": "pse_ez220",
+      "source": "listing",
+      "evidence": "ez.220",
+      "checkedAt": "2026-10-18T03:50:09.162753Z"
     },
     "pse_2024_decree_hd": {
       "system": "pse_classic",
@@ -298,7 +320,9 @@
     },
     "pse_2023_unite": {
       "system": "pse_ez220",
-      "source": "rule"
+      "source": "listing",
+      "evidence": "ez.220",
+      "checkedAt": "2026-10-18T03:50:09.162753Z"
     },
     "pse_2023_levitate": {
       "system": "pse_ez220",
@@ -381,12 +405,16 @@
       "source": "rule"
     },
     "bowtech_2023_ss34": {
-      "system": "bowtech_legacy",
-      "source": "rule"
+      "system": "bowtech_deadlock",
+      "source": "listing",
+      "evidence": "deadlock cam",
+      "checkedAt": "2026-10-18T03:50:09.162753Z"
     },
     "bowtech_2022_sr350": {
       "system": "bowtech_deadlock",
-      "source": "rule"
+      "source": "listing",
+      "evidence": "deadlock cam",
+      "checkedAt": "2026-10-18T03:50:09.162753Z"
     },
     "bowtech_2022_solution": {
       "system": "bowtech_deadlock",
@@ -404,7 +432,8 @@
     },
     "elite_2026_carbon_axys": {
       "system": "elite_set",
-      "source": "rule"
+      "source": "rule",
+      "checkedAt": "2026-10-18T03:50:09.162753Z"
     },
     "elite_2026_emerse": {
       "system": "elite_set",
@@ -475,11 +504,14 @@
     },
     "elite_2023_omnia": {
       "system": "elite_set",
-      "source": "rule"
+      "source": "rule",
+      "checkedAt": "2026-10-18T03:50:09.162753Z"
     },
     "elite_2023_era": {
       "system": "elite_set",
-      "source": "rule"
+      "source": "listing",
+      "evidence": "s.e.t.",
+      "checkedAt": "2026-10-18T03:50:09.162753Z"
     },
     "elite_2023_rezult_36": {
       "system": "elite_set",
@@ -487,7 +519,8 @@
     },
     "elite_2022_envision": {
       "system": "elite_set",
-      "source": "rule"
+      "source": "rule",
+      "checkedAt": "2026-10-18T03:50:09.162753Z"
     },
     "prime_2026_divide_31": {
       "system": "prime_shims",
@@ -516,7 +549,8 @@
     },
     "prime_2025_form_34": {
       "system": "prime_shims",
-      "source": "rule"
+      "source": "rule",
+      "checkedAt": "2026-10-18T03:50:09.162753Z"
     },
     "prime_2025_form_30": {
       "system": "prime_shims",
@@ -533,7 +567,8 @@
     },
     "prime_2024_rvx_36": {
       "system": "prime_shims",
-      "source": "rule"
+      "source": "rule",
+      "checkedAt": "2026-10-18T03:50:09.162753Z"
     },
     "prime_2023_revex_2": {
       "system": "prime_shims",
@@ -541,19 +576,23 @@
     },
     "prime_2023_revex_4": {
       "system": "prime_shims",
-      "source": "rule"
+      "source": "rule",
+      "checkedAt": "2026-10-18T03:50:09.162753Z"
     },
     "prime_2023_revex_6": {
       "system": "prime_shims",
-      "source": "rule"
+      "source": "rule",
+      "checkedAt": "2026-10-18T03:50:09.162753Z"
     },
     "prime_2022_inline_1": {
       "system": "prime_shims",
-      "source": "rule"
+      "source": "rule",
+      "checkedAt": "2026-10-18T03:50:09.162753Z"
     },
     "prime_2022_inline_3": {
       "system": "prime_shims",
-      "source": "rule"
+      "source": "rule",
+      "checkedAt": "2026-10-18T03:50:09.162753Z"
     },
     "prime_2022_inline_5": {
       "system": "prime_shims",
@@ -576,15 +615,18 @@
     },
     "bear_2025_legend_30": {
       "system": "bear_timing",
-      "source": "rule"
+      "source": "rule",
+      "checkedAt": "2026-10-18T03:50:09.162753Z"
     },
     "bear_2025_whitetail_int": {
       "system": "bear_timing",
-      "source": "rule"
+      "source": "rule",
+      "checkedAt": "2026-10-18T03:50:09.162753Z"
     },
     "bear_2025_alaskan_xt": {
       "system": "bear_timing",
-      "source": "rule"
+      "source": "rule",
+      "checkedAt": "2026-10-18T03:50:09.162753Z"
     },
     "bear_2024_persist": {
       "system": "bear_timing",
@@ -592,15 +634,18 @@
     },
     "bear_2023_execute_30": {
       "system": "bear_timing",
-      "source": "rule"
+      "source": "rule",
+      "checkedAt": "2026-10-18T03:50:09.162753Z"
     },
     "bear_2023_execute_32": {
       "system": "bear_timing",
-      "source": "rule"
+      "source": "rule",
+      "checkedAt": "2026-10-18T03:50:09.162753Z"
     },
     "bear_2023_legend_xr": {
       "system": "bear_timing",
-      "source": "rule"
+      "source": "rule",
+      "checkedAt": "2026-10-18T03:50:09.162753Z"
     },
     "bear_2023_refine_eko": {
       "system": "bear_timing",
@@ -608,7 +653,8 @@
     },
     "bear_2022_refine_eko": {
       "system": "bear_timing",
-      "source": "rule"
+      "source": "rule",
+      "checkedAt": "2026-10-18T03:50:09.162753Z"
     },
     "bear_2022_kuma_30": {
       "system": "bear_timing",
@@ -666,15 +712,21 @@
     },
     "darton_2025_sequel_33_st_": {
       "system": "darton_perfect_tune",
-      "source": "rule"
+      "source": "listing",
+      "evidence": "perfect tune",
+      "checkedAt": "2026-10-18T03:50:09.162753Z"
     },
     "darton_2025_sequel_31_st2": {
       "system": "darton_perfect_tune",
-      "source": "rule"
+      "source": "listing",
+      "evidence": "perfect tune",
+      "checkedAt": "2026-10-18T03:50:09.162753Z"
     },
     "darton_2025_sequel_35_st2": {
       "system": "darton_perfect_tune",
-      "source": "rule"
+      "source": "listing",
+      "evidence": "perfect tune",
+      "checkedAt": "2026-10-18T03:50:09.162753Z"
     },
     "darton_2024_departure": {
       "system": "darton_perfect_tune",
