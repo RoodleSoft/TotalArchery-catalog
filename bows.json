@@ -54,13 +54,13 @@
     "ataIn": 30.5,
     "braceIn": 6.125,
     "speedFps": 342,
-    "massWeightOz": null,
+    "massWeightOz": 64,
     "centerShotIn": null,
     "target": false,
     "tier": "flagship",
     "verified": true,
     "note": null,
-    "msrpUsd": null,
+    "msrpUsd": 2149,
     "url": "https://hoyt.com/products/carbon-rx-10-sd-hunting-compound-bow"
   },
   {
@@ -134,7 +134,7 @@
     "ataIn": 32.56,
     "braceIn": 6.5,
     "speedFps": 347,
-    "massWeightOz": null,
+    "massWeightOz": 76,
     "centerShotIn": null,
     "target": false,
     "tier": "flagship",
@@ -172,7 +172,7 @@
     "tier": "flagship",
     "verified": true,
     "note": null,
-    "msrpUsd": null,
+    "msrpUsd": 1999,
     "url": null
   },
   {
@@ -252,7 +252,7 @@
     "tier": "flagship",
     "verified": true,
     "note": null,
-    "msrpUsd": null,
+    "msrpUsd": 1949,
     "url": null
   },
   {
@@ -444,7 +444,7 @@
     "tier": "budget",
     "verified": true,
     "note": "some retailers list 327 fps / 30.75 in / 7 in brace for the XT; these values match the base Torrex, while Hoyt-carried listings give 336 fps, 30 in, 6 in",
-    "msrpUsd": null,
+    "msrpUsd": 999.99,
     "url": null
   },
   {
@@ -652,7 +652,7 @@
     "tier": "flagship",
     "verified": true,
     "note": null,
-    "msrpUsd": null,
+    "msrpUsd": 1299,
     "url": null
   },
   {
@@ -694,13 +694,13 @@
     "ataIn": 36,
     "braceIn": 7,
     "speedFps": 336,
-    "massWeightOz": null,
+    "massWeightOz": 71.8,
     "centerShotIn": null,
     "target": true,
     "tier": "flagship",
     "verified": true,
     "note": null,
-    "msrpUsd": null,
+    "msrpUsd": 2129,
     "url": "https://mathewsinc.com/products/title-36"
   },
   {
@@ -860,7 +860,7 @@
     "tier": "flagship",
     "verified": true,
     "note": null,
-    "msrpUsd": null,
+    "msrpUsd": 1899,
     "url": null
   },
   {
@@ -1772,7 +1772,7 @@
     "tier": "flagship",
     "verified": true,
     "note": null,
-    "msrpUsd": null,
+    "msrpUsd": 1199,
     "url": null
   },
   {
@@ -2662,13 +2662,13 @@
     "ataIn": 31,
     "braceIn": 7,
     "speedFps": 325,
-    "massWeightOz": null,
+    "massWeightOz": 65,
     "centerShotIn": null,
     "target": false,
     "tier": "budget",
     "verified": true,
     "note": null,
-    "msrpUsd": null,
+    "msrpUsd": 699.99,
     "url": "https://mathewsinc.com/products/range"
   },
   {
@@ -2694,7 +2694,7 @@
     "ataIn": 28,
     "braceIn": 6.5,
     "speedFps": 300,
-    "massWeightOz": null,
+    "massWeightOz": 54.4,
     "centerShotIn": null,
     "target": false,
     "tier": "budget",
