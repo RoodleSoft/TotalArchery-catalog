@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T02:36:17.731319Z",
+  "updatedAt": "2026-10-18T02:34:26.540230Z",
   "products": [
     {
       "brand": "Hoyt",
@@ -302,27 +302,22 @@
     {
       "host": "lancasterarchery.com",
       "kind": "shopify",
-      "vendorSample": 18
+      "vendorSample": 17
     },
     {
       "host": "midwestarchery.com",
       "kind": "shopify",
-      "vendorSample": 20
-    },
-    {
-      "host": "archerywarehouse.com",
-      "kind": "shopify",
-      "vendorSample": 9
-    },
-    {
-      "host": "shop.nockonarchery.com",
-      "kind": "shopify",
-      "vendorSample": 12
+      "vendorSample": 21
     },
     {
       "host": "shop.gohunt.com",
       "kind": "shopify",
       "vendorSample": 15
+    },
+    {
+      "host": "leapfrogoutdoor.com",
+      "kind": "shopify",
+      "vendorSample": 12
     }
   ]
 }

@@ -340,6 +340,16 @@
     "externalRef": "usarchery:arrow minded outdoors|5835 fm1863 bulverde texas united states of america 78163"
   },
   {
+    "name": "Arrow Minded Outdoors Archery Club",
+    "address": "5835 FM1863, Bulverde, Texas, 78163",
+    "phone": "+18305155905",
+    "email": "info@arrowminded.co",
+    "website": "http://www.arrowminded.co",
+    "programs": "outdoor range",
+    "reviewStatus": "approved",
+    "externalRef": "nfaa:arrow minded outdoors archery club|5835 fm1863 bulverde texas 78163"
+  },
+  {
     "name": "ArrowDynamiq Archery",
     "address": "Texas Archery Academy, 600 Accent Dr B, Plano, Texas, United States of America, 75075",
     "phone": "+16175015597",
@@ -2200,16 +2210,6 @@
     "externalRef": "usarchery:demmer center joad club|4830 e jolly rd lansing michigan united states of america 48910"
   },
   {
-    "name": "Denver Summit Archers",
-    "address": "3050 E 78TH AVE, DENVER, Colorado, United States of America, 80229",
-    "phone": "(303) 667-5659",
-    "email": "denversummitarchers@yahoo.com",
-    "website": "http://denversummitarchers.com",
-    "programs": "Junior Olympic Archery Development (JOAD)",
-    "reviewStatus": "approved",
-    "externalRef": "usarchery:denver summit archers|3050 e 78th ave denver colorado united states of america 80229"
-  },
-  {
     "name": "Desert Archers",
     "address": "Tuscon Mountain Park Archery Range, Kinney Rd, Tucson, Arizona, 85745",
     "phone": "+15209067028",
@@ -3418,6 +3418,16 @@
     "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program, 3D Archery",
     "reviewStatus": "approved",
     "externalRef": "usarchery:home on the range archery|call for address victoria texas united states of america 77905"
+  },
+  {
+    "name": "Hoot & Holler Archery Academy",
+    "address": "601 Barksdale Blvd, Bossier City, Louisiana, United States of America, 71111",
+    "phone": "318-747-6501",
+    "email": "hharchery@yahoo.com",
+    "website": "http://hootnhollerarchery.com",
+    "programs": "Junior Olympic Archery Development (JOAD)",
+    "reviewStatus": "approved",
+    "externalRef": "usarchery:hoot holler archery academy|601 barksdale blvd bossier city louisiana united states of america 71111"
   },
   {
     "name": "Hoot & Holler Archery LLC",
@@ -6430,6 +6440,16 @@
     "externalRef": "usarchery:sau archery team|924 columbia rd 43 magnolia arkansas united states of america 71753"
   },
   {
+    "name": "SPRINGS JOAD",
+    "address": "6325 East Platte Avenue, Colorado Spgs, Colorado, United States of America, 80915",
+    "phone": "719-287-8455",
+    "email": "springsjoad@gmail.com",
+    "website": "http://thearcheryhut.com/youth/",
+    "programs": "Junior Olympic Archery Development (JOAD)",
+    "reviewStatus": "approved",
+    "externalRef": "usarchery:springs joad|6325 east platte avenue colorado spgs colorado united states of america 80915"
+  },
+  {
     "name": "STRAIGHT N ARROW 3D ARCHERY",
     "address": "Co rt 17, Belington, West Virginia, United States of America, 26250",
     "phone": "+1 304-203-8769",
@@ -6858,6 +6878,16 @@
     "programs": "outdoor field range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:skookum archers|11209 shaw road east puyallup washington 98373"
+  },
+  {
+    "name": "Sky Valley Archery Academy Ed Eliason JOAD",
+    "address": "Sky Valley Archery Academy, Attn: Michael Wichser, 19829 168th St. SE, Monroe, Washington, United States of America, 98272",
+    "phone": "+12068561190",
+    "email": "mwichser@frontier.com",
+    "website": "",
+    "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program",
+    "reviewStatus": "approved",
+    "externalRef": "usarchery:sky valley archery academy ed eliason joad|sky valley archery academy attn michael wichser 19829 168th st se monroe washington united states of america 98272"
   },
   {
     "name": "Slingin Arrows JOAD",
