@@ -258,5 +258,14 @@
     "priceUsd": 319.99,
     "notes": "Listed without the High Roller insert.",
     "verified": false
+  },
+  {
+    "brand": "Morrell",
+    "model": "Keep Hammering Outdoor Range Bag Target",
+    "kind": "range",
+    "url": "https://morrelltargets.com/products/keep-hammering-outdoor-range",
+    "image": "https://cdn.shopify.com/s/files/1/1100/1512/products/172-01-13.jpg?v=1622823371",
+    "priceUsd": 159.99,
+    "verified": false
   }
 ]
