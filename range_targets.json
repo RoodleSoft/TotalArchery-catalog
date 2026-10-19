@@ -208,5 +208,15 @@
     "image": "https://cdn.shopify.com/s/files/1/0510/9458/5544/files/Youth_36_NASP_Range.jpg?v=1748371083",
     "priceUsd": 114.99,
     "verified": false
+  },
+  {
+    "brand": "BIGshot",
+    "model": "Interactive Axe Throwing System",
+    "kind": "throwing",
+    "url": "https://bigshottargets.com/products/axe-video-wall",
+    "image": "https://cdn.shopify.com/s/files/1/0510/9458/5544/files/Interactive_Axe_Throwing_System.jpg?v=1748446246",
+    "priceUsd": 5999.99,
+    "notes": "Video-wall axe throwing system for venues, not an archery target.",
+    "verified": false
   }
 ]
