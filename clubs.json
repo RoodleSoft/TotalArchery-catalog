@@ -1295,7 +1295,7 @@
     "phone": "+15857686637",
     "email": "ccarchery1@frontier.net",
     "website": "",
-    "programs": "indoor range",
+    "programs": "",
     "reviewStatus": "approved",
     "externalRef": "nfaa:c c archery and sporting goods|7149 w main rd leroy new york 14482"
   },
@@ -1318,16 +1318,6 @@
     "programs": "",
     "reviewStatus": "approved",
     "externalRef": "usarchery:cj archery academy|720 s bell blvd unit 1c cedar park texas united states of america 78613 7667"
-  },
-  {
-    "name": "CUMBERLAND RIVER STRAIGHT SHOOTERS",
-    "address": "20 STATE POLICE ROAD 1149, london, Kentucky, United States of America, 40741",
-    "phone": "(859) 582-8086",
-    "email": "mlrcox@live.com",
-    "website": "",
-    "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program, 3D Archery, Field Archery",
-    "reviewStatus": "approved",
-    "externalRef": "usarchery:cumberland river straight shooters|20 state police road 1149 london kentucky united states of america 40741"
   },
   {
     "name": "Cadillac Area Archers",
@@ -2995,7 +2985,7 @@
     "phone": "",
     "email": "",
     "website": "",
-    "programs": "",
+    "programs": "indoor range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:golden arrow archery club inc|11212 n 72nd st omaha nebraska 68138"
   },
@@ -3570,16 +3560,6 @@
     "externalRef": "usarchery:integrity archery of florida|17 interlaken road orlando florida united states of america 32804"
   },
   {
-    "name": "Invicta Sports",
-    "address": "9121 B Gaither Rd, Gaithersburg, Maryland, United States of America, 20877",
-    "phone": "+1 240-614-7157",
-    "email": "info@invictasports.net",
-    "website": "http://www.invictasports.net",
-    "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program",
-    "reviewStatus": "approved",
-    "externalRef": "usarchery:invicta sports|9121 b gaither rd gaithersburg maryland united states of america 20877"
-  },
-  {
     "name": "Invictus Archery",
     "address": "Avenida Espana, San Jose, California, United States of America, 95119",
     "phone": "+1 408 630 0969",
@@ -3775,7 +3755,7 @@
     "phone": "",
     "email": "",
     "website": "",
-    "programs": "outdoor field range, indoor range",
+    "programs": "3d range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:kbh archers inc|3680 ne old belfair hwy belfair washington 98528"
   },
@@ -5680,16 +5660,6 @@
     "externalRef": "usarchery:pwr archery|26 johnson ave hackensack hackensack new jersey united states of america 07601"
   },
   {
-    "name": "Pacifica Archery",
-    "address": "2995 JUNIPERO SERRA BLVD, DALY CITY, California, 94014",
-    "phone": "+16507564868",
-    "email": "pacificaarchery@gmail.com",
-    "website": "",
-    "programs": "indoor range",
-    "reviewStatus": "approved",
-    "externalRef": "nfaa:pacifica archery|2995 junipero serra blvd daly city california 94014"
-  },
-  {
     "name": "Palmyra Sportsmen's Joad",
     "address": "410 Sportsman Road, Anville, Pennsylvania, United States of America, 17003",
     "phone": "+1 717-421-7222",
@@ -6655,7 +6625,7 @@
     "phone": "+12023296613",
     "email": "santiagoarchers@gmail.com",
     "website": "",
-    "programs": "outdoor field range, indoor range",
+    "programs": "3d range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:santiago park archers|2535 n main street santa ana california 92706"
   },
@@ -8648,16 +8618,6 @@
     "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program",
     "reviewStatus": "approved",
     "externalRef": "usarchery:wheaton rifle club target archery|27w070 north ave west chicago illinois united states of america 60185"
-  },
-  {
-    "name": "White Mountain Archers",
-    "address": "PO BOX 1258, GREEN RIVER, Wyoming, 82935",
-    "phone": "",
-    "email": "",
-    "website": "",
-    "programs": "indoor range",
-    "reviewStatus": "approved",
-    "externalRef": "nfaa:white mountain archers|po box 1258 green river wyoming 82935"
   },
   {
     "name": "Whitetail Bowmen Archery Inc",

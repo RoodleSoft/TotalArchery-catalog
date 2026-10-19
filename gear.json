@@ -11121,17 +11121,6 @@
   {
     "category": "string",
     "brand": "GAS Bowstrings",
-    "model": "Mathews Lift 29.5 / Lift X 29.5",
-    "url": "https://gasbowstrings.com/product/mathews-lift-29-5-lift-x-29-5-systmx-string-only/",
-    "priceUsd": 80.0,
-    "verified": true,
-    "tapeWidthIn": null,
-    "weightG": null,
-    "image": "https://gasbowstrings.com/wp-content/uploads/2026/10/IMG_2562-scaled.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "GAS Bowstrings",
     "model": "Oneida Eagle",
     "url": "https://gasbowstrings.com/product/oneida-eagle-silver-med-brown-twist-string-only/",
     "priceUsd": 50.0,
