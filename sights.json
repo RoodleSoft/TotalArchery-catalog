@@ -1581,5 +1581,16 @@
     "axisAdjust": true,
     "url": "https://shop.blackgoldsights.com/products/competition-2a-sight",
     "verified": false
+  },
+  {
+    "brand": "Ultraview",
+    "model": "UV Slider (Bridge-Lock)",
+    "type": "multi-pin slider",
+    "pins": null,
+    "pinSizes": ".015",
+    "dovetail": false,
+    "weightOz": null,
+    "axisAdjust": true,
+    "verified": false
   }
 ]
