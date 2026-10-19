@@ -248,5 +248,15 @@
     "priceUsd": 349.99,
     "notes": "Price shown is with the High Roller insert; a ring-only version is also sold.",
     "verified": false
+  },
+  {
+    "brand": "Morrell",
+    "model": "Center Punch 35\"",
+    "kind": "range",
+    "url": "https://morrelltargets.com/products/center-punch-35-without-high-roller",
+    "image": "https://cdn.shopify.com/s/files/1/1100/1512/files/129_centerpunch_35_no_HR_3000x3000_cmyk_300dpi.jpg?v=1772810653",
+    "priceUsd": 319.99,
+    "notes": "Listed without the High Roller insert.",
+    "verified": false
   }
 ]
