@@ -1004,7 +1004,7 @@
     "tier": "budget",
     "verified": true,
     "note": null,
-    "msrpUsd": null,
+    "msrpUsd": 799,
     "url": null
   },
   {
@@ -1036,7 +1036,7 @@
     "tier": "flagship",
     "verified": true,
     "note": null,
-    "msrpUsd": null,
+    "msrpUsd": 1899,
     "url": null
   },
   {
@@ -1068,7 +1068,7 @@
     "tier": "flagship",
     "verified": true,
     "note": "E2 cam specs (6 in brace, 348 fps); EC2 cam is 6.125 in / 338 fps, S2 is 5.75 in / 341 fps",
-    "msrpUsd": null,
+    "msrpUsd": 1899,
     "url": null
   },
   {
@@ -1132,7 +1132,7 @@
     "tier": "flagship",
     "verified": true,
     "note": null,
-    "msrpUsd": null,
+    "msrpUsd": 1499,
     "url": "https://bowtecharchery.com/bows/alliance-33/"
   },
   {
@@ -1948,7 +1948,7 @@
     "tier": "flagship",
     "verified": true,
     "note": null,
-    "msrpUsd": null,
+    "msrpUsd": 1249.99,
     "url": "https://www.beararchery.com/products/bear-archery-persist-compound-bow"
   },
   {
@@ -2156,7 +2156,7 @@
     "tier": "budget",
     "verified": true,
     "note": "beginner/youth, 5-50 lb / 12-27in draw",
-    "msrpUsd": null,
+    "msrpUsd": 359.99,
     "url": "https://www.beararchery.com/products/bear-archery-royale-compound-bow"
   },
   {
@@ -2188,7 +2188,7 @@
     "tier": "enthusiast",
     "verified": true,
     "note": null,
-    "msrpUsd": null,
+    "msrpUsd": 1349.99,
     "url": "https://dartonarchery.com/tritech-33/"
   },
   {
@@ -2572,7 +2572,7 @@
     "tier": "budget",
     "verified": true,
     "note": null,
-    "msrpUsd": null,
+    "msrpUsd": 489,
     "url": "https://diamondarchery.com/bows/edge-max/"
   },
   {
