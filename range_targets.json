@@ -218,5 +218,15 @@
     "priceUsd": 5999.99,
     "notes": "Video-wall axe throwing system for venues, not an archery target.",
     "verified": false
+  },
+  {
+    "brand": "BIGshot",
+    "model": "Rutting Bucks Shooting Set",
+    "kind": "other",
+    "url": "https://bigshottargets.com/products/deer-craze-video",
+    "image": "https://cdn.shopify.com/s/files/1/0510/9458/5544/products/mq2_66c1514f-464b-4f9c-93a6-f20cc3e2014b.jpg?v=1605221096",
+    "priceUsd": 79.99,
+    "notes": "Video-game shooting set (needs a Live Hunt Player); not a 3D animal target.",
+    "verified": false
   }
 ]
