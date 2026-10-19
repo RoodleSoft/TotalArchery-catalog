@@ -828,7 +828,7 @@
     "tier": "flagship",
     "verified": true,
     "note": null,
-    "msrpUsd": null,
+    "msrpUsd": 2099,
     "url": "https://psearchery.com/products/sicario-carbon-fds-35"
   },
   {
@@ -908,7 +908,7 @@
     "tier": "flagship",
     "verified": true,
     "note": null,
-    "msrpUsd": null,
+    "msrpUsd": 1899,
     "url": "https://lancasterarchery.com/products/pse-nock-30-es-carbon-compound-hunting-bow"
   },
   {
@@ -1020,7 +1020,7 @@
     "tier": "flagship",
     "verified": true,
     "note": null,
-    "msrpUsd": null,
+    "msrpUsd": 1199,
     "url": "https://extremeoutfitters.com/shop/archery/bows/compound-bows/pse-unite-e2-70lb/"
   },
   {
@@ -1743,7 +1743,8 @@
     "verified": true,
     "note": null,
     "msrpUsd": 1595,
-    "url": "https://www.rossoutdoors.com/products/prime-form-bow"
+    "url": "https://www.rossoutdoors.com/products/prime-form-bow",
+    "image": "https://lancasterarchery.com/cdn/shop/files/1041028_1024x.jpg?v=1733342881"
   },
   {
     "brand": "Prime",
@@ -2542,7 +2543,7 @@
     "tier": "enthusiast",
     "verified": true,
     "note": null,
-    "msrpUsd": null,
+    "msrpUsd": 1299.99,
     "url": "https://www.xpeditionarchery.com/products/mx32"
   },
   {
