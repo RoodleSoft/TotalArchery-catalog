@@ -12,7 +12,7 @@
     "tier": "flagship",
     "verified": true,
     "note": null,
-    "msrpUsd": null,
+    "msrpUsd": 2149,
     "url": "https://hoyt.com/products/carbon-rx-10-hunting-compound-bow"
   },
   {
@@ -76,7 +76,7 @@
     "tier": "flagship",
     "verified": true,
     "note": null,
-    "msrpUsd": null,
+    "msrpUsd": 1499,
     "url": "https://hoyt.com/products/alpha-ax-3-29-hunting-compound-bow"
   },
   {
@@ -92,7 +92,7 @@
     "tier": "flagship",
     "verified": true,
     "note": null,
-    "msrpUsd": null,
+    "msrpUsd": 1599,
     "url": "https://hoyt.com/products/alpha-ax-3-33-hunting-compound-bow"
   },
   {
@@ -108,7 +108,7 @@
     "tier": "flagship",
     "verified": true,
     "note": null,
-    "msrpUsd": null,
+    "msrpUsd": 1599,
     "url": "https://hoyt.com/products/alpha-ax-3-33-ld-hunting-compound-bow"
   },
   {
@@ -124,7 +124,7 @@
     "tier": "flagship",
     "verified": true,
     "note": null,
-    "msrpUsd": null,
+    "msrpUsd": 1499,
     "url": "https://hoyt.com/products/alpha-ax-3-sd-hunting-compound-bow"
   },
   {
@@ -156,7 +156,7 @@
     "tier": "enthusiast",
     "verified": true,
     "note": null,
-    "msrpUsd": null,
+    "msrpUsd": 749,
     "url": "https://hoyt.com/products/enduro-hunting-compound-bow"
   },
   {
@@ -1356,7 +1356,7 @@
     "tier": "flagship",
     "verified": true,
     "note": null,
-    "msrpUsd": null,
+    "msrpUsd": 1299.99,
     "url": "https://www.elitearchery.com/products/varos"
   },
   {
@@ -1366,7 +1366,7 @@
     "ataIn": 32.5,
     "braceIn": 6.75,
     "speedFps": 338,
-    "massWeightOz": null,
+    "massWeightOz": 68.8,
     "centerShotIn": null,
     "target": false,
     "tier": "flagship",
@@ -1388,7 +1388,7 @@
     "tier": "budget",
     "verified": true,
     "note": "youth",
-    "msrpUsd": null,
+    "msrpUsd": 649.99,
     "url": "https://www.elitearchery.com/products/emerse"
   },
   {
@@ -1516,7 +1516,7 @@
     "tier": "flagship",
     "verified": true,
     "note": null,
-    "msrpUsd": null,
+    "msrpUsd": 1299.99,
     "url": "https://www.elitearchery.com/products/artus"
   },
   {
@@ -1564,7 +1564,7 @@
     "tier": "flagship",
     "verified": true,
     "note": "women's",
-    "msrpUsd": null,
+    "msrpUsd": 1249.99,
     "url": "https://www.elitearchery.com/products/allure"
   },
   {
@@ -1597,7 +1597,8 @@
     "verified": true,
     "note": null,
     "msrpUsd": 1199.99,
-    "url": "https://rmsgear.com/products/elite-omnia"
+    "url": "https://rmsgear.com/products/elite-omnia",
+    "image": "https://lancasterarchery.com/cdn/shop/files/1033135_copper_1024x.jpg?v=1696862818"
   },
   {
     "brand": "Elite",
@@ -1645,7 +1646,8 @@
     "verified": true,
     "note": null,
     "msrpUsd": 1199,
-    "url": "https://elitearchery.com/products/envision"
+    "url": "https://elitearchery.com/products/envision",
+    "image": "https://lancasterarchery.com/cdn/shop/products/1360306_RTedge.jpg"
   },
   {
     "brand": "Prime",
