@@ -780,7 +780,7 @@
     "tier": "flagship",
     "verified": true,
     "note": null,
-    "msrpUsd": null,
+    "msrpUsd": 1999,
     "url": "https://psearchery.com/products/sicario-carbon-fds"
   },
   {
@@ -812,7 +812,7 @@
     "tier": "flagship",
     "verified": true,
     "note": "347 fps is the maker's listed IBO speed rating",
-    "msrpUsd": null,
+    "msrpUsd": 1299,
     "url": "https://psearchery.com/products/decree-fds"
   },
   {
@@ -844,7 +844,7 @@
     "tier": "flagship",
     "verified": true,
     "note": null,
-    "msrpUsd": null,
+    "msrpUsd": 1999,
     "url": "https://psearchery.com/products/mach-35-ds"
   },
   {
@@ -1726,7 +1726,7 @@
     "tier": "flagship",
     "verified": true,
     "note": "Was misspelled \"Ronin\" -- g5prime.com's own product page/image confirm \"Ronan\".",
-    "msrpUsd": null,
+    "msrpUsd": 949,
     "url": "https://www.g5prime.com/ronan/"
   },
   {
