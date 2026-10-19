@@ -1569,5 +1569,17 @@
     "axisAdjust": true,
     "url": "https://www.beararchery.com/products/trophy-ridge-fix-bow-sight",
     "verified": false
+  },
+  {
+    "brand": "Black Gold",
+    "model": "Competition 2A",
+    "type": "target slider",
+    "pins": null,
+    "pinSizes": "scope",
+    "dovetail": true,
+    "weightOz": 11.6,
+    "axisAdjust": true,
+    "url": "https://shop.blackgoldsights.com/products/competition-2a-sight",
+    "verified": false
   }
 ]
