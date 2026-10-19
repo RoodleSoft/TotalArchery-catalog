@@ -204,7 +204,7 @@
     "tier": "flagship",
     "verified": true,
     "note": null,
-    "msrpUsd": null,
+    "msrpUsd": 1999,
     "url": "https://lancasterarchery.com/products/hoyt-carbon-rx-9-sd-compound-hunting-bow"
   },
   {
@@ -2606,7 +2606,7 @@
     "tier": "budget",
     "verified": true,
     "note": "youth/small-frame, replaces the Prism, 10-55 lb / 16.5-29.5in draw",
-    "msrpUsd": null,
+    "msrpUsd": 399.99,
     "url": "https://diamondarchery.com/bows/radian/"
   },
   {
