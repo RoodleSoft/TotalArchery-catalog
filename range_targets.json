@@ -228,5 +228,15 @@
     "priceUsd": 79.99,
     "notes": "Video-game shooting set (needs a Live Hunt Player); not a 3D animal target.",
     "verified": false
+  },
+  {
+    "brand": "Morrell",
+    "model": "Center Punch 24\"",
+    "kind": "range",
+    "url": "https://morrelltargets.com/products/center-punch-24",
+    "image": "https://cdn.shopify.com/s/files/1/1100/1512/files/Centerpunch_24_01.jpg?v=1694443153",
+    "priceUsd": 139.99,
+    "notes": "Listed without the High Roller insert; a version with High Roller is also sold.",
+    "verified": false
   }
 ]
