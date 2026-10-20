@@ -460,16 +460,6 @@
     "externalRef": "usarchery:athena archery and adaptive sports|150 fritz mar lane athens georgia united states of america 30607"
   },
   {
-    "name": "Atlanta Archery Club",
-    "address": "4805 Tilly Mill Rd, Dunwoody, Georgia, United States of America, 30360",
-    "phone": "+14044564214",
-    "email": "info@atlantaarchery.club",
-    "website": "http://atlantaarchery.club",
-    "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program, 3D Archery",
-    "reviewStatus": "approved",
-    "externalRef": "usarchery:atlanta archery club|4805 tilly mill rd dunwoody georgia united states of america 30360"
-  },
-  {
     "name": "Atlantic Cape Community College- Archery",
     "address": "5100 Black Horse Pike, Mays Landing, New Jersey, United States of America, 08330",
     "phone": "(609) 548-7942",
@@ -4660,16 +4650,6 @@
     "externalRef": "usarchery:middletown jr olympians|middletown archery 127 barren rd media pennsylvania united states of america 19063"
   },
   {
-    "name": "Midlands Archery Center",
-    "address": "376 Ebenezer Rd., Leesville, South Carolina, United States of America, 29070",
-    "phone": "+1 803-807-8740",
-    "email": "coachindy@hotmail.com",
-    "website": "http://www.midlandsarcherycenter.com",
-    "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program, 3D Archery",
-    "reviewStatus": "approved",
-    "externalRef": "usarchery:midlands archery center|376 ebenezer rd leesville south carolina united states of america 29070"
-  },
-  {
     "name": "Midlands Archery Center - Dogwood Point Archery Range",
     "address": "366 Ebenezer Rd, Leesville, South Carolina, 29070",
     "phone": "+18038078739",
@@ -5660,6 +5640,16 @@
     "externalRef": "usarchery:pwr archery|26 johnson ave hackensack hackensack new jersey united states of america 07601"
   },
   {
+    "name": "Pacifica Archery",
+    "address": "2995 JUNIPERO SERRA BLVD, DALY CITY, California, 94014",
+    "phone": "+16507564868",
+    "email": "pacificaarchery@gmail.com",
+    "website": "",
+    "programs": "indoor range",
+    "reviewStatus": "approved",
+    "externalRef": "nfaa:pacifica archery|2995 junipero serra blvd daly city california 94014"
+  },
+  {
     "name": "Palmyra Sportsmen's Joad",
     "address": "410 Sportsman Road, Anville, Pennsylvania, United States of America, 17003",
     "phone": "+1 717-421-7222",
@@ -6068,16 +6058,6 @@
     "programs": "indoor range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:quest archery llc|589 park avenue worcester massachusetts 01603"
-  },
-  {
-    "name": "RIT Club Archery",
-    "address": "1 Lomb Memorial Dr, Rochester, New York, United States of America, 14623",
-    "phone": "+15854756559",
-    "email": "archery@rit.edu",
-    "website": "",
-    "programs": "",
-    "reviewStatus": "approved",
-    "externalRef": "usarchery:rit club archery|1 lomb memorial dr rochester new york united states of america 14623"
   },
   {
     "name": "ROOT RIVER ARCHERY, LLC",
@@ -7908,16 +7888,6 @@
     "programs": "outdoor field range, 3d range, outdoor range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:trosper archery club|2201 se grand blvd oklahoma city oklahoma 73129"
-  },
-  {
-    "name": "Trosper Joad & Archery Club",
-    "address": "P.O. Box 95168, Oklahoma City, Oklahoma, United States of America, 73143",
-    "phone": "405-570-8024",
-    "email": "bssadie1001s@gmail.com",
-    "website": "http://www.trosperarcheryclub.com",
-    "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program",
-    "reviewStatus": "approved",
-    "externalRef": "usarchery:trosper joad archery club|p o box 95168 oklahoma city oklahoma united states of america 73143"
   },
   {
     "name": "Tulsa Archery Association",
