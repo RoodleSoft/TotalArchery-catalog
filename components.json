@@ -2647,6 +2647,15 @@
   },
   {
     "brand": "G5 Outdoors",
+    "model": "G5 Broadhead Vault Promotion",
+    "category": "broadhead",
+    "grains": 100.0,
+    "fits": null,
+    "verified": false,
+    "url": "https://www.g5outdoors.com"
+  },
+  {
+    "brand": "G5 Outdoors",
     "model": "G5 Deadmeat Crossbow Broadheads V2",
     "category": "broadhead",
     "grains": 100.0,

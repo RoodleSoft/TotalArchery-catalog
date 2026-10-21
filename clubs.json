@@ -240,16 +240,6 @@
     "externalRef": "nfaa:archery and bow club|3690 bramlett church road gray court south carolina 29645"
   },
   {
-    "name": "Arizona Archery Club, LLC",
-    "address": "1115 W. Deer Valley Road #1, Phoenix, Arizona, United States of America, 85027",
-    "phone": "+16232664647",
-    "email": "arizonaarcheryc@gmail.com",
-    "website": "http://www.azarcheryclub.com",
-    "programs": "Junior Olympic Archery Development (JOAD)",
-    "reviewStatus": "approved",
-    "externalRef": "usarchery:arizona archery club llc|1115 w deer valley road 1 phoenix arizona united states of america 85027"
-  },
-  {
     "name": "Arizona Christian University Archery",
     "address": "1115 W. Deer Valley Rd, Phoenix, Arizona, United States of America, 85027",
     "phone": "+16026942841",
@@ -458,6 +448,16 @@
     "programs": "",
     "reviewStatus": "approved",
     "externalRef": "usarchery:athena archery and adaptive sports|150 fritz mar lane athens georgia united states of america 30607"
+  },
+  {
+    "name": "Atlanta Archery Club",
+    "address": "4805 Tilly Mill Rd, Dunwoody, Georgia, United States of America, 30360",
+    "phone": "+14044564214",
+    "email": "info@atlantaarchery.club",
+    "website": "http://atlantaarchery.club",
+    "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program, 3D Archery",
+    "reviewStatus": "approved",
+    "externalRef": "usarchery:atlanta archery club|4805 tilly mill rd dunwoody georgia united states of america 30360"
   },
   {
     "name": "Atlantic Cape Community College- Archery",
@@ -1285,7 +1285,7 @@
     "phone": "+15857686637",
     "email": "ccarchery1@frontier.net",
     "website": "",
-    "programs": "",
+    "programs": "indoor range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:c c archery and sporting goods|7149 w main rd leroy new york 14482"
   },
@@ -2255,7 +2255,7 @@
     "phone": "+19255673063",
     "email": "diablobowmenpresident@gmail.com",
     "website": "",
-    "programs": "outdoor field range, 3d range, outdoor range",
+    "programs": "outdoor field range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:diablo bowmen|p o box 70 clayton california 94517"
   },
@@ -2628,6 +2628,16 @@
     "programs": "",
     "reviewStatus": "approved",
     "externalRef": "usarchery:faith assembly archery|7101 bayshore road north fort myers florida united states of america 33917"
+  },
+  {
+    "name": "Falcon Archers Joad",
+    "address": "47 Papp Road, Canonsburg, Pennsylvania, United States of America, 15317",
+    "phone": "",
+    "email": "falcon.joad@gmail.com",
+    "website": "http://falconjoad.org",
+    "programs": "Junior Olympic Archery Development (JOAD)",
+    "reviewStatus": "approved",
+    "externalRef": "usarchery:falcon archers joad|47 papp road canonsburg pennsylvania united states of america 15317"
   },
   {
     "name": "Fallon Bowmen",
@@ -3695,7 +3705,7 @@
     "phone": "+17652094260",
     "email": "",
     "website": "",
-    "programs": "outdoor field range, 3d range, outdoor range",
+    "programs": "outdoor field range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:jay county bitteridge archers|6243 s 325 w portland indiana 47371"
   },
@@ -4821,13 +4831,13 @@
   },
   {
     "name": "Muskegon Bowmen Inc",
-    "address": "2380 CENTRAL RD, MUSKEGON, Michigan, 49445",
+    "address": "2380 Central Road, Muskegon, Michigan, 49445",
     "phone": "+12317663447",
     "email": "muskbowmen@gmail.com",
     "website": "",
-    "programs": "outdoor field range, indoor range",
+    "programs": "indoor range",
     "reviewStatus": "approved",
-    "externalRef": "nfaa:muskegon bowmen inc|2380 central rd muskegon michigan 49445"
+    "externalRef": "nfaa:muskegon bowmen inc|2380 central road muskegon michigan 49445"
   },
   {
     "name": "Muskingum University",
@@ -4910,6 +4920,16 @@
     "externalRef": "nfaa:narragansett bowhunters|1531 ten rod rd north kingstown rhode island 02852"
   },
   {
+    "name": "Navajo Technical University Archery",
+    "address": ", New Mexico, United States of America",
+    "phone": "+15054090739",
+    "email": "mperry@navajotech.edu",
+    "website": "",
+    "programs": "",
+    "reviewStatus": "approved",
+    "externalRef": "usarchery:navajo technical university archery|new mexico united states of america"
+  },
+  {
     "name": "Navigators Adaptive Sports Club",
     "address": "136 Oak Ridge Rd, Clark, New Jersey, United States of America, 07066",
     "phone": "+1 908-325-5052",
@@ -4965,7 +4985,7 @@
     "phone": "+13027227997",
     "email": "info@nc100archers.com",
     "website": "",
-    "programs": "outdoor field range, indoor range",
+    "programs": "indoor range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:new castle hundred archers|2272 sunset lake rd newark delaware 19702"
   },
@@ -6058,6 +6078,16 @@
     "programs": "indoor range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:quest archery llc|589 park avenue worcester massachusetts 01603"
+  },
+  {
+    "name": "RIT Club Archery",
+    "address": "1 Lomb Memorial Dr, Rochester, New York, United States of America, 14623",
+    "phone": "+15854756559",
+    "email": "archery@rit.edu",
+    "website": "",
+    "programs": "",
+    "reviewStatus": "approved",
+    "externalRef": "usarchery:rit club archery|1 lomb memorial dr rochester new york united states of america 14623"
   },
   {
     "name": "ROOT RIVER ARCHERY, LLC",
