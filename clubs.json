@@ -1730,6 +1730,16 @@
     "externalRef": "usarchery:cincinnati jr olympians|5327 bethany rd mason ohio united states of america 45040"
   },
   {
+    "name": "Cinnamon Creek Ranch",
+    "address": "13794 Old Denton Rd, Roanoke, Texas, 76262",
+    "phone": "+18174398998",
+    "email": "beau@cinnamoncreekranch.com",
+    "website": "",
+    "programs": "indoor range",
+    "reviewStatus": "approved",
+    "externalRef": "nfaa:cinnamon creek ranch|13794 old denton rd roanoke texas 76262"
+  },
+  {
     "name": "Cinnamon Creek Ranch Archery",
     "address": "Cinnamon Creek Ranch, 13794 Old Denton Rd., Roanoke, Texas, United States of America, 76262",
     "phone": "+18174398998",
@@ -2985,7 +2995,7 @@
     "phone": "",
     "email": "",
     "website": "",
-    "programs": "indoor range",
+    "programs": "",
     "reviewStatus": "approved",
     "externalRef": "nfaa:golden arrow archery club inc|11212 n 72nd st omaha nebraska 68138"
   },
@@ -3048,6 +3058,16 @@
     "programs": "outdoor field range, indoor range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:granby bow gun club inc|19 oakridge circle ware massachusetts 01082"
+  },
+  {
+    "name": "Grand Canyon University Archery",
+    "address": ", United States of America",
+    "phone": "+1 6026397900",
+    "email": "clubsports@gcu.edu",
+    "website": "http://gcuclubsports.com",
+    "programs": "",
+    "reviewStatus": "approved",
+    "externalRef": "usarchery:grand canyon university archery|united states of america"
   },
   {
     "name": "Grand County Archers Association",
@@ -3118,16 +3138,6 @@
     "programs": "3d range, indoor range, 3d range, outdoor range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:grays harbor bowman|902 st rt 105 aberdeen washington 98520"
-  },
-  {
-    "name": "Great Falls Council Range and Target Sports",
-    "address": "58 Boll Street, Sloan, New York, United States of America, 14212",
-    "phone": "+17164653228",
-    "email": "ecoed96@gmail.com",
-    "website": "",
-    "programs": "",
-    "reviewStatus": "approved",
-    "externalRef": "usarchery:great falls council range and target sports|58 boll street sloan new york united states of america 14212"
   },
   {
     "name": "Grit City Archery",
@@ -4955,7 +4965,7 @@
     "phone": "",
     "email": "abbe17@icloud.com",
     "website": "",
-    "programs": "3d range, indoor range",
+    "programs": "indoor range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:nenameseck sportsmens club|150 bacon road p o box 284 palmer massachusetts 01069"
   },
