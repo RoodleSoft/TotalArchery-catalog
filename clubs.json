@@ -155,7 +155,7 @@
     "phone": "",
     "email": "",
     "website": "http://www.archersafield.com",
-    "programs": "indoor range",
+    "programs": "",
     "reviewStatus": "approved",
     "externalRef": "nfaa:archers afield|11945 sw pacific hwy suite 121 portland oregon 97223"
   },
@@ -238,16 +238,6 @@
     "programs": "outdoor field range, outdoor range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:archery and bow club|3690 bramlett church road gray court south carolina 29645"
-  },
-  {
-    "name": "Arizona Christian University Archery",
-    "address": "1115 W. Deer Valley Rd, Phoenix, Arizona, United States of America, 85027",
-    "phone": "+16026942841",
-    "email": "arvid.veidmark@arizonachristian.edu",
-    "website": "",
-    "programs": "",
-    "reviewStatus": "approved",
-    "externalRef": "usarchery:arizona christian university archery|1115 w deer valley rd phoenix arizona united states of america 85027"
   },
   {
     "name": "Arizona Junior Olympic Archery Development (Azjoad)",
@@ -905,7 +895,7 @@
     "phone": "",
     "email": "blackmountainbowmen@gmail.com",
     "website": "",
-    "programs": "indoor range",
+    "programs": "",
     "reviewStatus": "approved",
     "externalRef": "nfaa:black mountain bowmen|black mountain bowmen bmb avenida espana san jose california 95139"
   },
@@ -1608,16 +1598,6 @@
     "programs": "indoor range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:champion archery shooting club|10854 117th pl ne kirkland washington 98033 5051"
-  },
-  {
-    "name": "Charleroi Archery Club",
-    "address": "194 FREMONT RD, CHARLEROI, Pennsylvania, 15022",
-    "phone": "",
-    "email": "",
-    "website": "",
-    "programs": "outdoor field range",
-    "reviewStatus": "approved",
-    "externalRef": "nfaa:charleroi archery club|194 fremont rd charleroi pennsylvania 15022"
   },
   {
     "name": "Chequamegon Archery Club",
@@ -3530,16 +3510,6 @@
     "externalRef": "nfaa:indian river archers|6000 77th street vero beach florida 32967"
   },
   {
-    "name": "Indian Trail Archers",
-    "address": "107 E. Spring Street, Freeport, Illinois, United Kingdom, 61032",
-    "phone": "+1 8152385488",
-    "email": "sunshine_fellows03@yahoo.com",
-    "website": "http://www.indiantrailarchers.com",
-    "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program, 3D Archery",
-    "reviewStatus": "approved",
-    "externalRef": "usarchery:indian trail archers|107 e spring street freeport illinois united kingdom 61032"
-  },
-  {
     "name": "Indian Trail Bow Club - NC",
     "address": "3906 Richardson Rd, Monroe, North Carolina, 28112",
     "phone": "+19803544020",
@@ -4168,6 +4138,16 @@
     "programs": "indoor range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:lewis clark archers mt|3654 us 12 helena montana 59601"
+  },
+  {
+    "name": "Lewis & Clark Bowmen - WA",
+    "address": "9345 Barnes Dr, Castle Rock, Washington, 98611",
+    "phone": "+13604317447",
+    "email": "lewisnclarkbowmen@yahoo.com",
+    "website": "",
+    "programs": "indoor range",
+    "reviewStatus": "approved",
+    "externalRef": "nfaa:lewis clark bowmen wa|9345 barnes dr castle rock washington 98611"
   },
   {
     "name": "Lewistown Bowhunters Association",
@@ -6855,7 +6835,7 @@
     "phone": "+17078155280",
     "email": "president@silveradoarchers.com",
     "website": "",
-    "programs": "3d range, 3d range",
+    "programs": "",
     "reviewStatus": "approved",
     "externalRef": "nfaa:silverado archery club|po box 424 napa california 94559 0424"
   },
@@ -6975,7 +6955,7 @@
     "phone": "+15418636841",
     "email": "terrykathy.shipman@gmail.com",
     "website": "",
-    "programs": "3d range, 3d range",
+    "programs": "",
     "reviewStatus": "approved",
     "externalRef": "nfaa:south umpqua bowhunters club|dole rd myrtle creek oregon 97457"
   },
@@ -8092,7 +8072,7 @@
   {
     "name": "University of California, Irvine",
     "address": "28562 Arroyo Dr, Irvine, California, United States of America, 92617",
-    "phone": "17607748214",
+    "phone": "+17607748214",
     "email": "archery@uci.edu",
     "website": "https://www.campusrec.uci.edu/club/archery.asp",
     "programs": "",
@@ -8570,16 +8550,6 @@
     "externalRef": "nfaa:west penn archery club|147 archery club rd new ringgold pennsylvania 17960"
   },
   {
-    "name": "West Penn Wolf Pack",
-    "address": "147 Archery Club Road, New Ringgold, Pennsylvania, United States of America, 17960",
-    "phone": "+1 5707786427",
-    "email": "amyb_2004@yahoo.com",
-    "website": "",
-    "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program, 3D Archery",
-    "reviewStatus": "approved",
-    "externalRef": "usarchery:west penn wolf pack|147 archery club road new ringgold pennsylvania united states of america 17960"
-  },
-  {
     "name": "West Valley Bowhunters",
     "address": "PO Box 948, Orland, California, 95963",
     "phone": "",
@@ -8628,6 +8598,16 @@
     "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program",
     "reviewStatus": "approved",
     "externalRef": "usarchery:wheaton rifle club target archery|27w070 north ave west chicago illinois united states of america 60185"
+  },
+  {
+    "name": "White Mountain Archers",
+    "address": "PO BOX 1258, GREEN RIVER, Wyoming, 82935",
+    "phone": "",
+    "email": "",
+    "website": "",
+    "programs": "indoor range",
+    "reviewStatus": "approved",
+    "externalRef": "nfaa:white mountain archers|po box 1258 green river wyoming 82935"
   },
   {
     "name": "Whitetail Bowmen Archery Inc",

@@ -6176,17 +6176,6 @@
   },
   {
     "category": "sight",
-    "brand": "Black Eagle Arrows",
-    "model": "BEA Hunting Sight",
-    "url": "https://blackeaglearrows.com/products/bea-hunting-sight",
-    "priceUsd": 139.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "weightG": null,
-    "image": "https://cdn.shopify.com/s/files/1/0747/4046/5838/files/7a3x6zHGv7qJHZUZNyzoogiBmC2VLWFDXMZ2UaBF9oVghXNoeBySoVZquoVId9ZT__17691.jpg"
-  },
-  {
-    "category": "sight",
     "brand": "Black Gold",
     "model": "Ascent Mountain Lite HD Dual Trac 2 Pin Verticle .019",
     "url": "https://xspotarchery.com/products/black-gold-ascent-mountain-lite-hd-dual-trac-2-pin-verticle-left-hand",
@@ -6349,6 +6338,17 @@
     "tapeWidthIn": null,
     "weightG": null,
     "image": "https://blackgoldaccessories.com/wp-content/uploads/sites/29/2023/12/Modd-Carousel-3Pin-Vert-PicRail-2.jpg"
+  },
+  {
+    "category": "sight",
+    "brand": "Black Gold",
+    "model": "Mountain Ascent Lite 5 PIN ALL PINS .010",
+    "url": "https://xspotarchery.com/products/black-gold-mountain-ascent-lite-5-pin-lh-all-pins-010",
+    "priceUsd": 259.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/ML-sight-640_10e7a208-865d-4e6d-afca-2e523a18bf11.jpg"
   },
   {
     "category": "sight",
@@ -6602,17 +6602,6 @@
     "tapeWidthIn": null,
     "weightG": null,
     "image": "https://bowtecharchery.com/wp-content/uploads/2020/09/CenterMass2025-ProHunter2.jpg"
-  },
-  {
-    "category": "sight",
-    "brand": "Bowtech",
-    "model": "Centermass Pro Hunter 1 Pin V1",
-    "url": "https://xspotarchery.com/products/bowtech-centermass-dual-trac-sight-right-hand-1-pin",
-    "priceUsd": 319.99,
-    "verified": true,
-    "tapeWidthIn": null,
-    "weightG": null,
-    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/CenterMass-DualTrac-02_3d9f87ef-0a68-4960-9373-87ae41e67afd.jpg"
   },
   {
     "category": "sight",
@@ -6968,12 +6957,12 @@
     "category": "sight",
     "brand": "Dialed",
     "model": "PRÜF Mover Sight",
-    "url": "https://dialedarchery.com/products/pruf-mover-sight-the-archers",
-    "priceUsd": 644.99,
+    "url": "https://dialedarchery.com/products/pruf-mover-sight-red-rust",
+    "priceUsd": 559.99,
     "verified": true,
     "tapeWidthIn": null,
     "weightG": null,
-    "image": "https://cdn.shopify.com/s/files/1/0564/5729/8081/files/MobileHomepageBanner_eebb0874-0f52-4203-873a-8d493ec4c10f.png"
+    "image": "https://cdn.shopify.com/s/files/1/0564/5729/8081/files/RRBK-11.jpg"
   },
   {
     "category": "sight",
