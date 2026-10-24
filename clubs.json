@@ -240,6 +240,16 @@
     "externalRef": "nfaa:archery and bow club|3690 bramlett church road gray court south carolina 29645"
   },
   {
+    "name": "Arizona Christian University Archery",
+    "address": "1115 W. Deer Valley Rd, Phoenix, Arizona, United States of America, 85027",
+    "phone": "+16026942841",
+    "email": "arvid.veidmark@arizonachristian.edu",
+    "website": "",
+    "programs": "",
+    "reviewStatus": "approved",
+    "externalRef": "usarchery:arizona christian university archery|1115 w deer valley rd phoenix arizona united states of america 85027"
+  },
+  {
     "name": "Arizona Junior Olympic Archery Development (Azjoad)",
     "address": "Varies, Phoenix, Arizona, United States of America, 85016",
     "phone": "602-228-0465",
@@ -3735,7 +3745,7 @@
     "phone": "",
     "email": "",
     "website": "",
-    "programs": "3d range",
+    "programs": "outdoor field range, indoor range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:kbh archers inc|3680 ne old belfair hwy belfair washington 98528"
   },
@@ -4438,16 +4448,6 @@
     "programs": "Junior Olympic Archery Development (JOAD), 3D Archery, Field Archery, Olympic Archery in the Schools",
     "reviewStatus": "approved",
     "externalRef": "usarchery:miami archery club|17415 bauer dr homestead florida united states of america 33031"
-  },
-  {
-    "name": "MINARA Archery",
-    "address": "Archery Shoppe, 2910 Carlisle NE, Albuquerque, New Mexico, United States of America, 87111",
-    "phone": "+1 505-440-8036",
-    "email": "abdurrauf.minara@gmail.com",
-    "website": "",
-    "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program",
-    "reviewStatus": "approved",
-    "externalRef": "usarchery:minara archery|archery shoppe 2910 carlisle ne albuquerque new mexico united states of america 87111"
   },
   {
     "name": "Madera Field Archers and Bowhunters",
@@ -6625,7 +6625,7 @@
     "phone": "+12023296613",
     "email": "santiagoarchers@gmail.com",
     "website": "",
-    "programs": "3d range",
+    "programs": "outdoor field range, indoor range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:santiago park archers|2535 n main street santa ana california 92706"
   },
@@ -6715,7 +6715,7 @@
     "phone": "+19073762699",
     "email": "searcheryak@gmail.com",
     "website": "https://www.screamingeaglearchery.com/",
-    "programs": "indoor range",
+    "programs": "indoor range, indoor range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:screaming eagle archery of alaska|210 park ave wasilla alaska 99654"
   },
@@ -7165,7 +7165,7 @@
     "phone": "+443157375248",
     "email": "sraightarrowarchery@gmail.com",
     "website": "",
-    "programs": "",
+    "programs": "indoor range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:straight arrow archery|54 kellogg rd suite 85 new hartford new york 13413"
   },
@@ -8818,16 +8818,6 @@
     "programs": "indoor range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:wyandot bowmen|po box 303 new manchester west virginia 26056 0303"
-  },
-  {
-    "name": "Wylie Karate Archery Club",
-    "address": "PO Box 2244, Wylie, Texas, United States of America, 75098",
-    "phone": "214-293-8057",
-    "email": "dennis@wyliekarate.com",
-    "website": "http://www.wyliekarate.com",
-    "programs": "Field Archery",
-    "reviewStatus": "approved",
-    "externalRef": "usarchery:wylie karate archery club|po box 2244 wylie texas united states of america 75098"
   },
   {
     "name": "X-Spot Archery",

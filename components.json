@@ -4726,6 +4726,15 @@
   },
   {
     "brand": "Black Eagle",
+    "model": "Tier One 5mm Nock Collars",
+    "category": "collar",
+    "grains": 15.0,
+    "fits": null,
+    "verified": false,
+    "url": "https://blackeaglearrows.com"
+  },
+  {
+    "brand": "Black Eagle",
     "model": "X-Impact Collar .166",
     "category": "collar",
     "grains": 16.0,
@@ -6232,6 +6241,15 @@
     "model": "Spartan Screw-In Brass Insert Weight",
     "category": "insert",
     "grains": 75.0,
+    "fits": null,
+    "verified": false,
+    "url": "https://blackeaglearrows.com"
+  },
+  {
+    "brand": "Black Eagle",
+    "model": "Tier One 5mm SS Halfouts",
+    "category": "insert",
+    "grains": 20.0,
     "fits": null,
     "verified": false,
     "url": "https://blackeaglearrows.com"
@@ -11620,30 +11638,12 @@
   },
   {
     "brand": "XS Wings",
-    "model": "XS Wing Metallic Vanes Medium Stiffness -40mm-Gold LH",
-    "category": "vane",
-    "grains": 6.0,
-    "fits": null,
-    "verified": false,
-    "url": "https://lancasterarchery.com/products/xs-wing-metallic-vanes-medium-stiffness-40mm-gold-lh"
-  },
-  {
-    "brand": "XS Wings",
     "model": "XS Wing Metallic Vanes Medium Stiffness -40mm-Green LH",
     "category": "vane",
     "grains": 6.0,
     "fits": null,
     "verified": false,
     "url": "https://lancasterarchery.com/products/xs-wing-metallic-vanes-medium-stiffness-40mm-green-lh"
-  },
-  {
-    "brand": "XS Wings",
-    "model": "XS Wing Metallic Vanes Medium Stiffness -40mm-Green RH",
-    "category": "vane",
-    "grains": 6.0,
-    "fits": null,
-    "verified": false,
-    "url": "https://lancasterarchery.com/products/xs-wing-metallic-vanes-medium-stiffness-40mm-green-rh"
   },
   {
     "brand": "XS Wings",
@@ -11692,24 +11692,6 @@
   },
   {
     "brand": "XS Wings",
-    "model": "XS Wing Metallic Vanes Medium Stiffness -40mm-Red RH",
-    "category": "vane",
-    "grains": 6.0,
-    "fits": null,
-    "verified": false,
-    "url": "https://lancasterarchery.com/products/xs-wing-metallic-vanes-medium-stiffness-40mm-red-rh"
-  },
-  {
-    "brand": "XS Wings",
-    "model": "XS Wing Metallic Vanes Medium Stiffness -40mm-Silver LH",
-    "category": "vane",
-    "grains": 6.0,
-    "fits": null,
-    "verified": false,
-    "url": "https://lancasterarchery.com/products/xs-wing-metallic-vanes-medium-stiffness-40mm-silver-lh"
-  },
-  {
-    "brand": "XS Wings",
     "model": "XS Wing Metallic Vanes Medium Stiffness -40mm-Silver RH",
     "category": "vane",
     "grains": 6.0,
@@ -11755,30 +11737,12 @@
   },
   {
     "brand": "XS Wings",
-    "model": "XS Wing Metallic Vanes Medium Stiffness -50mm High-Blue LH",
-    "category": "vane",
-    "grains": 6.0,
-    "fits": null,
-    "verified": false,
-    "url": "https://lancasterarchery.com/products/xs-wing-metallic-vanes-medium-stiffness-50mm-high-blue-lh"
-  },
-  {
-    "brand": "XS Wings",
     "model": "XS Wing Metallic Vanes Medium Stiffness -50mm High-Gold LH",
     "category": "vane",
     "grains": 6.0,
     "fits": null,
     "verified": false,
     "url": "https://lancasterarchery.com/products/xs-wing-metallic-vanes-medium-stiffness-50mm-high-gold-lh"
-  },
-  {
-    "brand": "XS Wings",
-    "model": "XS Wing Metallic Vanes Medium Stiffness -50mm High-Gold RH",
-    "category": "vane",
-    "grains": 6.0,
-    "fits": null,
-    "verified": false,
-    "url": "https://lancasterarchery.com/products/xs-wing-metallic-vanes-medium-stiffness-50mm-high-gold-rh"
   },
   {
     "brand": "XS Wings",
@@ -11845,24 +11809,6 @@
   },
   {
     "brand": "XS Wings",
-    "model": "XS Wing Metallic Vanes Medium Stiffness -50mm High-Silver LH",
-    "category": "vane",
-    "grains": 6.0,
-    "fits": null,
-    "verified": false,
-    "url": "https://lancasterarchery.com/products/xs-wing-metallic-vanes-medium-stiffness-50mm-high-silver-lh"
-  },
-  {
-    "brand": "XS Wings",
-    "model": "XS Wing Metallic Vanes Medium Stiffness -50mm High-Silver RH",
-    "category": "vane",
-    "grains": 6.0,
-    "fits": null,
-    "verified": false,
-    "url": "https://lancasterarchery.com/products/xs-wing-metallic-vanes-medium-stiffness-50mm-high-silver-rh"
-  },
-  {
-    "brand": "XS Wings",
     "model": "XS Wing Metallic Vanes Medium Stiffness -50mm High-Silver/Purple LH",
     "category": "vane",
     "grains": 6.0,
@@ -11896,24 +11842,6 @@
     "fits": null,
     "verified": false,
     "url": "https://lancasterarchery.com/products/xs-wing-metallic-vanes-medium-stiffness-50mm-high-teal-rh"
-  },
-  {
-    "brand": "XS Wings",
-    "model": "XS Wing Metallic Vanes Medium Stiffness -50mm-Gold LH",
-    "category": "vane",
-    "grains": 6.0,
-    "fits": null,
-    "verified": false,
-    "url": "https://lancasterarchery.com/products/xs-wing-metallic-vanes-medium-stiffness-50mm-gold-lh"
-  },
-  {
-    "brand": "XS Wings",
-    "model": "XS Wing Metallic Vanes Medium Stiffness -50mm-Gold RH",
-    "category": "vane",
-    "grains": 6.0,
-    "fits": null,
-    "verified": false,
-    "url": "https://lancasterarchery.com/products/xs-wing-metallic-vanes-medium-stiffness-50mm-gold-rh"
   },
   {
     "brand": "XS Wings",
@@ -11980,24 +11908,6 @@
   },
   {
     "brand": "XS Wings",
-    "model": "XS Wing Metallic Vanes Medium Stiffness -50mm-Red RH",
-    "category": "vane",
-    "grains": 6.0,
-    "fits": null,
-    "verified": false,
-    "url": "https://lancasterarchery.com/products/xs-wing-metallic-vanes-medium-stiffness-50mm-red-rh"
-  },
-  {
-    "brand": "XS Wings",
-    "model": "XS Wing Metallic Vanes Medium Stiffness -50mm-Silver LH",
-    "category": "vane",
-    "grains": 6.0,
-    "fits": null,
-    "verified": false,
-    "url": "https://lancasterarchery.com/products/xs-wing-metallic-vanes-medium-stiffness-50mm-silver-lh"
-  },
-  {
-    "brand": "XS Wings",
     "model": "XS Wing Metallic Vanes Medium Stiffness -50mm-Silver RH",
     "category": "vane",
     "grains": 6.0,
@@ -12043,30 +11953,12 @@
   },
   {
     "brand": "XS Wings",
-    "model": "XS Wing Metallic Vanes Medium Stiffness -60mm High-Blue LH",
-    "category": "vane",
-    "grains": 6.0,
-    "fits": null,
-    "verified": false,
-    "url": "https://lancasterarchery.com/products/xs-wing-metallic-vanes-medium-stiffness-60mm-high-blue-lh"
-  },
-  {
-    "brand": "XS Wings",
     "model": "XS Wing Metallic Vanes Medium Stiffness -60mm High-Gold LH",
     "category": "vane",
     "grains": 6.0,
     "fits": null,
     "verified": false,
     "url": "https://lancasterarchery.com/products/xs-wing-metallic-vanes-medium-stiffness-60mm-high-gold-lh"
-  },
-  {
-    "brand": "XS Wings",
-    "model": "XS Wing Metallic Vanes Medium Stiffness -60mm High-Gold RH",
-    "category": "vane",
-    "grains": 6.0,
-    "fits": null,
-    "verified": false,
-    "url": "https://lancasterarchery.com/products/xs-wing-metallic-vanes-medium-stiffness-60mm-high-gold-rh"
   },
   {
     "brand": "XS Wings",
@@ -12133,15 +12025,6 @@
   },
   {
     "brand": "XS Wings",
-    "model": "XS Wing Metallic Vanes Medium Stiffness -60mm High-Silver LH",
-    "category": "vane",
-    "grains": 6.0,
-    "fits": null,
-    "verified": false,
-    "url": "https://lancasterarchery.com/products/xs-wing-metallic-vanes-medium-stiffness-60mm-high-silver-lh"
-  },
-  {
-    "brand": "XS Wings",
     "model": "XS Wing Metallic Vanes Medium Stiffness -60mm High-Silver RH",
     "category": "vane",
     "grains": 6.0,
@@ -12184,24 +12067,6 @@
     "fits": null,
     "verified": false,
     "url": "https://lancasterarchery.com/products/xs-wing-metallic-vanes-medium-stiffness-60mm-high-teal-rh"
-  },
-  {
-    "brand": "XS Wings",
-    "model": "XS Wing Metallic Vanes Medium Stiffness -60mm Low-Gold LH",
-    "category": "vane",
-    "grains": 6.0,
-    "fits": null,
-    "verified": false,
-    "url": "https://lancasterarchery.com/products/xs-wing-metallic-vanes-medium-stiffness-60mm-low-gold-lh"
-  },
-  {
-    "brand": "XS Wings",
-    "model": "XS Wing Metallic Vanes Medium Stiffness -60mm Low-Gold RH",
-    "category": "vane",
-    "grains": 6.0,
-    "fits": null,
-    "verified": false,
-    "url": "https://lancasterarchery.com/products/xs-wing-metallic-vanes-medium-stiffness-60mm-low-gold-rh"
   },
   {
     "brand": "XS Wings",
@@ -12259,24 +12124,6 @@
   },
   {
     "brand": "XS Wings",
-    "model": "XS Wing Metallic Vanes Medium Stiffness -60mm Low-Red RH",
-    "category": "vane",
-    "grains": 6.0,
-    "fits": null,
-    "verified": false,
-    "url": "https://lancasterarchery.com/products/xs-wing-metallic-vanes-medium-stiffness-60mm-low-red-rh"
-  },
-  {
-    "brand": "XS Wings",
-    "model": "XS Wing Metallic Vanes Medium Stiffness -60mm Low-Silver LH",
-    "category": "vane",
-    "grains": 6.0,
-    "fits": null,
-    "verified": false,
-    "url": "https://lancasterarchery.com/products/xs-wing-metallic-vanes-medium-stiffness-60mm-low-silver-lh"
-  },
-  {
-    "brand": "XS Wings",
     "model": "XS Wing Metallic Vanes Medium Stiffness -60mm Low-Silver RH",
     "category": "vane",
     "grains": 6.0,
@@ -12322,30 +12169,12 @@
   },
   {
     "brand": "XS Wings",
-    "model": "XS Wing Metallic Vanes Medium Stiffness -70mm-Blue LH",
-    "category": "vane",
-    "grains": 6.0,
-    "fits": null,
-    "verified": false,
-    "url": "https://lancasterarchery.com/products/xs-wing-metallic-vanes-medium-stiffness-70mm-blue-lh"
-  },
-  {
-    "brand": "XS Wings",
     "model": "XS Wing Metallic Vanes Medium Stiffness -70mm-Gold LH",
     "category": "vane",
     "grains": 6.0,
     "fits": null,
     "verified": false,
     "url": "https://lancasterarchery.com/products/xs-wing-metallic-vanes-medium-stiffness-70mm-gold-lh"
-  },
-  {
-    "brand": "XS Wings",
-    "model": "XS Wing Metallic Vanes Medium Stiffness -70mm-Gold RH",
-    "category": "vane",
-    "grains": 6.0,
-    "fits": null,
-    "verified": false,
-    "url": "https://lancasterarchery.com/products/xs-wing-metallic-vanes-medium-stiffness-70mm-gold-rh"
   },
   {
     "brand": "XS Wings",
@@ -12409,24 +12238,6 @@
     "fits": null,
     "verified": false,
     "url": "https://lancasterarchery.com/products/xs-wing-metallic-vanes-medium-stiffness-70mm-red-rh"
-  },
-  {
-    "brand": "XS Wings",
-    "model": "XS Wing Metallic Vanes Medium Stiffness -70mm-Silver LH",
-    "category": "vane",
-    "grains": 6.0,
-    "fits": null,
-    "verified": false,
-    "url": "https://lancasterarchery.com/products/xs-wing-metallic-vanes-medium-stiffness-70mm-silver-lh"
-  },
-  {
-    "brand": "XS Wings",
-    "model": "XS Wing Metallic Vanes Medium Stiffness -70mm-Silver RH",
-    "category": "vane",
-    "grains": 6.0,
-    "fits": null,
-    "verified": false,
-    "url": "https://lancasterarchery.com/products/xs-wing-metallic-vanes-medium-stiffness-70mm-silver-rh"
   },
   {
     "brand": "XS Wings",
