@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T03:50:09.162753Z",
+  "updatedAt": "2026-10-25T03:50:11.530819Z",
   "bows": {
     "hoyt_2026_carbon_rx_10": {
       "system": "hoyt_xts",
@@ -486,7 +486,9 @@
     },
     "elite_2025_exalt": {
       "system": "elite_set",
-      "source": "rule"
+      "source": "listing",
+      "evidence": "s.e.t.",
+      "checkedAt": "2026-10-25T03:50:11.530819Z"
     },
     "elite_2024_ethos": {
       "system": "elite_set",
