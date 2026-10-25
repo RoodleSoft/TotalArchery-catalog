@@ -863,8 +863,8 @@
     "name": "Big Woods Archery Academy",
     "address": "350 Ronnel Road, Canton, Georgia, United States of America, 30115",
     "phone": "(678) 880-0493",
-    "email": "Archery@bigwoodsgoods.com",
-    "website": "http://www.bigwoodsgoods.com/index.php/archery-classes",
+    "email": "ROY@BIGWOODSGOODS.COM",
+    "website": "http://www.bigwoodsgoods.com",
     "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program, 3D Archery",
     "reviewStatus": "approved",
     "externalRef": "usarchery:big woods archery academy|350 ronnel road canton georgia united states of america 30115"
@@ -905,7 +905,7 @@
     "phone": "",
     "email": "blackmountainbowmen@gmail.com",
     "website": "",
-    "programs": "",
+    "programs": "indoor range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:black mountain bowmen|black mountain bowmen bmb avenida espana san jose california 95139"
   },
@@ -915,7 +915,7 @@
     "phone": "",
     "email": "",
     "website": "",
-    "programs": "",
+    "programs": "3d range, outdoor range, outdoor field range, 3d range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:black sheep bowmen|po box 6075 jber alaska 99506"
   },
@@ -2700,6 +2700,16 @@
     "externalRef": "usarchery:flint river archery club|501 jefferson street indoor range located downstairs of 501 jefferson st entrance to range located on n 5th st burlington iowa united states of america 52601"
   },
   {
+    "name": "Florida Poly Archery",
+    "address": "4700 research way, lakeland, Florida, United States of America, 33805",
+    "phone": "+18638744774",
+    "email": "archery@floridapoly.edu",
+    "website": "https://floridapoly.edu/studentlife/athletics-recreation/",
+    "programs": "",
+    "reviewStatus": "approved",
+    "externalRef": "usarchery:florida poly archery|4700 research way lakeland florida united states of america 33805"
+  },
+  {
     "name": "Flying Arrows JOAD",
     "address": "965 Miamisburg Centerville Rd, Washington Township, Ohio, United States of America, 45459",
     "phone": "+19374090751",
@@ -2960,6 +2970,16 @@
     "externalRef": "nfaa:gold coast archers club inc|10875 w atlantic ave delray beach florida 33436"
   },
   {
+    "name": "Gold-N-Grain Archery",
+    "address": "75 McCullough Rd, Sharpsville, Pennsylvania, United States of America, 16150",
+    "phone": "724-962-3620",
+    "email": "goldngrain@hotmail.com",
+    "website": "http://www.goldngrain.com",
+    "programs": "Junior Olympic Archery Development (JOAD), 3D Archery",
+    "reviewStatus": "approved",
+    "externalRef": "usarchery:gold n grain archery|75 mccullough rd sharpsville pennsylvania united states of america 16150"
+  },
+  {
     "name": "Golden Archers Academy JOAD",
     "address": "15130 Marsh Lane #1076, Addison, Texas, United States of America, 75001",
     "phone": "+1 580-335-4509",
@@ -3128,6 +3148,16 @@
     "programs": "3d range, indoor range, 3d range, outdoor range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:grays harbor bowman|902 st rt 105 aberdeen washington 98520"
+  },
+  {
+    "name": "Great Falls Council Range and Target Sports",
+    "address": "58 Boll Street, Sloan, New York, United States of America, 14212",
+    "phone": "+17164653228",
+    "email": "ecoed96@gmail.com",
+    "website": "",
+    "programs": "",
+    "reviewStatus": "approved",
+    "externalRef": "usarchery:great falls council range and target sports|58 boll street sloan new york united states of america 14212"
   },
   {
     "name": "Grit City Archery",
@@ -4390,16 +4420,6 @@
     "externalRef": "usarchery:lower providence rod and gun club|2857 egypt road po box 7070 audubon pennsylvania united states of america 19407"
   },
   {
-    "name": "Lumberport Archery",
-    "address": "2nd St, Lumber Port, West Virginia, 26386",
-    "phone": "",
-    "email": "",
-    "website": "",
-    "programs": "indoor range, outdoor field range",
-    "reviewStatus": "approved",
-    "externalRef": "nfaa:lumberport archery|2nd st lumber port west virginia 26386"
-  },
-  {
     "name": "Lunenburg Sportsmans Club",
     "address": "250 Reservoir Rd, LUNENBURG, Massachusetts, 01462-",
     "phone": "+19785970852",
@@ -4650,6 +4670,16 @@
     "externalRef": "usarchery:middletown jr olympians|middletown archery 127 barren rd media pennsylvania united states of america 19063"
   },
   {
+    "name": "Midlands Archery Center",
+    "address": "376 Ebenezer Rd., Leesville, South Carolina, United States of America, 29070",
+    "phone": "+1 803-807-8740",
+    "email": "coachindy@hotmail.com",
+    "website": "http://www.midlandsarcherycenter.com",
+    "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program, 3D Archery",
+    "reviewStatus": "approved",
+    "externalRef": "usarchery:midlands archery center|376 ebenezer rd leesville south carolina united states of america 29070"
+  },
+  {
     "name": "Midlands Archery Center - Dogwood Point Archery Range",
     "address": "366 Ebenezer Rd, Leesville, South Carolina, 29070",
     "phone": "+18038078739",
@@ -4818,6 +4848,16 @@
     "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program, 3D Archery, Field Archery, Olympic Archery in the Schools",
     "reviewStatus": "approved",
     "externalRef": "usarchery:music city archers|1113 murfreesboro rd suite 205 franklin tennessee united states of america 37064"
+  },
+  {
+    "name": "Muskegon Bowman",
+    "address": "2380 Central Road, Muskegon, Michigan, United States of America, 49445",
+    "phone": "6168900841",
+    "email": "jaschultes@yahoo.com",
+    "website": "http://Muskegonbowmwn.com",
+    "programs": "",
+    "reviewStatus": "approved",
+    "externalRef": "usarchery:muskegon bowman|2380 central road muskegon michigan united states of america 49445"
   },
   {
     "name": "Muskegon Bowmen Inc",
@@ -5825,7 +5865,7 @@
     "phone": "",
     "email": "pinehillarchery@gmail.com",
     "website": "",
-    "programs": "",
+    "programs": "outdoor field range, indoor range, outdoor range, 3d range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:pine hill archery club|167 cartersburg rd danville indiana 46122"
   },
@@ -6198,6 +6238,16 @@
     "programs": "outdoor field range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:red rock bowmen|southern utah shooting sports park 1066 s shotgun dr washington ut 84780 hurricane utah 84780"
+  },
+  {
+    "name": "Red Tailed Hawk",
+    "address": "596 Hooksett Rd, Auburn, New Hampshire, United States of America, 03032",
+    "phone": "603-205-6679",
+    "email": "taewonjin@phoenixbc.com",
+    "website": "",
+    "programs": "3D Archery, Field Archery",
+    "reviewStatus": "approved",
+    "externalRef": "usarchery:red tailed hawk|596 hooksett rd auburn new hampshire united states of america 03032"
   },
   {
     "name": "Redwood Bowmen Association Inc",
@@ -7720,6 +7770,16 @@
     "externalRef": "usarchery:thomas more university archery|333 thomas more parkway crestview hills kentucky united states of america 41015"
   },
   {
+    "name": "Thomas Township Archery",
+    "address": "249 North Miller, Saginaw, Michigan, United States of America, 48609",
+    "phone": "989-781-0150",
+    "email": "park1@thomastwp.org",
+    "website": "http://www.thomastwp.org",
+    "programs": "",
+    "reviewStatus": "approved",
+    "externalRef": "usarchery:thomas township archery|249 north miller saginaw michigan united states of america 48609"
+  },
+  {
     "name": "Thorny Acres Sportsmans Club",
     "address": "9550 E. French Road, PO Box 226, ELSIE, Michigan, 48831-0226",
     "phone": "+19898625717",
@@ -8490,6 +8550,16 @@
     "externalRef": "usarchery:way of the sword archery|21 governor street ridgefield connecticut united states of america 06877"
   },
   {
+    "name": "Wellesley College - Archery",
+    "address": "21 Wellesley College Rd, Wellesley, Massachusetts, United States of America, 02481",
+    "phone": "+13479772654",
+    "email": "wellesley_archery@wellesley.edu",
+    "website": "",
+    "programs": "",
+    "reviewStatus": "approved",
+    "externalRef": "usarchery:wellesley college archery|21 wellesley college rd wellesley massachusetts united states of america 02481"
+  },
+  {
     "name": "West Allis Bowmen Inc",
     "address": "11601 CTY HWY G, Franksville, Wisconsin, 53216",
     "phone": "",
@@ -8538,16 +8608,6 @@
     "programs": "indoor range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:west michigan archery center|3500 ten mile rd rockford michigan 49341"
-  },
-  {
-    "name": "West Penn Archery Club",
-    "address": "147 Archery Club Rd, New Ringgold, Pennsylvania, 17960",
-    "phone": "",
-    "email": "westpennarcheryclub@gmail.com",
-    "website": "",
-    "programs": "indoor range",
-    "reviewStatus": "approved",
-    "externalRef": "nfaa:west penn archery club|147 archery club rd new ringgold pennsylvania 17960"
   },
   {
     "name": "West Valley Bowhunters",
@@ -8818,6 +8878,16 @@
     "programs": "indoor range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:wyandot bowmen|po box 303 new manchester west virginia 26056 0303"
+  },
+  {
+    "name": "Wylie Karate Archery Club",
+    "address": "PO Box 2244, Wylie, Texas, United States of America, 75098",
+    "phone": "214-293-8057",
+    "email": "dennis@wyliekarate.com",
+    "website": "http://www.wyliekarate.com",
+    "programs": "Field Archery",
+    "reviewStatus": "approved",
+    "externalRef": "usarchery:wylie karate archery club|po box 2244 wylie texas united states of america 75098"
   },
   {
     "name": "X-Spot Archery",
