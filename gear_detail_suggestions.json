@@ -1,15 +1,7 @@
 {
- "updatedAt": "2026-10-18T04:45:53Z",
+ "updatedAt": "2026-10-25T04:45:32Z",
  "note": "Suggestions from retailer feeds: unconfirmed. The admin assistant checks each on its source page before applying.",
  "suggestions": {
-  "bows:Hoyt|Carbon RX-10": {
-   "fields": {
-    "msrpUsd": 2049.0
-   },
-   "source": "https://lancasterarchery.com/products/hoyt-carbon-rx-10-compound-hunting-bow",
-   "retailer": "lancasterarchery.com",
-   "title": "Hoyt Carbon RX-10 Compound Hunting Bow"
-  },
   "bows:Hoyt|Carbon RX-10 Ultra": {
    "fields": {
     "msrpUsd": 2099.0
@@ -17,46 +9,6 @@
    "source": "https://lancasterarchery.com/products/hoyt-carbon-rx-10-ultra-compound-hunting-bow",
    "retailer": "lancasterarchery.com",
    "title": "Hoyt Carbon RX-10 Ultra Compound Hunting Bow"
-  },
-  "bows:Hoyt|Alpha AX-3 29": {
-   "fields": {
-    "msrpUsd": 1399.0
-   },
-   "source": "https://archerycountry.com/products/hoyt-alpha-ax-3-29",
-   "retailer": "archerycountry.com",
-   "title": "Hoyt Alpha AX-3  29"
-  },
-  "bows:Hoyt|Alpha AX-3 33": {
-   "fields": {
-    "msrpUsd": 1499.0
-   },
-   "source": "https://archerycountry.com/products/hoyt-alpha-ax-3-33",
-   "retailer": "archerycountry.com",
-   "title": "Hoyt Alpha AX-3 33"
-  },
-  "bows:Hoyt|Enduro": {
-   "fields": {
-    "msrpUsd": 749.99
-   },
-   "source": "https://archerycountry.com/products/hoyt-enduro-bow",
-   "retailer": "archerycountry.com",
-   "title": "Hoyt Enduro Bow"
-  },
-  "bows:Hoyt|Carbon RX-9": {
-   "fields": {
-    "msrpUsd": 1749.0
-   },
-   "source": "https://lancasterarchery.com/products/hoyt-carbon-rx-9-compound-hunting-bow",
-   "retailer": "lancasterarchery.com",
-   "title": "Hoyt Carbon RX-9 Compound Hunting Bow"
-  },
-  "bows:Hoyt|Carbon RX-9 SD": {
-   "fields": {
-    "msrpUsd": 1999.0
-   },
-   "source": "https://lancasterarchery.com/products/hoyt-carbon-rx-9-sd-compound-hunting-bow",
-   "retailer": "lancasterarchery.com",
-   "title": "Hoyt Carbon RX-9 SD Compound Hunting Bow"
   },
   "bows:Hoyt|Alpha AX-2 29": {
    "fields": {
@@ -74,22 +26,6 @@
    "retailer": "lancasterarchery.com",
    "title": "Hoyt Alpha AX-2 32 Compound Hunting Bow"
   },
-  "bows:Hoyt|Carbon RX-8": {
-   "fields": {
-    "msrpUsd": 1949.0
-   },
-   "source": "https://lancasterarchery.com/products/hoyt-carbon-rx-8-camo-color-compound-hunting-bow",
-   "retailer": "lancasterarchery.com",
-   "title": "Hoyt Carbon RX-8 Compound Hunting Bow"
-  },
-  "bows:Hoyt|Carbon RX-8 Ultra": {
-   "fields": {
-    "msrpUsd": 1799.0
-   },
-   "source": "https://lancasterarchery.com/products/hoyt-carbon-rx-8-ultra-camo-color-compound-hunting-bow",
-   "retailer": "lancasterarchery.com",
-   "title": "Hoyt Carbon RX-8 Ultra Compound Hunting Bow"
-  },
   "bows:Hoyt|Alpha X 30": {
    "fields": {
     "msrpUsd": 1349.0
@@ -106,86 +42,6 @@
    "retailer": "lancasterarchery.com",
    "title": "Hoyt Alpha X 33 Compound Hunting Bow"
   },
-  "bows:Hoyt|Torrex XT": {
-   "fields": {
-    "msrpUsd": 999.0
-   },
-   "source": "https://lancasterarchery.com/products/2020-hoyt-torrex-xt-compound-bow",
-   "retailer": "lancasterarchery.com",
-   "title": "Hoyt Torrex XT Compound Bow"
-  },
-  "bows:Mathews|Atlas": {
-   "fields": {
-    "msrpUsd": 1249.0
-   },
-   "source": "https://lancasterarchery.com/products/2021-mathews-atlas-compound-hunting-bow",
-   "retailer": "lancasterarchery.com",
-   "title": "Mathews Atlas Compound Hunting Bow"
-  },
-  "bows:Mathews|ARC 30": {
-   "fields": {
-    "msrpUsd": 1459.99
-   },
-   "source": "https://archerycountry.com/products/mathews-arc-30",
-   "retailer": "archerycountry.com",
-   "title": "Mathews Arc 30"
-  },
-  "bows:Mathews|ARC 34": {
-   "fields": {
-    "msrpUsd": 1569.99
-   },
-   "source": "https://archerycountry.com/products/mathews-arc-34",
-   "retailer": "archerycountry.com",
-   "title": "Mathews Arc 34"
-  },
-  "bows:Mathews|LIFT RS": {
-   "fields": {
-    "msrpUsd": 1359.0
-   },
-   "source": "https://archerycountry.com/products/mathews-lift-rs",
-   "retailer": "archerycountry.com",
-   "title": "Mathews Lift RS"
-  },
-  "bows:Mathews|LIFT XD": {
-   "fields": {
-    "msrpUsd": 1369.0
-   },
-   "source": "https://lancasterarchery.com/products/mathews-lift-xd-compound-hunting-bow",
-   "retailer": "lancasterarchery.com",
-   "title": "Mathews LIFT XD Compound Hunting Bow"
-  },
-  "bows:Mathews|Lift X 29.5": {
-   "fields": {
-    "msrpUsd": 1259.0
-   },
-   "source": "https://lancasterarchery.com/products/mathews-lift-x-29-5-compound-hunting-bow",
-   "retailer": "lancasterarchery.com",
-   "title": "Mathews LIFT X 29.5 Compound Hunting Bow"
-  },
-  "bows:Mathews|Lift X 33": {
-   "fields": {
-    "msrpUsd": 1369.0
-   },
-   "source": "https://lancasterarchery.com/products/mathews-lift-x-33-compound-hunting-bow",
-   "retailer": "lancasterarchery.com",
-   "title": "Mathews LIFT X 33 Compound Hunting Bow"
-  },
-  "bows:Mathews|Image": {
-   "fields": {
-    "msrpUsd": 1199.0
-   },
-   "source": "https://lancasterarchery.com/products/2023-mathews-image-compound-hunting-bow",
-   "retailer": "lancasterarchery.com",
-   "title": "Mathews Image Compound Hunting Bow"
-  },
-  "bows:Mathews|Title 36": {
-   "fields": {
-    "msrpUsd": 2199.0
-   },
-   "source": "https://lancasterarchery.com/products/mathews-title-36-compound-target-bow",
-   "retailer": "lancasterarchery.com",
-   "title": "Mathews TITLE 36 Compound Target Bow"
-  },
   "bows:Mathews|Title 38": {
    "fields": {
     "msrpUsd": 2199.0
@@ -193,38 +49,6 @@
    "source": "https://lancasterarchery.com/products/mathews-title-38-compound-target-bow",
    "retailer": "lancasterarchery.com",
    "title": "Mathews TITLE 38 Compound Target Bow"
-  },
-  "bows:PSE|Decree FDS": {
-   "fields": {
-    "msrpUsd": 1299.0
-   },
-   "source": "https://lancasterarchery.com/products/pse-decree-fds-compound-hunting-bow",
-   "retailer": "lancasterarchery.com",
-   "title": "PSE Decree FDS Compound Hunting Bow"
-  },
-  "bows:PSE|Mach 35 DS Carbon": {
-   "fields": {
-    "msrpUsd": 1999.0
-   },
-   "source": "https://lancasterarchery.com/products/pse-mach-35-ds-carbon-compound-hunting-bow",
-   "retailer": "lancasterarchery.com",
-   "title": "PSE Mach 35 DS Carbon Compound Hunting Bow"
-  },
-  "bows:PSE|Mach 33 DS": {
-   "fields": {
-    "msrpUsd": 1899.0
-   },
-   "source": "https://lancasterarchery.com/products/pse-mach-33-ds-carbon-compound-hunting-bow",
-   "retailer": "lancasterarchery.com",
-   "title": "PSE Mach 33 DS Carbon Compound Hunting Bow"
-  },
-  "bows:PSE|Mach 30 DS": {
-   "fields": {
-    "msrpUsd": 1549.0
-   },
-   "source": "https://lancasterarchery.com/products/pse-mach-30-ds-compound-hunting-bow",
-   "retailer": "lancasterarchery.com",
-   "title": "PSE Mach 30 DS Compound Hunting Bow"
   },
   "bows:PSE|Evolve DS 33": {
    "fields": {
@@ -242,46 +66,6 @@
    "retailer": "lancasterarchery.com",
    "title": "PSE Evolve DS 30 Compound Hunting Bow"
   },
-  "bows:PSE|Drive NXT": {
-   "fields": {
-    "msrpUsd": 799.0
-   },
-   "source": "https://lancasterarchery.com/products/2021-pse-drive-nxt-compound-hunting-bow",
-   "retailer": "lancasterarchery.com",
-   "title": "PSE Drive NXT Compound Hunting Bow"
-  },
-  "bows:PSE|Levitate": {
-   "fields": {
-    "msrpUsd": 1899.0
-   },
-   "source": "https://lancasterarchery.com/products/pse-nock-on-carbon-levitate-compound-hunting-bow-v1",
-   "retailer": "lancasterarchery.com",
-   "title": "PSE Nock On Carbon Levitate Compound Hunting Bow"
-  },
-  "bows:PSE|Stinger ATK": {
-   "fields": {
-    "msrpUsd": 449.0
-   },
-   "source": "https://lancasterarchery.com/products/pse-stinger-atk-compound-bow-ss-cam",
-   "retailer": "lancasterarchery.com",
-   "title": "PSE Stinger ATK Compound Bow (SS Cam)"
-  },
-  "bows:PSE|Nock On Carbon Levitate": {
-   "fields": {
-    "msrpUsd": 1899.0
-   },
-   "source": "https://lancasterarchery.com/products/pse-nock-on-carbon-levitate-compound-hunting-bow-v1",
-   "retailer": "lancasterarchery.com",
-   "title": "PSE Nock On Carbon Levitate Compound Hunting Bow"
-  },
-  "bows:Bowtech|Alliance 33": {
-   "fields": {
-    "msrpUsd": 1399.99
-   },
-   "source": "https://archerycountry.com/products/bowtech-alliance-33",
-   "retailer": "archerycountry.com",
-   "title": "Bowtech Alliance 33"
-  },
   "bows:Bowtech|Amplify": {
    "fields": {
     "msrpUsd": 599.0
@@ -297,46 +81,6 @@
    "source": "https://lancasterarchery.com/products/bowtech-carbon-one-compound-hunting-bow",
    "retailer": "lancasterarchery.com",
    "title": "Bowtech Carbon One Compound Hunting Bow"
-  },
-  "bows:Elite|Varos": {
-   "fields": {
-    "msrpUsd": 1399.99
-   },
-   "source": "https://archerycountry.com/products/elite-varos",
-   "retailer": "archerycountry.com",
-   "title": "Elite Varos"
-  },
-  "bows:Elite|Carbon AXYS": {
-   "fields": {
-    "massWeightOz": 68.8
-   },
-   "source": "https://lancasterarchery.com/products/elite-axys-carbon-compound-hunting-bow",
-   "retailer": "lancasterarchery.com",
-   "title": "Elite Axys Carbon Compound Hunting Bow"
-  },
-  "bows:Elite|Emerse": {
-   "fields": {
-    "msrpUsd": 649.99
-   },
-   "source": "https://lancasterarchery.com/products/elite-emerse-compound-hunting-bow",
-   "retailer": "lancasterarchery.com",
-   "title": "Elite Emerse Compound Hunting Bow"
-  },
-  "bows:Elite|Artus": {
-   "fields": {
-    "msrpUsd": 1299.99
-   },
-   "source": "https://lancasterarchery.com/products/elite-artus-compound-hunting-bow",
-   "retailer": "lancasterarchery.com",
-   "title": "Elite Artus Compound Hunting Bow"
-  },
-  "bows:Elite|Allure": {
-   "fields": {
-    "msrpUsd": 1249.99
-   },
-   "source": "https://archerycountry.com/products/elite-allure",
-   "retailer": "archerycountry.com",
-   "title": "Elite Allure"
   },
   "bows:Elite|Rezult 36": {
    "fields": {
@@ -362,38 +106,6 @@
    "retailer": "lancasterarchery.com",
    "title": "Prime Divide 33 Compound Hunting Bow"
   },
-  "bows:Prime|Divide 35": {
-   "fields": {
-    "msrpUsd": 1645.0
-   },
-   "source": "https://lancasterarchery.com/products/prime-divide-35-compound-hunting-bow",
-   "retailer": "lancasterarchery.com",
-   "title": "Prime Divide 35 Compound Hunting Bow"
-  },
-  "bows:Prime|Divide 37": {
-   "fields": {
-    "msrpUsd": 1695.0
-   },
-   "source": "https://lancasterarchery.com/products/prime-divide-37-compound-hunting-bow",
-   "retailer": "lancasterarchery.com",
-   "title": "Prime Divide 37 Compound Hunting Bow"
-  },
-  "bows:Prime|Form 30": {
-   "fields": {
-    "msrpUsd": 1595.0
-   },
-   "source": "https://lancasterarchery.com/products/prime-form-30-compound-hunting-bow",
-   "retailer": "lancasterarchery.com",
-   "title": "Prime Form 30 Compound Hunting Bow"
-  },
-  "bows:Prime|RVX 32": {
-   "fields": {
-    "msrpUsd": 1295.0
-   },
-   "source": "https://lancasterarchery.com/products/prime-rvx-32-compound-hunting-bow",
-   "retailer": "lancasterarchery.com",
-   "title": "Prime RVX+ 32 Compound Hunting Bow"
-  },
   "bows:Prime|RVX 34": {
    "fields": {
     "msrpUsd": 1295.0
@@ -410,22 +122,6 @@
    "retailer": "lancasterarchery.com",
    "title": "Bear Redeem Compound Hunting Bow"
   },
-  "bows:Bear|Royale": {
-   "fields": {
-    "msrpUsd": 359.99
-   },
-   "source": "https://lancasterarchery.com/products/2020-bear-royale-compound-bow-with-rth-package",
-   "retailer": "lancasterarchery.com",
-   "title": "Bear Royale RTH Compound Bow"
-  },
-  "bows:Darton|TriTech 33": {
-   "fields": {
-    "msrpUsd": 1349.99
-   },
-   "source": "https://lancasterarchery.com/products/darton-tritech-33-compound-hunting-bow",
-   "retailer": "lancasterarchery.com",
-   "title": "Darton TRITECH 33 Compound Hunting Bow"
-  },
   "bows:Darton|Departure": {
    "fields": {
     "msrpUsd": 1399.99
@@ -434,23 +130,6 @@
    "retailer": "lancasterarchery.com",
    "title": "Darton Departure Pro Compound Target Bow"
   },
-  "bows:Xpedition|NexLite 30": {
-   "fields": {
-    "msrpUsd": 1499.99
-   },
-   "source": "https://lancasterarchery.com/products/xpedition-nexlite-30-compound-hunting-bow",
-   "retailer": "lancasterarchery.com",
-   "title": "Xpedition NexLite 30 Compound Hunting Bow"
-  },
-  "bows:Xpedition|NexLite 33": {
-   "fields": {
-    "massWeightOz": 60.0,
-    "msrpUsd": 1599.99
-   },
-   "source": "https://lancasterarchery.com/products/xpedition-nexlite-33-compound-hunting-bow",
-   "retailer": "lancasterarchery.com",
-   "title": "Xpedition NexLite 33 Compound Hunting Bow"
-  },
   "bows:Diamond|Edge XT": {
    "fields": {
     "msrpUsd": 419.0
@@ -458,23 +137,6 @@
    "source": "https://archerycountry.com/products/diamond-edge-xt",
    "retailer": "archerycountry.com",
    "title": "Diamond Edge XT"
-  },
-  "bows:Diamond|Edge Max": {
-   "fields": {
-    "msrpUsd": 489.0
-   },
-   "source": "https://lancasterarchery.com/products/diamond-edge-max-compound-bow",
-   "retailer": "lancasterarchery.com",
-   "title": "Diamond Edge Max Compound Bow"
-  },
-  "bows:Mission|Range": {
-   "fields": {
-    "massWeightOz": 65.0,
-    "msrpUsd": 699.99
-   },
-   "source": "https://archerycountry.com/products/mission-range",
-   "retailer": "archerycountry.com",
-   "title": "Mission Range"
   },
   "bows:Mission|Switch": {
    "fields": {
@@ -486,7 +148,6 @@
   },
   "bows:Mission|Hammr": {
    "fields": {
-    "massWeightOz": 54.4,
     "msrpUsd": 399.0
    },
    "source": "https://archerycountry.com/products/mission-hammr",
@@ -940,6 +601,344 @@
    "source": "https://lancasterarchery.com/products/b-50-dacron-recurve-bowstring-amo-bow-string-strd-lgth-14-black-50",
    "retailer": "lancasterarchery.com",
    "title": "B-55 Dacron Recurve BowString AMO Bow String Strd/Lgth-14-Blk-50"
+  },
+  "bows:Hoyt|Carbon RX-10": {
+   "fields": {
+    "msrpUsd": 2049.0
+   },
+   "source": "https://lancasterarchery.com/products/hoyt-carbon-rx-10-compound-hunting-bow",
+   "retailer": "lancasterarchery.com",
+   "title": "Hoyt Carbon RX-10 Compound Hunting Bow"
+  },
+  "bows:Hoyt|Alpha AX-3 29": {
+   "fields": {
+    "msrpUsd": 1399.0
+   },
+   "source": "https://archerycountry.com/products/hoyt-alpha-ax-3-29",
+   "retailer": "archerycountry.com",
+   "title": "Hoyt Alpha AX-3  29"
+  },
+  "bows:Hoyt|Alpha AX-3 33": {
+   "fields": {
+    "msrpUsd": 1499.0
+   },
+   "source": "https://archerycountry.com/products/hoyt-alpha-ax-3-33",
+   "retailer": "archerycountry.com",
+   "title": "Hoyt Alpha AX-3 33"
+  },
+  "bows:Hoyt|Enduro": {
+   "fields": {
+    "msrpUsd": 749.99
+   },
+   "source": "https://archerycountry.com/products/hoyt-enduro-bow",
+   "retailer": "archerycountry.com",
+   "title": "Hoyt Enduro Bow"
+  },
+  "bows:Hoyt|Carbon RX-9": {
+   "fields": {
+    "msrpUsd": 1749.0
+   },
+   "source": "https://lancasterarchery.com/products/hoyt-carbon-rx-9-compound-hunting-bow",
+   "retailer": "lancasterarchery.com",
+   "title": "Hoyt Carbon RX-9 Compound Hunting Bow"
+  },
+  "bows:Hoyt|Carbon RX-9 SD": {
+   "fields": {
+    "msrpUsd": 1999.0
+   },
+   "source": "https://lancasterarchery.com/products/hoyt-carbon-rx-9-sd-compound-hunting-bow",
+   "retailer": "lancasterarchery.com",
+   "title": "Hoyt Carbon RX-9 SD Compound Hunting Bow"
+  },
+  "bows:Hoyt|Carbon RX-8": {
+   "fields": {
+    "msrpUsd": 1949.0
+   },
+   "source": "https://lancasterarchery.com/products/hoyt-carbon-rx-8-camo-color-compound-hunting-bow",
+   "retailer": "lancasterarchery.com",
+   "title": "Hoyt Carbon RX-8 Compound Hunting Bow"
+  },
+  "bows:Hoyt|Carbon RX-8 Ultra": {
+   "fields": {
+    "msrpUsd": 1799.0
+   },
+   "source": "https://lancasterarchery.com/products/hoyt-carbon-rx-8-ultra-camo-color-compound-hunting-bow",
+   "retailer": "lancasterarchery.com",
+   "title": "Hoyt Carbon RX-8 Ultra Compound Hunting Bow"
+  },
+  "bows:Hoyt|Torrex XT": {
+   "fields": {
+    "msrpUsd": 999.0
+   },
+   "source": "https://lancasterarchery.com/products/2020-hoyt-torrex-xt-compound-bow",
+   "retailer": "lancasterarchery.com",
+   "title": "Hoyt Torrex XT Compound Bow"
+  },
+  "bows:Mathews|Atlas": {
+   "fields": {
+    "msrpUsd": 1249.0
+   },
+   "source": "https://lancasterarchery.com/products/2021-mathews-atlas-compound-hunting-bow",
+   "retailer": "lancasterarchery.com",
+   "title": "Mathews Atlas Compound Hunting Bow"
+  },
+  "bows:Mathews|ARC 30": {
+   "fields": {
+    "msrpUsd": 1459.99
+   },
+   "source": "https://archerycountry.com/products/mathews-arc-30",
+   "retailer": "archerycountry.com",
+   "title": "Mathews Arc 30"
+  },
+  "bows:Mathews|ARC 34": {
+   "fields": {
+    "msrpUsd": 1569.99
+   },
+   "source": "https://archerycountry.com/products/mathews-arc-34",
+   "retailer": "archerycountry.com",
+   "title": "Mathews Arc 34"
+  },
+  "bows:Mathews|LIFT RS": {
+   "fields": {
+    "msrpUsd": 1359.0
+   },
+   "source": "https://archerycountry.com/products/mathews-lift-rs",
+   "retailer": "archerycountry.com",
+   "title": "Mathews Lift RS"
+  },
+  "bows:Mathews|LIFT XD": {
+   "fields": {
+    "msrpUsd": 1369.0
+   },
+   "source": "https://lancasterarchery.com/products/mathews-lift-xd-compound-hunting-bow",
+   "retailer": "lancasterarchery.com",
+   "title": "Mathews LIFT XD Compound Hunting Bow"
+  },
+  "bows:Mathews|Lift X 29.5": {
+   "fields": {
+    "msrpUsd": 1259.0
+   },
+   "source": "https://lancasterarchery.com/products/mathews-lift-x-29-5-compound-hunting-bow",
+   "retailer": "lancasterarchery.com",
+   "title": "Mathews LIFT X 29.5 Compound Hunting Bow"
+  },
+  "bows:Mathews|Lift X 33": {
+   "fields": {
+    "msrpUsd": 1369.0
+   },
+   "source": "https://lancasterarchery.com/products/mathews-lift-x-33-compound-hunting-bow",
+   "retailer": "lancasterarchery.com",
+   "title": "Mathews LIFT X 33 Compound Hunting Bow"
+  },
+  "bows:Mathews|Image": {
+   "fields": {
+    "msrpUsd": 1199.0
+   },
+   "source": "https://lancasterarchery.com/products/2023-mathews-image-compound-hunting-bow",
+   "retailer": "lancasterarchery.com",
+   "title": "Mathews Image Compound Hunting Bow"
+  },
+  "bows:Mathews|Title 36": {
+   "fields": {
+    "msrpUsd": 2199.0
+   },
+   "source": "https://lancasterarchery.com/products/mathews-title-36-compound-target-bow",
+   "retailer": "lancasterarchery.com",
+   "title": "Mathews TITLE 36 Compound Target Bow"
+  },
+  "bows:PSE|Decree FDS": {
+   "fields": {
+    "msrpUsd": 1299.0
+   },
+   "source": "https://lancasterarchery.com/products/pse-decree-fds-compound-hunting-bow",
+   "retailer": "lancasterarchery.com",
+   "title": "PSE Decree FDS Compound Hunting Bow"
+  },
+  "bows:PSE|Mach 35 DS Carbon": {
+   "fields": {
+    "msrpUsd": 1999.0
+   },
+   "source": "https://lancasterarchery.com/products/pse-mach-35-ds-carbon-compound-hunting-bow",
+   "retailer": "lancasterarchery.com",
+   "title": "PSE Mach 35 DS Carbon Compound Hunting Bow"
+  },
+  "bows:PSE|Mach 33 DS": {
+   "fields": {
+    "msrpUsd": 1899.0
+   },
+   "source": "https://lancasterarchery.com/products/pse-mach-33-ds-carbon-compound-hunting-bow",
+   "retailer": "lancasterarchery.com",
+   "title": "PSE Mach 33 DS Carbon Compound Hunting Bow"
+  },
+  "bows:PSE|Mach 30 DS": {
+   "fields": {
+    "msrpUsd": 1549.0
+   },
+   "source": "https://lancasterarchery.com/products/pse-mach-30-ds-compound-hunting-bow",
+   "retailer": "lancasterarchery.com",
+   "title": "PSE Mach 30 DS Compound Hunting Bow"
+  },
+  "bows:PSE|Drive NXT": {
+   "fields": {
+    "msrpUsd": 799.0
+   },
+   "source": "https://lancasterarchery.com/products/2021-pse-drive-nxt-compound-hunting-bow",
+   "retailer": "lancasterarchery.com",
+   "title": "PSE Drive NXT Compound Hunting Bow"
+  },
+  "bows:PSE|Levitate": {
+   "fields": {
+    "msrpUsd": 1899.0
+   },
+   "source": "https://lancasterarchery.com/products/pse-nock-on-carbon-levitate-compound-hunting-bow-v1",
+   "retailer": "lancasterarchery.com",
+   "title": "PSE Nock On Carbon Levitate Compound Hunting Bow"
+  },
+  "bows:PSE|Stinger ATK": {
+   "fields": {
+    "msrpUsd": 449.0
+   },
+   "source": "https://lancasterarchery.com/products/pse-stinger-atk-compound-bow-ss-cam",
+   "retailer": "lancasterarchery.com",
+   "title": "PSE Stinger ATK Compound Bow (SS Cam)"
+  },
+  "bows:PSE|Nock On Carbon Levitate": {
+   "fields": {
+    "msrpUsd": 1899.0
+   },
+   "source": "https://lancasterarchery.com/products/pse-nock-on-carbon-levitate-compound-hunting-bow-v1",
+   "retailer": "lancasterarchery.com",
+   "title": "PSE Nock On Carbon Levitate Compound Hunting Bow"
+  },
+  "bows:Bowtech|Alliance 33": {
+   "fields": {
+    "msrpUsd": 1399.99
+   },
+   "source": "https://archerycountry.com/products/bowtech-alliance-33",
+   "retailer": "archerycountry.com",
+   "title": "Bowtech Alliance 33"
+  },
+  "bows:Elite|Varos": {
+   "fields": {
+    "msrpUsd": 1399.99
+   },
+   "source": "https://archerycountry.com/products/elite-varos",
+   "retailer": "archerycountry.com",
+   "title": "Elite Varos"
+  },
+  "bows:Elite|Carbon AXYS": {
+   "fields": {
+    "massWeightOz": 68.8
+   },
+   "source": "https://lancasterarchery.com/products/elite-axys-carbon-compound-hunting-bow",
+   "retailer": "lancasterarchery.com",
+   "title": "Elite Axys Carbon Compound Hunting Bow"
+  },
+  "bows:Elite|Emerse": {
+   "fields": {
+    "msrpUsd": 649.99
+   },
+   "source": "https://lancasterarchery.com/products/elite-emerse-compound-hunting-bow",
+   "retailer": "lancasterarchery.com",
+   "title": "Elite Emerse Compound Hunting Bow"
+  },
+  "bows:Elite|Artus": {
+   "fields": {
+    "msrpUsd": 1299.99
+   },
+   "source": "https://lancasterarchery.com/products/elite-artus-compound-hunting-bow",
+   "retailer": "lancasterarchery.com",
+   "title": "Elite Artus Compound Hunting Bow"
+  },
+  "bows:Elite|Allure": {
+   "fields": {
+    "msrpUsd": 1249.99
+   },
+   "source": "https://archerycountry.com/products/elite-allure",
+   "retailer": "archerycountry.com",
+   "title": "Elite Allure"
+  },
+  "bows:Prime|Divide 35": {
+   "fields": {
+    "msrpUsd": 1645.0
+   },
+   "source": "https://lancasterarchery.com/products/prime-divide-35-compound-hunting-bow",
+   "retailer": "lancasterarchery.com",
+   "title": "Prime Divide 35 Compound Hunting Bow"
+  },
+  "bows:Prime|Divide 37": {
+   "fields": {
+    "msrpUsd": 1695.0
+   },
+   "source": "https://lancasterarchery.com/products/prime-divide-37-compound-hunting-bow",
+   "retailer": "lancasterarchery.com",
+   "title": "Prime Divide 37 Compound Hunting Bow"
+  },
+  "bows:Prime|Form 30": {
+   "fields": {
+    "msrpUsd": 1595.0
+   },
+   "source": "https://lancasterarchery.com/products/prime-form-30-compound-hunting-bow",
+   "retailer": "lancasterarchery.com",
+   "title": "Prime Form 30 Compound Hunting Bow"
+  },
+  "bows:Prime|RVX 32": {
+   "fields": {
+    "msrpUsd": 1295.0
+   },
+   "source": "https://lancasterarchery.com/products/prime-rvx-32-compound-hunting-bow",
+   "retailer": "lancasterarchery.com",
+   "title": "Prime RVX+ 32 Compound Hunting Bow"
+  },
+  "bows:Bear|Royale": {
+   "fields": {
+    "msrpUsd": 359.99
+   },
+   "source": "https://lancasterarchery.com/products/2020-bear-royale-compound-bow-with-rth-package",
+   "retailer": "lancasterarchery.com",
+   "title": "Bear Royale RTH Compound Bow"
+  },
+  "bows:Darton|TriTech 33": {
+   "fields": {
+    "msrpUsd": 1349.99
+   },
+   "source": "https://lancasterarchery.com/products/darton-tritech-33-compound-hunting-bow",
+   "retailer": "lancasterarchery.com",
+   "title": "Darton TRITECH 33 Compound Hunting Bow"
+  },
+  "bows:Xpedition|NexLite 30": {
+   "fields": {
+    "msrpUsd": 1499.99
+   },
+   "source": "https://lancasterarchery.com/products/xpedition-nexlite-30-compound-hunting-bow",
+   "retailer": "lancasterarchery.com",
+   "title": "Xpedition NexLite 30 Compound Hunting Bow"
+  },
+  "bows:Xpedition|NexLite 33": {
+   "fields": {
+    "massWeightOz": 60.0,
+    "msrpUsd": 1599.99
+   },
+   "source": "https://lancasterarchery.com/products/xpedition-nexlite-33-compound-hunting-bow",
+   "retailer": "lancasterarchery.com",
+   "title": "Xpedition NexLite 33 Compound Hunting Bow"
+  },
+  "bows:Diamond|Edge Max": {
+   "fields": {
+    "msrpUsd": 489.0
+   },
+   "source": "https://lancasterarchery.com/products/diamond-edge-max-compound-bow",
+   "retailer": "lancasterarchery.com",
+   "title": "Diamond Edge Max Compound Bow"
+  },
+  "bows:Mission|Range": {
+   "fields": {
+    "massWeightOz": 65.0,
+    "msrpUsd": 699.99
+   },
+   "source": "https://archerycountry.com/products/mission-range",
+   "retailer": "archerycountry.com",
+   "title": "Mission Range"
   },
   "bows:Bowtech|Carbon Rose": {
    "fields": {
