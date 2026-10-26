@@ -2270,16 +2270,6 @@
     "externalRef": "nfaa:diamond archery llc|10502 e 26th cir n wichita kansas 67226"
   },
   {
-    "name": "Double G Archery",
-    "address": "4185-B EAST UNIVERSITY AVE, GEORGETOWN, Texas, 78626",
-    "phone": "+15128685530",
-    "email": "",
-    "website": "",
-    "programs": "indoor range",
-    "reviewStatus": "approved",
-    "externalRef": "nfaa:double g archery|4185 b east university ave georgetown texas 78626"
-  },
-  {
     "name": "Double T Archery Club",
     "address": "1120 N French Rd, Buffalo, New York, 14228",
     "phone": "7166880438",
@@ -2678,16 +2668,6 @@
     "programs": "indoor range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:first flight archery|6718 old wake forest rd raleigh north carolina 27616"
-  },
-  {
-    "name": "Five Birds Archery",
-    "address": "Laguna Woods Archery Range/ Club House One, 24232 Calle Aragon, Laguna Woods, California, United States of America, 92637",
-    "phone": "+1 949 491 5529",
-    "email": "fivebirds@mac.com",
-    "website": "http://heroeshearts.org",
-    "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program, Field Archery",
-    "reviewStatus": "approved",
-    "externalRef": "usarchery:five birds archery|laguna woods archery range club house one 24232 calle aragon laguna woods california united states of america 92637"
   },
   {
     "name": "Flint River Archery Club",
@@ -4718,16 +4698,6 @@
     "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program, 3D Archery, Field Archery",
     "reviewStatus": "approved",
     "externalRef": "usarchery:mile high archers|3050 e 78th ave denver colorado united states of america 80229 6106"
-  },
-  {
-    "name": "Mill River Archery",
-    "address": "Hampshire College, 893 West Street, Amherst, Massachusetts, United States of America, 01002",
-    "phone": "+14139234229",
-    "email": "millriverarchery@gmail.com",
-    "website": "http://millriverarchery.com",
-    "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program",
-    "reviewStatus": "approved",
-    "externalRef": "usarchery:mill river archery|hampshire college 893 west street amherst massachusetts united states of america 01002"
   },
   {
     "name": "Milwaukee Kyudo Kai",
