@@ -3110,6 +3110,16 @@
     "externalRef": "nfaa:grande ronde bowmen inc|po box 315 la grande oregon 97850"
   },
   {
+    "name": "Granite City Joad",
+    "address": "41300 County Road 1, Rice, Minnesota, United States of America, 56367",
+    "phone": "(320) 249-4257",
+    "email": "douglorikrebs@gmail.com",
+    "website": "http://www.granitecityjoad.com",
+    "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program",
+    "reviewStatus": "approved",
+    "externalRef": "usarchery:granite city joad|41300 county road 1 rice minnesota united states of america 56367"
+  },
+  {
     "name": "Granite Mountain Archers",
     "address": "3755 Willow Creek Rd, PRESCOTT, Arizona, 86304-1002",
     "phone": "",
@@ -4728,16 +4738,6 @@
     "programs": "Adult Archery Program",
     "reviewStatus": "approved",
     "externalRef": "usarchery:minnesota kyudo renmei|229 tower avenue dundas minnesota united states of america 55019"
-  },
-  {
-    "name": "Mississippi Archery Academy",
-    "address": "162 Concourse Drive, Suite D & E, Pearl, Mississippi, United States of America, 39208",
-    "phone": "+1 6015002670",
-    "email": "mississippiarcheryacademy@gmail.com",
-    "website": "http://mississippiarcheryacademy.com",
-    "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program, 3D Archery, Field Archery",
-    "reviewStatus": "approved",
-    "externalRef": "usarchery:mississippi archery academy|162 concourse drive suite d e pearl mississippi united states of america 39208"
   },
   {
     "name": "Missouri Valley College Archery",
