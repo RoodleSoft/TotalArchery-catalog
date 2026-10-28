@@ -3249,6 +3249,17 @@
   {
     "category": "release",
     "brand": "Scott",
+    "model": "Scot Ghost Release",
+    "url": "https://xspotarchery.com/products/ghost-release-black",
+    "priceUsd": 104.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/3910239_1000x1000_0b8705f4-76b3-4631-abb5-c380ee49a935.webp"
+  },
+  {
+    "category": "release",
+    "brand": "Scott",
     "model": "Scott Pursuit Release",
     "url": "https://xspotarchery.com/products/scott-pursuit-release",
     "priceUsd": 179.99,

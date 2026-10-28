@@ -570,6 +570,16 @@
     "externalRef": "usarchery:bakersfield target archers|3212 jewetta avenue bakersfield california united states of america 93312"
   },
   {
+    "name": "Barefoot Archery",
+    "address": "4410 Old Pineville Rd, Charlotte, North Carolina, United States of America, 28217-1752",
+    "phone": "+1 7045271110",
+    "email": "info@barefootarchery.com",
+    "website": "https://barefootarchery.com",
+    "programs": "Junior Olympic Archery Development (JOAD)",
+    "reviewStatus": "approved",
+    "externalRef": "usarchery:barefoot archery|4410 old pineville rd charlotte north carolina united states of america 28217 1752"
+  },
+  {
     "name": "Barefoot Archery Inc",
     "address": "4410 Old Pineville Rd, Charlotte, North Carolina, 28217",
     "phone": "+17045271110",
@@ -655,7 +665,7 @@
     "phone": "+17122810266",
     "email": "sdbbac@gmail.com",
     "website": "",
-    "programs": "indoor range",
+    "programs": "outdoor field range, indoor range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:bear bowbenders archery sd|47777 330th st elk point south dakota 57025"
   },
@@ -905,7 +915,7 @@
     "phone": "",
     "email": "blackmountainbowmen@gmail.com",
     "website": "",
-    "programs": "indoor range",
+    "programs": "",
     "reviewStatus": "approved",
     "externalRef": "nfaa:black mountain bowmen|black mountain bowmen bmb avenida espana san jose california 95139"
   },
@@ -1058,6 +1068,16 @@
     "programs": "indoor range, outdoor range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:borkholder archery|1772 w 1350 n milford indiana 46542"
+  },
+  {
+    "name": "Born Risers",
+    "address": "1624 S Main St, Athol, Massachusetts, United States of America, 01331-2162",
+    "phone": "+19789109950",
+    "email": "info@bornrisers.com",
+    "website": "",
+    "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program, 3D Archery",
+    "reviewStatus": "approved",
+    "externalRef": "usarchery:born risers|1624 s main st athol massachusetts united states of america 01331 2162"
   },
   {
     "name": "Bounce Archery",
@@ -2070,16 +2090,6 @@
     "externalRef": "usarchery:cub run archers of arlington fairfax iwla|14708 mt olive road centreville virginia united states of america 20121 2517"
   },
   {
-    "name": "Cupid's Gate Archery",
-    "address": "5 Upland Lane, Novato, California, United States of America, 94945",
-    "phone": "415-336-6512",
-    "email": "hc@cupidsgatearchery.com",
-    "website": "http://www.cupidsgatearchery.com",
-    "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program",
-    "reviewStatus": "approved",
-    "externalRef": "usarchery:cupid s gate archery|5 upland lane novato california united states of america 94945"
-  },
-  {
     "name": "Cutting Edge Sporting Goods Inc",
     "address": "1305 N Lincoln St, Greensburg, Indiana, 47240",
     "phone": "+18125604208",
@@ -2570,6 +2580,16 @@
     "externalRef": "usarchery:every arrow counts archery|1100 walton mill rd madison georgia united states of america 30650"
   },
   {
+    "name": "Evolution Archery",
+    "address": "8408 Gulf View Drive, Lot B, Soddy Daisy, Tennessee, United States of America, 37379",
+    "phone": "+14238345170",
+    "email": "evolutionarchery2023@gmail.com",
+    "website": "http://Evolutionarchery.org",
+    "programs": "",
+    "reviewStatus": "approved",
+    "externalRef": "usarchery:evolution archery|8408 gulf view drive lot b soddy daisy tennessee united states of america 37379"
+  },
+  {
     "name": "Explore Archery - Appleton",
     "address": "3009 N Birch, La Grande, Oregon, United States of America, 97850",
     "phone": "+1 5419634671",
@@ -2788,6 +2808,16 @@
     "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program, 3D Archery, Field Archery",
     "reviewStatus": "approved",
     "externalRef": "usarchery:full curl archery|full curl archery 12501 old seward hwy e f anchorage alaska united states of america 99515"
+  },
+  {
+    "name": "Full Draw Archery Club - Cherokee",
+    "address": "5243 KEELINE RD, CHEROKEE, Iowa, 51012",
+    "phone": "",
+    "email": "",
+    "website": "",
+    "programs": "indoor range, 3d range",
+    "reviewStatus": "approved",
+    "externalRef": "nfaa:full draw archery club cherokee|5243 keeline rd cherokee iowa 51012"
   },
   {
     "name": "Full Draw Bowhunters",
@@ -5960,16 +5990,6 @@
     "externalRef": "nfaa:pootatuck archers inc|po box 153 ridgefield connecticut 06877"
   },
   {
-    "name": "Possum Hollow Sportsman's Club",
-    "address": "352 Possum Hollow Rd, Wampum, Pennsylvania, 16157",
-    "phone": "+17245354985",
-    "email": "possumhollowsc@yahoo.com",
-    "website": "",
-    "programs": "indoor range",
-    "reviewStatus": "approved",
-    "externalRef": "nfaa:possum hollow sportsman s club|352 possum hollow rd wampum pennsylvania 16157"
-  },
-  {
     "name": "Potomac Valley Archery Association Inc",
     "address": "104 BURR ST, MOOREFIELD, West Virginia, 26836",
     "phone": "+13042571721",
@@ -6025,7 +6045,7 @@
     "phone": "7039751475",
     "email": "jlittlejr53@gmail.com",
     "website": "",
-    "programs": "indoor range",
+    "programs": "outdoor field range, indoor range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:prince william archers|12506 izaak walton dr bristow virginia 20182"
   },
@@ -6685,7 +6705,7 @@
     "phone": "",
     "email": "archery@saratogaarchery.com",
     "website": "",
-    "programs": "indoor range",
+    "programs": "outdoor field range, indoor range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:saratoga archery club|1720 county road 9 tracy minnesota 56175"
   },
@@ -7045,7 +7065,7 @@
     "phone": "+15073766262",
     "email": "swbowbenders@hotmail.com",
     "website": "",
-    "programs": "indoor range",
+    "programs": "outdoor field range, indoor range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:southwest bowbenders inc mn|27150 plotts ave worthington minnesota 56187"
   },
@@ -7865,7 +7885,7 @@
     "phone": "+17077636574",
     "email": "mar2steved@gmail.com",
     "website": "",
-    "programs": "indoor range",
+    "programs": "outdoor field range, indoor range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:traditional archers ca|291 seavey rd petaluma california 94952"
   },
