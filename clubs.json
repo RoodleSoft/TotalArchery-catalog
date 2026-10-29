@@ -155,7 +155,7 @@
     "phone": "",
     "email": "",
     "website": "http://www.archersafield.com",
-    "programs": "",
+    "programs": "indoor range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:archers afield|11945 sw pacific hwy suite 121 portland oregon 97223"
   },
@@ -238,6 +238,16 @@
     "programs": "outdoor field range, outdoor range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:archery and bow club|3690 bramlett church road gray court south carolina 29645"
+  },
+  {
+    "name": "Arizona Archery Club, LLC",
+    "address": "1115 W. Deer Valley Road #1, Phoenix, Arizona, United States of America, 85027",
+    "phone": "+16232664647",
+    "email": "arizonaarcheryc@gmail.com",
+    "website": "http://www.azarcheryclub.com",
+    "programs": "Junior Olympic Archery Development (JOAD)",
+    "reviewStatus": "approved",
+    "externalRef": "usarchery:arizona archery club llc|1115 w deer valley road 1 phoenix arizona united states of america 85027"
   },
   {
     "name": "Arizona Christian University Archery",
@@ -3120,6 +3130,16 @@
     "externalRef": "nfaa:grand mesa bowmen club|20750 ds rd glade park colorado 81523"
   },
   {
+    "name": "Grand View University",
+    "address": "3839 E. 14th St, Des Moines, Iowa, 50313",
+    "phone": "",
+    "email": "cmundy@grandview.edu",
+    "website": "https://www.facebook.com/profile.php?id=61582841705282&locale=en_GB",
+    "programs": "indoor range",
+    "reviewStatus": "approved",
+    "externalRef": "nfaa:grand view university|3839 e 14th st des moines iowa 50313"
+  },
+  {
     "name": "Grand View University Archery",
     "address": ", United States of America",
     "phone": "+1 515-263-6132",
@@ -3778,16 +3798,6 @@
     "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program",
     "reviewStatus": "approved",
     "externalRef": "usarchery:junior olympian archery club of louisville|820 buck creek rd simpsonville kentucky united states of america 40067"
-  },
-  {
-    "name": "K Archery Club",
-    "address": "3450 Bentwood Dr, Cumming, Georgia, United States of America, 30041",
-    "phone": "+1 7703713727",
-    "email": "karcheryclub@yahoo.com",
-    "website": "",
-    "programs": "Junior Olympic Archery Development (JOAD)",
-    "reviewStatus": "approved",
-    "externalRef": "usarchery:k archery club|3450 bentwood dr cumming georgia united states of america 30041"
   },
   {
     "name": "KBH Archers Inc",
@@ -4770,6 +4780,16 @@
     "externalRef": "usarchery:minnesota kyudo renmei|229 tower avenue dundas minnesota united states of america 55019"
   },
   {
+    "name": "Mississippi Archery Academy",
+    "address": "162 Concourse Drive, Suite D & E, Pearl, Mississippi, United States of America, 39208",
+    "phone": "+1 6015002670",
+    "email": "mississippiarcheryacademy@gmail.com",
+    "website": "http://mississippiarcheryacademy.com",
+    "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program, 3D Archery, Field Archery",
+    "reviewStatus": "approved",
+    "externalRef": "usarchery:mississippi archery academy|162 concourse drive suite d e pearl mississippi united states of america 39208"
+  },
+  {
     "name": "Missouri Valley College Archery",
     "address": "Marshall Bowhunters Club, 1538 East Vest Street, Marshall, Missouri, United States of America, 65340",
     "phone": "5739330776",
@@ -4985,7 +5005,7 @@
     "phone": "",
     "email": "abbe17@icloud.com",
     "website": "",
-    "programs": "indoor range",
+    "programs": "indoor range, outdoor field range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:nenameseck sportsmens club|150 bacon road p o box 284 palmer massachusetts 01069"
   },
@@ -8148,16 +8168,6 @@
     "programs": "",
     "reviewStatus": "approved",
     "externalRef": "usarchery:university of california san diego sun god archery|mc 0078 9500 gilman drive la jolla california united states of america 92093"
-  },
-  {
-    "name": "University of Holy Cross Archery Club",
-    "address": ", New Orleans, Louisiana, United States of America, 70131",
-    "phone": "+1 504-408-6099",
-    "email": "galamilla@gmail.com",
-    "website": "http://www.uhcno.edu",
-    "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program",
-    "reviewStatus": "approved",
-    "externalRef": "usarchery:university of holy cross archery club|new orleans louisiana united states of america 70131"
   },
   {
     "name": "University of Montevallo",
