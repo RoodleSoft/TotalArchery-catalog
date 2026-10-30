@@ -1800,16 +1800,6 @@
     "externalRef": "usarchery:city of farmington hills|28600 eleven mile farmington hills michigan united states of america 48336"
   },
   {
-    "name": "Clairton Joad",
-    "address": "1614 Mohrbach Street, Pittsburgh, Pennsylvania, United States of America, 15207",
-    "phone": "412-445-0627",
-    "email": "ram32092@comcast.net",
-    "website": "http://Clairtonsc.org",
-    "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program",
-    "reviewStatus": "approved",
-    "externalRef": "usarchery:clairton joad|1614 mohrbach street pittsburgh pennsylvania united states of america 15207"
-  },
-  {
     "name": "Clear Creek Bowmen",
     "address": "Centennial Drive @ Hwy 50 East, CARSON CITY, Nevada, 89701",
     "phone": "",
@@ -3825,7 +3815,7 @@
     "phone": "+17855390200",
     "email": "kansasarcherycenter@gmail.com",
     "website": "",
-    "programs": "",
+    "programs": "indoor range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:kansas archery center llc|8859 e highway 24 manhattan kansas 66502"
   },
@@ -8398,16 +8388,6 @@
     "programs": "Junior Olympic Archery Development (JOAD)",
     "reviewStatus": "approved",
     "externalRef": "usarchery:waxobe joad|53 major road monmouth junction new jersey united states of america 08852"
-  },
-  {
-    "name": "WMAC-Top Nock JOAD",
-    "address": "3500 10 Mile Rd., Rockford, Michigan, United States of America, 49341",
-    "phone": "",
-    "email": "treasurer.wmac@gmail.com",
-    "website": "http://treasurer.wmac@gmail.com",
-    "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program, 3D Archery",
-    "reviewStatus": "approved",
-    "externalRef": "usarchery:wmac top nock joad|3500 10 mile rd rockford michigan united states of america 49341"
   },
   {
     "name": "WaKuWa Archery Club Selah",

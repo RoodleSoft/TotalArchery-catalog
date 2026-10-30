@@ -11110,17 +11110,6 @@
   {
     "category": "string",
     "brand": "GAS Bowstrings",
-    "model": "Mathews Arc 30",
-    "url": "https://gasbowstrings.com/product/mathews-arc-30-string-only-ghost-xv-with-black-serving-and-white-nocks/",
-    "priceUsd": 60.0,
-    "verified": true,
-    "tapeWidthIn": null,
-    "weightG": null,
-    "image": "https://gasbowstrings.com/wp-content/uploads/2026/10/IMG_2363-scaled.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "GAS Bowstrings",
     "model": "Oneida Eagle",
     "url": "https://gasbowstrings.com/product/oneida-eagle-silver-med-brown-twist-string-only/",
     "priceUsd": 50.0,
