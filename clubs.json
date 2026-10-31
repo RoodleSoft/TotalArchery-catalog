@@ -101,13 +101,13 @@
   },
   {
     "name": "Amherst Arms and Supply",
-    "address": "4811 South Amherst Highway, Madison Heights, Virginia, 24572",
+    "address": "4811 S Amherst Hwy, Madison Heights, Virginia, 24572",
     "phone": "",
     "email": "",
     "website": "",
     "programs": "indoor range",
     "reviewStatus": "approved",
-    "externalRef": "nfaa:amherst arms and supply|4811 south amherst highway madison heights virginia 24572"
+    "externalRef": "nfaa:amherst arms and supply|4811 s amherst hwy madison heights virginia 24572"
   },
   {
     "name": "Anchor Point Archery AZ",
@@ -3015,7 +3015,7 @@
     "phone": "",
     "email": "",
     "website": "",
-    "programs": "",
+    "programs": "indoor range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:golden arrow archery club inc|11212 n 72nd st omaha nebraska 68138"
   },
@@ -5641,13 +5641,13 @@
   },
   {
     "name": "Ozarks Target Archers",
-    "address": "5780 South Farm Road 141, Springfield, Missouri, United States of America, 65810",
-    "phone": "417-874-2910",
-    "email": "afrancka@springfieldmo.gov",
-    "website": "http://www.parkboard.org/archery",
-    "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program, 3D Archery, Field Archery",
+    "address": "5780 SOUTH FARM ROAD 141, SPRINGFIELD, Missouri, 65810",
+    "phone": "+14178742910",
+    "email": "Afrancka@springfieldmo.gov",
+    "website": "",
+    "programs": "outdoor range, indoor range, outdoor field range",
     "reviewStatus": "approved",
-    "externalRef": "usarchery:ozarks target archers|5780 south farm road 141 springfield missouri united states of america 65810"
+    "externalRef": "nfaa:ozarks target archers|5780 south farm road 141 springfield missouri 65810"
   },
   {
     "name": "PHOENIX FOCUS JOAD",
@@ -6971,13 +6971,13 @@
   },
   {
     "name": "South Bay Archery Lessons DBA California Indoor Archers",
-    "address": "+1 South Bay Archery Lessons, +1 California Indoor Archers, +1 1300 Kingsdale Ave., +1 Redondo Beach, California, +1 90278",
+    "address": "South Bay Archery Lessons, California Indoor Archers, 1300 Kingsdale Ave., Redondo Beach, California, 90278",
     "phone": "8554672260",
     "email": "contact@southbayarcherylessons.com",
     "website": "",
-    "programs": "indoor range",
+    "programs": "indoor range, indoor range",
     "reviewStatus": "approved",
-    "externalRef": "nfaa:south bay archery lessons dba california indoor archers|1 south bay archery lessons 1 california indoor archers 1 1300 kingsdale ave 1 redondo beach california 1 90278"
+    "externalRef": "nfaa:south bay archery lessons dba california indoor archers|south bay archery lessons california indoor archers 1300 kingsdale ave redondo beach california 90278"
   },
   {
     "name": "South Jersey Archery Explorers",
@@ -7508,6 +7508,16 @@
     "programs": "",
     "reviewStatus": "approved",
     "externalRef": "usarchery:texas a m university target archers tamu|4250 tamu 632 penberthy blvd college station texas united states of america 77843"
+  },
+  {
+    "name": "Texas Archery",
+    "address": "10265 SH 30, Bryan, Texas, 77845",
+    "phone": "+19794859950",
+    "email": "texarchery@gmail.com",
+    "website": "",
+    "programs": "",
+    "reviewStatus": "approved",
+    "externalRef": "nfaa:texas archery|10265 sh 30 bryan texas 77845"
   },
   {
     "name": "Texas Shooting Stars",
@@ -8218,6 +8228,16 @@
     "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program",
     "reviewStatus": "approved",
     "externalRef": "usarchery:untouchables joad club|4298 kipling st b wheatrige colorado united states of america 8011080033"
+  },
+  {
+    "name": "Upstate Archery Academy",
+    "address": "384 S. Bennetts Bridge Rd, Greer, South Carolina, United States of America, 29651",
+    "phone": "+1 864-775-5898",
+    "email": "Shelley@upstatearcheryacademy.com",
+    "website": "http://upstatearcheryacademy.com",
+    "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program",
+    "reviewStatus": "approved",
+    "externalRef": "usarchery:upstate archery academy|384 s bennetts bridge rd greer south carolina united states of america 29651"
   },
   {
     "name": "Upstate Archery Academy, LLC",

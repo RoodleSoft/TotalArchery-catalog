@@ -11046,17 +11046,6 @@
   {
     "category": "string",
     "brand": "GAS Bowstrings",
-    "model": "Elite Rezult",
-    "url": "https://gasbowstrings.com/product/elite-rezult-gunmetal-silver-twist-with-black-serving-string-only/",
-    "priceUsd": 50.0,
-    "verified": true,
-    "tapeWidthIn": null,
-    "weightG": null,
-    "image": "https://gasbowstrings.com/wp-content/uploads/2026/07/IMG_7357-scaled.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "GAS Bowstrings",
     "model": "Flemish",
     "url": "https://gasbowstrings.com/product/flemish-string-only-od-green-black-twist-with-black-serve/",
     "priceUsd": 60.0,
@@ -11150,17 +11139,6 @@
     "tapeWidthIn": null,
     "weightG": null,
     "image": "https://gasbowstrings.com/wp-content/uploads/2026/07/IMG_7653-scaled.jpg"
-  },
-  {
-    "category": "string",
-    "brand": "GAS Bowstrings",
-    "model": "Prime Black 5",
-    "url": "https://gasbowstrings.com/product/prime-black-5-string-only-all-black/",
-    "priceUsd": 50.0,
-    "verified": true,
-    "tapeWidthIn": null,
-    "weightG": null,
-    "image": "https://gasbowstrings.com/wp-content/uploads/2026/09/IMG_1827-scaled.jpg"
   },
   {
     "category": "string",
