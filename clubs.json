@@ -40,16 +40,6 @@
     "externalRef": "nfaa:academy archery club|5342 sumac drive usaf academy colorado 80840"
   },
   {
-    "name": "Aces & Arrows Archery, Inc.",
-    "address": "980 American Pacific Dr, Suite 107, Henderson, Nevada, 89014",
-    "phone": "",
-    "email": "",
-    "website": "",
-    "programs": "indoor range",
-    "reviewStatus": "approved",
-    "externalRef": "nfaa:aces arrows archery inc|980 american pacific dr suite 107 henderson nevada 89014"
-  },
-  {
     "name": "Adams Conservation Club",
     "address": "240 S King Road, Holland, Ohio, 43528",
     "phone": "",
@@ -3590,6 +3580,16 @@
     "externalRef": "nfaa:indian trail bow club nc|3906 richardson rd monroe north carolina 28112"
   },
   {
+    "name": "Indian Trails Archery Pro Shop",
+    "address": "1521 NO HIGHWAY 19, SALEM, Missouri, 65560",
+    "phone": "+15737299593",
+    "email": "itarchery56@yahoo.com",
+    "website": "",
+    "programs": "",
+    "reviewStatus": "approved",
+    "externalRef": "nfaa:indian trails archery pro shop|1521 no highway 19 salem missouri 65560"
+  },
+  {
     "name": "Indiana Tech",
     "address": "Indiana Tech Warrior Park, 377 E. Tillman Rd, Ft. Wayne, Indiana, United States of America, 46816",
     "phone": "+12603444797",
@@ -4878,16 +4878,6 @@
     "programs": "indoor range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:muskegon bowmen inc|2380 central road muskegon michigan 49445"
-  },
-  {
-    "name": "Muskingum University",
-    "address": "10 College Drive, New Concord, Ohio, United States of America, 43762",
-    "phone": "+17406076077",
-    "email": "wesleye@muskingum.edu",
-    "website": "http://Muskingum.edu",
-    "programs": "",
-    "reviewStatus": "approved",
-    "externalRef": "usarchery:muskingum university|10 college drive new concord ohio united states of america 43762"
   },
   {
     "name": "Mustangs Archery",
@@ -7515,7 +7505,7 @@
     "phone": "+19794859950",
     "email": "texarchery@gmail.com",
     "website": "",
-    "programs": "",
+    "programs": "indoor range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:texas archery|10265 sh 30 bryan texas 77845"
   },
