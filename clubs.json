@@ -1340,16 +1340,6 @@
     "externalRef": "usarchery:cal poly archery|3270 gilardi road san luis obipso california united states of america 93405"
   },
   {
-    "name": "Cal Poly Humboldt",
-    "address": "1 Harpst Street, Arcata, California, United States of America, 95521",
-    "phone": "+1 5626440550",
-    "email": "Archers@humboldt.edu",
-    "website": "https://www.humboldt.edu/campus-recreation/recreational-sports/clubs/archery",
-    "programs": "",
-    "reviewStatus": "approved",
-    "externalRef": "usarchery:cal poly humboldt|1 harpst street arcata california united states of america 95521"
-  },
-  {
     "name": "California Archery Center",
     "address": "440 Marathon Ave, Campbell, California, United States of America, 95008",
     "phone": "+1 408-210-2655",
@@ -2070,6 +2060,16 @@
     "externalRef": "usarchery:cub run archers of arlington fairfax iwla|14708 mt olive road centreville virginia united states of america 20121 2517"
   },
   {
+    "name": "Cupid's Gate Archery",
+    "address": "5 Upland Lane, Novato, California, United States of America, 94945",
+    "phone": "415-336-6512",
+    "email": "hc@cupidsgatearchery.com",
+    "website": "http://www.cupidsgatearchery.com",
+    "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program",
+    "reviewStatus": "approved",
+    "externalRef": "usarchery:cupid s gate archery|5 upland lane novato california united states of america 94945"
+  },
+  {
     "name": "Cutting Edge Sporting Goods Inc",
     "address": "1305 N Lincoln St, Greensburg, Indiana, 47240",
     "phone": "+18125604208",
@@ -2568,6 +2568,16 @@
     "programs": "",
     "reviewStatus": "approved",
     "externalRef": "usarchery:evolution archery|8408 gulf view drive lot b soddy daisy tennessee united states of america 37379"
+  },
+  {
+    "name": "Evolution Archery JOAD",
+    "address": "8408 Gulf View Drive, Soddy-Daisy, Tennessee, United States of America, 37379",
+    "phone": "+1 423-834-5170",
+    "email": "evolutionarchery2023@gmail.com",
+    "website": "http://evolutionarchery.org",
+    "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program, 3D Archery",
+    "reviewStatus": "approved",
+    "externalRef": "usarchery:evolution archery joad|8408 gulf view drive soddy daisy tennessee united states of america 37379"
   },
   {
     "name": "Explore Archery - Appleton",

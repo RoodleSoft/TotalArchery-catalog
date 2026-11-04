@@ -1,16 +1,16 @@
 {
-  "checkedAt": "2026-11-03T03:25:12Z",
+  "checkedAt": "2026-11-04T03:27:20Z",
   "files": {
     "bows": {
       "rows": 171,
       "curated": false
     },
     "arrows": {
-      "rows": 168,
+      "rows": 169,
       "curated": false
     },
     "components": {
-      "rows": 1419,
+      "rows": 1411,
       "curated": false
     },
     "targets": {
@@ -26,7 +26,7 @@
       "curated": true
     },
     "gear": {
-      "rows": 1052,
+      "rows": 1092,
       "curated": false
     },
     "images": {
