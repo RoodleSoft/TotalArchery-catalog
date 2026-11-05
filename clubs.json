@@ -135,7 +135,7 @@
     "phone": "+19733836787",
     "email": "AppBowSec@gmail.com",
     "website": "",
-    "programs": "3d range, outdoor range, indoor range",
+    "programs": "",
     "reviewStatus": "approved",
     "externalRef": "nfaa:appalachian bowmen|118 shotwell rd newton new jersey 07860"
   },
@@ -228,16 +228,6 @@
     "programs": "outdoor field range, outdoor range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:archery and bow club|3690 bramlett church road gray court south carolina 29645"
-  },
-  {
-    "name": "Arizona Archery Club, LLC",
-    "address": "1115 W. Deer Valley Road #1, Phoenix, Arizona, United States of America, 85027",
-    "phone": "+16232664647",
-    "email": "arizonaarcheryc@gmail.com",
-    "website": "http://www.azarcheryclub.com",
-    "programs": "Junior Olympic Archery Development (JOAD)",
-    "reviewStatus": "approved",
-    "externalRef": "usarchery:arizona archery club llc|1115 w deer valley road 1 phoenix arizona united states of america 85027"
   },
   {
     "name": "Arizona Christian University Archery",
@@ -905,7 +895,7 @@
     "phone": "",
     "email": "blackmountainbowmen@gmail.com",
     "website": "",
-    "programs": "",
+    "programs": "indoor range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:black mountain bowmen|black mountain bowmen bmb avenida espana san jose california 95139"
   },
@@ -2258,6 +2248,16 @@
     "programs": "",
     "reviewStatus": "approved",
     "externalRef": "nfaa:diamond archery llc|10502 e 26th cir n wichita kansas 67226"
+  },
+  {
+    "name": "Double G Archery",
+    "address": "4185 E University Ave, Ste B, Georgetown, Texas, 78626",
+    "phone": "+17372764291",
+    "email": "hello@doublegarchery.com",
+    "website": "http://www.doublegarchery.com",
+    "programs": "indoor range",
+    "reviewStatus": "approved",
+    "externalRef": "nfaa:double g archery|4185 e university ave ste b georgetown texas 78626"
   },
   {
     "name": "Double T Archery Club",
@@ -3768,6 +3768,16 @@
     "programs": "indoor range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:joliet archery club|3700 w francis rd new lenox illinois 60451"
+  },
+  {
+    "name": "Juneau Archery Club",
+    "address": "5670 Montana Creek Road, JUNEAU, Alaska, 99801",
+    "phone": "",
+    "email": "",
+    "website": "",
+    "programs": "indoor range",
+    "reviewStatus": "approved",
+    "externalRef": "nfaa:juneau archery club|5670 montana creek road juneau alaska 99801"
   },
   {
     "name": "Junior Olympian Archery Club of Louisville",
@@ -7422,7 +7432,7 @@
   {
     "name": "Team On-Point",
     "address": "7123 Bill Dorn rd, Appling, Georgia, United States of America, 30802",
-    "phone": "+1 7069454161",
+    "phone": "+17069454161",
     "email": "jake@topnockarchery.com",
     "website": "",
     "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program, 3D Archery",
@@ -8238,6 +8248,16 @@
     "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program",
     "reviewStatus": "approved",
     "externalRef": "usarchery:ursa major archers|12227 stallman rd rapid city michigan united states of america 49676"
+  },
+  {
+    "name": "Usery Mountain Archers Inc",
+    "address": "9333 E Obispo Ave, Mesa, Arizona, 85212",
+    "phone": "+16026966042",
+    "email": "umacarchery@gmail.com",
+    "website": "https://www.userymountainarchers.com",
+    "programs": "outdoor field range, outdoor range",
+    "reviewStatus": "approved",
+    "externalRef": "nfaa:usery mountain archers inc|9333 e obispo ave mesa arizona 85212"
   },
   {
     "name": "Utah Hot Shots Joad/Stp",
