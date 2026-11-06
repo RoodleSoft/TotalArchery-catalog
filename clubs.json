@@ -3910,6 +3910,16 @@
     "externalRef": "usarchery:kestrel archery|80 pleasant st 2nd floor dracut massachusetts united states of america 01826"
   },
   {
+    "name": "Khan Archery Club",
+    "address": "16801 Euclid St, Fountain Valley, California, United States of America, 92708-3005",
+    "phone": "+13108493658",
+    "email": "crvman77@icloud.com",
+    "website": "",
+    "programs": "Junior Olympic Archery Development (JOAD)",
+    "reviewStatus": "approved",
+    "externalRef": "usarchery:khan archery club|16801 euclid st fountain valley california united states of america 92708 3005"
+  },
+  {
     "name": "Kings Mountain Archers, Inc",
     "address": "1100 Kings Mountain Rd, Brown County Parks Gate # H11, Woodside, California, 94062",
     "phone": "",
@@ -4292,7 +4302,7 @@
   {
     "name": "LionHeart Academy",
     "address": "1331 N. Cuyamaca St., Suite E, El Cajon, California, United States of America, 92020",
-    "phone": "+1 619-462-2027",
+    "phone": "+16194622027",
     "email": "lionheartfencing@gmail.com",
     "website": "http://www.lionheartsandiego.com",
     "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program",
@@ -4860,16 +4870,6 @@
     "externalRef": "nfaa:multi lakes conservation association|3680 newton road commerce twp michigan 48383"
   },
   {
-    "name": "Music City Archers",
-    "address": "1113 Murfreesboro Rd. Suite 205, Franklin, Tennessee, United States of America, 37064",
-    "phone": "615-566-5187",
-    "email": "musiccityarchery@gmail.com",
-    "website": "http://musiccityarchery.com",
-    "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program, 3D Archery, Field Archery, Olympic Archery in the Schools",
-    "reviewStatus": "approved",
-    "externalRef": "usarchery:music city archers|1113 murfreesboro rd suite 205 franklin tennessee united states of america 37064"
-  },
-  {
     "name": "Muskegon Bowman",
     "address": "2380 Central Road, Muskegon, Michigan, United States of America, 49445",
     "phone": "6168900841",
@@ -5068,6 +5068,16 @@
     "programs": "indoor range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:next step archery|22313 70th ave w suite u1a mountlake terrace washington 98043"
+  },
+  {
+    "name": "Next Step Archery JOAD/AAP",
+    "address": "22313 70th Avenue W., Mountlake Terrace, Washington, United States of America, 98043",
+    "phone": "+1 4259772770",
+    "email": "coaches@nextsteparchery.org",
+    "website": "http://www.NextStepArchery.org",
+    "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program",
+    "reviewStatus": "approved",
+    "externalRef": "usarchery:next step archery joad aap|22313 70th avenue w mountlake terrace washington united states of america 98043"
   },
   {
     "name": "Nishu Bowmen",
@@ -5751,13 +5761,13 @@
   },
   {
     "name": "Pasadena Roving Archers Inc",
-    "address": "415 South Arroyo Blvd, PASADENA, California, 91105",
+    "address": "415 South Arroyo Boulevaard, Pasadena, California, 91105",
     "phone": "+16268254515",
     "email": "president@rovingarchers.com",
     "website": "",
     "programs": "outdoor field range, indoor range, outdoor range, 3d range",
     "reviewStatus": "approved",
-    "externalRef": "nfaa:pasadena roving archers inc|415 south arroyo blvd pasadena california 91105"
+    "externalRef": "nfaa:pasadena roving archers inc|415 south arroyo boulevaard pasadena california 91105"
   },
   {
     "name": "Paseo Vista Archery Club",
@@ -6068,16 +6078,6 @@
     "programs": "outdoor field range, indoor range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:pronghorn archery club|4706 south hwy 59 gillette wyoming 82718"
-  },
-  {
-    "name": "Purdue Archery",
-    "address": "1545 S River Rd, West Lafayette, Indiana, United States of America, 47906",
-    "phone": "+17572747943",
-    "email": "puac@purdue.edu",
-    "website": "http://puarchery.club",
-    "programs": "",
-    "reviewStatus": "approved",
-    "externalRef": "usarchery:purdue archery|1545 s river rd west lafayette indiana united states of america 47906"
   },
   {
     "name": "Quest Archery",
@@ -6965,7 +6965,7 @@
     "phone": "8554672260",
     "email": "contact@southbayarcherylessons.com",
     "website": "",
-    "programs": "indoor range, indoor range",
+    "programs": "indoor range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:south bay archery lessons dba california indoor archers|south bay archery lessons california indoor archers 1300 kingsdale ave redondo beach california 90278"
   },
@@ -7510,6 +7510,16 @@
     "externalRef": "nfaa:texas archery|10265 sh 30 bryan texas 77845"
   },
   {
+    "name": "Texas Parasport Archery",
+    "address": "5277 FM 1044, New Braunfels, Texas, United States of America, 78130",
+    "phone": "+12107600914",
+    "email": "txtask2024@gmail.com",
+    "website": "https://www.texasparasport.org/",
+    "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program",
+    "reviewStatus": "approved",
+    "externalRef": "usarchery:texas parasport archery|5277 fm 1044 new braunfels texas united states of america 78130"
+  },
+  {
     "name": "Texas Shooting Stars",
     "address": "1781 Cottondale RD, Springtown, Texas, United States of America, 76082",
     "phone": "(817) 629-8644",
@@ -7975,7 +7985,7 @@
     "phone": "",
     "email": "",
     "website": "",
-    "programs": "outdoor field range, indoor range, 3d range",
+    "programs": "outdoor field range, indoor range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:tulsa archery association|po box 127 sperry oklahoma 74073"
   },
