@@ -40,6 +40,16 @@
     "externalRef": "nfaa:academy archery club|5342 sumac drive usaf academy colorado 80840"
   },
   {
+    "name": "Aces & Arrows Archery, Inc.",
+    "address": "980 American Pacific Dr, Suite 107, Henderson, Nevada, 89014",
+    "phone": "",
+    "email": "",
+    "website": "http://acesandarrows.com",
+    "programs": "indoor range",
+    "reviewStatus": "approved",
+    "externalRef": "nfaa:aces arrows archery inc|980 american pacific dr suite 107 henderson nevada 89014"
+  },
+  {
     "name": "Adams Conservation Club",
     "address": "240 S King Road, Holland, Ohio, 43528",
     "phone": "",
@@ -295,7 +305,7 @@
     "phone": "+18066545919",
     "email": "kelvin856@gmail.com",
     "website": "",
-    "programs": "indoor range, outdoor range",
+    "programs": "indoor range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:armstrong county 4h shooting sports|901 hurley ave claude texas 79019"
   },
@@ -908,16 +918,6 @@
     "programs": "3d range, outdoor range, outdoor field range, 3d range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:black sheep bowmen|po box 6075 jber alaska 99506"
-  },
-  {
-    "name": "Blackhawk Archers Inc.",
-    "address": "7840 County Road Z, Custer, Wisconsin, 54423",
-    "phone": "",
-    "email": "rickreynolds543@gmail.com",
-    "website": "",
-    "programs": "3d range",
-    "reviewStatus": "approved",
-    "externalRef": "nfaa:blackhawk archers inc|7840 county road z custer wisconsin 54423"
   },
   {
     "name": "Blackhawk Archers of La Crosse",
@@ -4071,13 +4071,13 @@
   },
   {
     "name": "Lakeside Archery",
-    "address": "55 CUMBERLAND RD, N. YARMOUTH, Maine, 04097",
+    "address": "55 Cumberland Rd, North Yarmouth, Maine, 04097",
     "phone": "2078296213",
     "email": "lakesidearchery@gmail.com",
     "website": "",
     "programs": "outdoor field range, indoor range",
     "reviewStatus": "approved",
-    "externalRef": "nfaa:lakeside archery|55 cumberland rd n yarmouth maine 04097"
+    "externalRef": "nfaa:lakeside archery|55 cumberland rd north yarmouth maine 04097"
   },
   {
     "name": "Lakeside Archery Joad",
@@ -7484,7 +7484,7 @@
     "address": "1106 Wilmore, Memphis, Tennessee, United States of America, 38117",
     "phone": "9016033295",
     "email": "archery.awaits95@gmail.com",
-    "website": "",
+    "website": "http://www.memphis-archery.com",
     "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program",
     "reviewStatus": "approved",
     "externalRef": "usarchery:tennessee archery|1106 wilmore memphis tennessee united states of america 38117"
@@ -7688,6 +7688,16 @@
     "programs": "indoor range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:the ohio university archery club team|82 south green drive athens ohio 45701"
+  },
+  {
+    "name": "The Outdoor Insiders",
+    "address": "310 outdoor drive, new milford, Pennsylvania, 18834",
+    "phone": "+5707822520",
+    "email": "mvirbitsky@theoutdoorinciders.com",
+    "website": "http://theoutdoorinsiders.com",
+    "programs": "",
+    "reviewStatus": "approved",
+    "externalRef": "nfaa:the outdoor insiders|310 outdoor drive new milford pennsylvania 18834"
   },
   {
     "name": "The Outdoorsman Sport Shop",
