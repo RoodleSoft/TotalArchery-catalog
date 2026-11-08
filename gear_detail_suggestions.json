@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-01T04:43:35Z",
+ "updatedAt": "2026-11-08T04:45:28Z",
  "note": "Suggestions from retailer feeds: unconfirmed. The admin assistant checks each on its source page before applying.",
  "suggestions": {
   "bows:Hoyt|Carbon RX-10 Ultra": {
@@ -162,14 +162,6 @@
    "retailer": "lancasterarchery.com",
    "title": "Hamskea InSight Peep Housing"
   },
-  "gear:Hamskea|RAPTOR Peep": {
-   "fields": {
-    "priceUsd": 19.99
-   },
-   "source": "https://lancasterarchery.com/products/hamskea-raptor-peep",
-   "retailer": "lancasterarchery.com",
-   "title": "Hamskea Raptor Peep"
-  },
   "gear:Specialty Archery|Ultra Lite Peep": {
    "fields": {
     "priceUsd": 21.0
@@ -306,6 +298,22 @@
    "retailer": "lancasterarchery.com",
    "title": "AAE Driven Pro Drop Away Rest"
   },
+  "gear:Bear|Traditional Hair Rest": {
+   "fields": {
+    "priceUsd": 9.99
+   },
+   "source": "https://archerycountry.com/products/bear-traditional-hair-rest",
+   "retailer": "archerycountry.com",
+   "title": "Bear Traditional Hair Rest"
+  },
+  "gear:Bear|Weather Rest": {
+   "fields": {
+    "priceUsd": 4.99
+   },
+   "source": "https://archerycountry.com/products/bear-weather-rest",
+   "retailer": "archerycountry.com",
+   "title": "Bear Weather Rest"
+  },
   "gear:Hamskea|Epsilon": {
    "fields": {
     "priceUsd": 223.99
@@ -348,7 +356,7 @@
   },
   "gear:QAD|Integrate MX2": {
    "fields": {
-    "priceUsd": 299.99
+    "priceUsd": 309.99
    },
    "source": "https://lancasterarchery.com/products/elite-qad-integrate-mx2-rest",
    "retailer": "lancasterarchery.com",
@@ -369,14 +377,6 @@
    "source": "https://lancasterarchery.com/products/ripcord-code-red-x-arrow-rest",
    "retailer": "lancasterarchery.com",
    "title": "Black Gold Ripcord Code Red X Arrow Rest"
-  },
-  "gear:Trophy Ridge|Sync": {
-   "fields": {
-    "priceUsd": 59.99
-   },
-   "source": "https://lancasterarchery.com/products/trophy-ridge-sync-full-containment-rest",
-   "retailer": "lancasterarchery.com",
-   "title": "Trophy Ridge Sync Full Containment Rest"
   },
   "gear:Trophy Taker|Spring Steel Pro": {
    "fields": {
@@ -401,6 +401,14 @@
    "source": "https://archerycountry.com/products/burris-oracle-x-rangefinding-crossbow-scope",
    "retailer": "archerycountry.com",
    "title": "Burris Oracle X Rangefinding Crossbow Scope"
+  },
+  "gear:CBE|Rheostat Light": {
+   "fields": {
+    "priceUsd": 24.99
+   },
+   "source": "https://lancasterarchery.com/products/cbe-flare-rheostat-sight-light-1",
+   "retailer": "lancasterarchery.com",
+   "title": "CBE Flare Rheostat Sight Light"
   },
   "gear:Garmin|Xero A1i Pro": {
    "fields": {
@@ -442,13 +450,21 @@
    "retailer": "lancasterarchery.com",
    "title": "HHA Tetra Tournament Dovetail Short Bar (Mathews)"
   },
-  "gear:October Mountain Products|2 Hole Rest": {
+  "gear:October Mountain|2 Hole Rest": {
    "fields": {
     "priceUsd": 2.99
    },
    "source": "https://lancasterarchery.com/products/omp-2-hole-stick-on-arrow-rest",
    "retailer": "lancasterarchery.com",
    "title": "OMP 2 Hole Stick on Arrow Rest"
+  },
+  "gear:Option Archery|Allen Wrench Set": {
+   "fields": {
+    "priceUsd": 11.99
+   },
+   "source": "https://lancasterarchery.com/products/lancaster-archery-allen-wrench-set",
+   "retailer": "lancasterarchery.com",
+   "title": "Lancaster Archery Allen Wrench Set"
   },
   "gear:Spot Hogg|Boonie": {
    "fields": {
@@ -490,14 +506,6 @@
    "retailer": "lancasterarchery.com",
    "title": "Trophy Ridge FIX 5-Pin Picatinny Sight"
   },
-  "gear:Trophy Ridge|Hotwire": {
-   "fields": {
-    "priceUsd": 159.99
-   },
-   "source": "https://lancasterarchery.com/products/trophy-ridge-hotwire-sight",
-   "retailer": "lancasterarchery.com",
-   "title": "Trophy Ridge Hotwire Sight"
-  },
   "gear:Trophy Ridge|React Pro": {
    "fields": {
     "priceUsd": 215.99
@@ -513,6 +521,22 @@
    "source": "https://lancasterarchery.com/products/trophy-ridge-digital-react-trio-pro-sight-3-pin",
    "retailer": "lancasterarchery.com",
    "title": "Trophy Ridge Digital React Trio Pro Sight (3 Pin)"
+  },
+  "gear:Trophy Ridge|Tru-Peep": {
+   "fields": {
+    "priceUsd": 5.99
+   },
+   "source": "https://lancasterarchery.com/products/jim-fletcher-tru-peep",
+   "retailer": "lancasterarchery.com",
+   "title": "Trophy Ridge Tru-Peep"
+  },
+  "gear:UltraView|Slider 2 Viz Ring": {
+   "fields": {
+    "priceUsd": 19.99
+   },
+   "source": "https://lancasterarchery.com/products/ultraview-uv-slider-2-0-no-light-viz-ring",
+   "retailer": "lancasterarchery.com",
+   "title": "ULTRAVIEW UV Slider 2 No Light Viz Ring"
   },
   "gear:Bee Stinger|MicroHex": {
    "fields": {
@@ -538,14 +562,6 @@
    "retailer": "lancasterarchery.com",
    "title": "Bee Stinger Sport Hunter Xtreme 10\" Stabilizer (Camo)"
   },
-  "gear:Mathews|Bridge-Lock Stabilizer": {
-   "fields": {
-    "priceUsd": 249.99
-   },
-   "source": "https://archerycountry.com/products/mathews-bridge-lock-stabilizer",
-   "retailer": "archerycountry.com",
-   "title": "Mathews Bridge Lock Stabilizer"
-  },
   "gear:60X Custom Strings|Custom string & cable set": {
    "fields": {
     "priceUsd": 159.99
@@ -570,7 +586,7 @@
    "retailer": "lancasterarchery.com",
    "title": "GAS High Octane Blackout Complete String and Cable Set"
   },
-  "gear:October Mountain Products|B-50 Recurve String": {
+  "gear:October Mountain|B-50 Recurve String": {
    "fields": {
     "priceUsd": 12.99
    },
@@ -578,31 +594,23 @@
    "retailer": "lancasterarchery.com",
    "title": "B-55 Dacron Recurve BowString AMO Bow String Strd/Lgth-14-Blk-50"
   },
-  "gear:Bear|Traditional Hair Rest": {
+  "gear:Hamskea|RAPTOR Peep": {
    "fields": {
-    "priceUsd": 9.99
+    "priceUsd": 19.99
    },
-   "source": "https://archerycountry.com/products/bear-traditional-hair-rest",
-   "retailer": "archerycountry.com",
-   "title": "Bear Traditional Hair Rest"
-  },
-  "gear:Bear|Weather Rest": {
-   "fields": {
-    "priceUsd": 4.99
-   },
-   "source": "https://archerycountry.com/products/bear-weather-rest",
-   "retailer": "archerycountry.com",
-   "title": "Bear Weather Rest"
-  },
-  "gear:CBE|Rheostat Light": {
-   "fields": {
-    "priceUsd": 24.99
-   },
-   "source": "https://lancasterarchery.com/products/cbe-flare-rheostat-sight-light-1",
+   "source": "https://lancasterarchery.com/products/hamskea-raptor-peep",
    "retailer": "lancasterarchery.com",
-   "title": "CBE Flare Rheostat Sight Light"
+   "title": "Hamskea Raptor Peep"
   },
-  "gear:October Mountain|2 Hole Rest": {
+  "gear:Trophy Ridge|Sync": {
+   "fields": {
+    "priceUsd": 59.99
+   },
+   "source": "https://lancasterarchery.com/products/trophy-ridge-sync-full-containment-rest",
+   "retailer": "lancasterarchery.com",
+   "title": "Trophy Ridge Sync Full Containment Rest"
+  },
+  "gear:October Mountain Products|2 Hole Rest": {
    "fields": {
     "priceUsd": 2.99
    },
@@ -610,31 +618,23 @@
    "retailer": "lancasterarchery.com",
    "title": "OMP 2 Hole Stick on Arrow Rest"
   },
-  "gear:Option Archery|Allen Wrench Set": {
+  "gear:Trophy Ridge|Hotwire": {
    "fields": {
-    "priceUsd": 11.99
+    "priceUsd": 159.99
    },
-   "source": "https://lancasterarchery.com/products/lancaster-archery-allen-wrench-set",
+   "source": "https://lancasterarchery.com/products/trophy-ridge-hotwire-sight",
    "retailer": "lancasterarchery.com",
-   "title": "Lancaster Archery Allen Wrench Set"
+   "title": "Trophy Ridge Hotwire Sight"
   },
-  "gear:Trophy Ridge|Tru-Peep": {
+  "gear:Mathews|Bridge-Lock Stabilizer": {
    "fields": {
-    "priceUsd": 5.99
+    "priceUsd": 249.99
    },
-   "source": "https://lancasterarchery.com/products/jim-fletcher-tru-peep",
-   "retailer": "lancasterarchery.com",
-   "title": "Trophy Ridge Tru-Peep"
+   "source": "https://archerycountry.com/products/mathews-bridge-lock-stabilizer",
+   "retailer": "archerycountry.com",
+   "title": "Mathews Bridge Lock Stabilizer"
   },
-  "gear:UltraView|Slider 2 Viz Ring": {
-   "fields": {
-    "priceUsd": 19.99
-   },
-   "source": "https://lancasterarchery.com/products/ultraview-uv-slider-2-0-no-light-viz-ring",
-   "retailer": "lancasterarchery.com",
-   "title": "ULTRAVIEW UV Slider 2 No Light Viz Ring"
-  },
-  "gear:October Mountain|B-50 Recurve String": {
+  "gear:October Mountain Products|B-50 Recurve String": {
    "fields": {
     "priceUsd": 12.99
    },
