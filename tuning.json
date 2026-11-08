@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T03:50:12.182714Z",
+  "updatedAt": "2026-11-08T03:50:11.501320Z",
   "bows": {
     "hoyt_2026_carbon_rx_10": {
       "system": "hoyt_xts",
@@ -92,7 +92,7 @@
     "hoyt_2024_carbon_rx_8_ultra": {
       "system": "hoyt_hbx",
       "source": "rule",
-      "checkedAt": "2026-10-11T03:50:10.106307Z"
+      "checkedAt": "2026-11-08T03:50:11.501320Z"
     },
     "hoyt_2024_alpha_x_30": {
       "system": "hoyt_hbx",
