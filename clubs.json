@@ -1290,16 +1290,6 @@
     "externalRef": "nfaa:c c archery and sporting goods|7149 w main rd leroy new york 14482"
   },
   {
-    "name": "C.B.A & You, Inc.",
-    "address": "1220 S Powahatan Ave, Independence, Missouri, United States of America, 64057",
-    "phone": "816-886-6281",
-    "email": "archeryexcellence@gmail.com",
-    "website": "http://www.cbayou.org",
-    "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program, 3D Archery",
-    "reviewStatus": "approved",
-    "externalRef": "usarchery:c b a you inc|1220 s powahatan ave independence missouri united states of america 64057"
-  },
-  {
     "name": "CJ ARCHERY ACADEMY",
     "address": "720 S Bell Blvd, Unit 1C, Cedar Park, Texas, United States of America, 78613-7667",
     "phone": "+1 949-536-4413",
@@ -5101,13 +5091,13 @@
   },
   {
     "name": "Nocking Point Archers",
-    "address": "8051 Mayfield Road, Chesterland, Ohio, 44026",
-    "phone": "+14408298730",
-    "email": "info@ohioarcherycenter.com",
-    "website": "",
-    "programs": "indoor range",
+    "address": "8051 Mayfield Road, Chesterland, Ohio, United States of America, 44062",
+    "phone": "+1 4408298730",
+    "email": "info@ohioarcherycoach.com",
+    "website": "http://ohioarcherycenter.com/archery-club/",
+    "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program, Field Archery",
     "reviewStatus": "approved",
-    "externalRef": "nfaa:nocking point archers|8051 mayfield road chesterland ohio 44026"
+    "externalRef": "usarchery:nocking point archers|8051 mayfield road chesterland ohio united states of america 44062"
   },
   {
     "name": "Nocking Point Deadeyes",
@@ -7695,7 +7685,7 @@
     "phone": "+5707822520",
     "email": "mvirbitsky@theoutdoorinciders.com",
     "website": "http://theoutdoorinsiders.com",
-    "programs": "",
+    "programs": "indoor range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:the outdoor insiders|310 outdoor drive new milford pennsylvania 18834"
   },
@@ -8018,16 +8008,6 @@
     "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program, 3D Archery, Field Archery",
     "reviewStatus": "approved",
     "externalRef": "usarchery:turpin archery academy|4703 n 44th street nebraska outdoor education center lincoln nebraska united states of america 68504"
-  },
-  {
-    "name": "Tuscarora Archers",
-    "address": "P. O. Box 403, 5608 Etzler Road, Frederick, Maryland, United States of America, 21705",
-    "phone": "+12405297726",
-    "email": "stoothaker@gmail.com",
-    "website": "http://www.tuscaroraarcher.org",
-    "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program",
-    "reviewStatus": "approved",
-    "externalRef": "usarchery:tuscarora archers|p o box 403 5608 etzler road frederick maryland united states of america 21705"
   },
   {
     "name": "Tuscarora Archers Inc",

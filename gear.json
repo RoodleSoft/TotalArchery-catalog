@@ -385,6 +385,94 @@
   {
     "category": "peep",
     "brand": "Hamskea",
+    "model": "DC InSight Deluxe Peep System",
+    "url": "https://www.hamskeaarchery.com/shop/dc-insight-peep-system/dc-insight-deluxe-peep-system/",
+    "priceUsd": null,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://www.hamskeaarchery.com/wp-content/uploads/2024/12/DCInsight_DeluxeKit_ProductPhoto.jpg"
+  },
+  {
+    "category": "peep",
+    "brand": "Hamskea",
+    "model": "DC InSight Peep Housing",
+    "url": "https://www.hamskeaarchery.com/shop/dc-insight-peep-system/dc-insight-peep-housing/",
+    "priceUsd": 40.0,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://www.hamskeaarchery.com/wp-content/uploads/2024/12/FS-Raptor-Apertures-10.png"
+  },
+  {
+    "category": "peep",
+    "brand": "Hamskea",
+    "model": "DC InSight Standard Peep System",
+    "url": "https://www.hamskeaarchery.com/shop/dc-insight-peep-system/dc-insight-standard-peep-system/",
+    "priceUsd": 129.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://www.hamskeaarchery.com/wp-content/uploads/2024/10/FS-Raptor-Apertures-7.png"
+  },
+  {
+    "category": "peep",
+    "brand": "Hamskea",
+    "model": "FS Raptor Deluxe Peep System",
+    "url": "https://www.hamskeaarchery.com/shop/fs-raptor-peep-system/fs-raptor-deluxe-peep-system/",
+    "priceUsd": 199.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://www.hamskeaarchery.com/wp-content/uploads/2024/12/FS-Deluxe-System-3.png"
+  },
+  {
+    "category": "peep",
+    "brand": "Hamskea",
+    "model": "FS Raptor Peep Housing",
+    "url": "https://www.hamskeaarchery.com/shop/fs-raptor-peep-system/fs-raptor-peep-housing/",
+    "priceUsd": 25.0,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://www.hamskeaarchery.com/wp-content/uploads/2024/12/FS-Raptor-Apertures.png"
+  },
+  {
+    "category": "peep",
+    "brand": "Hamskea",
+    "model": "FS Raptor Standard Peep System",
+    "url": "https://www.hamskeaarchery.com/shop/fs-raptor-peep-system/fs-raptor-standard-peep-system/",
+    "priceUsd": 79.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://www.hamskeaarchery.com/wp-content/uploads/2024/11/FS-Standard-System-1.png"
+  },
+  {
+    "category": "peep",
+    "brand": "Hamskea",
+    "model": "InSight 6 Aperture Set",
+    "url": "https://www.hamskeaarchery.com/shop/insight-peep-system/kits-insight-peep-system/insight-6-aperture-set/",
+    "priceUsd": 44.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://www.hamskeaarchery.com/wp-content/uploads/2021/05/Insight-Aperture-Kit_PEEP050.png"
+  },
+  {
+    "category": "peep",
+    "brand": "Hamskea",
+    "model": "InSight Apertures",
+    "url": "https://www.hamskeaarchery.com/shop/insight-peep-system/apertures-insight-peep-system/insightapertures/",
+    "priceUsd": 9.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://www.hamskeaarchery.com/wp-content/uploads/2019/02/Apertures-Spread-w_-Black-Text.png"
+  },
+  {
+    "category": "peep",
+    "brand": "Hamskea",
     "model": "InSight Peep",
     "url": "https://hamskea.com",
     "priceUsd": null,
@@ -395,12 +483,24 @@
   {
     "category": "peep",
     "brand": "Hamskea",
-    "model": "RAPTOR Peep",
-    "url": "https://hamskea.com",
-    "priceUsd": null,
-    "verified": false,
+    "model": "InSight Short Draw Peep Housing",
+    "url": "https://www.hamskeaarchery.com/shop/short-draw-insight-peep-system/peep-housing-short-draw/insight-short-draw-peep-housing/",
+    "priceUsd": 39.99,
+    "verified": true,
     "tapeWidthIn": null,
-    "weightG": null
+    "weightG": null,
+    "image": "https://www.hamskeaarchery.com/wp-content/uploads/2019/05/Short-Draw-InSight-Peep-Housing-PEEP000.png"
+  },
+  {
+    "category": "peep",
+    "brand": "Hamskea",
+    "model": "Raptor Peep",
+    "url": "https://www.hamskeaarchery.com/shop/raptor-hunting-peeps/raptor-peep/",
+    "priceUsd": 19.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://www.hamskeaarchery.com/wp-content/uploads/2019/02/RaptorPeep_ProductPhoto_Website.jpg"
   },
   {
     "category": "peep",
@@ -2931,6 +3031,17 @@
   },
   {
     "category": "release",
+    "brand": "Hamskea",
+    "model": "The Cure Release Aid",
+    "url": "https://www.hamskeaarchery.com/shop/release-aids-and-armguards/the-cure-release-aid/",
+    "priceUsd": 179.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://www.hamskeaarchery.com/wp-content/uploads/2019/02/Cure-Release-Aid-Black-302001.png"
+  },
+  {
+    "category": "release",
     "brand": "Nock On",
     "model": "Nock 2 It",
     "url": "https://nockon.com",
@@ -4501,6 +4612,72 @@
   {
     "category": "rest",
     "brand": "Hamskea",
+    "model": ".010 Deep V Blued Arrow Rest Launcher",
+    "url": "https://www.hamskeaarchery.com/shop/arrow-rest-accessories/launchers/010-deep-v-blued-arrow-rest-launcher/",
+    "priceUsd": null,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://www.hamskeaarchery.com/wp-content/uploads/2019/02/010-Deep-V-Blued-Arrow-Rest-Launcher-LA002.png"
+  },
+  {
+    "category": "rest",
+    "brand": "Hamskea",
+    "model": ".010 Hurricane Blued Arrow Rest Launcher",
+    "url": "https://www.hamskeaarchery.com/shop/arrow-rest-accessories/launchers/010-hurricane-blued-arrow-rest-launcher/",
+    "priceUsd": null,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://www.hamskeaarchery.com/wp-content/uploads/2019/02/010-Blued-Hurricane-Arrow-Rest-Launcher-LA003.png"
+  },
+  {
+    "category": "rest",
+    "brand": "Hamskea",
+    "model": ".012 Narrow Stainless Arrow Rest Launcher",
+    "url": "https://www.hamskeaarchery.com/shop/arrow-rest-accessories/launchers/012-narrow-stainless-arrow-rest-launcher/",
+    "priceUsd": null,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://www.hamskeaarchery.com/wp-content/uploads/2019/02/012-Narrow-Stainless-Arrow-Rest-Launcher-LA004.png"
+  },
+  {
+    "category": "rest",
+    "brand": "Hamskea",
+    "model": ".012 Wide Stainless Arrow Rest Launcher",
+    "url": "https://www.hamskeaarchery.com/shop/arrow-rest-accessories/launchers/012-wide-stainless-arrow-rest-launcher/",
+    "priceUsd": null,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://www.hamskeaarchery.com/wp-content/uploads/2019/02/012-Wide-Stainless-Arrow-Rest-Launcher-LA005.png"
+  },
+  {
+    "category": "rest",
+    "brand": "Hamskea",
+    "model": "Backer Blade Plate for Arrow Rest Launcher Blades",
+    "url": "https://www.hamskeaarchery.com/shop/arrow-rest-accessories/launchers/backer-blade-plate-for-arrow-rest-launcher-blades/",
+    "priceUsd": null,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://www.hamskeaarchery.com/wp-content/uploads/2019/02/Backer-Plate-for-Arrow-Rest-Launchers-LA001.png"
+  },
+  {
+    "category": "rest",
+    "brand": "Hamskea",
+    "model": "Blackout Over-Molded Launcher",
+    "url": "https://www.hamskeaarchery.com/shop/arrow-rest-accessories/launchers/blackout-over-molded-launcher/",
+    "priceUsd": 24.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://www.hamskeaarchery.com/wp-content/uploads/2025/10/Blackout-Launcher-Front-LA012-e1761667638273.png"
+  },
+  {
+    "category": "rest",
+    "brand": "Hamskea",
     "model": "Buffered Limb Spring",
     "url": "https://xspotarchery.com/products/hamskea-buffered-limb-spring-kit",
     "priceUsd": null,
@@ -4508,6 +4685,39 @@
     "tapeWidthIn": null,
     "weightG": null,
     "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/905000-100x100.png"
+  },
+  {
+    "category": "rest",
+    "brand": "Hamskea",
+    "model": "Contoured Accu-Guide Arrow Rest Launcher",
+    "url": "https://www.hamskeaarchery.com/shop/arrow-rest-accessories/launchers/contoured-accu-guide-arrow-rest-launcher/",
+    "priceUsd": null,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://www.hamskeaarchery.com/wp-content/uploads/2019/02/Contoured-Accu-Guide-Arrow-Rest-Launcher-LA006.png"
+  },
+  {
+    "category": "rest",
+    "brand": "Hamskea",
+    "model": "Die Stamped Felt for Accu-Guide Arrow Rest Launcher",
+    "url": "https://www.hamskeaarchery.com/shop/arrow-rest-accessories/launchers/die-stamped-felt-for-accu-guide-arrow-rest-launcher/",
+    "priceUsd": null,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://www.hamskeaarchery.com/wp-content/uploads/2019/02/Die-Stamped-Felt-for-Accu-Guide-Arrow-Rest-LauncherFelt003.png"
+  },
+  {
+    "category": "rest",
+    "brand": "Hamskea",
+    "model": "Die Stamped Felt for Overmolded Containment Arrow Rest Launcher",
+    "url": "https://www.hamskeaarchery.com/shop/arrow-rest-accessories/launchers/die-stamped-felt-for-overmolded-containment-arrow-rest-launcher/",
+    "priceUsd": null,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://www.hamskeaarchery.com/wp-content/uploads/2019/02/Die-Stamped-Felt-for-Overloaded-Containment-Arrow-Rest-LauncherFELT004.png"
   },
   {
     "category": "rest",
@@ -4522,12 +4732,122 @@
   {
     "category": "rest",
     "brand": "Hamskea",
+    "model": "Everest Integrate Arrow Rest",
+    "url": "https://www.hamskeaarchery.com/shop/arrow-rests/everest/everest-integrate-compatible-arrow-rest/",
+    "priceUsd": 199.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://www.hamskeaarchery.com/wp-content/uploads/2025/10/Hamskea_Everest_ProductPhoto_1-e1761232888639.png"
+  },
+  {
+    "category": "rest",
+    "brand": "Hamskea",
+    "model": "G-Flex 3-D Arrow Rest Launcher (.302″ Prong Width)",
+    "url": "https://www.hamskeaarchery.com/shop/arrow-rest-accessories/launchers/g-flex-target-and-3-d-target-arrow-rest-launcher-302-prong-width/",
+    "priceUsd": 15.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://www.hamskeaarchery.com/wp-content/uploads/2019/02/G-Flex™-Target-and-3-D-Target-Arrow-Rest-Launcher-LA023.png"
+  },
+  {
+    "category": "rest",
+    "brand": "Hamskea",
+    "model": "G-Flex Field Arrow Rest Launcher (.240 Prong Width)",
+    "url": "https://www.hamskeaarchery.com/shop/arrow-rest-accessories/launchers/g-flex-field-arrow-rest-launcher-240-prong-width/",
+    "priceUsd": 15.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://www.hamskeaarchery.com/wp-content/uploads/2019/02/G-Flex™-Field-Arrow-Rest-Launcher-LA022.png"
+  },
+  {
+    "category": "rest",
+    "brand": "Hamskea",
+    "model": "G-Flex Full Capture Launcher (1.176″ Prong Width)",
+    "url": "https://www.hamskeaarchery.com/shop/arrow-rest-accessories/launchers/g-flex-full-capture-launcher/",
+    "priceUsd": 19.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://www.hamskeaarchery.com/wp-content/uploads/2019/02/G-Flex-Full-Capture-Launcher-LA035.png"
+  },
+  {
+    "category": "rest",
+    "brand": "Hamskea",
+    "model": "G-Flex Ultra Narrow Arrow Rest Launcher (.174 Prong Width)",
+    "url": "https://www.hamskeaarchery.com/shop/arrow-rest-accessories/launchers/g-flex-ultra-narrow-arrow-rest-launcher-174-prong-width/",
+    "priceUsd": 15.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://www.hamskeaarchery.com/wp-content/uploads/2019/02/G-Flex™-Ultra-Narrow-Launcher-LA021.png"
+  },
+  {
+    "category": "rest",
+    "brand": "Hamskea",
+    "model": "G-Flex Wide Arrow Rest Launcher",
+    "url": "https://www.hamskeaarchery.com/shop/arrow-rest-accessories/launchers/g-flex-wide-arrow-rest-launcher/",
+    "priceUsd": 15.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://www.hamskeaarchery.com/wp-content/uploads/2019/02/LA020-Patent-Pending.png"
+  },
+  {
+    "category": "rest",
+    "brand": "Hamskea",
     "model": "Hybrid Hunter Pro",
     "url": "https://hamskea.com",
     "priceUsd": null,
     "verified": false,
     "tapeWidthIn": null,
     "weightG": null
+  },
+  {
+    "category": "rest",
+    "brand": "Hamskea",
+    "model": "Launcher Fabric Overlay",
+    "url": "https://www.hamskeaarchery.com/shop/arrow-rest-accessories/launchers/launcher-fabric-overlay/",
+    "priceUsd": null,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://www.hamskeaarchery.com/wp-content/uploads/2025/10/Launcher-Fabric-Overlay-FELT006-e1761681054854.png"
+  },
+  {
+    "category": "rest",
+    "brand": "Hamskea",
+    "model": "Overmolded Containment Launcher for Trinity and Hybrid Hunter Pro Series Arrow Rests",
+    "url": "https://www.hamskeaarchery.com/shop/arrow-rest-accessories/launchers/overmolded-containment-launcher-for-trinity-and-hybrid-hunter-pro-series-arrow-rests/",
+    "priceUsd": null,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://www.hamskeaarchery.com/wp-content/uploads/2019/02/Hybrid-Overmold-Arrow-Rest-Launcher-LA008.png"
+  },
+  {
+    "category": "rest",
+    "brand": "Hamskea",
+    "model": "Primer Arrow Rest",
+    "url": "https://www.hamskeaarchery.com/shop/arrow-rests/primer-arrow-rest/primer-arrow-rest/",
+    "priceUsd": 154.95,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": 102.0582,
+    "image": "https://www.hamskeaarchery.com/wp-content/uploads/2020/12/Hamskea_Primer.jpg"
+  },
+  {
+    "category": "rest",
+    "brand": "Hamskea",
+    "model": "Primer Containment Launcher",
+    "url": "https://www.hamskeaarchery.com/shop/arrow-rest-accessories/launchers/primer-containment-launcher/",
+    "priceUsd": null,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://www.hamskeaarchery.com/wp-content/uploads/2020/12/LA010-Primer-Containment-Launcher.png"
   },
   {
     "category": "rest",
@@ -4543,12 +4863,45 @@
   {
     "category": "rest",
     "brand": "Hamskea",
+    "model": "R7 Integrate Arrow Rest",
+    "url": "https://www.hamskeaarchery.com/shop/arrow-rests/r7/r7-arrow-rest/",
+    "priceUsd": 339.95,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://www.hamskeaarchery.com/wp-content/uploads/2026/06/Hamske_R7_ProductPhoto_WebsiteThumbnail-scaled.jpg"
+  },
+  {
+    "category": "rest",
+    "brand": "Hamskea",
     "model": "Raptor",
     "url": "https://hamskea.com",
     "priceUsd": null,
     "verified": false,
     "tapeWidthIn": null,
     "weightG": null
+  },
+  {
+    "category": "rest",
+    "brand": "Hamskea",
+    "model": "Stainless Core Arrow Rest Launcher",
+    "url": "https://www.hamskeaarchery.com/shop/arrow-rest-accessories/launchers/stainless-core-arrow-rest-launcher/",
+    "priceUsd": null,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://www.hamskeaarchery.com/wp-content/uploads/2019/02/Hybrid-Stainless-Core-Arrow-Rest-Launcher-LA009.png"
+  },
+  {
+    "category": "rest",
+    "brand": "Hamskea",
+    "model": "Stainless Overmolded Launcher",
+    "url": "https://www.hamskeaarchery.com/shop/arrow-rest-accessories/launchers/epsilon-containment-launcher/",
+    "priceUsd": 19.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://www.hamskeaarchery.com/wp-content/uploads/2021/12/Epsilon-Launcher-LA011.png"
   },
   {
     "category": "rest",
@@ -4573,12 +4926,34 @@
   {
     "category": "rest",
     "brand": "Hamskea",
+    "model": "Versa Overdraw /",
+    "url": "https://www.hamskeaarchery.com/shop/arrow-rest-accessories/overdraw/versa-overdraw-rh-lh/",
+    "priceUsd": 64.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://www.hamskeaarchery.com/wp-content/uploads/2019/02/Versa-Overdraw-203000-2.png"
+  },
+  {
+    "category": "rest",
+    "brand": "Hamskea",
     "model": "Versarest",
     "url": "https://hamskea.com",
     "priceUsd": null,
     "verified": false,
     "tapeWidthIn": null,
     "weightG": null
+  },
+  {
+    "category": "rest",
+    "brand": "Hamskea",
+    "model": "Wedge Lever Arm",
+    "url": "https://www.hamskeaarchery.com/shop/hardware/lever-arms/wedge-lever-arm/",
+    "priceUsd": 39.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://www.hamskeaarchery.com/wp-content/uploads/2025/10/Wedge-Lever-Arm-905200-e1761678991922.png"
   },
   {
     "category": "rest",
@@ -7058,6 +7433,61 @@
     "tapeWidthIn": null,
     "weightG": null,
     "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/74381_1.jpg"
+  },
+  {
+    "category": "sight",
+    "brand": "Hamskea",
+    "model": "Easy Third Axis Level",
+    "url": "https://www.hamskeaarchery.com/shop/sight-leveling/easy-third-axis-level-patent-7975391/",
+    "priceUsd": 59.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://www.hamskeaarchery.com/wp-content/uploads/2019/02/Easy-Third-Axis-Level-101001.png"
+  },
+  {
+    "category": "sight",
+    "brand": "Hamskea",
+    "model": "GEN2PRO Third Axis Level",
+    "url": "https://www.hamskeaarchery.com/shop/sight-leveling/gen2pro-third-axis-level-2/",
+    "priceUsd": 79.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://www.hamskeaarchery.com/wp-content/uploads/2021/11/GEN2PRO_Product-Photo_Clean_ClippedATA-Large.jpg"
+  },
+  {
+    "category": "sight",
+    "brand": "Hamskea",
+    "model": "Sight Leveling Made Easy DVD",
+    "url": "https://www.hamskeaarchery.com/shop/sight-leveling/sight-leveling-made-easy-dvd/",
+    "priceUsd": null,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://www.hamskeaarchery.com/wp-content/uploads/2019/02/Sight-Leveling-Made-Easy-DVD-1.png"
+  },
+  {
+    "category": "sight",
+    "brand": "Hamskea",
+    "model": "Versa Level",
+    "url": "https://www.hamskeaarchery.com/shop/sight-leveling/versa-level/",
+    "priceUsd": 31.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://www.hamskeaarchery.com/wp-content/uploads/2019/02/Versa-Level-1.png"
+  },
+  {
+    "category": "sight",
+    "brand": "Hamskea",
+    "model": "Waypoint Arrow Level",
+    "url": "https://www.hamskeaarchery.com/shop/sight-leveling/waypoint-arrow-level/",
+    "priceUsd": 89.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://www.hamskeaarchery.com/wp-content/uploads/2022/12/HAMSKEA-WayPoint-Arrow-Level-Item-101003.png"
   },
   {
     "category": "sight",

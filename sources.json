@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T02:34:22.386095Z",
+  "updatedAt": "2026-11-08T02:23:55.943100Z",
   "products": [
     {
       "brand": "Hoyt",
@@ -295,14 +295,18 @@
       "brand": "ThreadZ",
       "host": "threadz.com",
       "kind": "shopify"
+    },
+    {
+      "brand": "Black Eagle",
+      "host": "blackeaglearchery.com",
+      "kind": "woo"
+    },
+    {
+      "brand": "Hamskea",
+      "host": "hamskeaarchery.com",
+      "kind": "woo"
     }
   ],
   "events": [],
-  "retailers": [
-    {
-      "host": "specialtyarch.com",
-      "kind": "woo",
-      "vendorSample": 24
-    }
-  ]
+  "retailers": []
 }
