@@ -1,6 +1,54 @@
 {
-  "updatedAt": "2026-11-01T04:12:09.154638Z",
+  "updatedAt": "2026-11-08T04:11:42.111412Z",
   "sights": [
+    {
+      "brand": "Axcel",
+      "model": "Driver",
+      "url": "https://truball.com/products/driver-avx-triple-threat-pin-picatinny",
+      "image": "https://cdn.shopify.com/s/files/1/2312/8661/files/ADVP-PT19-4AB_01.png",
+      "priceUsd": 508.36,
+      "firstSeen": "2026-11-08"
+    },
+    {
+      "brand": "Axcel",
+      "model": "Driver CK",
+      "url": "https://truball.com/products/driver-ck-standard-pro-avx-triple-threat-pin",
+      "image": "https://cdn.shopify.com/s/files/1/2312/8661/files/ADVP-ST19-4TR01.png",
+      "priceUsd": 560.24,
+      "firstSeen": "2026-11-08"
+    },
+    {
+      "brand": "Axcel",
+      "model": "Driver Plus Slider Sight",
+      "url": "https://xspotarchery.com/products/axcel-driver-plus-slider-sight-standard-pro-bar-w-avx-41-scope-single-pin-010-green-fiber",
+      "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/1040329_1000x_8294718c-6b46-40fc-b62e-fd60653abeef.webp",
+      "priceUsd": 469.99,
+      "firstSeen": "2026-11-08"
+    },
+    {
+      "brand": "Axcel",
+      "model": "Driver Slider Sight",
+      "url": "https://xspotarchery.com/products/axcel-driver-slider-sight-picatinny-w-accustat-ii-scope-micro-3-pins-010-fiber-rh-black",
+      "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/1040331_stealth.jpg",
+      "priceUsd": 509.99,
+      "firstSeen": "2026-11-08"
+    },
+    {
+      "brand": "Axcel",
+      "model": "Landslyde",
+      "url": "https://truball.com/products/landslyde-sight-bar-only-no-scope",
+      "image": "https://cdn.shopify.com/s/files/1/2312/8661/files/ALND-P-BK_02.png",
+      "priceUsd": 363.11,
+      "firstSeen": "2026-11-08"
+    },
+    {
+      "brand": "Axcel",
+      "model": "RheoTech",
+      "url": "https://truball.com/products/rheotech-fixed-pin-sight",
+      "image": "https://cdn.shopify.com/s/files/1/2312/8661/files/AXRT-P410-BK_01_1b4d8198-e193-45f5-9923-662172582fe5.png",
+      "priceUsd": 352.74,
+      "firstSeen": "2026-11-08"
+    },
     {
       "brand": "Black Gold",
       "model": "Dual Indicator System",
@@ -40,6 +88,78 @@
       "image": null,
       "priceUsd": null,
       "firstSeen": "2026-10-02"
+    },
+    {
+      "brand": "HHA",
+      "model": "NYTRX X3 Picatinny Sight .019",
+      "url": "https://xspotarchery.com/products/hha-nytrx-x3-picatinny-sight-rh-019-left-hand",
+      "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/1041180.jpg",
+      "priceUsd": 349.99,
+      "firstSeen": "2026-11-08"
+    },
+    {
+      "brand": "Option Archery",
+      "model": "4s/6s Sight Models",
+      "url": "https://optionarchery.com/products/new-s-series-option-sights",
+      "image": "https://cdn.shopify.com/s/files/1/1336/2251/files/6s-w-ExtensionMount1.jpg",
+      "priceUsd": 530.0,
+      "firstSeen": "2026-11-08"
+    },
+    {
+      "brand": "Option Archery",
+      "model": "8s Sight Model",
+      "url": "https://optionarchery.com/products/option-sight-model-8s",
+      "image": "https://cdn.shopify.com/s/files/1/1336/2251/files/ExtensionMount8s-2.jpg",
+      "priceUsd": 560.0,
+      "firstSeen": "2026-11-08"
+    },
+    {
+      "brand": "Option Archery",
+      "model": "Available Sight Upgrades (for previous models)",
+      "url": "https://optionarchery.com/products/s-series-sight-upgrade-upgrade-previous-option-trophy-taker-sights",
+      "image": "https://cdn.shopify.com/s/files/1/1336/2251/products/MoverPinOnlyUpgrade-2022.jpg",
+      "priceUsd": 60.0,
+      "firstSeen": "2026-11-08"
+    },
+    {
+      "brand": "Option Archery",
+      "model": "Canyon Pounder Sight",
+      "url": "https://optionarchery.com/products/2023-canyon-pounder-sight",
+      "image": "https://cdn.shopify.com/s/files/1/1336/2251/files/Canyon_Pounder_Bow_Sight_with_Standard_Extension_Mount.jpg",
+      "priceUsd": 640.0,
+      "firstSeen": "2026-11-08"
+    },
+    {
+      "brand": "Option Archery",
+      "model": "Canyon Pounder Sight Components",
+      "url": "https://optionarchery.com/products/canyon-pounder-sight-components-not-complete-sights",
+      "image": "https://cdn.shopify.com/s/files/1/1336/2251/files/CP_Drive_with_Extension_Mount.jpg",
+      "priceUsd": 395.0,
+      "firstSeen": "2026-11-08"
+    },
+    {
+      "brand": "Option Archery",
+      "model": "Optional Zero Stop (for Canyon Pounder Sight)",
+      "url": "https://optionarchery.com/products/optional-zero-stop-for-canyon-pounder-sight",
+      "image": "https://cdn.shopify.com/s/files/1/1336/2251/files/CPZeroStop.jpg",
+      "priceUsd": 20.0,
+      "firstSeen": "2026-11-08"
+    },
+    {
+      "brand": "Option Archery",
+      "model": "Raptor Hunting Peeps",
+      "url": "https://optionarchery.com/products/oval-peep-sight",
+      "image": "https://cdn.shopify.com/s/files/1/1336/2251/files/Raptor-Peep-Size-Chart.jpg",
+      "priceUsd": 20.0,
+      "firstSeen": "2026-11-08"
+    },
+    {
+      "brand": "Option Archery",
+      "model": "Speed Specific Laser Engraved Sight Scale for Canyon Pounder",
+      "url": "https://optionarchery.com/products/left-hand-speed-specific-laser-engraved-sight-scale-for-canyon-pounder-copy",
+      "image": "https://cdn.shopify.com/s/files/1/1336/2251/files/Laser_Speed_Scale.jpg",
+      "priceUsd": 20.0,
+      "firstSeen": "2026-11-08"
     },
     {
       "brand": "Spot Hogg",
@@ -88,6 +208,78 @@
       "image": null,
       "priceUsd": null,
       "firstSeen": "2026-10-02"
+    },
+    {
+      "brand": "Trophy Ridge",
+      "model": "No Tie Aluminum Tru-Peep",
+      "url": "https://beararchery.com/products/trophy-ridge-no-tie-aluminum-peep-sight",
+      "image": "https://cdn.shopify.com/s/files/1/0488/5331/9840/products/notiealuminumtru-peep_peepsight__aflp14b25_01.png",
+      "priceUsd": null,
+      "firstSeen": "2026-11-08"
+    },
+    {
+      "brand": "Trophy Ridge",
+      "model": "No Tie Peep",
+      "url": "https://beararchery.com/products/trophy-ridge-no-tie-peep-sight",
+      "image": "https://cdn.shopify.com/s/files/1/0488/5331/9840/products/notiepeep_peepsight__aflp316b_01.png",
+      "priceUsd": null,
+      "firstSeen": "2026-11-08"
+    },
+    {
+      "brand": "Trophy Ridge",
+      "model": "No Tie Tube Peep",
+      "url": "https://beararchery.com/products/trophy-ridge-no-tie-tube-peep-bow-sight",
+      "image": "https://cdn.shopify.com/s/files/1/0488/5331/9840/products/notietubepeep_peepsight__afltb_1.png",
+      "priceUsd": null,
+      "firstSeen": "2026-11-08"
+    },
+    {
+      "brand": "Trophy Ridge",
+      "model": "SWTF Bow Sight",
+      "url": "https://beararchery.com/products/trophy-ridge-swft-bow-sight",
+      "image": "https://cdn.shopify.com/s/files/1/0488/5331/9840/files/trophy-ridge-swft-bow-sight_sight-nonreact__as421_5.png",
+      "priceUsd": 229.99,
+      "firstSeen": "2026-11-08"
+    },
+    {
+      "brand": "Trophy Ridge",
+      "model": "Tru-Peep",
+      "url": "https://beararchery.com/products/trophy-ridge-tru-peep-aluminum-bow-sight",
+      "image": "https://cdn.shopify.com/s/files/1/0488/5331/9840/products/tru-peep_peepsight__afl732bk_1.png",
+      "priceUsd": null,
+      "firstSeen": "2026-11-08"
+    },
+    {
+      "brand": "Ultraview",
+      "model": "Slider 2",
+      "url": "https://ultraviewarchery.com/products/uv-slider-2",
+      "image": "https://cdn.shopify.com/s/files/1/0087/4476/3450/files/uv-slider-2-direct-mount.webp",
+      "priceUsd": 499.99,
+      "firstSeen": "2026-11-08"
+    },
+    {
+      "brand": "Ultraview",
+      "model": "Slider 2 Rail",
+      "url": "https://ultraviewarchery.com/products/uv-slider™-2-rail",
+      "image": "https://cdn.shopify.com/s/files/1/0087/4476/3450/files/RailPDP-DirectHero21.png",
+      "priceUsd": 99.99,
+      "firstSeen": "2026-11-08"
+    },
+    {
+      "brand": "Ultraview",
+      "model": "Slider 2 Windage Spacer",
+      "url": "https://ultraviewarchery.com/products/uv-slider-2-windage-spacer",
+      "image": "https://cdn.shopify.com/s/files/1/0087/4476/3450/files/uv-slider-2-windage-spacer-angled.webp",
+      "priceUsd": null,
+      "firstSeen": "2026-11-08"
+    },
+    {
+      "brand": "Ultraview",
+      "model": "Slider Bridgelock Sight",
+      "url": "https://xspotarchery.com/products/ultraview-uv-slider-bridgelock-sight",
+      "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/1035798.jpg",
+      "priceUsd": 375.0,
+      "firstSeen": "2026-11-08"
     }
   ],
   "targets": [
@@ -452,7 +644,7 @@
       "model": "Easton 6.5 Match Grade",
       "url": "https://lancasterarchery.com/products/easton-6-5-match-grade-pro-series-shafts",
       "image": "https://cdn.shopify.com/s/files/1/0550/8654/7130/files/1037456A.jpg?v=1756234388",
-      "priceUsd": 130.99,
+      "priceUsd": 132.99,
       "firstSeen": "2026-10-11"
     },
     {
@@ -484,15 +676,71 @@
       "model": "Easton FMJ Max",
       "url": "https://lancasterarchery.com/products/easton-fmj-max-5mm-fletched-arrows-w-halfouts",
       "image": "https://cdn.shopify.com/s/files/1/0550/8654/7130/files/1040225A.jpg?v=1756231044",
-      "priceUsd": 115.99,
+      "priceUsd": 118.99,
       "firstSeen": "2026-10-11"
+    },
+    {
+      "brand": "Easton Archery",
+      "model": "Easton FMJ Max    s w/Steel HIT",
+      "url": "https://lancasterarchery.com/products/easton-fmj-max-fletched-arrows-w-steel-hit",
+      "image": null,
+      "priceUsd": 122.99,
+      "firstSeen": "2026-11-08"
+    },
+    {
+      "brand": "Easton Archery",
+      "model": "Easton FMJ Max Mossy Oak Bottomlands",
+      "url": "https://lancasterarchery.com/products/easton-fmj-max-mossy-oak-bottomlands-shafts",
+      "image": "https://cdn.shopify.com/s/files/1/0550/8654/7130/files/1048361_1.png?v=1793975146",
+      "priceUsd": 203.99,
+      "firstSeen": "2026-11-08"
+    },
+    {
+      "brand": "Easton Archery",
+      "model": "Easton FMJ Max Mossy Oak Bottomlands    s",
+      "url": "https://lancasterarchery.com/products/easton-fmj-max-mossy-oak-bottomlands-fletched-arrows",
+      "image": null,
+      "priceUsd": 120.99,
+      "firstSeen": "2026-11-08"
+    },
+    {
+      "brand": "Easton Archery",
+      "model": "Easton FMJ Max Mossy Oak Bottomlands   w/Steel HIT",
+      "url": "https://lancasterarchery.com/products/easton-fmj-max-mossy-oak-bottomlands-shafts-w-steel-hit",
+      "image": "https://cdn.shopify.com/s/files/1/0550/8654/7130/files/1048361_1_de60f3a8-3acc-4219-845b-e8ae79833ca0.png?v=1793975450",
+      "priceUsd": 207.99,
+      "firstSeen": "2026-11-08"
+    },
+    {
+      "brand": "Easton Archery",
+      "model": "Easton FMJ Max Mossy Oak Bottomlands Match Grade",
+      "url": "https://lancasterarchery.com/products/easton-fmj-max-mossy-oak-bottomlands-match-grade-shafts",
+      "image": "https://cdn.shopify.com/s/files/1/0550/8654/7130/files/1048361_1_3039a15a-4cfd-4050-90e5-84a6a3c7c510.png?v=1793975477",
+      "priceUsd": 256.99,
+      "firstSeen": "2026-11-08"
+    },
+    {
+      "brand": "Easton Archery",
+      "model": "Easton FMJ Max Mossy Oak Bottomlands Match Grade    s",
+      "url": "https://lancasterarchery.com/products/easton-fmj-max-mossy-oak-bottomlands-match-grade-fletched-arrows",
+      "image": "https://cdn.shopify.com/s/files/1/0550/8654/7130/files/1048381.png?v=1793975275",
+      "priceUsd": 148.99,
+      "firstSeen": "2026-11-08"
+    },
+    {
+      "brand": "Easton Archery",
+      "model": "Easton FMJ Max Mossy Oak Bottomlands Match Grade   w/Steel HIT",
+      "url": "https://lancasterarchery.com/products/easton-fmj-max-mossy-oak-bottomlands-match-grade-shafts-w-steel-hit",
+      "image": "https://cdn.shopify.com/s/files/1/0550/8654/7130/files/1048361_1_f745bce0-dd49-436e-bef0-c2a10edec9ef.png?v=1793975238",
+      "priceUsd": 262.99,
+      "firstSeen": "2026-11-08"
     },
     {
       "brand": "Easton Archery",
       "model": "Easton FMJ T-64",
       "url": "https://lancasterarchery.com/products/easton-fmj-t-64-arrow-shaft",
       "image": "https://cdn.shopify.com/s/files/1/0550/8654/7130/files/2070827A.jpg?v=1757961552",
-      "priceUsd": 299.99,
+      "priceUsd": 308.99,
       "firstSeen": "2026-10-11"
     },
     {
@@ -500,7 +748,7 @@
       "model": "Easton Jazz",
       "url": "https://lancasterarchery.com/products/easton-jazz-aluminum-arrow-shaft-black",
       "image": "https://cdn.shopify.com/s/files/1/0550/8654/7130/files/1030548A.jpg?v=1757964032",
-      "priceUsd": 47.99,
+      "priceUsd": 49.99,
       "firstSeen": "2026-10-11"
     },
     {
@@ -532,7 +780,7 @@
       "model": "Easton Sonic 6.0 Match Grade",
       "url": "https://lancasterarchery.com/products/easton-sonic-6-0-match-grade-shafts-1",
       "image": "https://cdn.shopify.com/s/files/1/0550/8654/7130/files/1037454A.jpg?v=1756234157",
-      "priceUsd": 163.99,
+      "priceUsd": 168.99,
       "firstSeen": "2026-10-11"
     },
     {
@@ -540,8 +788,24 @@
       "model": "Easton Sonic 6.0 Match Grade    s",
       "url": "https://lancasterarchery.com/products/easton-sonic-6-0-match-grade-pro-fletched-arrows",
       "image": "https://cdn.shopify.com/s/files/1/0550/8654/7130/files/1036406A.jpg?v=1756228963",
-      "priceUsd": 104.99,
+      "priceUsd": 107.99,
       "firstSeen": "2026-10-11"
+    },
+    {
+      "brand": "Easton Archery",
+      "model": "Easton Storm Mountain",
+      "url": "https://lancasterarchery.com/products/easton-storm-mountain-arrow-shafts",
+      "image": "https://cdn.shopify.com/s/files/1/0550/8654/7130/files/1048356.png?v=1793975050",
+      "priceUsd": 134.99,
+      "firstSeen": "2026-11-08"
+    },
+    {
+      "brand": "Easton Archery",
+      "model": "Easton Storm Mountain    s",
+      "url": "https://lancasterarchery.com/products/easton-storm-mountain-fletched-arrows",
+      "image": "https://cdn.shopify.com/s/files/1/0550/8654/7130/files/1048360.png?v=1793974894",
+      "priceUsd": 79.99,
+      "firstSeen": "2026-11-08"
     },
     {
       "brand": "Easton Archery",
@@ -572,7 +836,7 @@
       "model": "Easton Vector",
       "url": "https://lancasterarchery.com/products/easton-vector-arrow-shafts",
       "image": "https://cdn.shopify.com/s/files/1/0550/8654/7130/files/1033286A.jpg?v=1757964757",
-      "priceUsd": 70.99,
+      "priceUsd": 72.99,
       "firstSeen": "2026-10-11"
     },
     {
@@ -596,7 +860,7 @@
       "model": "Easton X10™ Parallel Pro",
       "url": "https://lancasterarchery.com/products/easton-x10-parallel-pro-4mm-match-grade-fletched-arrows",
       "image": "https://cdn.shopify.com/s/files/1/0550/8654/7130/files/1039448A.jpg?v=1756226002",
-      "priceUsd": 193.99,
+      "priceUsd": 199.99,
       "firstSeen": "2026-10-11"
     },
     {
@@ -612,15 +876,31 @@
       "model": "Easton X23 Two-Tone",
       "url": "https://lancasterarchery.com/products/easton-x23-two-tone-arrow-shaft",
       "image": "https://cdn.shopify.com/s/files/1/0550/8654/7130/files/2070841A.jpg?v=1757962579",
-      "priceUsd": 155.99,
+      "priceUsd": 160.99,
       "firstSeen": "2026-10-11"
+    },
+    {
+      "brand": "Easton Archery",
+      "model": "Easton X4",
+      "url": "https://lancasterarchery.com/products/easton-x4-arrow-shafts",
+      "image": "https://cdn.shopify.com/s/files/1/0550/8654/7130/files/kasbcjabs_73633087-9d7b-4e19-a581-3869bd82c289.png?v=1793471290",
+      "priceUsd": 179.99,
+      "firstSeen": "2026-11-08"
+    },
+    {
+      "brand": "Easton Archery",
+      "model": "Easton X4 Match Grade",
+      "url": "https://lancasterarchery.com/products/easton-x4-match-grade-arrow-shafts",
+      "image": "https://cdn.shopify.com/s/files/1/0550/8654/7130/files/kasbcjabs.png?v=1793471242",
+      "priceUsd": 214.99,
+      "firstSeen": "2026-11-08"
     },
     {
       "brand": "Easton Archery",
       "model": "Easton X7 Eclipse",
       "url": "https://lancasterarchery.com/products/easton-x7-eclipse-black-arrow-shaft",
       "image": "https://cdn.shopify.com/s/files/1/0550/8654/7130/files/2070134A.jpg?v=1757960639",
-      "priceUsd": 140.99,
+      "priceUsd": 144.99,
       "firstSeen": "2026-10-11"
     },
     {
@@ -628,7 +908,7 @@
       "model": "Easton XX75 Camo Hunter",
       "url": "https://lancasterarchery.com/products/easton-xx75-camo-hunter-arrow-shaft",
       "image": "https://cdn.shopify.com/s/files/1/0550/8654/7130/files/1046549A_1.jpg?v=1788441979",
-      "priceUsd": 69.99,
+      "priceUsd": 72.99,
       "firstSeen": "2026-10-11"
     },
     {
@@ -644,7 +924,7 @@
       "model": "Easton XX75 Genesis",
       "url": "https://lancasterarchery.com/products/easton-xx75-genesis-arrow-shaft",
       "image": "https://cdn.shopify.com/s/files/1/0550/8654/7130/files/2070361A_green.jpg?v=1757961271",
-      "priceUsd": 50.99,
+      "priceUsd": 52.99,
       "firstSeen": "2026-10-11"
     },
     {
@@ -652,7 +932,7 @@
       "model": "Easton XX75 Platinum Plus",
       "url": "https://lancasterarchery.com/products/easton-xx75-platinum-plus-arrow-shaft",
       "image": "https://cdn.shopify.com/s/files/1/0550/8654/7130/files/2070029A.jpg?v=1757960104",
-      "priceUsd": 79.99,
+      "priceUsd": 82.99,
       "firstSeen": "2026-10-11"
     },
     {
