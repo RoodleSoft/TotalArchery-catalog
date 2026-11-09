@@ -10,16 +10,6 @@
     "externalRef": "nfaa:ace archery|181 south cherokee rd social circle georgia 30025"
   },
   {
-    "name": "APX",
-    "address": "301 Batson Rd, Wilmington, Ohio, 45177",
-    "phone": "+19372051134",
-    "email": "Fawngirard@aol.com",
-    "website": "",
-    "programs": "indoor range",
-    "reviewStatus": "approved",
-    "externalRef": "nfaa:apx|301 batson rd wilmington ohio 45177"
-  },
-  {
     "name": "AVGC Archery",
     "address": "16699 Stoddard Wells Rd, Victorville, California, United States of America, 92395",
     "phone": "+1 760-282-4395",
@@ -145,7 +135,7 @@
     "phone": "+19733836787",
     "email": "AppBowSec@gmail.com",
     "website": "",
-    "programs": "",
+    "programs": "3d range, outdoor range, indoor range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:appalachian bowmen|118 shotwell rd newton new jersey 07860"
   },
@@ -905,7 +895,7 @@
     "phone": "",
     "email": "blackmountainbowmen@gmail.com",
     "website": "",
-    "programs": "indoor range",
+    "programs": "",
     "reviewStatus": "approved",
     "externalRef": "nfaa:black mountain bowmen|black mountain bowmen bmb avenida espana san jose california 95139"
   },
@@ -1085,7 +1075,7 @@
     "phone": "+4088079418",
     "email": "d.golzen@att.net",
     "website": "http://Www.bhuarchers.org",
-    "programs": "3d range",
+    "programs": "outdoor field range, 3d range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:bowhunters unlimited|stevens creek county park cupertino california 95014"
   },
@@ -1288,6 +1278,16 @@
     "programs": "indoor range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:c c archery and sporting goods|7149 w main rd leroy new york 14482"
+  },
+  {
+    "name": "C.B.A & You, Inc.",
+    "address": "1220 S Powahatan Ave, Independence, Missouri, United States of America, 64057",
+    "phone": "816-886-6281",
+    "email": "archeryexcellence@gmail.com",
+    "website": "http://www.cbayou.org",
+    "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program, 3D Archery",
+    "reviewStatus": "approved",
+    "externalRef": "usarchery:c b a you inc|1220 s powahatan ave independence missouri united states of america 64057"
   },
   {
     "name": "CJ ARCHERY ACADEMY",
@@ -1748,6 +1748,16 @@
     "programs": "",
     "reviewStatus": "approved",
     "externalRef": "usarchery:city of farmington hills|28600 eleven mile farmington hills michigan united states of america 48336"
+  },
+  {
+    "name": "Clairton Joad",
+    "address": "1614 Mohrbach Street, Pittsburgh, Pennsylvania, United States of America, 15207",
+    "phone": "412-445-0627",
+    "email": "ram32092@comcast.net",
+    "website": "http://Clairtonsc.org",
+    "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program",
+    "reviewStatus": "approved",
+    "externalRef": "usarchery:clairton joad|1614 mohrbach street pittsburgh pennsylvania united states of america 15207"
   },
   {
     "name": "Clear Creek Bowmen",
@@ -2360,16 +2370,6 @@
     "externalRef": "usarchery:east river high school|650 e river falcons way orlando florida united states of america 32833 2779"
   },
   {
-    "name": "Eastern Kentucky University Archery",
-    "address": "217 Park Drive, Richmond, Kentucky, United States of America, 40475",
-    "phone": "+15132239811",
-    "email": "ekuclubarchery@gmail.com",
-    "website": "",
-    "programs": "",
-    "reviewStatus": "approved",
-    "externalRef": "usarchery:eastern kentucky university archery|217 park drive richmond kentucky united states of america 40475"
-  },
-  {
     "name": "Eastern Sierra Archers",
     "address": "220 Sawmill Rd, Bishop, California, 93514",
     "phone": "",
@@ -2798,16 +2798,6 @@
     "programs": "indoor range, 3d range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:full draw archery club cherokee|5243 keeline rd cherokee iowa 51012"
-  },
-  {
-    "name": "Full Draw Bowhunters",
-    "address": "37098 North Archery Drive, Phoenix, Arizona, 85086",
-    "phone": "+16025255006",
-    "email": "talboarchery@msn.com",
-    "website": "",
-    "programs": "outdoor range",
-    "reviewStatus": "approved",
-    "externalRef": "nfaa:full draw bowhunters|37098 north archery drive phoenix arizona 85086"
   },
   {
     "name": "GK96 ARCHERY CLUB",
@@ -4304,7 +4294,7 @@
     "address": "8532 McClements Rd, BRIGHTON, Michigan, 48114",
     "phone": "",
     "email": "",
-    "website": "",
+    "website": "https://lcsa.clubexpress.com/",
     "programs": "outdoor field range, indoor range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:livingston conservation sports|8532 mcclements rd brighton michigan 48114"
@@ -5628,16 +5618,6 @@
     "programs": "indoor range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:overton s archery center llc|1035 n 3rd st suite 104 lawrence kansas 66044"
-  },
-  {
-    "name": "Ozarks Target Archers",
-    "address": "5780 SOUTH FARM ROAD 141, SPRINGFIELD, Missouri, 65810",
-    "phone": "+14178742910",
-    "email": "Afrancka@springfieldmo.gov",
-    "website": "",
-    "programs": "outdoor range, indoor range, outdoor field range",
-    "reviewStatus": "approved",
-    "externalRef": "nfaa:ozarks target archers|5780 south farm road 141 springfield missouri 65810"
   },
   {
     "name": "PHOENIX FOCUS JOAD",
@@ -8010,6 +7990,16 @@
     "externalRef": "usarchery:turpin archery academy|4703 n 44th street nebraska outdoor education center lincoln nebraska united states of america 68504"
   },
   {
+    "name": "Tuscarora Archers",
+    "address": "P. O. Box 403, 5608 Etzler Road, Frederick, Maryland, United States of America, 21705",
+    "phone": "+12405297726",
+    "email": "stoothaker@gmail.com",
+    "website": "http://www.tuscaroraarcher.org",
+    "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program",
+    "reviewStatus": "approved",
+    "externalRef": "usarchery:tuscarora archers|p o box 403 5608 etzler road frederick maryland united states of america 21705"
+  },
+  {
     "name": "Tuscarora Archers Inc",
     "address": "5608 Etzler Road, FREDERICK, Maryland, 21705",
     "phone": "",
@@ -8765,7 +8755,7 @@
     "phone": "",
     "email": "",
     "website": "",
-    "programs": "indoor range",
+    "programs": "",
     "reviewStatus": "approved",
     "externalRef": "nfaa:winnemucca archers|4910 w commander dr winnemucca nevada 89445"
   },
