@@ -581,13 +581,13 @@
   },
   {
     "name": "Bartlesville Archery Club",
-    "address": "Hudson Lake, Bartlesville, Oklahoma, 74006",
+    "address": "Hudson Lake, Bartlesville, Oklahoma, 74003",
     "phone": "+19183389106",
     "email": "bvillearcheryclub@yahoo.com",
     "website": "",
     "programs": "outdoor field range",
     "reviewStatus": "approved",
-    "externalRef": "nfaa:bartlesville archery club|hudson lake bartlesville oklahoma 74006"
+    "externalRef": "nfaa:bartlesville archery club|hudson lake bartlesville oklahoma 74003"
   },
   {
     "name": "Bass & Bucks Inc",
@@ -4900,16 +4900,6 @@
     "externalRef": "usarchery:naavak|990 detroit ave concord california united states of america 94518"
   },
   {
-    "name": "NCRR Carbon Quest Archery Club",
-    "address": "4321 S. Military Hwy, Chesapeake, Virginia, United States of America, 23321",
-    "phone": "(757) 630-1890",
-    "email": "esquared35@yahoo.com",
-    "website": "",
-    "programs": "Junior Olympic Archery Development (JOAD)",
-    "reviewStatus": "approved",
-    "externalRef": "usarchery:ncrr carbon quest archery club|4321 s military hwy chesapeake virginia united states of america 23321"
-  },
-  {
     "name": "NFAA Easton Yankton Archery Center",
     "address": "800 ARCHERY LANE, Yankton, South Dakota, 57078",
     "phone": "+16052609282",
@@ -6620,16 +6610,6 @@
     "externalRef": "nfaa:santa maria gun club|3150 telephone road santa maria california 93454"
   },
   {
-    "name": "Santa Paula Archery",
-    "address": "530 West Main Street, Santa Paula, California, United States of America, 93060",
-    "phone": "+18059334226",
-    "email": "gbarnes@spcity.org",
-    "website": "https://sparchery.usarchery.org/",
-    "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program",
-    "reviewStatus": "approved",
-    "externalRef": "usarchery:santa paula archery|530 west main street santa paula california united states of america 93060"
-  },
-  {
     "name": "Santiago Park Archers",
     "address": "2535 N. Main Street, Santa Ana, California, 92706",
     "phone": "+12023296613",
@@ -7220,16 +7200,6 @@
     "externalRef": "usarchery:strong and courageous adventures|united states of america"
   },
   {
-    "name": "StudioX Archery",
-    "address": "McClellan Ranch Preserve, Cupertino, California, United States of America, 95014",
-    "phone": "(408) 4161130",
-    "email": "studioxarchery@gmail.com",
-    "website": "https://studioxarchery.usarchery.org",
-    "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program",
-    "reviewStatus": "approved",
-    "externalRef": "usarchery:studiox archery|mcclellan ranch preserve cupertino california united states of america 95014"
-  },
-  {
     "name": "Suffolk Archers",
     "address": "86 Pidgeon Hill Road, Huntington Station, New York, United States of America, 11746",
     "phone": "+15168606440",
@@ -7268,16 +7238,6 @@
     "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program",
     "reviewStatus": "approved",
     "externalRef": "usarchery:sylvan archers inc|15930 sw bell rd sherwood oregon united states of america 97140"
-  },
-  {
-    "name": "T-Town Drillers Joad",
-    "address": "4420 S Mingo Rd, Tulsa, Oklahoma, United States of America, 74146",
-    "phone": "405- 778-9598",
-    "email": "1shotonex@gmail.com",
-    "website": "",
-    "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program, 3D Archery, Field Archery",
-    "reviewStatus": "approved",
-    "externalRef": "usarchery:t town drillers joad|4420 s mingo rd tulsa oklahoma united states of america 74146"
   },
   {
     "name": "T.H.E. Archery Club",
