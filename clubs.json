@@ -580,16 +580,6 @@
     "externalRef": "nfaa:barefoot archery inc|4410 old pineville rd charlotte north carolina 28217"
   },
   {
-    "name": "Bartlesville Archery Club",
-    "address": "Hudson Lake, Bartlesville, Oklahoma, 74003",
-    "phone": "+19183389106",
-    "email": "bvillearcheryclub@yahoo.com",
-    "website": "",
-    "programs": "outdoor field range",
-    "reviewStatus": "approved",
-    "externalRef": "nfaa:bartlesville archery club|hudson lake bartlesville oklahoma 74003"
-  },
-  {
     "name": "Bass & Bucks Inc",
     "address": "5000 West Millcreek Pike Lot 1, Wabash, Indiana, 46992",
     "phone": "+12605691853",
@@ -1075,7 +1065,7 @@
     "phone": "+4088079418",
     "email": "d.golzen@att.net",
     "website": "http://Www.bhuarchers.org",
-    "programs": "outdoor field range, 3d range",
+    "programs": "3d range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:bowhunters unlimited|stevens creek county park cupertino california 95014"
   },
@@ -1455,7 +1445,7 @@
     "phone": "",
     "email": "",
     "website": "",
-    "programs": "outdoor field range, indoor range, 3d range",
+    "programs": "outdoor field range, indoor range, 3d range, indoor range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:cascadian bowmen|91714 poodle creek rd noti oregon 97461"
   },
@@ -1590,6 +1580,16 @@
     "externalRef": "nfaa:champion archery shooting club|10854 117th pl ne kirkland washington 98033 5051"
   },
   {
+    "name": "Charleroi Archery Club",
+    "address": "194 FREMONT RD, CHARLEROI, Pennsylvania, 15022",
+    "phone": "",
+    "email": "",
+    "website": "",
+    "programs": "outdoor field range",
+    "reviewStatus": "approved",
+    "externalRef": "nfaa:charleroi archery club|194 fremont rd charleroi pennsylvania 15022"
+  },
+  {
     "name": "Chequamegon Archery Club",
     "address": "3501 McDonald Rd, Ashland, Wisconsin, 54806",
     "phone": "",
@@ -1618,16 +1618,6 @@
     "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program, 3D Archery",
     "reviewStatus": "approved",
     "externalRef": "usarchery:cherry valley joad club|38061 kehl canyon road cherry valley california united states of america 92223"
-  },
-  {
-    "name": "Chesterfield fish and game club",
-    "address": "359 Green Street, Keeseville, New York, United States of America, 12944",
-    "phone": "+1 518 390 3262",
-    "email": "jeffgavaletz@hotmail.com",
-    "website": "http://www.chesterfieldrange.com",
-    "programs": "Junior Olympic Archery Development (JOAD)",
-    "reviewStatus": "approved",
-    "externalRef": "usarchery:chesterfield fish and game club|359 green street keeseville new york united states of america 12944"
   },
   {
     "name": "Chia Archery",
@@ -2135,7 +2125,7 @@
     "phone": "+15635056365",
     "email": "president@davenportvalleyarchers.com",
     "website": "http://davenportvalleyarchers.com",
-    "programs": "",
+    "programs": "3d range, outdoor range, outdoor field range, 3d range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:davenport valley archers|15535 270th street long grove iowa 52756"
   },
@@ -2781,13 +2771,13 @@
   },
   {
     "name": "Full Curl Archery",
-    "address": "Full Curl Archery, 12501 Old Seward Hwy E-F, Anchorage, Alaska, United States of America, 99515",
-    "phone": "(907) 344-2697",
+    "address": "12501 OLD SEWARD HWY, ANCHORAGE, Alaska, 99515",
+    "phone": "+19078302089",
     "email": "akfullcurlarchery@gmail.com",
-    "website": "http://www.fullcurlarchery.com",
-    "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program, 3D Archery, Field Archery",
+    "website": "",
+    "programs": "indoor range",
     "reviewStatus": "approved",
-    "externalRef": "usarchery:full curl archery|full curl archery 12501 old seward hwy e f anchorage alaska united states of america 99515"
+    "externalRef": "nfaa:full curl archery|12501 old seward hwy anchorage alaska 99515"
   },
   {
     "name": "Full Draw Archery Club - Cherokee",
@@ -2928,6 +2918,16 @@
     "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program",
     "reviewStatus": "approved",
     "externalRef": "usarchery:gillman academy|132 n 2 mile rd fort gibson oklahoma united states of america 74434"
+  },
+  {
+    "name": "Girl Scouts San Jacinto Council",
+    "address": "3110  Southwest Freeway, Houston, Texas, United States of America, 77098",
+    "phone": "(713) 292-0312",
+    "email": "customerservice@sjgs.org",
+    "website": "",
+    "programs": "Junior Olympic Archery Development (JOAD)",
+    "reviewStatus": "approved",
+    "externalRef": "usarchery:girl scouts san jacinto council|3110 southwest freeway houston texas united states of america 77098"
   },
   {
     "name": "Glisson's Archery",
@@ -3090,16 +3090,6 @@
     "externalRef": "nfaa:grand view university|3839 e 14th st des moines iowa 50313"
   },
   {
-    "name": "Grand View University Archery",
-    "address": ", United States of America",
-    "phone": "+1 515-263-6132",
-    "email": "cmundy@grandview.edu",
-    "website": "http://www.gvvikings.com",
-    "programs": "",
-    "reviewStatus": "approved",
-    "externalRef": "usarchery:grand view university archery|united states of america"
-  },
-  {
     "name": "Grande Ronde Bowmen Inc",
     "address": "PO BOX 315, LA GRANDE, Oregon, 97850",
     "phone": "",
@@ -3135,7 +3125,7 @@
     "phone": "3605800813",
     "email": "cjlutton@comcast.net",
     "website": "",
-    "programs": "3d range, indoor range, 3d range, outdoor range",
+    "programs": "3d range, indoor range, 3d range, outdoor range, outdoor field range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:grays harbor bowman|902 st rt 105 aberdeen washington 98520"
   },
@@ -3295,7 +3285,7 @@
     "phone": "",
     "email": "",
     "website": "",
-    "programs": "3d range, indoor range, 3d range, outdoor range",
+    "programs": "3d range, indoor range, 3d range, outdoor range, outdoor field range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:hell hole archers|po box 1034 big piney wyoming 83113"
   },
@@ -3545,7 +3535,7 @@
     "phone": "+19803544020",
     "email": "indiantrailbowclub@gmail.com",
     "website": "",
-    "programs": "3d range, indoor range, 3d range, outdoor range",
+    "programs": "3d range, indoor range, 3d range, outdoor range, outdoor field range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:indian trail bow club nc|3906 richardson rd monroe north carolina 28112"
   },
@@ -3915,7 +3905,7 @@
     "phone": "+16102169153",
     "email": "tsn2504@msn.com",
     "website": "",
-    "programs": "3d range, indoor range, 3d range, outdoor range",
+    "programs": "3d range, indoor range, 3d range, outdoor range, outdoor field range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:kings point archery club|625 masterpiece dr sun city center florida 33573"
   },
@@ -5105,7 +5095,7 @@
     "phone": "+14026490294",
     "email": "kevinpolt@ptcnet.net",
     "website": "",
-    "programs": "3d range, indoor range, 3d range, outdoor range",
+    "programs": "3d range, indoor range, 3d range, outdoor range, outdoor field range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:norfolk archery club|3rd and phillip norfolk nebraska 68702"
   },
@@ -6825,7 +6815,7 @@
     "phone": "+17078155280",
     "email": "president@silveradoarchers.com",
     "website": "",
-    "programs": "",
+    "programs": "3d range, 3d range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:silverado archery club|po box 424 napa california 94559 0424"
   },
@@ -6938,16 +6928,6 @@
     "programs": "Junior Olympic Archery Development (JOAD)",
     "reviewStatus": "approved",
     "externalRef": "usarchery:south texas archery joad|po box 842 cuero texas united states of america 77954 0842"
-  },
-  {
-    "name": "South Umpqua Bowhunters Club",
-    "address": "Dole Rd, MYRTLE CREEK, Oregon, 97457",
-    "phone": "+15418636841",
-    "email": "terrykathy.shipman@gmail.com",
-    "website": "",
-    "programs": "",
-    "reviewStatus": "approved",
-    "externalRef": "nfaa:south umpqua bowhunters club|dole rd myrtle creek oregon 97457"
   },
   {
     "name": "Southeastern Illinois College Archery Team",
@@ -7468,16 +7448,6 @@
     "programs": "indoor range, indoor range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:the archery shop ca|2332 c chester ave bakersfield california 93301"
-  },
-  {
-    "name": "The Arrow Shop Club",
-    "address": "131 N. Osage, Dewey, Oklahoma, United States of America, 74029",
-    "phone": "+1 918-333-8025",
-    "email": "thearrowshop@yahoo.com",
-    "website": "",
-    "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program",
-    "reviewStatus": "approved",
-    "externalRef": "usarchery:the arrow shop club|131 n osage dewey oklahoma united states of america 74029"
   },
   {
     "name": "The Arrow Shop LLC - OK",
@@ -8715,7 +8685,7 @@
     "phone": "",
     "email": "",
     "website": "",
-    "programs": "",
+    "programs": "indoor range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:winnemucca archers|4910 w commander dr winnemucca nevada 89445"
   },
