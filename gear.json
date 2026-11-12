@@ -882,6 +882,72 @@
   {
     "category": "quiver",
     "brand": "Easton",
+    "model": "Beginner Recurve Bow Archery 7-Piece Set",
+    "url": "https://eastonarchery.com/shop/beginner-archery/youth-recurve-bow-arch-kit-blk-arrows-clam/",
+    "priceUsd": 99.0,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://eastonarchery.com/wp-content/uploads/2018/10/Easton_BowQuiverPackage_realtree.png"
+  },
+  {
+    "category": "quiver",
+    "brand": "Easton",
+    "model": "Deluxe Field Quiver w/ Belt",
+    "url": "https://eastonarchery.com/shop/quivers/deluxe-field-quiver/",
+    "priceUsd": 141.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://eastonarchery.com/wp-content/uploads/2016/06/Deluxe_Field_Quiver_All_19.webp"
+  },
+  {
+    "category": "quiver",
+    "brand": "Easton",
+    "model": "Deluxe Takedown Hip Quiver w/ Belt",
+    "url": "https://eastonarchery.com/shop/quivers/deluxe-takedown-hip-quiver/",
+    "priceUsd": 164.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://eastonarchery.com/wp-content/uploads/2018/12/Untitled-1.webp"
+  },
+  {
+    "category": "quiver",
+    "brand": "Easton",
+    "model": "Elite Field Quiver w/ Belt",
+    "url": "https://eastonarchery.com/shop/quivers/elite-field-quiver/",
+    "priceUsd": 194.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://eastonarchery.com/wp-content/uploads/2016/06/elite-field-e1549570705234.webp"
+  },
+  {
+    "category": "quiver",
+    "brand": "Easton",
+    "model": "Elite Hip Quiver",
+    "url": "https://eastonarchery.com/shop/quivers/elite-hip-quiver/",
+    "priceUsd": 148.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://eastonarchery.com/wp-content/uploads/2016/06/Elite-Hip-Quiver-1.webp"
+  },
+  {
+    "category": "quiver",
+    "brand": "Easton",
+    "model": "Elite Quiver Belt",
+    "url": "https://eastonarchery.com/shop/quivers/elite-quiver-belt/",
+    "priceUsd": 47.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://eastonarchery.com/wp-content/uploads/2016/06/Elite-Quiver-Belt-2019.webp"
+  },
+  {
+    "category": "quiver",
+    "brand": "Easton",
     "model": "Elite Quiver Belt Carbon Blue",
     "url": "https://xspotarchery.com/products/copy-of-easton-elite-quiver-belt-carbon-black",
     "priceUsd": 24.99,
@@ -893,6 +959,17 @@
   {
     "category": "quiver",
     "brand": "Easton",
+    "model": "Elite Takedown Hip Quiver w/ Belt",
+    "url": "https://eastonarchery.com/shop/quivers/elite-takedown-hip-quiver/",
+    "priceUsd": 215.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://eastonarchery.com/wp-content/uploads/2018/12/Elite-Takedown-Quiver.webp"
+  },
+  {
+    "category": "quiver",
+    "brand": "Easton",
     "model": "Flipside 2-TUBE Hip Quiver Realtree Edge /",
     "url": "https://xspotarchery.com/products/easton-flipside-2-tube-hip-quiver-realtree-edge-rh-lh",
     "priceUsd": 21.99,
@@ -900,6 +977,72 @@
     "tapeWidthIn": null,
     "weightG": null,
     "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/images_1_e7732622-80bf-4fb2-bd25-6ad6c7f41769.jpg"
+  },
+  {
+    "category": "quiver",
+    "brand": "Easton",
+    "model": "Flipside 2-Tube Hip Quiver, Fits and",
+    "url": "https://eastonarchery.com/shop/quivers/flipside-2-tube-hip-quiver-fits-rh-and-lh/",
+    "priceUsd": null,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://eastonarchery.com/wp-content/uploads/2016/06/Flipside_2_hip_quiver_composite_19.webp"
+  },
+  {
+    "category": "quiver",
+    "brand": "Easton",
+    "model": "Flipside 3-Tube Hip Quiver, Fits and",
+    "url": "https://eastonarchery.com/shop/quivers/flipside-3-tube-hip-quiver-fits-rh-and-lh/",
+    "priceUsd": 29.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://eastonarchery.com/wp-content/uploads/2016/06/Flipside_3_hip_quiver_composite.webp"
+  },
+  {
+    "category": "quiver",
+    "brand": "Easton",
+    "model": "Flipside 4-Tube Hip Quiver, Fits and",
+    "url": "https://eastonarchery.com/shop/quivers/flipside-4-tube-hip-quiver-fits-rh-and-lh/",
+    "priceUsd": 72.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://eastonarchery.com/wp-content/uploads/2016/06/Flipside_4_Hip_Quiver_19.webp"
+  },
+  {
+    "category": "quiver",
+    "brand": "Easton",
+    "model": "Pack Mule",
+    "url": "https://eastonarchery.com/shop/all/accessories/pack-mule/",
+    "priceUsd": 129.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://eastonarchery.com/wp-content/uploads/2025/10/Pack-Mule-Product-Image.jpg"
+  },
+  {
+    "category": "quiver",
+    "brand": "Easton",
+    "model": "Quiver Belt Deluxe",
+    "url": "https://eastonarchery.com/shop/quivers/quiver-belt-deluxe/",
+    "priceUsd": 32.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://eastonarchery.com/wp-content/uploads/2018/10/Deluxe-Quiver-Belt.png"
+  },
+  {
+    "category": "quiver",
+    "brand": "Easton",
+    "model": "Range Lite Quiver",
+    "url": "https://eastonarchery.com/shop/quivers/range-lite-quiver/",
+    "priceUsd": 53.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://eastonarchery.com/wp-content/uploads/2016/06/Range-Lite-Quiver.webp"
   },
   {
     "category": "quiver",
@@ -2885,6 +3028,39 @@
     "tapeWidthIn": null,
     "weightG": null,
     "image": "https://cdn.shopify.com/s/files/1/2078/7173/products/1405602_1.jpg"
+  },
+  {
+    "category": "release",
+    "brand": "Easton",
+    "model": "Deluxe Release Pouch Black",
+    "url": "https://eastonarchery.com/shop/quivers/deluxe-release-pouch-black/",
+    "priceUsd": 27.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://eastonarchery.com/wp-content/uploads/2018/10/Deluxe-Release-Pouch.png"
+  },
+  {
+    "category": "release",
+    "brand": "Easton",
+    "model": "Elite Release Pouch Black",
+    "url": "https://eastonarchery.com/shop/quivers/elite-release-pouch-black/",
+    "priceUsd": 41.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://eastonarchery.com/wp-content/uploads/2018/10/Elite-Release-Pouch.png"
+  },
+  {
+    "category": "release",
+    "brand": "Easton",
+    "model": "Pack Mule Release Pouch",
+    "url": "https://eastonarchery.com/shop/all/accessories/pack-mule-release-pouch/",
+    "priceUsd": 19.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://eastonarchery.com/wp-content/uploads/2026/07/f59c55d9-e909-4a1d-b2c2-02912487fc43.png"
   },
   {
     "category": "release",

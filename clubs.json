@@ -230,6 +230,16 @@
     "externalRef": "nfaa:archery and bow club|3690 bramlett church road gray court south carolina 29645"
   },
   {
+    "name": "Arizona Archery Club, LLC",
+    "address": "1115 W. Deer Valley Road #1, Phoenix, Arizona, United States of America, 85027",
+    "phone": "+16232664647",
+    "email": "arizonaarcheryc@gmail.com",
+    "website": "http://www.azarcheryclub.com",
+    "programs": "Junior Olympic Archery Development (JOAD)",
+    "reviewStatus": "approved",
+    "externalRef": "usarchery:arizona archery club llc|1115 w deer valley road 1 phoenix arizona united states of america 85027"
+  },
+  {
     "name": "Arizona Christian University Archery",
     "address": "1115 W. Deer Valley Rd, Phoenix, Arizona, United States of America, 85027",
     "phone": "+16026942841",
@@ -820,16 +830,6 @@
     "externalRef": "usarchery:big foot archers inc|n960 hillside lake geneva wisconsin united states of america 53147"
   },
   {
-    "name": "Big Horn Bow Hunters",
-    "address": "627 Spring View St, THERMOPOLIS, Wyoming, 82443",
-    "phone": "",
-    "email": "bighornbowhunters1@gmail.com",
-    "website": "",
-    "programs": "outdoor field range, 3d range",
-    "reviewStatus": "approved",
-    "externalRef": "nfaa:big horn bow hunters|627 spring view st thermopolis wyoming 82443"
-  },
-  {
     "name": "Big Sioux JOAD",
     "address": "2810 22nd Avenue South, Brookings, South Dakota, United States of America, 57006",
     "phone": "(605) 690-6537",
@@ -1328,16 +1328,6 @@
     "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program, Field Archery",
     "reviewStatus": "approved",
     "externalRef": "usarchery:california indoor archers|1300 kingsdale avenue redondo beach california united states of america 90278"
-  },
-  {
-    "name": "California State University, Northridge (CSUN)",
-    "address": "18111 Nordhoff St, Northridge, California, United States of America, 91330",
-    "phone": "+18186777678",
-    "email": "archery@csunas.org",
-    "website": "https://www.csun.edu/as/departments/sport-clubs/available-sports/archery-club",
-    "programs": "",
-    "reviewStatus": "approved",
-    "externalRef": "usarchery:california state university northridge csun|18111 nordhoff st northridge california united states of america 91330"
   },
   {
     "name": "California State University,Fullerton- Archery",
@@ -2125,7 +2115,7 @@
     "phone": "+15635056365",
     "email": "president@davenportvalleyarchers.com",
     "website": "http://davenportvalleyarchers.com",
-    "programs": "3d range, outdoor range, outdoor field range, 3d range",
+    "programs": "",
     "reviewStatus": "approved",
     "externalRef": "nfaa:davenport valley archers|15535 270th street long grove iowa 52756"
   },
@@ -5330,16 +5320,6 @@
     "externalRef": "nfaa:oceana archers|117 s state st hart michigan 49420"
   },
   {
-    "name": "Odin's Archers",
-    "address": "297 Collins Mills Road, West Gardiner, Maine, United States of America, 04345",
-    "phone": "+1 (207) 724-0024",
-    "email": "jamessavage@maine.rr.com",
-    "website": "",
-    "programs": "Junior Olympic Archery Development (JOAD)",
-    "reviewStatus": "approved",
-    "externalRef": "usarchery:odin s archers|297 collins mills road west gardiner maine united states of america 04345"
-  },
-  {
     "name": "Ogeechee Bowmen",
     "address": "195 Scott Stell Rd, Savannah, Georgia, 31419",
     "phone": "",
@@ -5658,6 +5638,16 @@
     "programs": "indoor range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:pacifica archery|2995 junipero serra blvd daly city california 94014"
+  },
+  {
+    "name": "Palm Desert Charter",
+    "address": ", United States of America",
+    "phone": "+1 909 344 0813",
+    "email": "johnny.perez@desertsands.us",
+    "website": "",
+    "programs": "Olympic Archery in the Schools",
+    "reviewStatus": "approved",
+    "externalRef": "usarchery:palm desert charter|united states of america"
   },
   {
     "name": "Palmyra Sportsmen's Joad",
@@ -6928,6 +6918,16 @@
     "programs": "Junior Olympic Archery Development (JOAD)",
     "reviewStatus": "approved",
     "externalRef": "usarchery:south texas archery joad|po box 842 cuero texas united states of america 77954 0842"
+  },
+  {
+    "name": "South Umpqua Bowhunters Club",
+    "address": "Dole Rd, MYRTLE CREEK, Oregon, 97457",
+    "phone": "+15418636841",
+    "email": "terrykathy.shipman@gmail.com",
+    "website": "",
+    "programs": "3d range, 3d range",
+    "reviewStatus": "approved",
+    "externalRef": "nfaa:south umpqua bowhunters club|dole rd myrtle creek oregon 97457"
   },
   {
     "name": "Southeastern Illinois College Archery Team",
