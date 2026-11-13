@@ -5451,6 +5451,17 @@
   {
     "category": "rest",
     "brand": "Trophy Ridge",
+    "model": "Micro Tack Driver",
+    "url": "https://beararchery.com/products/trophy-ridge-micro-tack-driver-arrow-rest",
+    "priceUsd": 59.99,
+    "verified": true,
+    "tapeWidthIn": null,
+    "weightG": null,
+    "image": "https://cdn.shopify.com/s/files/1/0488/5331/9840/files/trophy-ridge-micro-tack-driver-arrow-rest_arrowrest-dropaway__atr300r_1.png"
+  },
+  {
+    "category": "rest",
+    "brand": "Trophy Ridge",
     "model": "Micro Tack Driver Rest Black",
     "url": "https://xspotarchery.com/products/trophy-ridge-micro-tack-driver-rest-black-rh",
     "priceUsd": 99.99,
