@@ -2354,7 +2354,7 @@
     "address": "2800 Olympic Parkway #2000, Chula Vista, California, United States of America, 91915",
     "phone": "+1 6192054326",
     "email": "programs@esdf.org",
-    "website": "",
+    "website": "https://www.eastonarcherycenterofexcellence.org/",
     "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program",
     "reviewStatus": "approved",
     "externalRef": "usarchery:easton center of excellence|2800 olympic parkway 2000 chula vista california united states of america 91915"
@@ -7570,6 +7570,16 @@
     "externalRef": "nfaa:the mountain archery range|13592 lake chabot rd san leandro california 94577"
   },
   {
+    "name": "The Ohio State University Archery Club",
+    "address": "855 Woody Hayes Dr, Adventure Recreation Center, Columbus, Ohio, United States of America, 43210",
+    "phone": "+1 520-282-3001",
+    "email": "archeryclub@osu.edu",
+    "website": "",
+    "programs": "",
+    "reviewStatus": "approved",
+    "externalRef": "usarchery:the ohio state university archery club|855 woody hayes dr adventure recreation center columbus ohio united states of america 43210"
+  },
+  {
     "name": "The Ohio University Archery Club Team",
     "address": "82 South Green Drive, Athens, Ohio, 45701",
     "phone": "",
@@ -8365,7 +8375,7 @@
     "phone": "",
     "email": "",
     "website": "",
-    "programs": "indoor range",
+    "programs": "indoor range, indoor range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:walker river bowmen|200 luzier ln yerington nevada 89447 0238"
   },
@@ -8698,16 +8708,6 @@
     "programs": "Junior Olympic Archery Development (JOAD), 3D Archery, Field Archery",
     "reviewStatus": "approved",
     "externalRef": "usarchery:wisconsin archery learning center|4336 milton ave suite 110 janesville wisconsin united states of america 53546"
-  },
-  {
-    "name": "Wo-Pe-Na Archers",
-    "address": "39 Harding Ave, Clifton, New Jersey, United States of America, 07011",
-    "phone": "973-365-2590",
-    "email": "archers@wopena.net",
-    "website": "https://www.wopena.net",
-    "programs": "Adult Archery Program",
-    "reviewStatus": "approved",
-    "externalRef": "usarchery:wo pe na archers|39 harding ave clifton new jersey united states of america 07011"
   },
   {
     "name": "Wolf Pack Archers",
