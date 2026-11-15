@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-08T04:45:28Z",
+ "updatedAt": "2026-11-15T04:45:22Z",
  "note": "Suggestions from retailer feeds: unconfirmed. The admin assistant checks each on its source page before applying.",
  "suggestions": {
   "bows:Hoyt|Carbon RX-10 Ultra": {
@@ -332,7 +332,7 @@
   },
   "gear:Hamskea|Raptor": {
    "fields": {
-    "priceUsd": 19.99
+    "priceUsd": 19.95
    },
    "source": "https://lancasterarchery.com/products/hamskea-raptor-peep",
    "retailer": "lancasterarchery.com",
@@ -412,7 +412,7 @@
   },
   "gear:Garmin|Xero A1i Pro": {
    "fields": {
-    "priceUsd": 1299.99
+    "priceUsd": 1099.99
    },
    "source": "https://lancasterarchery.com/products/garmin-xero-a1i-pro-bow-sight",
    "retailer": "lancasterarchery.com",
@@ -580,7 +580,7 @@
   },
   "gear:GAS Bowstrings|High Octane string & cable set": {
    "fields": {
-    "priceUsd": 140.0
+    "priceUsd": 150.0
    },
    "source": "https://lancasterarchery.com/products/gas-high-octane-blackout-complete-string-and-cable-set",
    "retailer": "lancasterarchery.com",
