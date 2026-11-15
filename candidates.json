@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T04:11:42.111412Z",
+  "updatedAt": "2026-11-15T04:11:48.004565Z",
   "sights": [
     {
       "brand": "Axcel",
@@ -353,6 +353,14 @@
     },
     {
       "brand": "Altra Arrows",
+      "model": "Altra Centrum 246     6pk    s-350",
+      "url": "https://lancasterarchery.com/products/altra-centrum-246-premier-001-6pk-fletched-arrows-350-open-box-x1048386",
+      "image": "https://cdn.shopify.com/s/files/1/0550/8654/7130/files/1035953A_bc1df603-f68a-4994-b1c3-45d1f90c0b34.jpg?v=1794337279",
+      "priceUsd": 80.99,
+      "firstSeen": "2026-11-15"
+    },
+    {
+      "brand": "Altra Arrows",
       "model": "Altra Centrum 27",
       "url": "https://lancasterarchery.com/products/altra-centrum-27-limited-003-carbon-arrow-shaft",
       "image": "https://cdn.shopify.com/s/files/1/0550/8654/7130/files/1035945_label.jpg?v=1693323782",
@@ -658,9 +666,9 @@
     {
       "brand": "Easton Archery",
       "model": "Easton Axis",
-      "url": "https://lancasterarchery.com/products/easton-axis-4mm-long-range-match-grade-pro-fletched-arrows-with-halfouts-6pk-open-box-x1048315",
-      "image": "https://cdn.shopify.com/s/files/1/0550/8654/7130/files/1036398A_97e25ee9-881f-488e-b374-740c1bd19ce4.jpg?v=1792608292",
-      "priceUsd": 123.29,
+      "url": "https://lancasterarchery.com/products/easton-axis-5mm-fletched-arrows-w-half-outs",
+      "image": "https://cdn.shopify.com/s/files/1/0550/8654/7130/files/1036405A_2aeb2605-7c37-4621-b04d-9fc9b4c93e63.jpg?v=1759428220",
+      "priceUsd": 102.99,
       "firstSeen": "2026-10-11"
     },
     {
