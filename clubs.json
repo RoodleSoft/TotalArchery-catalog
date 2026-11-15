@@ -3010,16 +3010,6 @@
     "externalRef": "nfaa:granby bow gun club inc|19 oakridge circle ware massachusetts 01082"
   },
   {
-    "name": "Grand Canyon University Archery",
-    "address": ", United States of America",
-    "phone": "+1 6026397900",
-    "email": "clubsports@gcu.edu",
-    "website": "http://gcuclubsports.com",
-    "programs": "",
-    "reviewStatus": "approved",
-    "externalRef": "usarchery:grand canyon university archery|united states of america"
-  },
-  {
     "name": "Grand County Archers Association",
     "address": "2110 Mary Jane Rd, WINTER PARK, Colorado, 80482",
     "phone": "",
@@ -3623,8 +3613,8 @@
     "name": "Ishi Archery Club Inc",
     "address": "30. Miles East of Red Bluff on Hwy 36, RED BLUFF, California, 96080",
     "phone": "",
-    "email": "",
-    "website": "",
+    "email": "ishiarchers@gmail.com",
+    "website": "https://www.ishiarcheryclub.org/",
     "programs": "3d range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:ishi archery club inc|30 miles east of red bluff on hwy 36 red bluff california 96080"
@@ -4438,6 +4428,16 @@
     "programs": "Junior Olympic Archery Development (JOAD), 3D Archery, Field Archery, Olympic Archery in the Schools",
     "reviewStatus": "approved",
     "externalRef": "usarchery:miami archery club|17415 bauer dr homestead florida united states of america 33031"
+  },
+  {
+    "name": "MINARA Archery",
+    "address": "Archery Shoppe, 2910 Carlisle NE, Albuquerque, New Mexico, United States of America, 87111",
+    "phone": "+1 505-440-8036",
+    "email": "abdurrauf.minara@gmail.com",
+    "website": "",
+    "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program",
+    "reviewStatus": "approved",
+    "externalRef": "usarchery:minara archery|archery shoppe 2910 carlisle ne albuquerque new mexico united states of america 87111"
   },
   {
     "name": "MWS Smashing Arrows",
@@ -5820,16 +5820,6 @@
     "externalRef": "nfaa:pineapple archery training center|18015 n 75th avenue glendale arizona 85308"
   },
   {
-    "name": "Pineapple JOAD",
-    "address": "18015 N. 75th Avenue, Glendale, Arizona, United States of America, 85308",
-    "phone": "602-448-9869",
-    "email": "pineapple3d@hotmail.com",
-    "website": "",
-    "programs": "Junior Olympic Archery Development (JOAD)",
-    "reviewStatus": "approved",
-    "externalRef": "usarchery:pineapple joad|18015 n 75th avenue glendale arizona united states of america 85308"
-  },
-  {
     "name": "Pinehurst Archery",
     "address": "Chicken Plant Rd, Pinehurst, North Carolina, United States of America, 28315",
     "phone": "+1 910-638-2366",
@@ -7108,6 +7098,16 @@
     "programs": "",
     "reviewStatus": "approved",
     "externalRef": "usarchery:stanford university archery program|im south basin el camino real palo alto california united states of america 94301"
+  },
+  {
+    "name": "Stick Sniper Archery Club",
+    "address": "1550 S Craycroft Rd Ste 160, Tucson, Arizona, 85711-7269",
+    "phone": "+15207473875",
+    "email": "sticksniperarchery@gmail.com",
+    "website": "http://www.sticksniper.com",
+    "programs": "indoor range",
+    "reviewStatus": "approved",
+    "externalRef": "nfaa:stick sniper archery club|1550 s craycroft rd ste 160 tucson arizona 85711 7269"
   },
   {
     "name": "Sticks & String LLC",
