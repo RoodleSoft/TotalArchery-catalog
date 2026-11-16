@@ -105,7 +105,7 @@
     "phone": "+16028818165",
     "email": "anchorpointarcheryaz@gmail.com",
     "website": "",
-    "programs": "indoor range, outdoor field range, 3d range",
+    "programs": "",
     "reviewStatus": "approved",
     "externalRef": "nfaa:anchor point archery az|15836 w eddie albert way goodyear arizona 85338"
   },
@@ -875,7 +875,7 @@
     "phone": "",
     "email": "blackmountainbowmen@gmail.com",
     "website": "",
-    "programs": "",
+    "programs": "indoor range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:black mountain bowmen|black mountain bowmen bmb avenida espana san jose california 95139"
   },
@@ -2105,7 +2105,7 @@
     "phone": "+15635056365",
     "email": "president@davenportvalleyarchers.com",
     "website": "http://davenportvalleyarchers.com",
-    "programs": "",
+    "programs": "3d range, outdoor range, outdoor field range, 3d range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:davenport valley archers|15535 270th street long grove iowa 52756"
   },
@@ -3085,7 +3085,7 @@
     "phone": "3605800813",
     "email": "cjlutton@comcast.net",
     "website": "",
-    "programs": "3d range, indoor range, 3d range, outdoor range, outdoor field range",
+    "programs": "3d range, indoor range, 3d range, outdoor field range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:grays harbor bowman|902 st rt 105 aberdeen washington 98520"
   },
@@ -3245,7 +3245,7 @@
     "phone": "",
     "email": "",
     "website": "",
-    "programs": "3d range, indoor range, 3d range, outdoor range, outdoor field range",
+    "programs": "3d range, indoor range, 3d range, outdoor field range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:hell hole archers|po box 1034 big piney wyoming 83113"
   },
@@ -3495,7 +3495,7 @@
     "phone": "+19803544020",
     "email": "indiantrailbowclub@gmail.com",
     "website": "",
-    "programs": "3d range, indoor range, 3d range, outdoor range, outdoor field range",
+    "programs": "3d range, indoor range, 3d range, outdoor field range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:indian trail bow club nc|3906 richardson rd monroe north carolina 28112"
   },
@@ -3865,7 +3865,7 @@
     "phone": "+16102169153",
     "email": "tsn2504@msn.com",
     "website": "",
-    "programs": "3d range, indoor range, 3d range, outdoor range, outdoor field range",
+    "programs": "3d range, indoor range, 3d range, outdoor field range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:kings point archery club|625 masterpiece dr sun city center florida 33573"
   },
@@ -4420,16 +4420,6 @@
     "externalRef": "usarchery:m j archery academy|191w englewood ave englewood new jersey united states of america 07631"
   },
   {
-    "name": "MIAMI ARCHERY CLUB",
-    "address": "17415 Bauer Dr, Homestead, Florida, United States of America, 33031",
-    "phone": "+13058782252",
-    "email": "miamiarcheryclub@gmail.com",
-    "website": "http://www.miamiarcheryclub.com",
-    "programs": "Junior Olympic Archery Development (JOAD), 3D Archery, Field Archery, Olympic Archery in the Schools",
-    "reviewStatus": "approved",
-    "externalRef": "usarchery:miami archery club|17415 bauer dr homestead florida united states of america 33031"
-  },
-  {
     "name": "MINARA Archery",
     "address": "Archery Shoppe, 2910 Carlisle NE, Albuquerque, New Mexico, United States of America, 87111",
     "phone": "+1 505-440-8036",
@@ -4880,16 +4870,6 @@
     "externalRef": "nfaa:nampa bow chiefs inc|222 w railroad st nampa idaho 83687"
   },
   {
-    "name": "Narragansett Bowhunters",
-    "address": "1531 Ten Rod Rd, North Kingstown, Rhode Island, 02852",
-    "phone": "+14012957228",
-    "email": "narragansettbowhunters@gmail.com",
-    "website": "https://www.narragansettbowhunters.org",
-    "programs": "outdoor field range, indoor range, 3d range",
-    "reviewStatus": "approved",
-    "externalRef": "nfaa:narragansett bowhunters|1531 ten rod rd north kingstown rhode island 02852"
-  },
-  {
     "name": "Navajo Technical University Archery",
     "address": ", New Mexico, United States of America",
     "phone": "+15054090739",
@@ -5065,7 +5045,7 @@
     "phone": "+14026490294",
     "email": "kevinpolt@ptcnet.net",
     "website": "",
-    "programs": "3d range, indoor range, 3d range, outdoor range, outdoor field range",
+    "programs": "3d range, indoor range, 3d range, outdoor field range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:norfolk archery club|3rd and phillip norfolk nebraska 68702"
   },
@@ -8388,6 +8368,16 @@
     "programs": "indoor range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:waltonian archers of linn county|3985 wickiup hill rd no mail delivery toddville iowa 52341"
+  },
+  {
+    "name": "Wanderlust Archers",
+    "address": "245 N Eric Dr, Palatine, Illinois, United States of America, 60067",
+    "phone": "224-406-0265",
+    "email": "wanderlustarchers@gmail.com",
+    "website": "http://www.wanderlustarchers.com",
+    "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program",
+    "reviewStatus": "approved",
+    "externalRef": "usarchery:wanderlust archers|245 n eric dr palatine illinois united states of america 60067"
   },
   {
     "name": "Wankinquoah Rod and Gun Club",
