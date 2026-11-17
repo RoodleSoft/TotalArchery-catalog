@@ -230,6 +230,16 @@
     "externalRef": "nfaa:archery and bow club|3690 bramlett church road gray court south carolina 29645"
   },
   {
+    "name": "Arizona Archery Club, LLC",
+    "address": "1115 W. Deer Valley Road #1, Phoenix, Arizona, United States of America, 85027",
+    "phone": "+16232664647",
+    "email": "arizonaarcheryc@gmail.com",
+    "website": "http://www.azarcheryclub.com",
+    "programs": "Junior Olympic Archery Development (JOAD)",
+    "reviewStatus": "approved",
+    "externalRef": "usarchery:arizona archery club llc|1115 w deer valley road 1 phoenix arizona united states of america 85027"
+  },
+  {
     "name": "Arizona Christian University Archery",
     "address": "1115 W. Deer Valley Rd, Phoenix, Arizona, United States of America, 85027",
     "phone": "+16026942841",
@@ -508,16 +518,6 @@
     "programs": "Junior Olympic Archery Development (JOAD)",
     "reviewStatus": "approved",
     "externalRef": "usarchery:b k archery joad club|12506 izaak walton dr bristow virginia united states of america 20136"
-  },
-  {
-    "name": "BAKCOU JOAD Club",
-    "address": "2840 F Ave, Ogden, Utah, United States of America, 84401",
-    "phone": "+18013912403",
-    "email": "BakcouJOADClub@gmail.com",
-    "website": "https://bakcoujoadclub.usarchery.org",
-    "programs": "Junior Olympic Archery Development (JOAD)",
-    "reviewStatus": "approved",
-    "externalRef": "usarchery:bakcou joad club|2840 f ave ogden utah united states of america 84401"
   },
   {
     "name": "Back 2 the Wild Archers",
@@ -2145,7 +2145,7 @@
     "phone": "+15209067028",
     "email": "support@desertarchers.com",
     "website": "",
-    "programs": "outdoor field range, outdoor range",
+    "programs": "outdoor field range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:desert archers|tuscon mountain park archery range kinney rd tucson arizona 85745"
   },
@@ -2258,6 +2258,16 @@
     "programs": "Junior Olympic Archery Development (JOAD)",
     "reviewStatus": "approved",
     "externalRef": "usarchery:dream chasers joad|3946 e state hwy 260 payson arizona united states of america 85541"
+  },
+  {
+    "name": "Dreaming on Target",
+    "address": "120 E Clay Ave, Suite 4, Brandon, Florida, United States of America, 33510-3733",
+    "phone": "+13528127079",
+    "email": "dreamingontarget@icloud.com",
+    "website": "",
+    "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program, 3D Archery, Field Archery, Olympic Archery in the Schools",
+    "reviewStatus": "approved",
+    "externalRef": "usarchery:dreaming on target|120 e clay ave suite 4 brandon florida united states of america 33510 3733"
   },
   {
     "name": "Durham County Wildlife Club",
@@ -5228,16 +5238,6 @@
     "programs": "indoor range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:oakland county sportsman s|4770 waterford rd clarkston michigan 48346"
-  },
-  {
-    "name": "Oakland County Sportsmen's Club",
-    "address": "Oakland County Sportsmen's Club, 4770 Waterford Rd., Clarkston, Michigan, United States of America, 48346",
-    "phone": "(586) 946-8014",
-    "email": "coach.ron59@gmail.com",
-    "website": "http://ocsc-archery.org",
-    "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program, 3D Archery",
-    "reviewStatus": "approved",
-    "externalRef": "usarchery:oakland county sportsmen s club|oakland county sportsmen s club 4770 waterford rd clarkston michigan united states of america 48346"
   },
   {
     "name": "Oakridge Archery Club",
