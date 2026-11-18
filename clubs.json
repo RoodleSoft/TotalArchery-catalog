@@ -520,6 +520,16 @@
     "externalRef": "usarchery:b k archery joad club|12506 izaak walton dr bristow virginia united states of america 20136"
   },
   {
+    "name": "BAKCOU JOAD Club",
+    "address": "2840 F Ave, Ogden, Utah, United States of America, 84401",
+    "phone": "+18013912403",
+    "email": "BakcouJOADClub@gmail.com",
+    "website": "https://bakcoujoadclub.usarchery.org",
+    "programs": "Junior Olympic Archery Development (JOAD)",
+    "reviewStatus": "approved",
+    "externalRef": "usarchery:bakcou joad club|2840 f ave ogden utah united states of america 84401"
+  },
+  {
     "name": "Back 2 the Wild Archers",
     "address": "470 n. 1100 w., Centerville, Utah, United States of America, 84014",
     "phone": "801-891-4577",
@@ -2705,7 +2715,7 @@
     "phone": "+19545463812",
     "email": "Information@FortLauderdaleArchers.com",
     "website": "",
-    "programs": "indoor range, 3d range",
+    "programs": "outdoor field range, indoor range, 3d range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:fort lauderdale archers|florida"
   },
@@ -2765,7 +2775,7 @@
     "phone": "",
     "email": "",
     "website": "",
-    "programs": "indoor range, 3d range",
+    "programs": "outdoor field range, indoor range, 3d range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:full draw archery club cherokee|5243 keeline rd cherokee iowa 51012"
   },
@@ -5238,6 +5248,16 @@
     "programs": "indoor range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:oakland county sportsman s|4770 waterford rd clarkston michigan 48346"
+  },
+  {
+    "name": "Oakland County Sportsmen's Club",
+    "address": "Oakland County Sportsmen's Club, 4770 Waterford Rd., Clarkston, Michigan, United States of America, 48346",
+    "phone": "(586) 946-8014",
+    "email": "coach.ron59@gmail.com",
+    "website": "http://ocsc-archery.org",
+    "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program, 3D Archery",
+    "reviewStatus": "approved",
+    "externalRef": "usarchery:oakland county sportsmen s club|oakland county sportsmen s club 4770 waterford rd clarkston michigan united states of america 48346"
   },
   {
     "name": "Oakridge Archery Club",
