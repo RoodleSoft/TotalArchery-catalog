@@ -1,5 +1,15 @@
 [
   {
+    "name": "A-1 Archery",
+    "address": "587 Lenertz Rd, Hudson, Wisconsin, 54016",
+    "phone": "+447153861217",
+    "email": "dan@a1archery.com",
+    "website": "",
+    "programs": "",
+    "reviewStatus": "approved",
+    "externalRef": "nfaa:a 1 archery|587 lenertz rd hudson wisconsin 54016"
+  },
+  {
     "name": "ACE Archery",
     "address": "181 SOUTH CHEROKEE RD, SOCIAL CIRCLE, Georgia, 30025",
     "phone": "+17704643354",
@@ -230,16 +240,6 @@
     "externalRef": "nfaa:archery and bow club|3690 bramlett church road gray court south carolina 29645"
   },
   {
-    "name": "Arizona Archery Club, LLC",
-    "address": "1115 W. Deer Valley Road #1, Phoenix, Arizona, United States of America, 85027",
-    "phone": "+16232664647",
-    "email": "arizonaarcheryc@gmail.com",
-    "website": "http://www.azarcheryclub.com",
-    "programs": "Junior Olympic Archery Development (JOAD)",
-    "reviewStatus": "approved",
-    "externalRef": "usarchery:arizona archery club llc|1115 w deer valley road 1 phoenix arizona united states of america 85027"
-  },
-  {
     "name": "Arizona Christian University Archery",
     "address": "1115 W. Deer Valley Rd, Phoenix, Arizona, United States of America, 85027",
     "phone": "+16026942841",
@@ -358,16 +358,6 @@
     "programs": "indoor range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:arrowhead archery|3104 epperly drive del city oklahoma 73115"
-  },
-  {
-    "name": "Arrowhead Archery Academy",
-    "address": "2201 Oak Hills Trail, Carlton, Minnesota, United States of America, 55718",
-    "phone": "+1 218-330-5412",
-    "email": "jason.burley@arrowheadarcherymn.com",
-    "website": "",
-    "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program, 3D Archery, Field Archery, Olympic Archery in the Schools",
-    "reviewStatus": "approved",
-    "externalRef": "usarchery:arrowhead archery academy|2201 oak hills trail carlton minnesota united states of america 55718"
   },
   {
     "name": "Arts Archers",
