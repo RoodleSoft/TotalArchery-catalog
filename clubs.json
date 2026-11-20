@@ -240,16 +240,6 @@
     "externalRef": "nfaa:archery and bow club|3690 bramlett church road gray court south carolina 29645"
   },
   {
-    "name": "Arizona Christian University Archery",
-    "address": "1115 W. Deer Valley Rd, Phoenix, Arizona, United States of America, 85027",
-    "phone": "+16026942841",
-    "email": "arvid.veidmark@arizonachristian.edu",
-    "website": "",
-    "programs": "",
-    "reviewStatus": "approved",
-    "externalRef": "usarchery:arizona christian university archery|1115 w deer valley rd phoenix arizona united states of america 85027"
-  },
-  {
     "name": "Arizona Junior Olympic Archery Development (Azjoad)",
     "address": "Varies, Phoenix, Arizona, United States of America, 85016",
     "phone": "602-228-0465",
@@ -1250,16 +1240,6 @@
     "externalRef": "usarchery:byron center grandville archery club|3385 oconto court sw grandville michigan united states of america 49418"
   },
   {
-    "name": "C&C Archery and Sporting Goods",
-    "address": "7149 W. Main Rd, LeRoy, New York, 14482",
-    "phone": "+15857686637",
-    "email": "ccarchery1@frontier.net",
-    "website": "",
-    "programs": "indoor range",
-    "reviewStatus": "approved",
-    "externalRef": "nfaa:c c archery and sporting goods|7149 w main rd leroy new york 14482"
-  },
-  {
     "name": "C.B.A & You, Inc.",
     "address": "1220 S Powahatan Ave, Independence, Missouri, United States of America, 64057",
     "phone": "816-886-6281",
@@ -1302,9 +1282,9 @@
   {
     "name": "California Archery Center",
     "address": "440 Marathon Ave, Campbell, California, United States of America, 95008",
-    "phone": "+1 408-210-2655",
+    "phone": "+14082102655",
     "email": "danielgtibbetts1@gmail.com",
-    "website": "http://calfencingacademy.com",
+    "website": "http://Californiaarcherycenter@usarchery.org",
     "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program",
     "reviewStatus": "approved",
     "externalRef": "usarchery:california archery center|440 marathon ave campbell california united states of america 95008"
@@ -4571,13 +4551,13 @@
   },
   {
     "name": "Michiana Archery",
-    "address": ", Indiana, United States of America",
+    "address": "50510 State Road 933 North, South Ben, Indiana, 46637",
     "phone": "+15742725300",
     "email": "info@michianaarchery.com",
-    "website": "http://MichianaArchery.com",
-    "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program",
+    "website": "",
+    "programs": "",
     "reviewStatus": "approved",
-    "externalRef": "usarchery:michiana archery|indiana united states of america"
+    "externalRef": "nfaa:michiana archery|50510 state road 933 north south ben indiana 46637"
   },
   {
     "name": "Michigan State University - Archery Club",
