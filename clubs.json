@@ -115,7 +115,7 @@
     "phone": "+16028818165",
     "email": "anchorpointarcheryaz@gmail.com",
     "website": "",
-    "programs": "",
+    "programs": "indoor range, outdoor field range, 3d range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:anchor point archery az|15836 w eddie albert way goodyear arizona 85338"
   },
@@ -238,16 +238,6 @@
     "programs": "outdoor field range, outdoor range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:archery and bow club|3690 bramlett church road gray court south carolina 29645"
-  },
-  {
-    "name": "Arizona Junior Olympic Archery Development (Azjoad)",
-    "address": "Varies, Phoenix, Arizona, United States of America, 85016",
-    "phone": "602-228-0465",
-    "email": "azjoad@cox.net",
-    "website": "http://www.azjoad.com",
-    "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program",
-    "reviewStatus": "approved",
-    "externalRef": "usarchery:arizona junior olympic archery development azjoad|varies phoenix arizona united states of america 85016"
   },
   {
     "name": "Arizona State University- Sun Devil Archery",
@@ -528,16 +518,6 @@
     "programs": "Junior Olympic Archery Development (JOAD)",
     "reviewStatus": "approved",
     "externalRef": "usarchery:backyard archers joad|145 hillside trail linn missouri united states of america 65051"
-  },
-  {
-    "name": "Badger Archery",
-    "address": "41 East Glendale, Dillon, Montana, 59725",
-    "phone": "",
-    "email": "",
-    "website": "",
-    "programs": "indoor range",
-    "reviewStatus": "approved",
-    "externalRef": "nfaa:badger archery|41 east glendale dillon montana 59725"
   },
   {
     "name": "Bakersfield Target Archers",
@@ -1800,16 +1780,6 @@
     "externalRef": "usarchery:colorado springs joad|2110 busch ave colorado springs colorado united states of america 80904"
   },
   {
-    "name": "Columbia Basin Archers",
-    "address": "650 Marksman Street SE, Ephrata, Washington, 98823",
-    "phone": "+15097608861",
-    "email": "columbiabasinarchers@gmail.com",
-    "website": "",
-    "programs": "indoor range",
-    "reviewStatus": "approved",
-    "externalRef": "nfaa:columbia basin archers|650 marksman street se ephrata washington 98823"
-  },
-  {
     "name": "Columbia University- Archery",
     "address": "3030 Broadway, Dodge Fitness Ctr, MC-1924, New York, New York, United States of America, 10027",
     "phone": "212-854-5156",
@@ -2590,16 +2560,6 @@
     "externalRef": "usarchery:falcon archers joad|47 papp road canonsburg pennsylvania united states of america 15317"
   },
   {
-    "name": "Fallon Bowmen",
-    "address": "325 Sheckler Road, Fallon, Nevada, 89406",
-    "phone": "",
-    "email": "fallonbowmen01@gmail.com",
-    "website": "",
-    "programs": "outdoor range",
-    "reviewStatus": "approved",
-    "externalRef": "nfaa:fallon bowmen|325 sheckler road fallon nevada 89406"
-  },
-  {
     "name": "Fat Shafts Archery",
     "address": "3001 Bayshore Road, Ste. 9, Benicia, California, United States of America, 94510",
     "phone": "707-745-0447",
@@ -2680,16 +2640,6 @@
     "externalRef": "usarchery:fort edwards archery club|350 cold stream road capon bridge west virginia united states of america 26711"
   },
   {
-    "name": "Fort Lauderdale Archers",
-    "address": ", Florida",
-    "phone": "+19545463812",
-    "email": "Information@FortLauderdaleArchers.com",
-    "website": "",
-    "programs": "outdoor field range, indoor range, 3d range",
-    "reviewStatus": "approved",
-    "externalRef": "nfaa:fort lauderdale archers|florida"
-  },
-  {
     "name": "Fostoria Area Bowmen",
     "address": "101 1/2 Main Street, Fostoria, Ohio, 44830",
     "phone": "+14196192635",
@@ -2731,13 +2681,13 @@
   },
   {
     "name": "Full Curl Archery",
-    "address": "12501 OLD SEWARD HWY, ANCHORAGE, Alaska, 99515",
-    "phone": "+19078302089",
+    "address": "Full Curl Archery, 12501 Old Seward Hwy E-F, Anchorage, Alaska, United States of America, 99515",
+    "phone": "(907) 344-2697",
     "email": "akfullcurlarchery@gmail.com",
-    "website": "",
-    "programs": "indoor range",
+    "website": "http://www.fullcurlarchery.com",
+    "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program, 3D Archery, Field Archery",
     "reviewStatus": "approved",
-    "externalRef": "nfaa:full curl archery|12501 old seward hwy anchorage alaska 99515"
+    "externalRef": "usarchery:full curl archery|full curl archery 12501 old seward hwy e f anchorage alaska united states of america 99515"
   },
   {
     "name": "Full Draw Archery Club - Cherokee",
@@ -2745,7 +2695,7 @@
     "phone": "",
     "email": "",
     "website": "",
-    "programs": "outdoor field range, indoor range, 3d range",
+    "programs": "outdoor field range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:full draw archery club cherokee|5243 keeline rd cherokee iowa 51012"
   },
@@ -3518,6 +3468,16 @@
     "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program",
     "reviewStatus": "approved",
     "externalRef": "usarchery:integrity archery of florida|17 interlaken road orlando florida united states of america 32804"
+  },
+  {
+    "name": "Invicta Sports",
+    "address": "9121 B Gaither Rd, Gaithersburg, Maryland, United States of America, 20877",
+    "phone": "+1 240-614-7157",
+    "email": "info@invictasports.net",
+    "website": "http://www.invictasports.net",
+    "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program",
+    "reviewStatus": "approved",
+    "externalRef": "usarchery:invicta sports|9121 b gaither rd gaithersburg maryland united states of america 20877"
   },
   {
     "name": "Invictus Archery",
@@ -4930,16 +4890,6 @@
     "externalRef": "nfaa:new castle hundred archers|2272 sunset lake rd newark delaware 19702"
   },
   {
-    "name": "New England School of Archery (NESA LLC)",
-    "address": "P.O. Box 3513, Concord, New Hampshire, United States of America, 03301",
-    "phone": "603-674-2845",
-    "email": "nesainc@yahoo.com",
-    "website": "http://www.nearchery.com, www.theFlyingArcher.com",
-    "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program",
-    "reviewStatus": "approved",
-    "externalRef": "usarchery:new england school of archery nesa llc|p o box 3513 concord new hampshire united states of america 03301"
-  },
-  {
     "name": "New Jersey School Of Archery Joad",
     "address": "9 Old Lane Extension, Towaco, New Jersey, United States of America, 07082",
     "phone": "917-757-9561",
@@ -5698,6 +5648,16 @@
     "programs": "Adult Archery Program",
     "reviewStatus": "approved",
     "externalRef": "usarchery:penn del archers|penn del archers 1280 naaman s creek road bethel township garnet valley pennsylvania united states of america 19061"
+  },
+  {
+    "name": "Pennsylvania College of Technology- Archery",
+    "address": "One College Avenue, Athletics Dept. DIF 38, Williamsport, Pennsylvania, United States of America, 17701",
+    "phone": "(570) 320-2443",
+    "email": "ans41@pct.edu",
+    "website": "http://www.athletics.pct.edu",
+    "programs": "",
+    "reviewStatus": "approved",
+    "externalRef": "usarchery:pennsylvania college of technology archery|one college avenue athletics dept dif 38 williamsport pennsylvania united states of america 17701"
   },
   {
     "name": "Percy Quin Archery Club",
@@ -8524,7 +8484,7 @@
     "address": "O-500 Leonard St. NW, Grand Rapids, Michigan, United States of America, 49534",
     "phone": "+1 616-350-6321",
     "email": "wobenchain@gmail.com",
-    "website": "",
+    "website": "http://wwsc.org",
     "programs": "",
     "reviewStatus": "approved",
     "externalRef": "usarchery:west walker sportsman s club|o 500 leonard st nw grand rapids michigan united states of america 49534"
@@ -8592,7 +8552,7 @@
   {
     "name": "Wilcox JOAD Archery Club",
     "address": "9516 Jefferson Ave, Newport News, Virginia, United States of America, 23605",
-    "phone": "+1 757 310 7698",
+    "phone": "+17573107698",
     "email": "wilcoxjoad@gmail.com",
     "website": "https://wilcox-joad-archery-club.square.site/",
     "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program",
