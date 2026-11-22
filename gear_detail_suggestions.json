@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-15T04:45:22Z",
+ "updatedAt": "2026-11-22T04:45:24Z",
  "note": "Suggestions from retailer feeds: unconfirmed. The admin assistant checks each on its source page before applying.",
  "suggestions": {
   "bows:Hoyt|Carbon RX-10 Ultra": {
@@ -378,14 +378,6 @@
    "retailer": "lancasterarchery.com",
    "title": "Black Gold Ripcord Code Red X Arrow Rest"
   },
-  "gear:Trophy Taker|Spring Steel Pro": {
-   "fields": {
-    "priceUsd": 79.99
-   },
-   "source": "https://lancasterarchery.com/products/trophy-taker-spring-steel-pro-arrow-rest",
-   "retailer": "lancasterarchery.com",
-   "title": "Trophy Taker Spring Steel PRO Arrow Rest"
-  },
   "gear:Specialty Archery|Pro Series Scope": {
    "fields": {
     "priceUsd": 479.99
@@ -508,11 +500,11 @@
   },
   "gear:Trophy Ridge|React Pro": {
    "fields": {
-    "priceUsd": 215.99
+    "priceUsd": 299.99
    },
-   "source": "https://lancasterarchery.com/products/trophy-ridge-react-pro-sight-019",
+   "source": "https://lancasterarchery.com/products/trophy-ridge-digital-react-trio-pro-sight-3-pin",
    "retailer": "lancasterarchery.com",
-   "title": "Trophy Ridge React Pro Sight (.019\")"
+   "title": "Trophy Ridge Digital React Trio Pro Sight (3 Pin)"
   },
   "gear:Trophy Ridge|React Trio Pro": {
    "fields": {
@@ -593,6 +585,14 @@
    "source": "https://lancasterarchery.com/products/b-50-dacron-recurve-bowstring-amo-bow-string-strd-lgth-14-black-50",
    "retailer": "lancasterarchery.com",
    "title": "B-55 Dacron Recurve BowString AMO Bow String Strd/Lgth-14-Blk-50"
+  },
+  "gear:Trophy Taker|Spring Steel Pro": {
+   "fields": {
+    "priceUsd": 79.99
+   },
+   "source": "https://lancasterarchery.com/products/trophy-taker-spring-steel-pro-arrow-rest",
+   "retailer": "lancasterarchery.com",
+   "title": "Trophy Taker Spring Steel PRO Arrow Rest"
   },
   "gear:Hamskea|RAPTOR Peep": {
    "fields": {
