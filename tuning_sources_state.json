@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-11-15T03:50:12.019404Z",
+  "updatedAt": "2026-11-22T03:50:11.736455Z",
   "docs": {
     "https://bowtecharchery.com/wp-content/uploads/2026/01/Alliance-Bow-Owners-Manual.pdf": {
       "label": "Alliance owner's manual (DeadLock)",
       "brand": "Bowtech",
       "hash": "-35e721274d19e6c1",
       "fp": 2,
-      "checkedAt": "2026-11-15T03:50:12.019404Z"
+      "checkedAt": "2026-11-22T03:50:11.736455Z"
     },
     "https://bowtecharchery.com/bowtech-deadlock-technology/": {
       "label": "DeadLock technology page",
       "brand": "Bowtech",
       "hash": "-4fafcdc7489cbdee",
       "fp": 2,
-      "checkedAt": "2026-11-15T03:50:12.019404Z",
+      "checkedAt": "2026-11-22T03:50:11.736455Z",
       "changedAt": "2026-11-01T03:50:12.182714Z"
     },
     "https://mathewsinc.com/pages/faq": {
@@ -21,7 +21,7 @@
       "brand": "Mathews",
       "hash": "-74ae3234a784bf25",
       "fp": 2,
-      "checkedAt": "2026-11-15T03:50:12.019404Z",
+      "checkedAt": "2026-11-22T03:50:11.736455Z",
       "changedAt": "2026-11-15T03:50:12.019404Z"
     },
     "https://mathewsinc.com/pages/lift-x": {
@@ -29,70 +29,70 @@
       "brand": "Mathews",
       "hash": "468843beb5ebec8a",
       "fp": 2,
-      "checkedAt": "2026-11-15T03:50:12.019404Z",
+      "checkedAt": "2026-11-22T03:50:11.736455Z",
       "changedAt": "2026-11-15T03:50:12.019404Z"
     },
     "https://hoyt.com/pages/xts-tuning-system": {
       "label": "XTS tuning system page",
       "brand": "Hoyt",
-      "hash": "-20cc90221422cb3f",
+      "hash": "11fe74a10311b961",
       "fp": 2,
-      "checkedAt": "2026-11-15T03:50:12.019404Z",
-      "changedAt": "2026-10-25T03:50:11.530819Z"
+      "checkedAt": "2026-11-22T03:50:11.736455Z",
+      "changedAt": "2026-11-22T03:50:11.736455Z"
     },
     "https://hoyt.com/pages/tune-charts": {
       "label": "Tune charts index",
       "brand": "Hoyt",
-      "hash": "2053a106a89f371b",
+      "hash": "781ad746c9e5161b",
       "fp": 2,
-      "checkedAt": "2026-11-15T03:50:12.019404Z",
-      "changedAt": "2026-10-25T03:50:11.530819Z"
+      "checkedAt": "2026-11-22T03:50:11.736455Z",
+      "changedAt": "2026-11-22T03:50:11.736455Z"
     },
     "https://hoyt.com/pages/manuals": {
       "label": "Owner's manuals index",
       "brand": "Hoyt",
-      "hash": "1f2c4ddd1748c431",
+      "hash": "-a213cf5dbb3ab45",
       "fp": 2,
-      "checkedAt": "2026-11-15T03:50:12.019404Z",
-      "changedAt": "2026-10-25T03:50:11.530819Z"
+      "checkedAt": "2026-11-22T03:50:11.736455Z",
+      "changedAt": "2026-11-22T03:50:11.736455Z"
     },
     "https://psearchery.com/pages/pse-compound-bow-tune-charts": {
       "label": "Tune charts",
       "brand": "PSE",
-      "hash": "-562e8c2006eaf8b8",
+      "hash": "10460c24b49dc0a6",
       "fp": 2,
-      "checkedAt": "2026-11-15T03:50:12.019404Z",
-      "changedAt": "2026-11-15T03:50:12.019404Z"
+      "checkedAt": "2026-11-22T03:50:11.736455Z",
+      "changedAt": "2026-11-22T03:50:11.736455Z"
     },
     "https://elitearchery.com/pages/s-e-t-technology": {
       "label": "S.E.T. technology page",
       "brand": "Elite",
-      "hash": "5fdd71e93db5266c",
+      "hash": "38de5e702b8f0a5a",
       "fp": 2,
-      "checkedAt": "2026-11-15T03:50:12.019404Z",
-      "changedAt": "2026-11-08T03:50:11.501320Z"
+      "checkedAt": "2026-11-22T03:50:11.736455Z",
+      "changedAt": "2026-11-22T03:50:11.736455Z"
     },
     "https://elitearchery.com/blogs/technical-tools/tuning-made-easy-with-s-e-t-technology": {
       "label": "Tuning made easy with S.E.T.",
       "brand": "Elite",
-      "hash": "3927f740c9e9d78d",
+      "hash": "-72dee160280e0ed9",
       "fp": 2,
-      "checkedAt": "2026-11-15T03:50:12.019404Z",
-      "changedAt": "2026-11-08T03:50:11.501320Z"
+      "checkedAt": "2026-11-22T03:50:11.736455Z",
+      "changedAt": "2026-11-22T03:50:11.736455Z"
     },
     "https://www.g5prime.com/wp-content/uploads/2025/11/Divide-Tuning-Chart.pdf": {
       "label": "Divide tuning chart",
       "brand": "Prime",
       "hash": "-65a3c3b92df9fbc3",
       "fp": 2,
-      "checkedAt": "2026-11-15T03:50:12.019404Z"
+      "checkedAt": "2026-11-22T03:50:11.736455Z"
     },
     "https://www.xpeditionarchery.com/pages/user-manuals": {
       "label": "User manuals index",
       "brand": "Xpedition",
       "hash": "7920676c0aa994dc",
       "fp": 2,
-      "checkedAt": "2026-11-15T03:50:12.019404Z",
+      "checkedAt": "2026-11-22T03:50:11.736455Z",
       "changedAt": "2026-11-01T03:50:12.182714Z"
     },
     "https://store-6ztydpftbt.mybigcommerce.com/content/2025-26-Darton-Manual.pdf": {
@@ -100,14 +100,14 @@
       "brand": "Darton",
       "hash": "5a80ca165bd4ac3e",
       "fp": 2,
-      "checkedAt": "2026-11-15T03:50:12.019404Z"
+      "checkedAt": "2026-11-22T03:50:11.736455Z"
     },
     "https://dartonarchery.com/faq/": {
       "label": "FAQ",
       "brand": "Darton",
       "hash": "-31d7c331add9d2bd",
       "fp": 2,
-      "checkedAt": "2026-11-15T03:50:12.019404Z"
+      "checkedAt": "2026-11-22T03:50:11.736455Z"
     }
   }
 }
