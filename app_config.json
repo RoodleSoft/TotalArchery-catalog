@@ -1,4 +1,4 @@
 {
   "minVersion": { "android": "1.81.24", "ios": "", "windows": "", "linux": "", "macos": "" },
-  "latestVersion": { "android": "1.82.0", "ios": "1.81.25", "windows": "1.82.0", "linux": "1.82.0", "macos": "" }
+  "latestVersion": { "android": "1.82.0", "ios": "1.82.0", "windows": "1.82.0", "linux": "1.82.0", "macos": "" }
 }
