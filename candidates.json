@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T04:11:48.004565Z",
+  "updatedAt": "2026-11-22T04:11:44.466211Z",
   "sights": [
     {
       "brand": "Axcel",
@@ -235,6 +235,14 @@
     },
     {
       "brand": "Trophy Ridge",
+      "model": "React HX5 Sight",
+      "url": "https://xspotarchery.com/products/trophy-ridge-react-hx5-sight-lh",
+      "image": "https://cdn.shopify.com/s/files/1/2078/7173/files/1048034_1000x1000_4a54fa6c-34bc-4f26-a25e-2d7063db15b6.webp",
+      "priceUsd": 189.99,
+      "firstSeen": "2026-11-22"
+    },
+    {
+      "brand": "Trophy Ridge",
       "model": "SWTF Bow Sight",
       "url": "https://beararchery.com/products/trophy-ridge-swft-bow-sight",
       "image": "https://cdn.shopify.com/s/files/1/0488/5331/9840/files/trophy-ridge-swft-bow-sight_sight-nonreact__as421_5.png",
@@ -301,6 +309,14 @@
     }
   ],
   "rangeTargets": [
+    {
+      "brand": "BIGshot",
+      "model": "NEW for 2027-Titan 16 Travel Target",
+      "url": "https://bigshottargets.com/products/titan-16-travel-target",
+      "image": "https://cdn.shopify.com/s/files/1/0510/9458/5544/files/Angle_Under.png?v=1794881355",
+      "priceUsd": 149.99,
+      "firstSeen": "2026-11-22"
+    },
     {
       "brand": "Morrell",
       "model": "Yellow Jacket® MOD Pro 25 Series-  Darts Wrap",
@@ -857,10 +873,10 @@
     },
     {
       "brand": "Easton Archery",
-      "model": "Easton X10™",
-      "url": "https://lancasterarchery.com/products/easton-x10™-3-2mm-parallel-pro-shafts",
-      "image": "https://cdn.shopify.com/s/files/1/0550/8654/7130/files/1043988A.jpg?v=1763392380",
-      "priceUsd": 409.99,
+      "model": "Easton X10",
+      "url": "https://lancasterarchery.com/products/easton-x10-3-2mm-parallel-pro-shafts-750-11pk-open-box-x1049135",
+      "image": "https://cdn.shopify.com/s/files/1/0550/8654/7130/files/1043988A_6dbf3adf-9039-4a20-b182-effd1f3c066b.jpg?v=1794855057",
+      "priceUsd": 338.24,
       "firstSeen": "2026-10-11"
     },
     {
@@ -1014,14 +1030,6 @@
       "image": "https://cdn.shopify.com/s/files/1/0550/8654/7130/files/6180081A_ares-blue.jpg?v=1760455143",
       "priceUsd": 9.17,
       "firstSeen": "2026-10-11"
-    },
-    {
-      "brand": "Victory",
-      "model": "V-Force Sport    s (5PK)-350",
-      "url": "https://lancasterarchery.com/products/victory-v-force-sport-fletched-arrows-5pk-350-open-box-x1048312",
-      "image": "https://cdn.shopify.com/s/files/1/0550/8654/7130/files/1034201A_39be30b7-416a-4bd3-af0c-24ab728b66e6.jpg?v=1792608173",
-      "priceUsd": 44.99,
-      "firstSeen": "2026-10-25"
     },
     {
       "brand": "Victory",
