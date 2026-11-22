@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T02:22:40.851225Z",
+  "updatedAt": "2026-11-22T02:26:42.962439Z",
   "products": [
     {
       "brand": "Hoyt",
@@ -307,6 +307,24 @@
       "kind": "woo"
     }
   ],
-  "events": [],
-  "retailers": []
+  "events": [
+    {
+      "host": "soite.fi",
+      "name": "Keski",
+      "sample": "Aluehallituksen kokous",
+      "state": "Wyoming"
+    }
+  ],
+  "retailers": [
+    {
+      "host": "lancasterarchery.com",
+      "kind": "shopify",
+      "vendorSample": 23
+    },
+    {
+      "host": "archerywarehouse.com",
+      "kind": "shopify",
+      "vendorSample": 4
+    }
+  ]
 }

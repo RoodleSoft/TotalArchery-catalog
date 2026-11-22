@@ -1280,16 +1280,6 @@
     "externalRef": "usarchery:california indoor archers|1300 kingsdale avenue redondo beach california united states of america 90278"
   },
   {
-    "name": "California State University,Fullerton- Archery",
-    "address": "800 N State College Blvd, TSU 247, Fullerton, California, United States of America, 92834",
-    "phone": "",
-    "email": "archery.csuf@gmail.com",
-    "website": "",
-    "programs": "",
-    "reviewStatus": "approved",
-    "externalRef": "usarchery:california state university fullerton archery|800 n state college blvd tsu 247 fullerton california united states of america 92834"
-  },
-  {
     "name": "Camas Prairie Bowmen",
     "address": "Camas Prairie Bowmen, Idaho 83530, GRANGEVILLE, Idaho, 83530-0102",
     "phone": "",
@@ -1348,6 +1338,16 @@
     "programs": "indoor range, outdoor field range, 3d range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:capitol city bowmen|14318 littlerock rd sw rochester washington 98579"
+  },
+  {
+    "name": "Carolina Bullseyes",
+    "address": "7711 Welborn St, Unit 109, Raleigh, North Carolina, United States of America, 27615",
+    "phone": "919-272-2635",
+    "email": "john@lifetimearchery.com",
+    "website": "http://www.lifetimearchery.com",
+    "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program",
+    "reviewStatus": "approved",
+    "externalRef": "usarchery:carolina bullseyes|7711 welborn st unit 109 raleigh north carolina united states of america 27615"
   },
   {
     "name": "Carson Newman University Eagle Archers",
@@ -4780,16 +4780,6 @@
     "externalRef": "usarchery:mustangs archery|775 n center st ste b northville michigan united states of america 48167"
   },
   {
-    "name": "N.E.Kansas Overton's Archery Center",
-    "address": "1035 N. 3rd Street, Suite 104, Lawrence, Kansas, United States of America, 66044",
-    "phone": "785-832-1654",
-    "email": "info@overtonsarcherycenter.com",
-    "website": "http://Overtonsarcherycenter.com",
-    "programs": "",
-    "reviewStatus": "approved",
-    "externalRef": "usarchery:n e kansas overton s archery center|1035 n 3rd street suite 104 lawrence kansas united states of america 66044"
-  },
-  {
     "name": "NAAVAK",
     "address": "990 Detroit Ave, Concord, California, United States of America, 94518",
     "phone": "+15104093200",
@@ -7148,16 +7138,6 @@
     "programs": "outdoor range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:t h e archery club|300 se 97th st wakarusa kansas 66546"
-  },
-  {
-    "name": "T.H.E. Joad Club",
-    "address": "Colorado County Fairgrounds, 1146 Crossroads Blvd, Columbus, Texas, United States of America, 78934",
-    "phone": "8328460402",
-    "email": "joadclub@gmail.com",
-    "website": "",
-    "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program",
-    "reviewStatus": "approved",
-    "externalRef": "usarchery:t h e joad club|colorado county fairgrounds 1146 crossroads blvd columbus texas united states of america 78934"
   },
   {
     "name": "TAC Archery",
