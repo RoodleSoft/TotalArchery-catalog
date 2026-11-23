@@ -30,16 +30,6 @@
     "externalRef": "usarchery:avgc archery|16699 stoddard wells rd victorville california united states of america 92395"
   },
   {
-    "name": "Academy Archery Club",
-    "address": "5342 Sumac Drive, USAF Academy, Colorado, 80840",
-    "phone": "",
-    "email": "academyarcheryclub@gmail.com",
-    "website": "",
-    "programs": "outdoor field range",
-    "reviewStatus": "approved",
-    "externalRef": "nfaa:academy archery club|5342 sumac drive usaf academy colorado 80840"
-  },
-  {
     "name": "Aces & Arrows Archery, Inc.",
     "address": "980 American Pacific Dr, Suite 107, Henderson, Nevada, 89014",
     "phone": "",
@@ -240,34 +230,14 @@
     "externalRef": "nfaa:archery and bow club|3690 bramlett church road gray court south carolina 29645"
   },
   {
-    "name": "Arizona State University- Sun Devil Archery",
-    "address": "6201 e oak street, Phoenix, Arizona, United States of America, 85008",
-    "phone": "+14802809663",
-    "email": "sundevilarchery@gmail.com",
-    "website": "http://Sundevilarchery.com",
-    "programs": "",
-    "reviewStatus": "approved",
-    "externalRef": "usarchery:arizona state university sun devil archery|6201 e oak street phoenix arizona united states of america 85008"
-  },
-  {
     "name": "Arjun Archery Academy",
     "address": "8945 hilltop road, Mckinney, Texas, 75071",
     "phone": "",
     "email": "info@arjunarcheryacademy.com",
     "website": "",
-    "programs": "indoor range",
+    "programs": "",
     "reviewStatus": "approved",
     "externalRef": "nfaa:arjun archery academy|8945 hilltop road mckinney texas 75071"
-  },
-  {
-    "name": "Arjun Archery Academy - Frisco, Texas",
-    "address": "8945 Hlltop Road, McKinney, Texas, United States of America, 75034",
-    "phone": "+12628324035",
-    "email": "info@arjunarcheryacademy.com",
-    "website": "http://www.arjunarcheryacademy.com",
-    "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program, 3D Archery, Olympic Archery in the Schools",
-    "reviewStatus": "approved",
-    "externalRef": "usarchery:arjun archery academy frisco texas|8945 hlltop road mckinney texas united states of america 75034"
   },
   {
     "name": "Armbrustschützen Bisikon",
@@ -405,7 +375,7 @@
     "phone": "",
     "email": "folksyfarmstead@gmail.com",
     "website": "",
-    "programs": "indoor range",
+    "programs": "",
     "reviewStatus": "approved",
     "externalRef": "nfaa:at home on the range archery|350 winding way drive east victoria texas 77905"
   },
@@ -695,7 +665,7 @@
     "phone": "+14068800889",
     "email": "beaverheadarchers@gmail.com",
     "website": "",
-    "programs": "3d range",
+    "programs": "",
     "reviewStatus": "approved",
     "externalRef": "nfaa:beaverhead archers association|po box 932 dillon montana 59725"
   },
@@ -2860,16 +2830,6 @@
     "externalRef": "nfaa:gold coast archers club inc|10875 w atlantic ave delray beach florida 33436"
   },
   {
-    "name": "Gold-N-Grain Archery",
-    "address": "75 McCullough Rd, Sharpsville, Pennsylvania, United States of America, 16150",
-    "phone": "724-962-3620",
-    "email": "goldngrain@hotmail.com",
-    "website": "http://www.goldngrain.com",
-    "programs": "Junior Olympic Archery Development (JOAD), 3D Archery",
-    "reviewStatus": "approved",
-    "externalRef": "usarchery:gold n grain archery|75 mccullough rd sharpsville pennsylvania united states of america 16150"
-  },
-  {
     "name": "Golden Archers Academy JOAD",
     "address": "15130 Marsh Lane #1076, Addison, Texas, United States of America, 75001",
     "phone": "+1 580-335-4509",
@@ -3640,16 +3600,6 @@
     "externalRef": "nfaa:jim cox adventures|28 quail run circle suite d salinas california 93907"
   },
   {
-    "name": "Joliet Archery Club",
-    "address": "3700 W. Francis Rd, NEW LENOX, Illinois, 60451",
-    "phone": "",
-    "email": "",
-    "website": "",
-    "programs": "indoor range",
-    "reviewStatus": "approved",
-    "externalRef": "nfaa:joliet archery club|3700 w francis rd new lenox illinois 60451"
-  },
-  {
     "name": "Juneau Archery Club",
     "address": "5670 Montana Creek Road, JUNEAU, Alaska, 99801",
     "phone": "",
@@ -4155,7 +4105,7 @@
     "phone": "",
     "email": "",
     "website": "",
-    "programs": "indoor range",
+    "programs": "outdoor field range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:lincoln park archery club|2 w belmont harbor dr chicago illinois 60657"
   },
@@ -4555,7 +4505,7 @@
     "phone": "",
     "email": "",
     "website": "",
-    "programs": "indoor range",
+    "programs": "outdoor field range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:mid del archers|743 fox hunters rd harrington delaware 19952"
   },
@@ -4965,7 +4915,7 @@
     "phone": "",
     "email": "nodaho.secretary@gmail.com",
     "website": "",
-    "programs": "indoor range",
+    "programs": "outdoor field range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:nodaho bowhunters inc|33476 holt 150 maitland missouri 64466"
   },
@@ -5055,7 +5005,7 @@
     "phone": "",
     "email": "",
     "website": "",
-    "programs": "indoor range",
+    "programs": "outdoor field range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:northern virginia archers|10875 hampton rd fairfax virginia 22039"
   },
@@ -5570,16 +5520,6 @@
     "externalRef": "nfaa:palomo archery|4022 transport st palo alto california 94303"
   },
   {
-    "name": "Papago Archery Association",
-    "address": "6201 E Oak St, Phoenix, Arizona, United States of America, 85008",
-    "phone": "+14802809663",
-    "email": "info@papagoarchery.com",
-    "website": "http://www.papagoarchery.com",
-    "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program",
-    "reviewStatus": "approved",
-    "externalRef": "usarchery:papago archery association|6201 e oak st phoenix arizona united states of america 85008"
-  },
-  {
     "name": "Parker's Archery",
     "address": "2614 E. STATE RD 46, SPENCER, Indiana, 47460",
     "phone": "",
@@ -5735,7 +5675,7 @@
     "phone": "+16024489869",
     "email": "pineapple3d@hotmail.com",
     "website": "",
-    "programs": "3d range",
+    "programs": "",
     "reviewStatus": "approved",
     "externalRef": "nfaa:pineapple archery training center|18015 n 75th avenue glendale arizona 85308"
   },
@@ -5765,7 +5705,7 @@
     "phone": "",
     "email": "peterjukoski@pioneersportsmen.org",
     "website": "",
-    "programs": "indoor range",
+    "programs": "outdoor field range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:pioneer sportsmen s club inc|1046 clinton st dunbarton new hampshire 03046"
   },
@@ -7210,16 +7150,6 @@
     "externalRef": "nfaa:tangi archery club|801 north st baton rouge louisiana 70802"
   },
   {
-    "name": "Tangy's Pro Shop & Indoor Range",
-    "address": "200 OLD BALD HILL RD, WARWICK, Rhode Island, 02886",
-    "phone": "+14017372697",
-    "email": "jamesdean@tangysarchery.com",
-    "website": "",
-    "programs": "indoor range",
-    "reviewStatus": "approved",
-    "externalRef": "nfaa:tangy s pro shop indoor range|200 old bald hill rd warwick rhode island 02886"
-  },
-  {
     "name": "Team BowDoc Archery",
     "address": "20947 Wolf Road, Mokena, Illinois, United States of America, 60448",
     "phone": "(708) 995-7391",
@@ -8525,7 +8455,7 @@
     "phone": "",
     "email": "",
     "website": "",
-    "programs": "indoor range",
+    "programs": "outdoor field range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:wichita archery inc|3799 e 71st south wichita kansas 67216"
   },
@@ -8620,14 +8550,14 @@
     "externalRef": "usarchery:wisconsin archery alliance|wisconsin united states of america"
   },
   {
-    "name": "Wisconsin Archery Learning Center",
-    "address": "4336 MIlton Ave. Suite 110, Janesville, Wisconsin, United States of America, 53546",
-    "phone": "+16087434327",
-    "email": "wisconsinalc@gmail.com",
-    "website": "https://huntngearonline.com/",
-    "programs": "Junior Olympic Archery Development (JOAD), 3D Archery, Field Archery",
+    "name": "Wiseburn Da Vinci High School",
+    "address": "201 Douglas, El Segundo, California, United States of America, 90245",
+    "phone": "(310) 725-5800",
+    "email": "davinciarchers@gmail.com",
+    "website": "https://athletics.davincischools.org/archery/",
+    "programs": "Olympic Archery in the Schools",
     "reviewStatus": "approved",
-    "externalRef": "usarchery:wisconsin archery learning center|4336 milton ave suite 110 janesville wisconsin united states of america 53546"
+    "externalRef": "usarchery:wiseburn da vinci high school|201 douglas el segundo california united states of america 90245"
   },
   {
     "name": "Wolf Pack Archers",
