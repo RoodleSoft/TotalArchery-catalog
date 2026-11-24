@@ -235,9 +235,19 @@
     "phone": "",
     "email": "info@arjunarcheryacademy.com",
     "website": "",
-    "programs": "",
+    "programs": "indoor range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:arjun archery academy|8945 hilltop road mckinney texas 75071"
+  },
+  {
+    "name": "Arjun Archery Academy - Frisco, Texas",
+    "address": "8945 Hlltop Road, McKinney, Texas, United States of America, 75034",
+    "phone": "+12628324035",
+    "email": "info@arjunarcheryacademy.com",
+    "website": "http://www.arjunarcheryacademy.com",
+    "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program, 3D Archery, Olympic Archery in the Schools",
+    "reviewStatus": "approved",
+    "externalRef": "usarchery:arjun archery academy frisco texas|8945 hlltop road mckinney texas united states of america 75034"
   },
   {
     "name": "Armbrustschützen Bisikon",
@@ -368,16 +378,6 @@
     "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program, 3D Archery, Field Archery",
     "reviewStatus": "approved",
     "externalRef": "usarchery:aslan archery|7207 e mountain brush ln highlands ranch colorado united states of america 80130"
-  },
-  {
-    "name": "At Home On The Range Archery",
-    "address": "350 Winding Way Drive East, Victoria, Texas, 77905",
-    "phone": "",
-    "email": "folksyfarmstead@gmail.com",
-    "website": "",
-    "programs": "",
-    "reviewStatus": "approved",
-    "externalRef": "nfaa:at home on the range archery|350 winding way drive east victoria texas 77905"
   },
   {
     "name": "Athena Archery and Adaptive Sports",
@@ -665,7 +665,7 @@
     "phone": "+14068800889",
     "email": "beaverheadarchers@gmail.com",
     "website": "",
-    "programs": "",
+    "programs": "3d range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:beaverhead archers association|po box 932 dillon montana 59725"
   },
@@ -6400,16 +6400,6 @@
     "externalRef": "nfaa:sandhills archery club|po box 1022 fargo north dakota 58107 1022"
   },
   {
-    "name": "Sandia Crest Bowhunters",
-    "address": "PO BOX 11333, ALBUQUERQUE, New Mexico, 87192",
-    "phone": "+15054890190",
-    "email": "info@scbaarchery.org",
-    "website": "",
-    "programs": "outdoor field range, outdoor range",
-    "reviewStatus": "approved",
-    "externalRef": "nfaa:sandia crest bowhunters|po box 11333 albuquerque new mexico 87192"
-  },
-  {
     "name": "Santa Cruz Archers",
     "address": "151 Brookwood Drive, Santa Cruz, California, 95065",
     "phone": "",
@@ -8168,6 +8158,16 @@
     "programs": "Junior Olympic Archery Development (JOAD)",
     "reviewStatus": "approved",
     "externalRef": "usarchery:waxobe joad|53 major road monmouth junction new jersey united states of america 08852"
+  },
+  {
+    "name": "WMAC-Top Nock JOAD",
+    "address": "3500 10 Mile Rd., Rockford, Michigan, United States of America, 49341",
+    "phone": "",
+    "email": "treasurer.wmac@gmail.com",
+    "website": "http://treasurer.wmac@gmail.com",
+    "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program, 3D Archery",
+    "reviewStatus": "approved",
+    "externalRef": "usarchery:wmac top nock joad|3500 10 mile rd rockford michigan united states of america 49341"
   },
   {
     "name": "WaKuWa Archery Club Selah",
