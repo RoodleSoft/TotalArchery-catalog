@@ -1,5 +1,15 @@
 [
   {
+    "name": "1 Mission Outdoors Archery",
+    "address": "12181 TX-195, Killeen, Texas, 76542",
+    "phone": "+12092755045",
+    "email": "operations@1moarchery.onmicrosoft.com",
+    "website": "",
+    "programs": "outdoor range, 3d range, 3d range",
+    "reviewStatus": "approved",
+    "externalRef": "nfaa:1 mission outdoors archery|12181 tx 195 killeen texas 76542"
+  },
+  {
     "name": "A-1 Archery",
     "address": "587 Lenertz Rd, Hudson, Wisconsin, 54016",
     "phone": "+447153861217",
@@ -230,6 +240,36 @@
     "externalRef": "nfaa:archery and bow club|3690 bramlett church road gray court south carolina 29645"
   },
   {
+    "name": "Arizona Christian University Archery",
+    "address": "1115 W. Deer Valley Rd, Phoenix, Arizona, United States of America, 85027",
+    "phone": "+16026942841",
+    "email": "arvid.veidmark@arizonachristian.edu",
+    "website": "",
+    "programs": "",
+    "reviewStatus": "approved",
+    "externalRef": "usarchery:arizona christian university archery|1115 w deer valley rd phoenix arizona united states of america 85027"
+  },
+  {
+    "name": "Arizona Junior Olympic Archery Development (Azjoad)",
+    "address": "Varies, Phoenix, Arizona, United States of America, 85016",
+    "phone": "602-228-0465",
+    "email": "azjoad@cox.net",
+    "website": "http://www.azjoad.com",
+    "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program",
+    "reviewStatus": "approved",
+    "externalRef": "usarchery:arizona junior olympic archery development azjoad|varies phoenix arizona united states of america 85016"
+  },
+  {
+    "name": "Arizona State University- Sun Devil Archery",
+    "address": "6201 e oak street, Phoenix, Arizona, United States of America, 85008",
+    "phone": "+14802809663",
+    "email": "sundevilarchery@gmail.com",
+    "website": "http://Sundevilarchery.com",
+    "programs": "",
+    "reviewStatus": "approved",
+    "externalRef": "usarchery:arizona state university sun devil archery|6201 e oak street phoenix arizona united states of america 85008"
+  },
+  {
     "name": "Arjun Archery Academy",
     "address": "8945 hilltop road, Mckinney, Texas, 75071",
     "phone": "",
@@ -378,6 +418,16 @@
     "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program, 3D Archery, Field Archery",
     "reviewStatus": "approved",
     "externalRef": "usarchery:aslan archery|7207 e mountain brush ln highlands ranch colorado united states of america 80130"
+  },
+  {
+    "name": "At Home On The Range Archery",
+    "address": "350 Winding Way Drive East, Victoria, Texas, 77905",
+    "phone": "",
+    "email": "folksyfarmstead@gmail.com",
+    "website": "",
+    "programs": "",
+    "reviewStatus": "approved",
+    "externalRef": "nfaa:at home on the range archery|350 winding way drive east victoria texas 77905"
   },
   {
     "name": "Athena Archery and Adaptive Sports",
@@ -4740,6 +4790,16 @@
     "externalRef": "usarchery:naavak|990 detroit ave concord california united states of america 94518"
   },
   {
+    "name": "NCW Gun Club-Archery Division",
+    "address": "2740 Gun Club Rd, East Wenatchee, Washington, 98802",
+    "phone": "+15096705591",
+    "email": "thewest4@yahoo.com",
+    "website": "http://ncwgc.com",
+    "programs": "indoor range",
+    "reviewStatus": "approved",
+    "externalRef": "nfaa:ncw gun club archery division|2740 gun club rd east wenatchee washington 98802"
+  },
+  {
     "name": "NFAA Easton Yankton Archery Center",
     "address": "800 ARCHERY LANE, Yankton, South Dakota, 57078",
     "phone": "+16052609282",
@@ -5518,6 +5578,16 @@
     "programs": "indoor range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:palomo archery|4022 transport st palo alto california 94303"
+  },
+  {
+    "name": "Papago Archery Association",
+    "address": "6201 E Oak St, Phoenix, Arizona, United States of America, 85008",
+    "phone": "+14802809663",
+    "email": "info@papagoarchery.com",
+    "website": "http://www.papagoarchery.com",
+    "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program",
+    "reviewStatus": "approved",
+    "externalRef": "usarchery:papago archery association|6201 e oak st phoenix arizona united states of america 85008"
   },
   {
     "name": "Parker's Archery",
@@ -6595,7 +6665,7 @@
     "phone": "+15403784618",
     "email": "info@shrewdoutdoors.com",
     "website": "",
-    "programs": "indoor range",
+    "programs": "",
     "reviewStatus": "approved",
     "externalRef": "nfaa:shrewd outdoors|201 e main street salem virginia 24153"
   },
