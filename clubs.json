@@ -275,7 +275,7 @@
     "phone": "",
     "email": "info@arjunarcheryacademy.com",
     "website": "",
-    "programs": "indoor range",
+    "programs": "",
     "reviewStatus": "approved",
     "externalRef": "nfaa:arjun archery academy|8945 hilltop road mckinney texas 75071"
   },
@@ -715,7 +715,7 @@
     "phone": "+14068800889",
     "email": "beaverheadarchers@gmail.com",
     "website": "",
-    "programs": "3d range",
+    "programs": "",
     "reviewStatus": "approved",
     "externalRef": "nfaa:beaverhead archers association|po box 932 dillon montana 59725"
   },
@@ -865,7 +865,7 @@
     "phone": "",
     "email": "blackmountainbowmen@gmail.com",
     "website": "",
-    "programs": "indoor range",
+    "programs": "indoor range, indoor range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:black mountain bowmen|black mountain bowmen bmb avenida espana san jose california 95139"
   },
@@ -6470,6 +6470,16 @@
     "externalRef": "nfaa:sandhills archery club|po box 1022 fargo north dakota 58107 1022"
   },
   {
+    "name": "Sandia Crest Bowhunters",
+    "address": "PO BOX 11333, ALBUQUERQUE, New Mexico, 87192",
+    "phone": "+15054890190",
+    "email": "info@scbaarchery.org",
+    "website": "",
+    "programs": "outdoor field range, outdoor range",
+    "reviewStatus": "approved",
+    "externalRef": "nfaa:sandia crest bowhunters|po box 11333 albuquerque new mexico 87192"
+  },
+  {
     "name": "Santa Cruz Archers",
     "address": "151 Brookwood Drive, Santa Cruz, California, 95065",
     "phone": "",
@@ -7645,7 +7655,7 @@
     "phone": "+19285379808",
     "email": "",
     "website": "",
-    "programs": "indoor range",
+    "programs": "indoor range, indoor range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:timber mesa outdoors llc|1190 e huning show low arizona 85901"
   },
@@ -8605,7 +8615,7 @@
     "phone": "",
     "email": "",
     "website": "",
-    "programs": "indoor range",
+    "programs": "indoor range, indoor range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:winnemucca archers|4910 w commander dr winnemucca nevada 89445"
   },
@@ -8618,6 +8628,16 @@
     "programs": "Adult Archery Program",
     "reviewStatus": "approved",
     "externalRef": "usarchery:wisconsin archery alliance|wisconsin united states of america"
+  },
+  {
+    "name": "Wisconsin Archery Learning Center",
+    "address": "4336 MIlton Ave. Suite 110, Janesville, Wisconsin, United States of America, 53546",
+    "phone": "+16087434327",
+    "email": "wisconsinalc@gmail.com",
+    "website": "https://huntngearonline.com/",
+    "programs": "Junior Olympic Archery Development (JOAD), 3D Archery, Field Archery",
+    "reviewStatus": "approved",
+    "externalRef": "usarchery:wisconsin archery learning center|4336 milton ave suite 110 janesville wisconsin united states of america 53546"
   },
   {
     "name": "Wiseburn Da Vinci High School",
