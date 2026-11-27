@@ -240,6 +240,16 @@
     "externalRef": "nfaa:archery and bow club|3690 bramlett church road gray court south carolina 29645"
   },
   {
+    "name": "Arizona Archery Club, LLC",
+    "address": "1115 W. Deer Valley Road #1, Phoenix, Arizona, United States of America, 85027",
+    "phone": "+16232664647",
+    "email": "arizonaarcheryc@gmail.com",
+    "website": "http://www.azarcheryclub.com",
+    "programs": "Junior Olympic Archery Development (JOAD)",
+    "reviewStatus": "approved",
+    "externalRef": "usarchery:arizona archery club llc|1115 w deer valley road 1 phoenix arizona united states of america 85027"
+  },
+  {
     "name": "Arizona Christian University Archery",
     "address": "1115 W. Deer Valley Rd, Phoenix, Arizona, United States of America, 85027",
     "phone": "+16026942841",
@@ -6010,16 +6020,6 @@
     "externalRef": "nfaa:rapids archery club|1255 133rd ave nw andover minnesota 55304"
   },
   {
-    "name": "Rapids Archery JOAD",
-    "address": "1255 133rd Avenue N W, Andover, Minnesota, United States of America, 55304",
-    "phone": "+16514863888",
-    "email": "reneecote@comcast.net",
-    "website": "http://www.rapidsarchery.org",
-    "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program",
-    "reviewStatus": "approved",
-    "externalRef": "usarchery:rapids archery joad|1255 133rd avenue n w andover minnesota united states of america 55304"
-  },
-  {
     "name": "Recon Archers",
     "address": "No Limits Archery, 3050 East 78th Avenue, Denver, Colorado, United States of America, 80229",
     "phone": "+13033567575",
@@ -7988,6 +7988,16 @@
     "programs": "",
     "reviewStatus": "approved",
     "externalRef": "usarchery:university of california san diego sun god archery|mc 0078 9500 gilman drive la jolla california united states of america 92093"
+  },
+  {
+    "name": "University of Holy Cross Archery Club",
+    "address": ", New Orleans, Louisiana, United States of America, 70131",
+    "phone": "+1 504-408-6099",
+    "email": "galamilla@gmail.com",
+    "website": "http://www.uhcno.edu",
+    "programs": "Junior Olympic Archery Development (JOAD), Adult Archery Program",
+    "reviewStatus": "approved",
+    "externalRef": "usarchery:university of holy cross archery club|new orleans louisiana united states of america 70131"
   },
   {
     "name": "University of Montevallo",
