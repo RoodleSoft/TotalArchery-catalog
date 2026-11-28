@@ -240,16 +240,6 @@
     "externalRef": "nfaa:archery and bow club|3690 bramlett church road gray court south carolina 29645"
   },
   {
-    "name": "Arizona Archery Club, LLC",
-    "address": "1115 W. Deer Valley Road #1, Phoenix, Arizona, United States of America, 85027",
-    "phone": "+16232664647",
-    "email": "arizonaarcheryc@gmail.com",
-    "website": "http://www.azarcheryclub.com",
-    "programs": "Junior Olympic Archery Development (JOAD)",
-    "reviewStatus": "approved",
-    "externalRef": "usarchery:arizona archery club llc|1115 w deer valley road 1 phoenix arizona united states of america 85027"
-  },
-  {
     "name": "Arizona Christian University Archery",
     "address": "1115 W. Deer Valley Rd, Phoenix, Arizona, United States of America, 85027",
     "phone": "+16026942841",
@@ -2408,16 +2398,6 @@
     "programs": "3d range",
     "reviewStatus": "approved",
     "externalRef": "nfaa:elkhorn archers inc|2235 16th st baker city oregon 97814"
-  },
-  {
-    "name": "Emmanuel College Archery",
-    "address": "181 Spring St., Franklin Springs, Georgia, United States of America, 30639",
-    "phone": "+1 706-567-8239",
-    "email": "amari.thomas@ec.edu",
-    "website": "http://www.eu.edu",
-    "programs": "",
-    "reviewStatus": "approved",
-    "externalRef": "usarchery:emmanuel college archery|181 spring st franklin springs georgia united states of america 30639"
   },
   {
     "name": "Empty Quiver",
